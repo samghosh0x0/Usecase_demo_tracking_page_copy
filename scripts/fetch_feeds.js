@@ -22,20 +22,45 @@ const BASE_URL = `https://api.asthalavista.com/v1/collection_api/${COLLECTION}`;
 const CUTOFF = "7d";
 
 // -----------------------------
+// HEADERS (IMPORTANT FIX)
+// -----------------------------
+const DEFAULT_HEADERS = {
+  "X-API-Key": API_KEY,
+  "User-Agent":
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
+  "Accept": "application/json",
+  "Accept-Language": "en-US,en;q=0.9",
+  "Connection": "keep-alive",
+};
+
+// -----------------------------
 // SAFE FETCH WRAPPER
 // -----------------------------
-async function safeFetch(url) {
+async function safeFetch(url, retries = 2) {
   console.log("\n➡️ Calling URL:", url);
 
   try {
     const res = await fetch(url, {
-      headers: { "X-API-Key": API_KEY },
+      headers: DEFAULT_HEADERS,
     });
 
     console.log("Status:", res.status);
 
     const text = await res.text();
-    console.log("Raw response:", text.slice(0, 500)); // truncate
+    console.log("Raw response (first 300 chars):", text.slice(0, 300));
+
+    // 🚨 Detect Cloudflare / HTML block
+    if (text.startsWith("<!DOCTYPE html>")) {
+      console.error("❌ Blocked by Cloudflare / HTML response detected");
+
+      if (retries > 0) {
+        console.log("🔁 Retrying...");
+        await new Promise((r) => setTimeout(r, 2000));
+        return safeFetch(url, retries - 1);
+      }
+
+      throw new Error("Blocked by Cloudflare");
+    }
 
     let data;
     try {
@@ -51,7 +76,6 @@ async function safeFetch(url) {
     }
 
     return data;
-
   } catch (err) {
     console.error("❌ Fetch failed:", err.message);
     throw err;
@@ -144,7 +168,6 @@ async function main() {
     );
 
     console.log("✅ File written successfully");
-
   } catch (err) {
     console.error("\n❌ SCRIPT FAILED:", err.message);
     process.exit(1);
