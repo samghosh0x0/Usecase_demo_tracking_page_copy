@@ -19,7 +19,7 @@ if (!API_KEY || !COLLECTION) {
 // CONFIG
 // -----------------------------
 const BASE_URL = `https://api.asthalavista.com/v1/collection_api/${COLLECTION}`;
-const CUTOFF = "7d";
+const CUTOFF = 7;
 
 // -----------------------------
 // HEADERS (IMPORTANT FIX)
