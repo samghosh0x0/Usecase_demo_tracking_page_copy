@@ -6,16 +6,9 @@
 </head>
 <body style="font-family: Arial; padding: 20px; max-width: 900px; margin: auto;">
 
-  <h1>AI Intelligence Feed</h1>
+  <h1>AI Intelligence Feed (Last Week)</h1>
 
   <div style="margin-bottom: 20px;">
-    <label><b>Select Window:</b></label>
-    <select id="cutoff" onchange="loadData()">
-      <option value="1">1 Day</option>
-      <option value="3">3 Days</option>
-      <option value="7" selected>7 Days</option>
-      <option value="10">10 Days</option>
-    </select>
 
     <button onclick="showSummary()" style="margin-left: 10px;">
       Show Summary
@@ -40,7 +33,7 @@
     let currentData = null;
 
     async function loadData() {
-      const cutoff = document.getElementById("cutoff").value;
+      const cutoff = 7;
 
       try {
         const res = await fetch(`data/ai_feed_${cutoff}.json`);
