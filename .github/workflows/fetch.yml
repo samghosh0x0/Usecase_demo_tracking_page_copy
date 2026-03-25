@@ -26,6 +26,7 @@ jobs:
         env:
           ASTHA_API_KEY: ${{ secrets.ASTHA_API_KEY }}
           ENCODED_COLLECTION_TOKEN: ${{ secrets.ENCODED_COLLECTION_TOKEN }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: node scripts/fetch_feeds.js
 
       - name: Commit & push
