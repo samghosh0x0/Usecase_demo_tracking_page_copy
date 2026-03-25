@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>AI Intelligence Feed</title>
+</head>
+<body style="font-family: Arial; padding: 20px;">
+
+  <h1>AI Intelligence Feed</h1>
+
+  <label>Select Window:</label>
+  <select id="cutoff" onchange="loadData()">
+    <option value="1">1 Day</option>
+    <option value="3">3 Days</option>
+    <option value="7" selected>7 Days</option>
+    <option value="10">10 Days</option>
+  </select>
+
+  <button onclick="generateSummary()">Generate Summary</button>
+
+  <div id="summary" style="margin-top:20px; white-space: pre-wrap;"></div>
+
+  <div id="content" style="margin-top:30px;"></div>
+
+  <script>
+    let currentData = null;
+
+    async function loadData() {
+      const cutoff = document.getElementById("cutoff").value;
+
+      const res = await fetch(`data/ai_feed_${cutoff}.json`);
+      const data = await res.json();
+
+      currentData = data;
+
+      const container = document.getElementById("content");
+      container.innerHTML = "";
+
+      for (const [category, value] of Object.entries(data.categories)) {
+        if (!value.items.length) continue;
+
+        container.innerHTML += `<h2>${category.toUpperCase()} (${value.count})</h2>`;
+
+        value.items.forEach(item => {
+          container.innerHTML += `
+            <div style="margin-bottom:15px;">
+              <a href="${item.url}" target="_blank">
+                <b>${item.subject}</b>
+              </a>
+              <p>${item.body}</p>
+            </div>
+          `;
+        });
+      }
+    }
+
+    async function generateSummary() {
+      if (!currentData) return;
+
+      const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
+        method: "POST",
+        headers: {
+          "Authorization": "Bearer YOUR_OPENROUTER_KEY",
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          model: "meta-llama/llama-3.1-8b-instruct",
+          messages: [
+            {
+              role: "system",
+              content: "You are an AI analyst. Summarize key developments with insight."
+            },
+            {
+              role: "user",
+              content: JSON.stringify(currentData)
+            }
+          ]
+        })
+      });
+
+      const json = await res.json();
+      document.getElementById("summary").innerText =
+        json.choices[0].message.content;
+    }
+
+    loadData();
+  </script>
+
+</body>
+</html>
