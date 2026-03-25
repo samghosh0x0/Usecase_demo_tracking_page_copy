@@ -136,7 +136,7 @@ async function generateSummary(data) {
           {
             role: "system",
             content:
-              "You are an AI analyst. Summarize key AI developments with insight. Provide 4-6 bullet points and 1 trend."
+              "You are an AI analyst. Summarize key OpenAI related developments with insight. Provide 4-6 bullet points and 1 trend."
           },
           {
             role: "user",
