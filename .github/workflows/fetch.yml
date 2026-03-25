@@ -1,5 +1,8 @@
 name: Fetch AI Feeds
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 2 * * *"
