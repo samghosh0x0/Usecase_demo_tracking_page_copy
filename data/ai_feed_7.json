@@ -1,10 +1,37 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-03-25T12:37:55.172Z",
+  "timestamp": "2026-03-26T04:35:18.705Z",
   "categories": {
     "news": {
       "count": 14,
       "items": [
+        {
+          "subject": "Helping developers build safer AI experiences for teens",
+          "body": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+          "timestamp": "2026-03-25T04:00:02",
+          "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+          "extras": {
+            "data_origin": "OpenAI News"
+          }
+        },
+        {
+          "subject": "Update on the OpenAI Foundation",
+          "body": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+          "timestamp": "2026-03-25T04:00:02",
+          "url": "https://openai.com/index/update-on-the-openai-foundation",
+          "extras": {
+            "data_origin": "OpenAI News"
+          }
+        },
+        {
+          "subject": "Powering product discovery in ChatGPT",
+          "body": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+          "timestamp": "2026-03-25T04:00:02",
+          "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+          "extras": {
+            "data_origin": "OpenAI News"
+          }
+        },
         {
           "subject": "Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community",
           "body": "Artificial intelligence has rapidly emerged as one of the most critical workloads...",
@@ -102,33 +129,6 @@
           "url": "https://openai.com/index/openai-to-acquire-astral",
           "extras": {
             "data_origin": "OpenAI News"
-          }
-        },
-        {
-          "subject": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-          "body": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-          "timestamp": "2026-03-19T04:00:02",
-          "url": "https://openai.com/index/japan-teen-safety-blueprint",
-          "extras": {
-            "data_origin": "OpenAI News"
-          }
-        },
-        {
-          "subject": "Nvidia’s Always-On Chip Detects Faces in Less Than a Millisecond",
-          "body": "Always-on vision systems might be used in autonomous vehicles, robotics, or to help consumer electronics save power by turning screens off when no one’s around. But to be used in such a way, these systems need to minimize their own power consumption.",
-          "timestamp": "2026-03-18T14:00:01",
-          "url": "https://spectrum.ieee.org/face-recognition-nvidia-chip-soc",
-          "extras": {
-            "data_origin": "IEEE Spectrum"
-          }
-        },
-        {
-          "subject": "From Simulation to Production: How to Build Robots With AI",
-          "body": "The latest open models and frameworks from NVIDIA bring together simulation, robot...",
-          "timestamp": "2026-03-18T14:00:01",
-          "url": "https://blogs.nvidia.com/blog/build-robots-with-ai/",
-          "extras": {
-            "data_origin": "NVIDIA News"
           }
         }
       ]
@@ -311,5 +311,5 @@
       ]
     }
   },
-  "summary": "Here are 5 key OpenAI related developments with insight:\n\n* **Acquisitions**: OpenAI acquired Astral, a language model startup, to accelerate Codex growth and power the next generation of Python developer tools. The acquisition highlights OpenAI's continued investment in language models and its commitment to innovation.\n* **OpenAI Japan announces Japan Teen Safety Blueprint**: OpenAI Japan introduced a new safety blueprint to protect teens from potential harm caused by generative AI. The initiative highlights OpenAI's growing focus on AI safety and ethics, particularly in the context of youth and vulnerable populations.\n* **NVIDIA's AI ecosystem expands**: NVIDIA announced the availability of its Nemotron 3 Super model on the AWS Bedrock platform. The move demonstrates NVIDIA's continued efforts to make its AI models accessible to a wider audience and boost adoption of its AI technologies.\n* **AI chip sales projections**: NVIDIA's CEO Jensen Huang announced that the company expects to see $1 trillion in AI chip sales as a new computing era begins. The projection underscores the growing demand for AI chips and NVIDIA's dominant position in the market.\n* **AI safety research**: OpenAI's researchers published a paper on chain-of-thought monitoring, a technique used to study misalignment in internal coding agents and strengthen AI safety safeguards.\n\nTrend: **Increased focus on AI safety and ethics**: The recent OpenAI developments highlight a growing trend towards prioritizing AI safety and ethics. This is reflected in OpenAI's Japan Teen Safety Blueprint initiative, the publication of research on AI safety, and the acquisition of Astral. This trend suggests that companies in the AI space are acknowledging the need for greater caution and responsibility in the development and deployment of AI technologies."
+  "summary": "Here are 6 key developments related to OpenAI with insights:\n\n* **OpenAI releases teen safety policies**: OpenAI has released prompt-based teen safety policies for developers using gpt-oss-safeguard to moderate age-specific risks in AI systems.\n* **OpenAI to acquire Astral**: OpenAI has announced its acquisition of Astral, accelerating Codex growth to power the next generation of Python developer tools.\n* **How OpenAI monitors internal coding agents for misalignment**: OpenAI has explained how it uses chain-of-thought monitoring to study misalignment in internal coding agents, analyzing real-world deployments to detect risks and strengthen AI safety safeguards.\n* **OpenAI powers product discovery in ChatGPT**: ChatGPT has introduced richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.\n* **NVIDIA collaborates with energy companies to pioneer flexible AI factories**: NVIDIA and Emerald AI have joined forces with leading energy companies to pioneer flexible AI factories as grid assets, combining AI factory design, energy resources, and flexibility to speed time-to-market.\n* **OpenAI to invest at least $1 billion in various initiatives**: The OpenAI Foundation has announced plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.\n\nTrend:\n\n**Continued focus on AI safety and responsible innovation**: OpenAI and its partners are prioritizing AI safety and responsible innovation, as seen in the release of teen safety policies, the acquisition of Astral to accelerate Codex growth, and the development of chain-of-thought monitoring to detect misalignment in internal coding agents. This trend suggests that the AI industry is acknowledging the importance of safety and ethics in AI development and deployment."
 }
