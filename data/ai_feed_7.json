@@ -1,10 +1,37 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-03-26T04:35:18.705Z",
+  "timestamp": "2026-03-27T04:36:07.878Z",
   "categories": {
     "news": {
       "count": 14,
       "items": [
+        {
+          "subject": "Inside our approach to the Model Spec",
+          "body": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+          "timestamp": "2026-03-26T04:00:02",
+          "url": "https://openai.com/index/our-approach-to-the-model-spec",
+          "extras": {
+            "data_origin": "OpenAI News"
+          }
+        },
+        {
+          "subject": "Introducing the OpenAI Safety Bug Bounty program",
+          "body": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+          "timestamp": "2026-03-26T04:00:02",
+          "url": "https://openai.com/index/safety-bug-bounty",
+          "extras": {
+            "data_origin": "OpenAI News"
+          }
+        },
+        {
+          "subject": "AWS: Reinforcement fine-tuning on Amazon Bedrock with OpenAI-Compatible APIs: a technical walkthrough",
+          "body": "In December 2025, we announced the availability of Reinforcement fine-tuning (RFT) on...",
+          "timestamp": "2026-03-26T04:00:02",
+          "url": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-with-openai-compatible-apis-a-technical-walkthrough/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
         {
           "subject": "Helping developers build safer AI experiences for teens",
           "body": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
@@ -103,38 +130,11 @@
           "extras": {
             "data_origin": "NVIDIA News"
           }
-        },
-        {
-          "subject": "How we monitor internal coding agents for misalignment",
-          "body": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
-          "timestamp": "2026-03-20T04:00:02",
-          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-          "extras": {
-            "data_origin": "OpenAI News"
-          }
-        },
-        {
-          "subject": "AWS: Run NVIDIA Nemotron 3 Super on Amazon Bedrock",
-          "body": "Nemotron 3 Super is now available as a fully managed and serverless...",
-          "timestamp": "2026-03-20T04:00:02",
-          "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/",
-          "extras": {
-            "data_origin": "AWS AI News"
-          }
-        },
-        {
-          "subject": "OpenAI to acquire Astral",
-          "body": "Accelerates Codex growth to power the next generation of Python developer tools",
-          "timestamp": "2026-03-19T14:00:02",
-          "url": "https://openai.com/index/openai-to-acquire-astral",
-          "extras": {
-            "data_origin": "OpenAI News"
-          }
         }
       ]
     },
     "models": {
-      "count": 9,
+      "count": 8,
       "items": [
         {
           "subject": "nvidia/Nemotron-Cascade-2-30B-A3B",
@@ -187,6 +187,16 @@
           }
         },
         {
+          "subject": "nvidia/nvpanoptix-3d-v1.1-matterport3d",
+          "body": "[\"arxiv:2503.11651\", \"license:other\", \"region:us\"]",
+          "timestamp": "2026-03-24T09:41:36",
+          "url": "https://huggingface.co/nvidia/nvpanoptix-3d-v1.1-matterport3d",
+          "extras": {
+            "data_origin": "huggingface",
+            "namespace": "nvidia"
+          }
+        },
+        {
           "subject": "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16",
           "body": "[\"transformers\", \"safetensors\", \"nemotron_h\", \"text-generation\", \"nvidia\", \"pytorch\", \"conversational\", \"custom_code\", \"en\", \"dataset:nvidia/Nemotron-CC-v2\", \"dataset:nvidia/Nemotron-Post-Training-Dataset-v2\", \"dataset:nvidia/Nemotron-Science-v1\", \"dataset:nvidia/Nemotron-Instruction-Following-Chat-v1\", \"dataset:nvidia/Nemotron-Agentic-v1\", \"dataset:nvidia/Nemotron-Competitive-Programming-v1\", \"dataset:nvidia/Nemotron-Math-Proofs-v1\", \"dataset:nvidia/Nemotron-RL-Agentic-Conversational-Tool-Use-Pivot-v1\", \"dataset:nvidia/Nemotron-RL-instruction_following\", \"dataset:nvidia/Nemotron-RL-agent-calendar_scheduling\", \"dataset:nvidia/Nemotron-RL-instruction_following-structured_outputs\", \"arxiv:2511.16664\", \"arxiv:2504.03624\", \"arxiv:2512.20856\", \"arxiv:2512.20848\", \"arxiv:2412.02595\", \"base_model:nvidia/NVIDIA-Nemotron-Nano-9B-v2\", \"base_model:finetune:nvidia/NVIDIA-Nemotron-Nano-9B-v2\", \"license:other\", \"endpoints_compatible\", \"region:us\"]",
           "timestamp": "2026-03-20T20:50:41",
@@ -205,31 +215,11 @@
             "data_origin": "huggingface",
             "namespace": "unsloth"
           }
-        },
-        {
-          "subject": "nvidia/NV-Generate-MR-Brain",
-          "body": "[\"latent_diffusion\", \"medical-imaging\", \"diffusion\", \"unconditional-image-generation\", \"arxiv:2508.05772\", \"arxiv:2409.11169\", \"license:other\", \"region:us\"]",
-          "timestamp": "2026-03-19T21:05:16",
-          "url": "https://huggingface.co/nvidia/NV-Generate-MR-Brain",
-          "extras": {
-            "data_origin": "huggingface",
-            "namespace": "nvidia"
-          }
-        },
-        {
-          "subject": "nvidia/NVILA-8B-HD-Video",
-          "body": "[\"pytorch\", \"nvila\", \"AutoGaze\", \"NVILA\", \"custom_code\", \"arxiv:2603.12254\", \"license:cc-by-nc-4.0\", \"region:us\"]",
-          "timestamp": "2026-03-19T20:53:07",
-          "url": "https://huggingface.co/nvidia/NVILA-8B-HD-Video",
-          "extras": {
-            "data_origin": "huggingface",
-            "namespace": "nvidia"
-          }
         }
       ]
     },
     "projects": {
-      "count": 7,
+      "count": 5,
       "items": [
         {
           "subject": "wanshuiyin/Auto-claude-code-research-in-sleep",
@@ -285,31 +275,9 @@
             "topics": "large-language-models, openai-o1, proximal-policy-optimization, raylib, reinforcement-learning, reinforcement-learning-from-human-feedback, transformers, vllm",
             "data_origin": "GitHub"
           }
-        },
-        {
-          "subject": "madanrana/NanoGPT",
-          "body": "This project implements a simplified GPT-style transformer model from scratch using PyTorch. The goal is to understand the internal mechanics of large language models including:  • Token Embeddings   • Positional Embeddings   • Multi-Head Self Attention   • Transformer Blocks   • Cross Entropy Loss   • Autoregressive Text Generation",
-          "timestamp": "2026-03-19T23:50:07",
-          "url": "https://github.com/madanrana/NanoGPT",
-          "extras": {
-            "language": "Python",
-            "topics": "",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "manikmakki/Project-RLHFL",
-          "body": "Project RLHFL (Reinforcement Learning from Human Feedback Loop): A fully local, self-improving language model that learns from your conversations automatically. Keeps your data private, and exposes an proxy endpoint for Ollama or OpenAI!",
-          "timestamp": "2026-03-19T14:50:39",
-          "url": "https://github.com/manikmakki/Project-RLHFL",
-          "extras": {
-            "language": "Python",
-            "topics": "",
-            "data_origin": "GitHub"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 6 key developments related to OpenAI with insights:\n\n* **OpenAI releases teen safety policies**: OpenAI has released prompt-based teen safety policies for developers using gpt-oss-safeguard to moderate age-specific risks in AI systems.\n* **OpenAI to acquire Astral**: OpenAI has announced its acquisition of Astral, accelerating Codex growth to power the next generation of Python developer tools.\n* **How OpenAI monitors internal coding agents for misalignment**: OpenAI has explained how it uses chain-of-thought monitoring to study misalignment in internal coding agents, analyzing real-world deployments to detect risks and strengthen AI safety safeguards.\n* **OpenAI powers product discovery in ChatGPT**: ChatGPT has introduced richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.\n* **NVIDIA collaborates with energy companies to pioneer flexible AI factories**: NVIDIA and Emerald AI have joined forces with leading energy companies to pioneer flexible AI factories as grid assets, combining AI factory design, energy resources, and flexibility to speed time-to-market.\n* **OpenAI to invest at least $1 billion in various initiatives**: The OpenAI Foundation has announced plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.\n\nTrend:\n\n**Continued focus on AI safety and responsible innovation**: OpenAI and its partners are prioritizing AI safety and responsible innovation, as seen in the release of teen safety policies, the acquisition of Astral to accelerate Codex growth, and the development of chain-of-thought monitoring to detect misalignment in internal coding agents. This trend suggests that the AI industry is acknowledging the importance of safety and ethics in AI development and deployment."
+  "summary": "Here are 6 key OpenAI related developments with insight:\n\n* **OpenAI launches Model Spec and Safety Bug Bounty programs**: OpenAI has introduced its Model Spec, a public framework for model behavior that balances safety, user freedom, and accountability as AI systems advance. Additionally, OpenAI has launched a Safety Bug Bounty program to identify AI abuse and safety risks.\n* **New OpenAI models and collaborations**: OpenAI has been working on new models, with NVIDIA releasing several Nemotron models, including Nemotron-3-Super-120B-A12B-NVFP4 and Nemotron-3-Super-120B-A12B-BF16. Additionally, OpenAI has collaborated with NVIDIA on various projects, such as the Agentic Commerce Protocol.\n* **ChatGPT introduces richer shopping experiences**: ChatGPT has introduced richer, visually immersive shopping experiences powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.\n* **OpenAI releases prompt-based teen safety policies for developers**: OpenAI has released prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.\n* **NVIDIA invests in AI chip sales**: NVIDIA's CEO has projected $1 trillion in AI chip sales as a new computing era begins.\n* **NVIDIA's advancements in NVIDIA OpenShell and NVIDIA RTX PRO 6000 Blackwell Workstation Edition**: NVIDIA has made advancements in NVIDIA OpenShell, a secure and autonomous AI agent framework, and announced the NVIDIA RTX PRO 6000 Blackwell Workstation Edition, which is designed to transform data science with NVIDIA's AI-accelerated computing technology.\n\nTrend: **AI advancements and collaborations**: There is an increasing trend of AI advancements and collaborations among companies, with OpenAI and NVIDIA being at the forefront. This is evident from the new models, projects, and collaborations announced in the news. The trend is towards more autonomous, secure, and efficient AI systems that can improve various industries and aspects of our lives."
 }
