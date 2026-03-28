@@ -1,10 +1,28 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-03-27T04:36:07.878Z",
+  "timestamp": "2026-03-28T04:23:40.607Z",
   "categories": {
     "news": {
-      "count": 14,
+      "count": 12,
       "items": [
+        {
+          "subject": "Taisei Corporation shapes the next generation of talent with AI",
+          "body": "Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization.",
+          "timestamp": "2026-03-27T14:00:02",
+          "url": "https://openai.com/index/taisei",
+          "extras": {
+            "data_origin": "OpenAI News"
+          }
+        },
+        {
+          "subject": "Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era",
+          "body": "Editor’s note: This post is part of Into the Omniverse, a series...",
+          "timestamp": "2026-03-27T04:00:02",
+          "url": "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/",
+          "extras": {
+            "data_origin": "NVIDIA News"
+          }
+        },
         {
           "subject": "Inside our approach to the Model Spec",
           "body": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
@@ -94,48 +112,32 @@
           "extras": {
             "data_origin": "NVIDIA News"
           }
-        },
-        {
-          "subject": "Supermicro’s co-founder was just arrested for allegedly smuggling $2.5 billion in GPUs to China",
-          "body": "The arrest of board member Yih-Shyan “Wally” Liaw—who previously resigned following an accounting scandal in 2018—led an after-hours trading drop of 12% in the Nvidia-linked server manufacturer's stock.",
-          "timestamp": "2026-03-21T04:00:01",
-          "url": "https://fortune.com/2026/03/19/supermicro-arrested-founder-smuggling-gpu-china/",
-          "extras": {
-            "data_origin": "Fortune"
-          }
-        },
-        {
-          "subject": "NVIDIA's CEO Projects $1 Trillion in AI Chip Sales as New Computing Era Begins",
-          "body": "Wall Street Journal",
-          "timestamp": "2026-03-21T04:00:01",
-          "url": "https://www.wsj.com/tech/ai/nvidias-ceo-projects-1-trillion-in-ai-chip-sales-as-new-computing-era-begins-671b369d?mod=tech_lead_pos2",
-          "extras": {
-            "data_origin": "NVIDIA News"
-          }
-        },
-        {
-          "subject": "NVIDIA CEO: We Have the Most Energy Efficient Architecture in the World",
-          "body": "CNBC",
-          "timestamp": "2026-03-21T04:00:01",
-          "url": "https://www.cnbc.com/video/2026/03/17/nvidia-ceo-we-have-the-most-energy-efficient-architecture-in-world.html",
-          "extras": {
-            "data_origin": "NVIDIA News"
-          }
-        },
-        {
-          "subject": "An Interview with NVIDIA CEO Jensen Huang About Accelerated Computing",
-          "body": "Stratechery",
-          "timestamp": "2026-03-21T04:00:01",
-          "url": "https://stratechery.com/2026/an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-computing/",
-          "extras": {
-            "data_origin": "NVIDIA News"
-          }
         }
       ]
     },
     "models": {
-      "count": 8,
+      "count": 7,
       "items": [
+        {
+          "subject": "nvidia/RE-USE",
+          "body": "[\"mamba-ssm\", \"safetensors\", \"universal speech enhancement\", \"multiple input sampling rates\", \"language-agnostic\", \"audio-to-audio\", \"arxiv:2603.02641\", \"license:other\", \"region:us\"]",
+          "timestamp": "2026-03-26T18:18:44",
+          "url": "https://huggingface.co/nvidia/RE-USE",
+          "extras": {
+            "data_origin": "huggingface",
+            "namespace": "nvidia"
+          }
+        },
+        {
+          "subject": "nvidia/gpt-oss-puzzle-88B",
+          "body": "[\"transformers\", \"safetensors\", \"gpt_oss_puzzle\", \"text-generation\", \"nvidia\", \"gpt-oss\", \"puzzle\", \"mixture-of-experts\", \"reasoning\", \"pytorch\", \"vllm\", \"conversational\", \"custom_code\", \"en\", \"arxiv:2411.19146\", \"arxiv:2508.10925\", \"arxiv:2602.11937\", \"license:other\", \"8-bit\", \"mxfp4\", \"region:us\"]",
+          "timestamp": "2026-03-26T11:23:46",
+          "url": "https://huggingface.co/nvidia/gpt-oss-puzzle-88B",
+          "extras": {
+            "data_origin": "huggingface",
+            "namespace": "nvidia"
+          }
+        },
         {
           "subject": "nvidia/Nemotron-Cascade-2-30B-A3B",
           "body": "[\"transformers\", \"safetensors\", \"nemotron_h\", \"text-generation\", \"nvidia\", \"nemotron-cascade-2\", \"reasoning\", \"general-purpose\", \"SFT\", \"RL\", \"conversational\", \"custom_code\", \"en\", \"arxiv:2603.19220\", \"license:other\", \"eval-results\", \"endpoints_compatible\", \"deploy:azure\", \"region:us\"]",
@@ -177,16 +179,6 @@
           }
         },
         {
-          "subject": "nvidia/RE-USE",
-          "body": "[\"mamba-ssm\", \"mamba\", \"universal speech enhancement\", \"multiple input sampling rates\", \"language-agnostic\", \"audio-to-audio\", \"arxiv:2603.02641\", \"license:other\", \"region:us\"]",
-          "timestamp": "2026-03-24T15:09:43",
-          "url": "https://huggingface.co/nvidia/RE-USE",
-          "extras": {
-            "data_origin": "huggingface",
-            "namespace": "nvidia"
-          }
-        },
-        {
           "subject": "nvidia/nvpanoptix-3d-v1.1-matterport3d",
           "body": "[\"arxiv:2503.11651\", \"license:other\", \"region:us\"]",
           "timestamp": "2026-03-24T09:41:36",
@@ -194,26 +186,6 @@
           "extras": {
             "data_origin": "huggingface",
             "namespace": "nvidia"
-          }
-        },
-        {
-          "subject": "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16",
-          "body": "[\"transformers\", \"safetensors\", \"nemotron_h\", \"text-generation\", \"nvidia\", \"pytorch\", \"conversational\", \"custom_code\", \"en\", \"dataset:nvidia/Nemotron-CC-v2\", \"dataset:nvidia/Nemotron-Post-Training-Dataset-v2\", \"dataset:nvidia/Nemotron-Science-v1\", \"dataset:nvidia/Nemotron-Instruction-Following-Chat-v1\", \"dataset:nvidia/Nemotron-Agentic-v1\", \"dataset:nvidia/Nemotron-Competitive-Programming-v1\", \"dataset:nvidia/Nemotron-Math-Proofs-v1\", \"dataset:nvidia/Nemotron-RL-Agentic-Conversational-Tool-Use-Pivot-v1\", \"dataset:nvidia/Nemotron-RL-instruction_following\", \"dataset:nvidia/Nemotron-RL-agent-calendar_scheduling\", \"dataset:nvidia/Nemotron-RL-instruction_following-structured_outputs\", \"arxiv:2511.16664\", \"arxiv:2504.03624\", \"arxiv:2512.20856\", \"arxiv:2512.20848\", \"arxiv:2412.02595\", \"base_model:nvidia/NVIDIA-Nemotron-Nano-9B-v2\", \"base_model:finetune:nvidia/NVIDIA-Nemotron-Nano-9B-v2\", \"license:other\", \"endpoints_compatible\", \"region:us\"]",
-          "timestamp": "2026-03-20T20:50:41",
-          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16",
-          "extras": {
-            "data_origin": "huggingface",
-            "namespace": "nvidia"
-          }
-        },
-        {
-          "subject": "unsloth/NVIDIA-Nemotron-3-Super-120B-A12B-GGUF",
-          "body": "[\"gguf\", \"nvidia\", \"pytorch\", \"nemotron-3\", \"latent-moe\", \"mtp\", \"unsloth\", \"text-generation\", \"en\", \"fr\", \"es\", \"it\", \"de\", \"ja\", \"zh\", \"dataset:nvidia/nemotron-post-training-v3\", \"dataset:nvidia/nemotron-pre-training-datasets\", \"arxiv:2512.20848\", \"arxiv:2512.20856\", \"base_model:nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16\", \"base_model:quantized:nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16\", \"license:other\", \"endpoints_compatible\", \"region:us\", \"conversational\"]",
-          "timestamp": "2026-03-20T13:30:50",
-          "url": "https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Super-120B-A12B-GGUF",
-          "extras": {
-            "data_origin": "huggingface",
-            "namespace": "unsloth"
           }
         }
       ]
@@ -279,5 +251,5 @@
       ]
     }
   },
-  "summary": "Here are 6 key OpenAI related developments with insight:\n\n* **OpenAI launches Model Spec and Safety Bug Bounty programs**: OpenAI has introduced its Model Spec, a public framework for model behavior that balances safety, user freedom, and accountability as AI systems advance. Additionally, OpenAI has launched a Safety Bug Bounty program to identify AI abuse and safety risks.\n* **New OpenAI models and collaborations**: OpenAI has been working on new models, with NVIDIA releasing several Nemotron models, including Nemotron-3-Super-120B-A12B-NVFP4 and Nemotron-3-Super-120B-A12B-BF16. Additionally, OpenAI has collaborated with NVIDIA on various projects, such as the Agentic Commerce Protocol.\n* **ChatGPT introduces richer shopping experiences**: ChatGPT has introduced richer, visually immersive shopping experiences powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.\n* **OpenAI releases prompt-based teen safety policies for developers**: OpenAI has released prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.\n* **NVIDIA invests in AI chip sales**: NVIDIA's CEO has projected $1 trillion in AI chip sales as a new computing era begins.\n* **NVIDIA's advancements in NVIDIA OpenShell and NVIDIA RTX PRO 6000 Blackwell Workstation Edition**: NVIDIA has made advancements in NVIDIA OpenShell, a secure and autonomous AI agent framework, and announced the NVIDIA RTX PRO 6000 Blackwell Workstation Edition, which is designed to transform data science with NVIDIA's AI-accelerated computing technology.\n\nTrend: **AI advancements and collaborations**: There is an increasing trend of AI advancements and collaborations among companies, with OpenAI and NVIDIA being at the forefront. This is evident from the new models, projects, and collaborations announced in the news. The trend is towards more autonomous, secure, and efficient AI systems that can improve various industries and aspects of our lives."
+  "summary": "Here are 4-6 key OpenAI related developments with insight:\n\n* **ChatGPT Enterprise is being rolled out by Taisei Corporation**: This development highlights the increasing adoption of OpenAI's technology by large organizations, demonstrating the growing demand for AI-powered talent development and organizational transformation.\n* **NVIDIA and OpenAI collaborative projects**: The recent announcement of NVIDIA's donation of the Dynamic Resource Allocation Driver for GPUs to the Kubernetes community and the collaboration on flexible AI factories as grid assets with Emerald AI indicates a deepening partnership between NVIDIA and OpenAI, further expanding the capabilities of their technologies.\n* **OpenAI Model Spec as a public framework**: This initiative represents OpenAI's ongoing efforts to provide a safe and transparent approach to model development and deployment. It showcases the company's commitment to balancing safety, user freedom, and accountability as AI systems advance.\n* **Safety Bug Bounty program**: This program underscores OpenAI's dedication to responsible AI development and its acknowledgment of potential vulnerabilities and risks associated with their systems. By launching this initiative, OpenAI demonstrates its willingness to actively identify and address potential safety issues.\n* **Release of teen safety policies for developers using gpt-oss-safeguard**: This development is a significant step towards addressing the issue of age-specific risks in AI systems. By providing guidelines for developers, OpenAI aims to foster the creation of safer AI experiences for teenagers.\n* **Powering product discovery in ChatGPT**: This new feature reflects OpenAI's continued advancements in the field of conversational AI, allowing users to engage in richer and more immersive shopping experiences within ChatGPT.\n\nTrend: **Deepening partnership between OpenAI and its collaborators**: The growing number of collaborations and partnerships between OpenAI and other organizations, such as NVIDIA, AWS, and various startups, highlights the increasing willingness to work together towards advancements in AI research and development. This trend suggests a more collaborative and comprehensive approach to AI innovation, with a focus on balancing safety, user freedom, and accountability."
 }
