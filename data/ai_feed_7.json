@@ -1,6 +1,6 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-03-28T04:23:40.607Z",
+  "timestamp": "2026-03-29T04:39:21.524Z",
   "categories": {
     "news": {
       "count": 12,
@@ -191,12 +191,12 @@
       ]
     },
     "projects": {
-      "count": 5,
+      "count": 14,
       "items": [
         {
           "subject": "wanshuiyin/Auto-claude-code-research-in-sleep",
           "body": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
-          "timestamp": "2026-03-21T08:12:56",
+          "timestamp": "2026-03-28T08:10:30",
           "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
           "extras": {
             "language": "Python",
@@ -205,31 +205,31 @@
           }
         },
         {
-          "subject": "vxcontrol/pentagi",
-          "body": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-          "timestamp": "2026-03-21T07:25:41",
-          "url": "https://github.com/vxcontrol/pentagi",
+          "subject": "OpenRLHF/OpenRLHF",
+          "body": "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ & TIS & vLLM & Ray & Async  RL)",
+          "timestamp": "2026-03-28T07:08:19",
+          "url": "https://github.com/OpenRLHF/OpenRLHF",
           "extras": {
-            "language": "Go",
-            "topics": "ai-agents, ai-security-tool, anthropic, autonomous-agents, golang, gpt, graphql, multi-agent-system, offensive-security, open-source, openai, penetration-testing, penetration-testing-tools, react, security-automation, security-testing, security-tools, self-hosted",
+            "language": "Python",
+            "topics": "large-language-models, openai-o1, proximal-policy-optimization, raylib, reinforcement-learning, reinforcement-learning-from-human-feedback, transformers, vllm",
             "data_origin": "GitHub"
           }
         },
         {
-          "subject": "TencentCloudADP/youtu-agent",
-          "body": "A simple yet powerful agent framework that delivers with open-source models",
-          "timestamp": "2026-03-21T07:18:30",
-          "url": "https://github.com/TencentCloudADP/youtu-agent",
+          "subject": "emmetsite342/visual-transformer-guide",
+          "body": "Explain how Transformer AI models work with an interactive, beginner-friendly guide covering key concepts from tokenization to image generation.",
+          "timestamp": "2026-03-28T05:46:33",
+          "url": "https://github.com/emmetsite342/visual-transformer-guide",
           "extras": {
-            "language": "Python",
-            "topics": "agent-framework, agents, openai-agents, python",
+            "language": "HTML",
+            "topics": "ai, ai-education, attention-mechanism, efficient-inference, finegrained, foundation-model, gpt, large-language-models-and-translation-systems, llm, machine-learning, multi-modal-fusion, neural-networks, pedestrian-attribute-recognition, pytorch, recognition, video-based-attribute-recognition, visual-geometry-estimation, visual-learning, visual-reasoning, vqa",
             "data_origin": "GitHub"
           }
         },
         {
           "subject": "SesethuNkqenkqa/veritas-ai",
           "body": "🤖 Build and audit AI models with VeritasAI, ensuring fairness, explainability, and ethical governance throughout the machine learning lifecycle.",
-          "timestamp": "2026-03-21T06:35:52",
+          "timestamp": "2026-03-28T04:48:10",
           "url": "https://github.com/SesethuNkqenkqa/veritas-ai",
           "extras": {
             "language": "Python",
@@ -238,18 +238,117 @@
           }
         },
         {
-          "subject": "OpenRLHF/OpenRLHF",
-          "body": "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ & TIS & vLLM & Ray & Async  RL)",
-          "timestamp": "2026-03-21T06:19:16",
-          "url": "https://github.com/OpenRLHF/OpenRLHF",
+          "subject": "TencentCloudADP/youtu-agent",
+          "body": "A simple yet powerful agent framework that delivers with open-source models",
+          "timestamp": "2026-03-28T04:33:30",
+          "url": "https://github.com/TencentCloudADP/youtu-agent",
           "extras": {
             "language": "Python",
-            "topics": "large-language-models, openai-o1, proximal-policy-optimization, raylib, reinforcement-learning, reinforcement-learning-from-human-feedback, transformers, vllm",
+            "topics": "agent-framework, agents, openai-agents, python",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "zuhayrkabir/gpt-scratch",
+          "body": "Decoder-only GPT transformer built from scratch in PyTorch — multi-head causal self-attention, pretrained on OpenWebText, no pretrained models or AI libraries used.",
+          "timestamp": "2026-03-28T04:05:27",
+          "url": "https://github.com/zuhayrkabir/gpt-scratch",
+          "extras": {
+            "language": "Jupyter Notebook",
+            "topics": "cuda, deep-learning, gpt, language-model, nlp, pytorch, transformer",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "damn8daniel/image-captioning",
+          "body": "Image captioning with Vision Transformer encoder + GPT decoder. Cross-attention, beam search, attention map visualization, BLEU/CIDEr metrics.",
+          "timestamp": "2026-03-27T20:22:03",
+          "url": "https://github.com/damn8daniel/image-captioning",
+          "extras": {
+            "language": "Python",
+            "topics": "computer-vision, cross-attention, deep-learning, image-captioning, nlp, pytorch, vision-transformer",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "manikmakki/Project-RLHFL",
+          "body": "Project RLHFL (Reinforcement Learning from Human Feedback Loop): A fully local, self-improving language model that learns from your conversations automatically. Keeps your data private, and exposes an proxy endpoint for Ollama or OpenAI!",
+          "timestamp": "2026-03-27T14:00:58",
+          "url": "https://github.com/manikmakki/Project-RLHFL",
+          "extras": {
+            "language": "Python",
+            "topics": "",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "2Ntlaks/ai-xhosa-chatbot",
+          "body": "isixhosa, llm, language-model, gpt, pytorch, tokenizer, bpe, transformer, nlp, low-resource-languages, african-languages, from-scratch",
+          "timestamp": "2026-03-27T08:28:49",
+          "url": "https://github.com/2Ntlaks/ai-xhosa-chatbot",
+          "extras": {
+            "language": "Jupyter Notebook",
+            "topics": "",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "sshkeda/ask-agi",
+          "body": "Human-as-API for frontier models — compile prompts, deliver via Telegram, inject replies back into Pi",
+          "timestamp": "2026-03-26T23:28:08",
+          "url": "https://github.com/sshkeda/ask-agi",
+          "extras": {
+            "language": "TypeScript",
+            "topics": "ai, ai-agents, anthropic, claude, developer-tools, frontier-models, gpt, human-in-the-loop, llm, openai, pi-extension, prompt-engineering, telegram, telegram-bot",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "iremdinc22/llm-from-scratch",
+          "body": "Built an end-to-end LLM system from scratch: implemented tokenizer, embeddings, multi-head attention, transformer blocks, training pipeline, and GPT-style text generation with advanced sampling techniques.",
+          "timestamp": "2026-03-26T18:05:58",
+          "url": "https://github.com/iremdinc22/llm-from-scratch",
+          "extras": {
+            "language": "Jupyter Notebook",
+            "topics": "",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "JIYA1220/GPT-Transformer-from-Scratch",
+          "body": "A GPT-style Large Language Model built from scratch in PyTorch. Features 70M parameters, RMSNorm, INT8 quantization, and a Streamlit UI for real-time story generation",
+          "timestamp": "2026-03-25T07:55:13",
+          "url": "https://github.com/JIYA1220/GPT-Transformer-from-Scratch",
+          "extras": {
+            "language": "Python",
+            "topics": "",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "madanrana/NanoGPT",
+          "body": "This project implements a simplified GPT-style transformer model from scratch using PyTorch. The goal is to understand the internal mechanics of large language models including:  • Token Embeddings   • Positional Embeddings   • Multi-Head Self Attention   • Transformer Blocks   • Cross Entropy Loss   • Autoregressive Text Generation",
+          "timestamp": "2026-03-24T16:36:28",
+          "url": "https://github.com/madanrana/NanoGPT",
+          "extras": {
+            "language": "Python",
+            "topics": "",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "Aquiles-ai/Aquiles-Image",
+          "body": "A high-performance, memory-efficient inference server for diffusion models, compatible with the OpenAI client",
+          "timestamp": "2026-03-22T14:20:15",
+          "url": "https://github.com/Aquiles-ai/Aquiles-Image",
+          "extras": {
+            "language": "Python",
+            "topics": "cuda, diffusers, diffusion, diffusion-models, fastapi, flux, image-generation-ai, image2image, latent-diffusion-models, open-source, openai, openai-api, python, pytorch, qwen, stable-diffusion, text2image, text2video, video-generation",
             "data_origin": "GitHub"
           }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 key OpenAI related developments with insight:\n\n* **ChatGPT Enterprise is being rolled out by Taisei Corporation**: This development highlights the increasing adoption of OpenAI's technology by large organizations, demonstrating the growing demand for AI-powered talent development and organizational transformation.\n* **NVIDIA and OpenAI collaborative projects**: The recent announcement of NVIDIA's donation of the Dynamic Resource Allocation Driver for GPUs to the Kubernetes community and the collaboration on flexible AI factories as grid assets with Emerald AI indicates a deepening partnership between NVIDIA and OpenAI, further expanding the capabilities of their technologies.\n* **OpenAI Model Spec as a public framework**: This initiative represents OpenAI's ongoing efforts to provide a safe and transparent approach to model development and deployment. It showcases the company's commitment to balancing safety, user freedom, and accountability as AI systems advance.\n* **Safety Bug Bounty program**: This program underscores OpenAI's dedication to responsible AI development and its acknowledgment of potential vulnerabilities and risks associated with their systems. By launching this initiative, OpenAI demonstrates its willingness to actively identify and address potential safety issues.\n* **Release of teen safety policies for developers using gpt-oss-safeguard**: This development is a significant step towards addressing the issue of age-specific risks in AI systems. By providing guidelines for developers, OpenAI aims to foster the creation of safer AI experiences for teenagers.\n* **Powering product discovery in ChatGPT**: This new feature reflects OpenAI's continued advancements in the field of conversational AI, allowing users to engage in richer and more immersive shopping experiences within ChatGPT.\n\nTrend: **Deepening partnership between OpenAI and its collaborators**: The growing number of collaborations and partnerships between OpenAI and other organizations, such as NVIDIA, AWS, and various startups, highlights the increasing willingness to work together towards advancements in AI research and development. This trend suggests a more collaborative and comprehensive approach to AI innovation, with a focus on balancing safety, user freedom, and accountability."
+  "summary": "Here are the key OpenAI-related developments with insight:\n\n**Developments:**\n\n1. **ChatGPT Enterprise**: Taisei Corporation is rolling out ChatGPT Enterprise to drive AI-powered talent development across the organization.\n2. **Model Spec**: OpenAI has introduced the Model Spec, a public framework for model behavior that balances safety, user freedom, and accountability.\n3. **Safety Bug Bounty program**: OpenAI has launched a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.\n4. **Teen safety policies**: OpenAI has released prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.\n5. **Product discovery in ChatGPT**: ChatGPT has introduced richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.\n6. **NVIDIA and OpenAI collaboration**: NVIDIA and OpenAI are collaborating on various projects, including the Nemotron-3 Super 120B-A12B model, which has been released on the Hugging Face model hub.\n\n**Trend:**\n\n* **Advancements in AI safety and accountability**: There is a growing emphasis on ensuring AI safety and accountability, as evident from the introduction of the Model Spec, the Safety Bug Bounty program, and the release of teen safety policies. This trend indicates that OpenAI is prioritizing responsible AI development and deployment.\n\nNote: The developments listed above are a selection of the most relevant and notable ones, based on the provided data."
 }
