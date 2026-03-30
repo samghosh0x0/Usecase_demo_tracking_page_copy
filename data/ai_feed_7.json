@@ -1,6 +1,6 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-03-29T04:39:21.524Z",
+  "timestamp": "2026-03-30T04:47:33.162Z",
   "categories": {
     "news": {
       "count": 12,
@@ -191,7 +191,7 @@
       ]
     },
     "projects": {
-      "count": 14,
+      "count": 13,
       "items": [
         {
           "subject": "wanshuiyin/Auto-claude-code-research-in-sleep",
@@ -335,20 +335,9 @@
             "topics": "",
             "data_origin": "GitHub"
           }
-        },
-        {
-          "subject": "Aquiles-ai/Aquiles-Image",
-          "body": "A high-performance, memory-efficient inference server for diffusion models, compatible with the OpenAI client",
-          "timestamp": "2026-03-22T14:20:15",
-          "url": "https://github.com/Aquiles-ai/Aquiles-Image",
-          "extras": {
-            "language": "Python",
-            "topics": "cuda, diffusers, diffusion, diffusion-models, fastapi, flux, image-generation-ai, image2image, latent-diffusion-models, open-source, openai, openai-api, python, pytorch, qwen, stable-diffusion, text2image, text2video, video-generation",
-            "data_origin": "GitHub"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key OpenAI-related developments with insight:\n\n**Developments:**\n\n1. **ChatGPT Enterprise**: Taisei Corporation is rolling out ChatGPT Enterprise to drive AI-powered talent development across the organization.\n2. **Model Spec**: OpenAI has introduced the Model Spec, a public framework for model behavior that balances safety, user freedom, and accountability.\n3. **Safety Bug Bounty program**: OpenAI has launched a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.\n4. **Teen safety policies**: OpenAI has released prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.\n5. **Product discovery in ChatGPT**: ChatGPT has introduced richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.\n6. **NVIDIA and OpenAI collaboration**: NVIDIA and OpenAI are collaborating on various projects, including the Nemotron-3 Super 120B-A12B model, which has been released on the Hugging Face model hub.\n\n**Trend:**\n\n* **Advancements in AI safety and accountability**: There is a growing emphasis on ensuring AI safety and accountability, as evident from the introduction of the Model Spec, the Safety Bug Bounty program, and the release of teen safety policies. This trend indicates that OpenAI is prioritizing responsible AI development and deployment.\n\nNote: The developments listed above are a selection of the most relevant and notable ones, based on the provided data."
+  "summary": "**Key OpenAI related developments with insight:**\n\n* **ChatGPT Enterprise adoption by Taisei Corporation**: Taisei Corporation is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization, highlighting the growing adoption of OpenAI's technology in corporate settings.\n* **Introducing the OpenAI Safety Bug Bounty program**: OpenAI has launched a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration, demonstrating the company's commitment to AI safety and vulnerability management.\n* **Powering product discovery in ChatGPT**: ChatGPT has introduced richer, visually immersive shopping experiences powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration, showcasing the potential of AI in e-commerce.\n* **NVIDIA and Emerald AI pioneer flexible AI factories as grid assets**: NVIDIA and Emerald AI are collaborating with leading energy companies to design flexible AI factories as grid assets, combining AI factory design, energy resources, and flexibility to speed time-to-market for innovative products, highlighting the intersection of AI and energy.\n* **OpenRLHF/OpenRLHF**: OpenRLHF has introduced a new, easy-to-use, scalable, and high-performance Agentic RL framework based on Ray (PPO & DAPO & REINFORCE++ & TIS & vLLM & Ray & Async RL), demonstrating the growth of reinforcement learning from human feedback (RLHF) in the AI community.\n\n**Trend:**\n\n* **Growing focus on AI safety and vulnerability management**: With the increasing development and deployment of AI models, there is a growing need for robust safety and vulnerability management practices. The OpenAI Safety Bug Bounty program and the expertise of companies like NVIDIA and Emerald AI demonstrate a trend towards prioritizing AI safety and security in the industry."
 }
