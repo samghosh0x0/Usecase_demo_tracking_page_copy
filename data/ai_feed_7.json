@@ -1,10 +1,19 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-03-30T04:47:33.162Z",
+  "timestamp": "2026-03-31T04:38:26.771Z",
   "categories": {
     "news": {
-      "count": 12,
+      "count": 10,
       "items": [
+        {
+          "subject": "Helping disaster response teams turn AI into action across Asia",
+          "body": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+          "timestamp": "2026-03-30T14:00:01",
+          "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+          "extras": {
+            "data_origin": "OpenAI News"
+          }
+        },
         {
           "subject": "Taisei Corporation shapes the next generation of talent with AI",
           "body": "Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization.",
@@ -82,33 +91,6 @@
           "body": "Artificial intelligence has rapidly emerged as one of the most critical workloads...",
           "timestamp": "2026-03-24T14:00:02",
           "url": "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/",
-          "extras": {
-            "data_origin": "NVIDIA News"
-          }
-        },
-        {
-          "subject": "How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell",
-          "body": "Autonomous agents mark a new inflection point in AI. Systems are no...",
-          "timestamp": "2026-03-24T04:00:01",
-          "url": "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/",
-          "extras": {
-            "data_origin": "NVIDIA News"
-          }
-        },
-        {
-          "subject": "Transforming Data Science With NVIDIA RTX PRO 6000 Blackwell Workstation Edition",
-          "body": "This is a sponsored article brought to you by PNY Technologies . In today’s data-driven world, data scientists face mounting challenges in preparing, scaling, and processing massive datasets.",
-          "timestamp": "2026-03-23T14:00:01",
-          "url": "https://spectrum.ieee.org/nvidia-rtx-pro-6000-pny",
-          "extras": {
-            "data_origin": "IEEE Spectrum"
-          }
-        },
-        {
-          "subject": "NVIDIA and Emerald AI Join Leading Energy Companies to Pioneer Flexible AI Factories as Grid Assets",
-          "body": "Collaboration Combines AI Factory Design, Energy Resources and Flexibility to Speed Time...",
-          "timestamp": "2026-03-23T14:00:01",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-and-emerald-ai-join-leading-energy-companies-to-pioneer-flexible-ai-factories-as-grid-assets",
           "extras": {
             "data_origin": "NVIDIA News"
           }
@@ -339,5 +321,5 @@
       ]
     }
   },
-  "summary": "**Key OpenAI related developments with insight:**\n\n* **ChatGPT Enterprise adoption by Taisei Corporation**: Taisei Corporation is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization, highlighting the growing adoption of OpenAI's technology in corporate settings.\n* **Introducing the OpenAI Safety Bug Bounty program**: OpenAI has launched a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration, demonstrating the company's commitment to AI safety and vulnerability management.\n* **Powering product discovery in ChatGPT**: ChatGPT has introduced richer, visually immersive shopping experiences powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration, showcasing the potential of AI in e-commerce.\n* **NVIDIA and Emerald AI pioneer flexible AI factories as grid assets**: NVIDIA and Emerald AI are collaborating with leading energy companies to design flexible AI factories as grid assets, combining AI factory design, energy resources, and flexibility to speed time-to-market for innovative products, highlighting the intersection of AI and energy.\n* **OpenRLHF/OpenRLHF**: OpenRLHF has introduced a new, easy-to-use, scalable, and high-performance Agentic RL framework based on Ray (PPO & DAPO & REINFORCE++ & TIS & vLLM & Ray & Async RL), demonstrating the growth of reinforcement learning from human feedback (RLHF) in the AI community.\n\n**Trend:**\n\n* **Growing focus on AI safety and vulnerability management**: With the increasing development and deployment of AI models, there is a growing need for robust safety and vulnerability management practices. The OpenAI Safety Bug Bounty program and the expertise of companies like NVIDIA and Emerald AI demonstrate a trend towards prioritizing AI safety and security in the industry."
+  "summary": "Here are 4-6 bullet points and 1 trend:\n\n**Recent Developments:**\n\n* OpenAI launched a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.\n* OpenAI released prompt-based teen safety policies for developers using gpt-oss-safeguard to moderate age-specific risks in AI systems.\n* NVIDIA released a range of new models and frameworks, including nvidia/RE-USE, nvidia/gpt-oss-puzzle-88B, and nvidia/Nemotron-Cascade-2-30B-A3B, which demonstrate advancements in large language models and AI research.\n* OpenAI announced a major update to the OpenAI Foundation, planning to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.\n* The NVIDIA GTC conference showcased virtual worlds powering the physical AI era, highlighting the intersection of AI and virtual reality.\n* OpenAI released a Model Spec, a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.\n\n**Trend:**\n\n* **Advancements in AI research and development**: The recent releases from OpenAI and NVIDIA showcase a continued focus on pushing the boundaries of AI research and development, with a particular emphasis on improving safety, accountability, and reliability in AI systems. This trend is likely to continue, with a focus on creating more robust and responsible AI models that can be safely integrated into various industries and applications."
 }
