@@ -1,10 +1,28 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-01T04:49:15.050Z",
+  "timestamp": "2026-04-02T04:32:02.102Z",
   "categories": {
     "news": {
       "count": 8,
       "items": [
+        {
+          "subject": "Accelerating the next phase of AI",
+          "body": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+          "timestamp": "2026-04-01T04:00:01",
+          "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+          "extras": {
+            "data_origin": "OpenAI News"
+          }
+        },
+        {
+          "subject": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
+          "body": "CERAWeek — dubbed the Davos of energy — is where policymakers, producers...",
+          "timestamp": "2026-04-01T04:00:01",
+          "url": "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/",
+          "extras": {
+            "data_origin": "NVIDIA News"
+          }
+        },
         {
           "subject": "Nvidia’s Jensen Huang says ‘We’ve achieved AGI.’ But no one can agree on what that means. Why the most important term in tech remains hotly debated.",
           "body": "Nvidia’s Jensen Huang said last week that ‘AGI has already been achieved.’ Recent research says it hasn’t been—and proposes new ways to measure it.",
@@ -42,39 +60,21 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: hoop.dev - Claude Code Gateway",
+          "body": "You Decide What AI Agents Can See and Do",
+          "timestamp": "2026-03-27T14:00:02",
+          "url": "https://www.producthunt.com/products/hoop-dev-for-databases",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era",
           "body": "Editor’s note: This post is part of Into the Omniverse, a series...",
           "timestamp": "2026-03-27T04:00:02",
           "url": "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/",
           "extras": {
             "data_origin": "NVIDIA News"
-          }
-        },
-        {
-          "subject": "Inside our approach to the Model Spec",
-          "body": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
-          "timestamp": "2026-03-26T04:00:02",
-          "url": "https://openai.com/index/our-approach-to-the-model-spec",
-          "extras": {
-            "data_origin": "OpenAI News"
-          }
-        },
-        {
-          "subject": "Introducing the OpenAI Safety Bug Bounty program",
-          "body": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
-          "timestamp": "2026-03-26T04:00:02",
-          "url": "https://openai.com/index/safety-bug-bounty",
-          "extras": {
-            "data_origin": "OpenAI News"
-          }
-        },
-        {
-          "subject": "AWS: Reinforcement fine-tuning on Amazon Bedrock with OpenAI-Compatible APIs: a technical walkthrough",
-          "body": "In December 2025, we announced the availability of Reinforcement fine-tuning (RFT) on...",
-          "timestamp": "2026-03-26T04:00:02",
-          "url": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-with-openai-compatible-apis-a-technical-walkthrough/",
-          "extras": {
-            "data_origin": "AWS AI News"
           }
         }
       ]
@@ -105,7 +105,7 @@
       ]
     },
     "projects": {
-      "count": 12,
+      "count": 34,
       "items": [
         {
           "subject": "wanshuiyin/Auto-claude-code-research-in-sleep",
@@ -115,6 +115,61 @@
           "extras": {
             "language": "Python",
             "topics": "ai-research, ai-tools, aris, autonomous-agent, claude, claude-code, claude-code-skills, codex, deep-learning, gpt, idea-generation, llm, machine-learning, mcp, mcp-server, ml-research, openai, paper-review, paper-writing, research-automation",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "jingyaogong/minimind",
+          "body": "🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!",
+          "timestamp": "2026-03-28T07:36:27",
+          "url": "https://github.com/jingyaogong/minimind",
+          "extras": {
+            "language": "Python",
+            "topics": "artificial-intelligence, large-language-model",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "unslothai/unsloth",
+          "body": "Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+          "timestamp": "2026-03-28T07:26:14",
+          "url": "https://github.com/unslothai/unsloth",
+          "extras": {
+            "language": "Python",
+            "topics": "agent, deepseek, fine-tuning, gemma, gemma3, gpt-oss, llama, llama3, llm, llms, mistral, openai, qwen, reinforcement-learning, self-hosted, text-to-speech, tts, ui, unsloth",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "rasbt/LLMs-from-scratch",
+          "body": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+          "timestamp": "2026-03-28T07:12:05",
+          "url": "https://github.com/rasbt/LLMs-from-scratch",
+          "extras": {
+            "language": "Jupyter Notebook",
+            "topics": "ai, artificial-intelligence, chatbot, chatgpt, deep-learning, from-scratch, generative-ai, gpt, language-model, large-language-models, llm, machine-learning, neural-networks, python, pytorch, transformers",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "hiyouga/LlamaFactory",
+          "body": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+          "timestamp": "2026-03-28T07:11:46",
+          "url": "https://github.com/hiyouga/LlamaFactory",
+          "extras": {
+            "language": "Python",
+            "topics": "agent, ai, deepseek, fine-tuning, gemma, gpt, instruction-tuning, large-language-models, llama, llama3, llm, lora, moe, nlp, peft, qlora, quantization, qwen, rlhf, transformers",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "promptslab/Awesome-Prompt-Engineering",
+          "body": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ",
+          "timestamp": "2026-03-28T07:08:19",
+          "url": "https://github.com/promptslab/Awesome-Prompt-Engineering",
+          "extras": {
+            "language": "TypeScript",
+            "topics": "chatgpt, chatgpt-api, deep-learning, few-shot-learning, gpt, gpt-3, machine-learning, openai, prompt, prompt-based-learning, prompt-engineering, prompt-generator, prompt-learning, prompt-toolkit, prompt-tuning, promptengineering, text-to-image, text-to-speech, text-to-video",
             "data_origin": "GitHub"
           }
         },
@@ -130,6 +185,28 @@
           }
         },
         {
+          "subject": "enricoros/big-AGI",
+          "body": "AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.",
+          "timestamp": "2026-03-28T07:08:04",
+          "url": "https://github.com/enricoros/big-AGI",
+          "extras": {
+            "language": "TypeScript",
+            "topics": "agi, ai-agents, ai-suite, ai-workspace, anthropic-api, deepseek-api, gemini-api, gpt, gpt-5, librechat, multi-modal, multi-model, nano-banana, openai-responses-api, openwebui, perplexity-api, sonnet-4-5, xai-api",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "shibing624/MedicalGPT",
+          "body": "MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。",
+          "timestamp": "2026-03-28T06:44:11",
+          "url": "https://github.com/shibing624/MedicalGPT",
+          "extras": {
+            "language": "Python",
+            "topics": "chatgpt, dpo, gpt, llama, llm, medical, medicalgpt",
+            "data_origin": "GitHub"
+          }
+        },
+        {
           "subject": "emmetsite342/visual-transformer-guide",
           "body": "Explain how Transformer AI models work with an interactive, beginner-friendly guide covering key concepts from tokenization to image generation.",
           "timestamp": "2026-03-28T05:46:33",
@@ -137,6 +214,28 @@
           "extras": {
             "language": "HTML",
             "topics": "ai, ai-education, attention-mechanism, efficient-inference, finegrained, foundation-model, gpt, large-language-models-and-translation-systems, llm, machine-learning, multi-modal-fusion, neural-networks, pedestrian-attribute-recognition, pytorch, recognition, video-based-attribute-recognition, visual-geometry-estimation, visual-learning, visual-reasoning, vqa",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "InternLM/xtuner",
+          "body": "A Next-Generation Training Engine Built for Ultra-Large MoE Models",
+          "timestamp": "2026-03-28T05:00:38",
+          "url": "https://github.com/InternLM/xtuner",
+          "extras": {
+            "language": "Python",
+            "topics": "agent, deepseek-v3, gpt-oss, intern-s1, internvl, kimi-k2, llm, multimodal, qwen3-moe, qwen3-vl, reinforcement-learning",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "Tberke0/go-llm",
+          "body": "🤖 Simulate AI with go-llm, your unified Go SDK for various Large Language Models, enabling seamless application development with a clean, fluent API.",
+          "timestamp": "2026-03-28T04:56:41",
+          "url": "https://github.com/Tberke0/go-llm",
+          "extras": {
+            "language": "Go",
+            "topics": "agi, ai, anthropic, desktop-app, dspy, electron, embeddings, generative-ai, go, gpt, grok, index, openai, pinecone, pipeline, prompt, prompt-engineering, structured-output, windows",
             "data_origin": "GitHub"
           }
         },
@@ -174,6 +273,39 @@
           }
         },
         {
+          "subject": "AI-Hypercomputer/maxtext",
+          "body": "A simple, performant and scalable Jax LLM!",
+          "timestamp": "2026-03-28T01:34:07",
+          "url": "https://github.com/AI-Hypercomputer/maxtext",
+          "extras": {
+            "language": "Python",
+            "topics": "deepseek, fine-tuning, gemma2, gemma3, gpt, jax, large-language-models, llama2, llama3, llama4, llm, mistral, mixtral, sft",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "h2oai/h2o-llmstudio",
+          "body": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/",
+          "timestamp": "2026-03-27T21:00:23",
+          "url": "https://github.com/h2oai/h2o-llmstudio",
+          "extras": {
+            "language": "Python",
+            "topics": "ai, chatbot, chatgpt, fedramp, fine-tuning, finetuning, generative, generative-ai, gpt, llama, llama2, llm, llm-training",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "casibase/casibase",
+          "body": "⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com",
+          "timestamp": "2026-03-27T20:56:30",
+          "url": "https://github.com/casibase/casibase",
+          "extras": {
+            "language": "Go",
+            "topics": "a2a, agent, agi, casibase, chatbot, chatgpt, claude, gemini, gpt, huggingface, knowledge-base, langchain, llama, llm, manus, mcp, model-context-protocol, multi-agent, openai, rag",
+            "data_origin": "GitHub"
+          }
+        },
+        {
           "subject": "damn8daniel/image-captioning",
           "body": "Image captioning with Vision Transformer encoder + GPT decoder. Cross-attention, beam search, attention map visualization, BLEU/CIDEr metrics.",
           "timestamp": "2026-03-27T20:22:03",
@@ -181,6 +313,50 @@
           "extras": {
             "language": "Python",
             "topics": "computer-vision, cross-attention, deep-learning, image-captioning, nlp, pytorch, vision-transformer",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "waybarrios/vllm-mlx",
+          "body": "OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.",
+          "timestamp": "2026-03-27T20:18:11",
+          "url": "https://github.com/waybarrios/vllm-mlx",
+          "extras": {
+            "language": "Python",
+            "topics": "anthropic, apple-silicon, audio-processing, claude-code, computer-vision, image-understanding, inference, llm, machine-learning, macos, mllm, mlx, multimodal-ai, speech-to-text, stt, text-to-speech, tts, video-understanding, vision-language-model, vllm",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "microsoft/LMOps",
+          "body": "General technology for enabling AI capabilities w/ LLMs and MLLMs",
+          "timestamp": "2026-03-27T19:13:24",
+          "url": "https://github.com/microsoft/LMOps",
+          "extras": {
+            "language": "Python",
+            "topics": "agi, gpt, language-model, llm, lm, lmops, nlp, pretraining, prompt, promptist, x-prompt",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "lonePatient/awesome-pretrained-chinese-nlp-models",
+          "body": "Awesome Pretrained Chinese NLP Models，高质量中文预训练模型&大模型&多模态模型&大语言模型集合",
+          "timestamp": "2026-03-27T15:09:23",
+          "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+          "extras": {
+            "language": "Python",
+            "topics": "bert, chinese, dataset, ernie, gpt, gpt-2, large-language-models, llm, multimodel, nezha, nlp, nlu-nlg, pangu, pretrained-models, roberta, simbert, xlnet",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "hiyouga/EasyR1",
+          "body": "EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL",
+          "timestamp": "2026-03-27T14:07:49",
+          "url": "https://github.com/hiyouga/EasyR1",
+          "extras": {
+            "language": "Python",
+            "topics": "ai, deepseek, gpt, llm, nlp, qwen, reinforcement-learning, rl",
             "data_origin": "GitHub"
           }
         },
@@ -196,6 +372,39 @@
           }
         },
         {
+          "subject": "explosion/spacy-llm",
+          "body": "🦙 Integrating LLMs into structured NLP pipelines",
+          "timestamp": "2026-03-27T13:27:03",
+          "url": "https://github.com/explosion/spacy-llm",
+          "extras": {
+            "language": "Python",
+            "topics": "anthropic, claude, cohere, dolly, falcon, gpt-3, gpt-4, large-language-models, llama, llm, machine-learning, named-entity-recognition, natural-language-processing, nlp, openai, prompt-engineering, spacy, text-classification",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "xavidop/genkit-nlu",
+          "body": "The NLU powered by LLMs that just works",
+          "timestamp": "2026-03-27T11:28:13",
+          "url": "https://github.com/xavidop/genkit-nlu",
+          "extras": {
+            "language": "TypeScript",
+            "topics": "firebase, firebase-genkit, generative-ai, genkit, llm, openai",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "explosion/spacy-transformers",
+          "body": "🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy",
+          "timestamp": "2026-03-27T08:49:43",
+          "url": "https://github.com/explosion/spacy-transformers",
+          "extras": {
+            "language": "Python",
+            "topics": "bert, google, gpt-2, huggingface, language-model, machine-learning, natural-language-processing, natural-language-understanding, nlp, openai, pytorch, pytorch-model, spacy, spacy-extension, spacy-pipeline, transfer-learning, xlnet",
+            "data_origin": "GitHub"
+          }
+        },
+        {
           "subject": "2Ntlaks/ai-xhosa-chatbot",
           "body": "isixhosa, llm, language-model, gpt, pytorch, tokenizer, bpe, transformer, nlp, low-resource-languages, african-languages, from-scratch",
           "timestamp": "2026-03-27T08:28:49",
@@ -203,6 +412,17 @@
           "extras": {
             "language": "Jupyter Notebook",
             "topics": "",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "QWED-AI/qwed-verification",
+          "body": "Deterministic verification layer for AI.  QWED verifies LLM outputs using math, logic, and symbolic execution — creating an auditable trust boundary for agentic AI systems.  Not generation. Verification.",
+          "timestamp": "2026-03-26T23:54:36",
+          "url": "https://github.com/QWED-AI/qwed-verification",
+          "extras": {
+            "language": "Python",
+            "topics": "ai-accuracy, ai-safety, ai-security, code-security, deterministic-ai, enterprise-ai, formal-verification, generative-ai, hallucination, hallucination-detection, langchain, llm-safety, llm-verification, machine-learning, neurosymbolic-ai, nlp, python, smt-solver, sympy, z3-prover",
             "data_origin": "GitHub"
           }
         },
@@ -218,6 +438,17 @@
           }
         },
         {
+          "subject": "RafiaZ/cognitive-insight-web",
+          "body": "Cognitive Insight Web is a Next.js-based AI project combining Hugging Face NLP models, Custom GPT reasoning, and TensorFlow.js to generate interpretable insights from text. It explores human-centered AI, frontend ML, and modular AI-powered workflows.",
+          "timestamp": "2026-03-26T19:25:07",
+          "url": "https://github.com/RafiaZ/cognitive-insight-web",
+          "extras": {
+            "language": "TypeScript",
+            "topics": "",
+            "data_origin": "GitHub"
+          }
+        },
+        {
           "subject": "iremdinc22/llm-from-scratch",
           "body": "Built an end-to-end LLM system from scratch: implemented tokenizer, embeddings, multi-head attention, transformer blocks, training pipeline, and GPT-style text generation with advanced sampling techniques.",
           "timestamp": "2026-03-26T18:05:58",
@@ -229,10 +460,21 @@
           }
         },
         {
-          "subject": "JIYA1220/GPT-Transformer-from-Scratch",
-          "body": "A GPT-style Large Language Model built from scratch in PyTorch. Features 70M parameters, RMSNorm, INT8 quantization, and a Streamlit UI for real-time story generation",
-          "timestamp": "2026-03-25T07:55:13",
-          "url": "https://github.com/JIYA1220/GPT-Transformer-from-Scratch",
+          "subject": "nexageapps/AI",
+          "body": "Comprehensive AI/ML learning path from basics to building language models. 15+ hands-on Jupyter notebooks covering TensorFlow, PyTorch, CNNs, RNNs, Transformers, and GPT. Perfect for MAI students and self-learners.",
+          "timestamp": "2026-03-26T11:28:33",
+          "url": "https://github.com/nexageapps/AI",
+          "extras": {
+            "language": "Jupyter Notebook",
+            "topics": "artificial-intelligence, computer-vision, deep-learning, education, gpt, jupyter-notebook, machine-learning, mai, neural-networks, nlp, pytorch, tensorflow, transformers, tutorial, university-of-auckland",
+            "data_origin": "GitHub"
+          }
+        },
+        {
+          "subject": "devdanishai/image-search-clip-st",
+          "body": "this project is image search feature using openai-clip model with streamlit ",
+          "timestamp": "2026-03-26T05:25:43",
+          "url": "https://github.com/devdanishai/image-search-clip-st",
           "extras": {
             "language": "Python",
             "topics": "",
@@ -242,5 +484,5 @@
       ]
     }
   },
-  "summary": "Here are 4-6 key OpenAI related developments with insight:\n\n* **OpenAI launches Safety Bug Bounty program**: OpenAI has introduced a Safety Bug Bounty program to identify potential safety risks in its AI systems, including agentic vulnerabilities, prompt injection, and data exfiltration. This move highlights OpenAI's commitment to ensuring the safe and responsible development of AI.\n* **Nvidia and OpenAI expand collaboration**: Nvidia has joined forces with Marvell through NVLink Fusion, expanding the AI ecosystem and providing customers with greater choice and flexibility. This collaboration may lead to further advancements in AI research and development.\n* **Taisei Corporation adopts ChatGPT Enterprise**: Taisei Corporation has rolled out ChatGPT Enterprise to drive AI-powered talent development across the organization. This adoption highlights the growing interest in using AI for human resources and talent development.\n* **OpenAI releases Model Spec**: OpenAI has released its Model Spec, a public framework for model behavior that balances safety, user freedom, and accountability as AI systems advance. This move demonstrates OpenAI's efforts to establish industry-wide standards for AI development.\n\nTrend: **Increased focus on AI safety and responsible development**: The recent developments from OpenAI and other AI companies highlight a growing focus on AI safety and responsible development. As AI systems become more advanced and pervasive, there is a growing need for companies to prioritize safety and accountability in their AI development efforts. This trend may lead to increased investment in AI safety research and the development of industry-wide standards for AI development."
+  "summary": "Here are 4-6 bullet points summarizing key OpenAI-related developments and 1 trend:\n\n**Developments:**\n\n* OpenAI has raised $122 billion in new funding to expand its frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.\n* NVIDIA has announced that it has achieved AGI, but the term remains hotly debated in the tech industry.\n* NVIDIA has expanded its AI ecosystem with the addition of Marvell, which will collaborate with NVIDIA through NVLink Fusion.\n* OpenAI has partnered with the Gates Foundation to help disaster response teams turn AI into action across Asia.\n* Taisei Corporation has rolled out ChatGPT Enterprise to drive AI-powered talent development across the organization.\n\n**Trend:**\n\n* **Increased investment and expansion in AI research and development**: The recent funding round for OpenAI and the announcements from NVIDIA and other companies indicate a growing interest in investing in AI research and development, with a focus on expanding the capabilities of large language models (LLMs) and other AI technologies.\n\nNote that the developments listed above are just a few examples of the many exciting developments happening in the AI space, and the trend of increased investment and expansion in AI research and development is likely to continue in the coming months and years."
 }
