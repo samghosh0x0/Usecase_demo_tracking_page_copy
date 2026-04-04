@@ -1,10 +1,46 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-03T04:32:22.886Z",
+  "timestamp": "2026-04-04T04:20:57.956Z",
   "categories": {
     "news": {
-      "count": 7,
+      "count": 9,
       "items": [
+        {
+          "subject": "Product Hunt Launch: ChatGPT on CarPlay",
+          "body": "ChatGPT voice in CarPlay for hands-free driving AI on the go Discussion...",
+          "timestamp": "2026-04-03T14:00:02",
+          "url": "https://www.producthunt.com/products/openai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "OpenAI acquires TBPN",
+          "body": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+          "timestamp": "2026-04-03T04:00:01",
+          "url": "https://openai.com/index/openai-acquires-tbpn",
+          "extras": {
+            "data_origin": "OpenAI News"
+          }
+        },
+        {
+          "subject": "Codex now offers more flexible pricing for teams",
+          "body": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+          "timestamp": "2026-04-03T04:00:01",
+          "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+          "extras": {
+            "data_origin": "OpenAI News"
+          }
+        },
+        {
+          "subject": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
+          "body": "Open models are driving a new wave of on-device AI, extending innovation...",
+          "timestamp": "2026-04-03T04:00:01",
+          "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/",
+          "extras": {
+            "data_origin": "NVIDIA News"
+          }
+        },
         {
           "subject": "Accelerating the next phase of AI",
           "body": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
@@ -48,24 +84,6 @@
           "url": "https://openai.com/index/helping-disaster-response-teams-asia",
           "extras": {
             "data_origin": "OpenAI News"
-          }
-        },
-        {
-          "subject": "Taisei Corporation shapes the next generation of talent with AI",
-          "body": "Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization.",
-          "timestamp": "2026-03-27T14:00:02",
-          "url": "https://openai.com/index/taisei",
-          "extras": {
-            "data_origin": "OpenAI News"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: hoop.dev - Claude Code Gateway",
-          "body": "You Decide What AI Agents Can See and Do",
-          "timestamp": "2026-03-27T14:00:02",
-          "url": "https://www.producthunt.com/products/hoop-dev-for-databases",
-          "extras": {
-            "data_origin": "Product Hunt"
           }
         }
       ]
@@ -208,11 +226,22 @@
       ]
     },
     "models": {
-      "count": 0,
-      "items": []
+      "count": 1,
+      "items": [
+        {
+          "subject": "nvidia/Gemma-4-31B-IT-NVFP4",
+          "body": "[\"Model Optimizer\", \"safetensors\", \"gemma4\", \"nvidia\", \"ModelOpt\", \"Gemma-4-31B-IT\", \"lighthouse\", \"quantized\", \"NVFP4\", \"text-generation\", \"conversational\", \"base_model:google/gemma-4-31B-it\", \"base_model:quantized:google/gemma-4-31B-it\", \"license:other\", \"modelopt\", \"region:us\"]",
+          "timestamp": "2026-04-02T19:47:50",
+          "url": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
+          "extras": {
+            "data_origin": "huggingface",
+            "namespace": "nvidia"
+          }
+        }
+      ]
     },
     "projects": {
-      "count": 28,
+      "count": 14,
       "items": [
         {
           "subject": "wanshuiyin/Auto-claude-code-research-in-sleep",
@@ -367,163 +396,9 @@
             "topics": "agent-framework, agents, openai-agents, python",
             "data_origin": "GitHub"
           }
-        },
-        {
-          "subject": "zuhayrkabir/gpt-scratch",
-          "body": "Decoder-only GPT transformer built from scratch in PyTorch — multi-head causal self-attention, pretrained on OpenWebText, no pretrained models or AI libraries used.",
-          "timestamp": "2026-03-28T04:05:27",
-          "url": "https://github.com/zuhayrkabir/gpt-scratch",
-          "extras": {
-            "language": "Jupyter Notebook",
-            "topics": "cuda, deep-learning, gpt, language-model, nlp, pytorch, transformer",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "AI-Hypercomputer/maxtext",
-          "body": "A simple, performant and scalable Jax LLM!",
-          "timestamp": "2026-03-28T01:34:07",
-          "url": "https://github.com/AI-Hypercomputer/maxtext",
-          "extras": {
-            "language": "Python",
-            "topics": "deepseek, fine-tuning, gemma2, gemma3, gpt, jax, large-language-models, llama2, llama3, llama4, llm, mistral, mixtral, sft",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "h2oai/h2o-llmstudio",
-          "body": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/",
-          "timestamp": "2026-03-27T21:00:23",
-          "url": "https://github.com/h2oai/h2o-llmstudio",
-          "extras": {
-            "language": "Python",
-            "topics": "ai, chatbot, chatgpt, fedramp, fine-tuning, finetuning, generative, generative-ai, gpt, llama, llama2, llm, llm-training",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "casibase/casibase",
-          "body": "⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com",
-          "timestamp": "2026-03-27T20:56:30",
-          "url": "https://github.com/casibase/casibase",
-          "extras": {
-            "language": "Go",
-            "topics": "a2a, agent, agi, casibase, chatbot, chatgpt, claude, gemini, gpt, huggingface, knowledge-base, langchain, llama, llm, manus, mcp, model-context-protocol, multi-agent, openai, rag",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "damn8daniel/image-captioning",
-          "body": "Image captioning with Vision Transformer encoder + GPT decoder. Cross-attention, beam search, attention map visualization, BLEU/CIDEr metrics.",
-          "timestamp": "2026-03-27T20:22:03",
-          "url": "https://github.com/damn8daniel/image-captioning",
-          "extras": {
-            "language": "Python",
-            "topics": "computer-vision, cross-attention, deep-learning, image-captioning, nlp, pytorch, vision-transformer",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "waybarrios/vllm-mlx",
-          "body": "OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.",
-          "timestamp": "2026-03-27T20:18:11",
-          "url": "https://github.com/waybarrios/vllm-mlx",
-          "extras": {
-            "language": "Python",
-            "topics": "anthropic, apple-silicon, audio-processing, claude-code, computer-vision, image-understanding, inference, llm, machine-learning, macos, mllm, mlx, multimodal-ai, speech-to-text, stt, text-to-speech, tts, video-understanding, vision-language-model, vllm",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "microsoft/LMOps",
-          "body": "General technology for enabling AI capabilities w/ LLMs and MLLMs",
-          "timestamp": "2026-03-27T19:13:24",
-          "url": "https://github.com/microsoft/LMOps",
-          "extras": {
-            "language": "Python",
-            "topics": "agi, gpt, language-model, llm, lm, lmops, nlp, pretraining, prompt, promptist, x-prompt",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "lonePatient/awesome-pretrained-chinese-nlp-models",
-          "body": "Awesome Pretrained Chinese NLP Models，高质量中文预训练模型&大模型&多模态模型&大语言模型集合",
-          "timestamp": "2026-03-27T15:09:23",
-          "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-          "extras": {
-            "language": "Python",
-            "topics": "bert, chinese, dataset, ernie, gpt, gpt-2, large-language-models, llm, multimodel, nezha, nlp, nlu-nlg, pangu, pretrained-models, roberta, simbert, xlnet",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "hiyouga/EasyR1",
-          "body": "EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL",
-          "timestamp": "2026-03-27T14:07:49",
-          "url": "https://github.com/hiyouga/EasyR1",
-          "extras": {
-            "language": "Python",
-            "topics": "ai, deepseek, gpt, llm, nlp, qwen, reinforcement-learning, rl",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "manikmakki/Project-RLHFL",
-          "body": "Project RLHFL (Reinforcement Learning from Human Feedback Loop): A fully local, self-improving language model that learns from your conversations automatically. Keeps your data private, and exposes an proxy endpoint for Ollama or OpenAI!",
-          "timestamp": "2026-03-27T14:00:58",
-          "url": "https://github.com/manikmakki/Project-RLHFL",
-          "extras": {
-            "language": "Python",
-            "topics": "",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "explosion/spacy-llm",
-          "body": "🦙 Integrating LLMs into structured NLP pipelines",
-          "timestamp": "2026-03-27T13:27:03",
-          "url": "https://github.com/explosion/spacy-llm",
-          "extras": {
-            "language": "Python",
-            "topics": "anthropic, claude, cohere, dolly, falcon, gpt-3, gpt-4, large-language-models, llama, llm, machine-learning, named-entity-recognition, natural-language-processing, nlp, openai, prompt-engineering, spacy, text-classification",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "xavidop/genkit-nlu",
-          "body": "The NLU powered by LLMs that just works",
-          "timestamp": "2026-03-27T11:28:13",
-          "url": "https://github.com/xavidop/genkit-nlu",
-          "extras": {
-            "language": "TypeScript",
-            "topics": "firebase, firebase-genkit, generative-ai, genkit, llm, openai",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "explosion/spacy-transformers",
-          "body": "🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy",
-          "timestamp": "2026-03-27T08:49:43",
-          "url": "https://github.com/explosion/spacy-transformers",
-          "extras": {
-            "language": "Python",
-            "topics": "bert, google, gpt-2, huggingface, language-model, machine-learning, natural-language-processing, natural-language-understanding, nlp, openai, pytorch, pytorch-model, spacy, spacy-extension, spacy-pipeline, transfer-learning, xlnet",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "2Ntlaks/ai-xhosa-chatbot",
-          "body": "isixhosa, llm, language-model, gpt, pytorch, tokenizer, bpe, transformer, nlp, low-resource-languages, african-languages, from-scratch",
-          "timestamp": "2026-03-27T08:28:49",
-          "url": "https://github.com/2Ntlaks/ai-xhosa-chatbot",
-          "extras": {
-            "language": "Jupyter Notebook",
-            "topics": "",
-            "data_origin": "GitHub"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 bullet points summarizing key OpenAI related developments with insight:\n\n* **OpenAI raises $122 billion in new funding to expand frontier AI globally**: OpenAI has secured $122 billion in new funding to expand its operations and develop new AI capabilities. This funding will be used to invest in next-generation compute, meet growing demand for ChatGPT, Codex, and enterprise AI, and support the development of more advanced AI technologies.\n* **Advancements in transparent and explainable AI**: Researchers have introduced several innovative approaches to make AI more transparent and explainable. For example, the \"Silicon Mirror\" framework detects user persuasion tactics and adjusts AI behavior to maintain factual integrity, while \"VibeGuard\" is a pre-publish security gate that targets blind spots in AI code generation.\n* **Breakthroughs in multi-agent systems**: The OrgAgent framework has been introduced, which allows for the organization of multiple agents in a company-style hierarchy, leading to better performance and reduced token consumption. This framework has been shown to outperform other organizational structures in various reasoning tasks.\n* **New benchmarks and evaluation tools**: The \"YC-Bench\" benchmark has been introduced, which evaluates AI agents' ability to maintain strategic coherence over long horizons, and the \"Petri\" auditing tool has been developed to simulate realistic internal deployment of a coding agent.\n* **Concerns around AI safety and alignment**: Researchers have highlighted the importance of understanding and addressing the risks associated with AI systems, including their potential to behave in ways that are not aligned with human values. The persistence of vulnerabilities in AI systems has been demonstrated, and the need for robust defenses and evaluation frameworks has been emphasized.\n* **Advancements in large language models**: Several new large language models have been introduced, including Claude Opus 4.6, which has achieved the highest average final funds in a simulated startup. Additionally, the GPT-NL Public Corpus has been developed, which is the biggest permissively licensed corpus of Dutch language resources.\n\nTrend:\nThe trend I observe in the list of developments is the increasing focus on transparency, accountability, and safety in AI research and development. There is a growing emphasis on evaluating and addressing the potential risks and limitations of AI systems, particularly in areas such as multi-agent systems, AI-generated code, and large language models. This suggests that the field is shifting towards a more cautious and responsible approach to AI development, with a focus on creating AI systems that are not only powerful but also safe and transparent."
+  "summary": "Here are 4-6 key OpenAI-related developments with insight:\n\n* **OpenAI Raises $122 Billion in New Funding**: OpenAI has secured $122 billion in new funding to expand its frontier AI capabilities, invest in next-generation compute, and meet growing demand for ChatGPT and Codex.\n* **Codex Now Offers Flexible Pricing for Teams**: Codex, a large language model developed by OpenAI, now offers pay-as-you-go pricing for businesses and enterprises, providing a more flexible option for teams to start and scale adoption.\n* **OpenAI Acquires TBPN**: OpenAI has acquired TBPN, a media company focused on independent media and AI-related conversations, to accelerate global conversations around AI and support independent media.\n* **New Research on Large Language Models**: Researchers have published several papers on large language models, including a study on the efficiency of training large language models, a paper on the security risks of AI-generated code, and a work on the organizational structure of multi-agent systems.\n* **OpenAI Workshops on AI for Disaster Response**: OpenAI has hosted a workshop with the Gates Foundation on AI for disaster response in Asia, focusing on how AI can help disaster response teams turn data into action.\n* **NVIDIA's Gemma-4 Accelerates Large Language Model Training**: NVIDIA's Gemma-4 AI chip has been used to accelerate the training of large language models, enabling faster and more efficient training of these complex models.\n\nTrend: **Increasing Investment in AI and Large Language Models**: The trend in the AI and machine learning community is to invest heavily in large language models and related infrastructure, with OpenAI, NVIDIA, and other companies pouring billions of dollars into research and development. This trend is likely to continue as the demand for AI applications grows and the potential for large language models to transform various industries becomes more apparent."
 }
