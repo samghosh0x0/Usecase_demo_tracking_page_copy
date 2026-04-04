@@ -1,9 +1,9 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-04T04:20:57.956Z",
+  "timestamp": "2026-04-04T09:20:29.547Z",
   "categories": {
     "news": {
-      "count": 9,
+      "count": 25,
       "items": [
         {
           "subject": "Product Hunt Launch: ChatGPT on CarPlay",
@@ -15,12 +15,39 @@
           }
         },
         {
-          "subject": "OpenAI acquires TBPN",
-          "body": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+          "subject": "AWS: Control which domains your AI agents can access",
+          "body": "AI agents that can browse the web open powerful possibilities—from research automation...",
           "timestamp": "2026-04-03T04:00:01",
-          "url": "https://openai.com/index/openai-acquires-tbpn",
+          "url": "https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/",
           "extras": {
-            "data_origin": "OpenAI News"
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: Scaling seismic foundation models on AWS: Distributed training with Amazon SageMaker HyperPod and expanding context windows",
+          "body": "This post is cowritten with Altay Sansal and Alejandro Valenciano from TGS...",
+          "timestamp": "2026-04-03T04:00:01",
+          "url": "https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: Simulate realistic users to evaluate multi-turn AI agents in Strands Evals",
+          "body": "Evaluating single-turn agent interactions follows a pattern that most teams understand well...",
+          "timestamp": "2026-04-03T04:00:01",
+          "url": "https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
+          "body": "Open models are driving a new wave of on-device AI, extending innovation...",
+          "timestamp": "2026-04-03T04:00:01",
+          "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/",
+          "extras": {
+            "data_origin": "NVIDIA News"
           }
         },
         {
@@ -33,10 +60,100 @@
           }
         },
         {
-          "subject": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
-          "body": "Open models are driving a new wave of on-device AI, extending innovation...",
+          "subject": "OpenAI acquires TBPN",
+          "body": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
           "timestamp": "2026-04-03T04:00:01",
-          "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/",
+          "url": "https://openai.com/index/openai-acquires-tbpn",
+          "extras": {
+            "data_origin": "OpenAI News"
+          }
+        },
+        {
+          "subject": "AWS: Persist session state with filesystem configuration and execute shell commands",
+          "body": "AI agents have evolved significantly beyond chat. Writing code, persist filesystem state...",
+          "timestamp": "2026-04-02T14:00:02",
+          "url": "https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: Rocket Close transforms mortgage document processing with Amazon Bedrock and Amazon Textract",
+          "body": "This post is cowritten by Jeremy Little and Chris Day from Rocket...",
+          "timestamp": "2026-04-02T14:00:02",
+          "url": "https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: Automating competitive price intelligence with Amazon Nova Act",
+          "body": "Monitoring competitor prices is essential for ecommerce teams to maintain a market...",
+          "timestamp": "2026-04-02T04:00:02",
+          "url": "https://aws.amazon.com/blogs/machine-learning/automating-competitive-price-intelligence-with-amazon-nova-act/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: Accelerating software delivery with agentic QA automation using Amazon Nova Act",
+          "body": "Quality assurance (QA) automation is critical for modern software delivery. It catches...",
+          "timestamp": "2026-04-01T04:00:01",
+          "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: Can your governance keep pace with your AI ambitions? AI risk intelligence in the agentic era",
+          "body": "Dev: Ops used to be predictable: same input, same output, binary success, static...",
+          "timestamp": "2026-04-01T04:00:01",
+          "url": "https://aws.amazon.com/blogs/machine-learning/can-your-governance-keep-pace-with-your-ai-ambitions-ai-risk-intelligence-in-the-agentic-era/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: AWS launches frontier agents for security testing and cloud operations",
+          "body": "I’m excited to announce that AWS Security Agent on-demand penetration testing and...",
+          "timestamp": "2026-04-01T04:00:01",
+          "url": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: Building an AI powered system for compliance evidence collection",
+          "body": "Compliance audits require comprehensive evidence trails, often involving hundreds of screenshots across...",
+          "timestamp": "2026-04-01T04:00:01",
+          "url": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-system-for-compliance-evidence-collection/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: Build a FinOps agent using Amazon Bedrock AgentCore",
+          "body": "Managing costs across multiple AWS accounts often requires finance teams to query...",
+          "timestamp": "2026-04-01T04:00:01",
+          "url": "https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: Build reliable AI agents with Amazon Bedrock AgentCore Evaluations",
+          "body": "Your AI agent worked in the demo, impressed stakeholders, handled test scenarios...",
+          "timestamp": "2026-04-01T04:00:01",
+          "url": "https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-agents-with-amazon-bedrock-agentcore-evaluations/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
+          "body": "CERAWeek — dubbed the Davos of energy — is where policymakers, producers...",
+          "timestamp": "2026-04-01T04:00:01",
+          "url": "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/",
           "extras": {
             "data_origin": "NVIDIA News"
           }
@@ -51,10 +168,10 @@
           }
         },
         {
-          "subject": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
-          "body": "CERAWeek — dubbed the Davos of energy — is where policymakers, producers...",
-          "timestamp": "2026-04-01T04:00:01",
-          "url": "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/",
+          "subject": "NVIDIA AI Ecosystem Expands as Marvell Joins Forces Through NVLink Fusion",
+          "body": "Collaboration Delivers Greater Choice and Flexibility for Customers and Fully Compatible With...",
+          "timestamp": "2026-03-31T14:00:02",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
           "extras": {
             "data_origin": "NVIDIA News"
           }
@@ -69,12 +186,39 @@
           }
         },
         {
-          "subject": "NVIDIA AI Ecosystem Expands as Marvell Joins Forces Through NVLink Fusion",
-          "body": "Collaboration Delivers Greater Choice and Flexibility for Customers and Fully Compatible With...",
-          "timestamp": "2026-03-31T14:00:02",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
+          "subject": "AWS: Deliver hyper-personalized viewer experiences with an agentic AI movie assistant using Amazon Bedrock AgentCore and Amazon Nova Sonic 2.0",
+          "body": "Deliver hyperpersonalized viewer experiences with an agentic AI movie assistant using Amazon...",
+          "timestamp": "2026-03-31T04:00:01",
+          "url": "https://aws.amazon.com/blogs/machine-learning/deliver-hyper-personalized-viewer-experiences-with-an-agentic-ai-movie-assistant-using-amazon-bedrock-agentcore-and-amazon-nova-sonic-2-0/",
           "extras": {
-            "data_origin": "NVIDIA News"
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: Build a solar flare detection system on SageMaker AI LSTM networks and ESA STIX data",
+          "body": "The effective monitoring and characterization of solar flares demands sophisticated analysis of...",
+          "timestamp": "2026-03-31T04:00:01",
+          "url": "https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: Reimagine marketing at Volkswagen Group with generative AI",
+          "body": "This post is cowritten by Sebastian Angersbach, Philip Trempler, and Weiran Zhang...",
+          "timestamp": "2026-03-31T04:00:01",
+          "url": "https://aws.amazon.com/blogs/machine-learning/reimagine-marketing-at-volkswagen-group-with-generative-ai/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: How Ring scales global customer support with Amazon Bedrock Knowledge Bases",
+          "body": "This post is cowritten with David Kim, and Premjit Singh from Ring...",
+          "timestamp": "2026-03-31T04:00:01",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-ring-scales-global-customer-support-with-amazon-bedrock-knowledge-bases/",
+          "extras": {
+            "data_origin": "AWS AI News"
           }
         },
         {
@@ -89,28 +233,17 @@
       ]
     },
     "papers": {
-      "count": 12,
+      "count": 4,
       "items": [
         {
-          "subject": "$\\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution",
-          "body": "As LLM agents tackle increasingly complex tasks, a critical question is whether they can maintain strategic coherence over long horizons: planning under uncertainty, learning from delayed feedback, and adapting when early mistakes compound. We introduce $\\texttt{YC-Bench}$, a benchmark that evaluates these capabilities by tasking an agent with running a simulated startup over a one-year horizon spanning hundreds of turns. The agent must manage employees, select task contracts, and maintain profitability in a partially observable environment where adversarial clients and growing payroll create compounding consequences for poor decisions. We evaluate 12 models, both proprietary and open source, across 3 seeds each. Only three models consistently surpass the starting capital of \\$200K, with Claude Opus 4.6 achieving the highest average final funds at \\$1.27 M, followed by GLM-5 at \\$1.21 M at 11$\\times$ lower inference cost. Scratchpad usage, the sole mechanism for persisting information across context truncation, is the strongest predictor of success, and adversarial client detection is the primary failure mode, accounting for $47\\%$ of bankruptcies. Our analysis reveals that frontier models still fail through distinct failure modes such as over-parallelization, demonstrating the capability gaps for long-horizon performance. $\\texttt{YC-Bench}$ is open-source, reproducible, and configurable.",
-          "timestamp": "2026-04-01T17:52:19",
-          "url": "https://arxiv.org/abs/2604.01212v1",
+          "subject": "Test-Time Scaling Makes Overtraining Compute-Optimal",
+          "body": "Modern LLMs scale at test-time, e.g. via repeated sampling, where inference cost grows with model size and the number of samples. This creates a trade-off that pretraining scaling laws, such as Chinchilla, do not address. We present Train-to-Test ($T^2$) scaling laws that jointly optimize model size, training tokens, and number of inference samples under fixed end-to-end budgets. $T^2$ modernizes pretraining scaling laws with pass@$k$ modeling used for test-time scaling, then jointly optimizes pretraining and test-time decisions. Forecasts from $T^2$ are robust over distinct modeling approaches: measuring joint scaling effect on the task loss and modeling impact on task accuracy. Across eight downstream tasks, we find that when accounting for inference cost, optimal pretraining decisions shift radically into the overtraining regime, well-outside of the range of standard pretraining scaling suites. We validate our results by pretraining heavily overtrained models in the optimal region that $T^2$ scaling forecasts, confirming their substantially stronger performance compared to pretraining scaling alone. Finally, as frontier LLMs are post-trained, we show that our findings survive the post-training stage, making $T^2$ scaling meaningful in modern deployments.",
+          "timestamp": "2026-04-01T21:17:32",
+          "url": "https://arxiv.org/abs/2604.01411v1",
           "extras": {
             "data_origin": "arXiv",
-            "authors": "Muyu He, Adit Jain, Anand Kumar, Vincent Tu, Soumyadeep Bakshi, Sachin Patro, Nazneen Rajani",
-            "updated": "2026-04-01T17:52:19"
-          }
-        },
-        {
-          "subject": "VibeGuard: A Security Gate Framework for AI-Generated Code",
-          "body": "\"Vibe coding,\" in which developers delegate code generation to AI assistants and accept the output with little manual review, has gained rapid adoption in production settings. On March 31, 2026, Anthropic's Claude Code CLI shipped a 59.8 MB source map file in its npm package, exposing roughly 512,000 lines of proprietary TypeScript. The tool had itself been largely vibe-coded, and the leak traced to a misconfigured packaging rule rather than a logic bug. Existing static-analysis and secret-scanning tools did not cover this failure mode, pointing to a gap between the vulnerabilities AI tends to introduce and the vulnerabilities current tooling is built to find. We present VibeGuard, a pre-publish security gate that targets five such blind spots: artifact hygiene, packaging-configuration drift, source-map exposure, hardcoded secrets, and supply-chain risk. In controlled experiments on eight synthetic projects (seven vulnerable, one clean control), VibeGuard achieved 100% recall, 89.47% precision (F1 = 94.44%), and correct pass/fail gate decisions on all eight projects across three policy levels. We discuss how these results inform a defense-in-depth workflow for teams that rely on AI code generation.",
-          "timestamp": "2026-04-01T15:57:01",
-          "url": "https://arxiv.org/abs/2604.01052v1",
-          "extras": {
-            "data_origin": "arXiv",
-            "authors": "Ying Xie",
-            "updated": "2026-04-01T15:57:01"
+            "authors": "Nicholas Roberts, Sungjun Cho, Zhiqi Gao, Tzu-Heng Huang, Albert Wu, Gabriel Orlanski, Avi Trost, Kelly Buchanan, Aws Albarghouthi, Frederic Sala",
+            "updated": "2026-04-01T21:17:32"
           }
         },
         {
@@ -136,50 +269,6 @@
           }
         },
         {
-          "subject": "Investigating Autonomous Agent Contributions in the Wild: Activity Patterns and Code Change over Time",
-          "body": "The rise of large language models for code has reshaped software development. Autonomous coding agents, able to create branches, open pull requests, and perform code reviews, now actively contribute to real-world projects. Their growing role offers a unique and timely opportunity to investigate AI-driven contributions and their effects on code quality, team dynamics, and software maintainability. In this work, we construct a novel dataset of approximately $110,000$ open-source pull requests, including associated commits, comments, reviews, issues, and file changes, collectively representing millions of lines of source code. We compare five popular coding agents, including OpenAI Codex, Claude Code, GitHub Copilot, Google Jules, and Devin, examining how their usage differs in various development aspects such as merge frequency, edited file types, and developer interaction signals, including comments and reviews. Furthermore, we emphasize that code authoring and review are only a small part of the larger software engineering process, as the resulting code must also be maintained and updated over time. Hence, we offer several longitudinal estimates of survival and churn rates for agent-generated versus human-authored code. Ultimately, our findings indicate an increasing agent activity in open-source projects, although their contributions are associated with more churn over time compared to human-authored code.",
-          "timestamp": "2026-04-01T13:58:30",
-          "url": "https://arxiv.org/abs/2604.00917v1",
-          "extras": {
-            "data_origin": "arXiv",
-            "authors": "Razvan Mihai Popescu, David Gros, Andrei Botocan, Rahul Pandita, Prem Devanbu, Maliheh Izadi",
-            "updated": "2026-04-01T13:58:30"
-          }
-        },
-        {
-          "subject": "UK AISI Alignment Evaluation Case-Study",
-          "body": "This technical report presents methods developed by the UK AI Security Institute for assessing whether advanced AI systems reliably follow intended goals. Specifically, we evaluate whether frontier models sabotage safety research when deployed as coding assistants within an AI lab. Applying our methods to four frontier models, we find no confirmed instances of research sabotage. However, we observe that Claude Opus 4.5 Preview (a pre-release snapshot of Opus 4.5) and Sonnet 4.5 frequently refuse to engage with safety-relevant research tasks, citing concerns about research direction, involvement in self-training, and research scope. We additionally find that Opus 4.5 Preview shows reduced unprompted evaluation awareness compared to Sonnet 4.5, while both models can distinguish evaluation from deployment scenarios when prompted. Our evaluation framework builds on Petri, an open-source LLM auditing tool, with a custom scaffold designed to simulate realistic internal deployment of a coding agent. We validate that this scaffold produces trajectories that all tested models fail to reliably distinguish from real deployment data. We test models across scenarios varying in research motivation, activity type, replacement threat, and model autonomy. Finally, we discuss limitations including scenario coverage and evaluation awareness.",
-          "timestamp": "2026-04-01T11:53:25",
-          "url": "https://arxiv.org/abs/2604.00788v1",
-          "extras": {
-            "data_origin": "arXiv",
-            "authors": "Alexandra Souly, Robert Kirk, Jacob Merizian, Abby D'Cruz, Xander Davies",
-            "updated": "2026-04-01T11:53:25"
-          }
-        },
-        {
-          "subject": "The Silicon Mirror: Dynamic Behavioral Gating for Anti-Sycophancy in LLM Agents",
-          "body": "Large Language Models (LLMs) increasingly prioritize user validation over epistemic accuracy-a phenomenon known as sycophancy. We present The Silicon Mirror, an orchestration framework that dynamically detects user persuasion tactics and adjusts AI behavior to maintain factual integrity. Our architecture introduces three components: (1) a Behavioral Access Control (BAC) system that restricts context layer access based on real-time sycophancy risk scores, (2) a Trait Classifier that identifies persuasion tactics across multi-turn dialogues, and (3) a Generator-Critic loop where an auditor vetoes sycophantic drafts and triggers rewrites with \"Necessary Friction.\" In a live evaluation on 50 TruthfulQA adversarial scenarios using Claude Sonnet 4 with an independent LLM judge, we observe vanilla Claude sycophancy at 12.0% (6/50), static guardrails at 4.0% (2/50), and the Silicon Mirror at 2.0% (1/50)-an 83.3% relative reduction (p = 0.112, Fisher's exact test). A cross-model evaluation on Gemini 2.5 Flash reveals a higher baseline sycophancy rate (46.0%) and a statistically significant 69.6% reduction under the Silicon Mirror (p < 0.001). We characterize the validation-before-correction pattern as a distinct failure mode of RLHF-trained models.",
-          "timestamp": "2026-04-01T04:51:28",
-          "url": "https://arxiv.org/abs/2604.00478v1",
-          "extras": {
-            "data_origin": "arXiv",
-            "authors": "Harshee Jignesh Shah",
-            "updated": "2026-04-01T04:51:28"
-          }
-        },
-        {
-          "subject": "VLM-in-the-Loop: A Plug-In Quality Assurance Module for ECG Digitization Pipelines",
-          "body": "ECG digitization could unlock billions of archived clinical records, yet existing methods collapse on real-world images despite strong benchmark numbers. We introduce \\textbf{VLM-in-the-Loop}, a plug-in quality assurance module that wraps any digitization backend with closed-loop VLM feedback via a standardized interface, requiring no modification to the underlying digitizer. The core mechanism is \\textbf{tool grounding}: anchoring VLM assessment in quantitative evidence from domain-specific signal analysis tools. In a controlled ablation on 200 records with paired ground truth, tool grounding raises verdict consistency from 71\\% to 89\\% and doubles fidelity separation ($Δ$PCC 0.03 $\\rightarrow$ 0.08), with the effect replicating across three VLMs (Claude Opus~4, GPT-4o, Gemini~2.5 Pro), confirming a pattern-level rather than model-specific gain. Deployed across four backends, the module improves every one: 29.4\\% of borderline leads improved on our pipeline; 41.2\\% of failed limb leads recovered on ECG-Digitiser; valid leads per image doubled on Open-ECG-Digitizer (2.5 $\\rightarrow$ 5.8). On 428 real clinical HCM images, the integrated system reaches 98.0\\% Excellent quality. Both the plug-in architecture and tool-grounding mechanism are domain-parametric, suggesting broader applicability wherever quality criteria are objectively measurable.",
-          "timestamp": "2026-04-01T02:25:16",
-          "url": "https://arxiv.org/abs/2604.00396v1",
-          "extras": {
-            "data_origin": "arXiv",
-            "authors": "Jiachen Li, Shihao Li, Soovadeep Bakshi, Wei Li, Dongmei Chen",
-            "updated": "2026-04-01T02:25:16"
-          }
-        },
-        {
           "subject": "In harmony with gpt-oss",
           "body": "No one has independently reproduced OpenAI's published scores for gpt-oss-20b with tools, because the original paper discloses neither the tools nor the agent harness. We reverse-engineered the model's in-distribution tools: when prompted without tool definitions, gpt-oss still calls tools from its training distribution with high statistical confidence -- a strong prior, not a hallucination. We then built a native harmony agent harness (https://github.com/borislavmavrin/harmonyagent.git) that encodes messages in the model's native format, bypassing the lossy Chat Completions conversion. Together, these yield the first independent reproduction of OpenAI's published scores: 60.4% on SWE Verified HIGH (published 60.7%), 53.3% MEDIUM (53.2%), and 91.7% on AIME25 with tools (90.4%).",
           "timestamp": "2026-04-01T01:16:13",
@@ -188,39 +277,6 @@
             "data_origin": "arXiv",
             "authors": "Borislav Mavrin",
             "updated": "2026-04-01T01:16:13"
-          }
-        },
-        {
-          "subject": "When Career Data Runs Out: Structured Feature Engineering and Signal Limits for Founder Success Prediction",
-          "body": "Predicting startup success from founder career data is hard. The signal is weak, the labels are rare (9%), and most founders who succeed look almost identical to those who fail. We engineer 28 structured features directly from raw JSON fields -- jobs, education, exits -- and combine them with a deterministic rule layer and XGBoost boosted stumps. Our model achieves Val F0.5 = 0.3030, Precision = 0.3333, Recall = 0.2222 -- a +17.7pp improvement over the zero-shot LLM baseline. We then run a controlled experiment: extract 9 features from the prose field using Claude Haiku, at 67% and 100% dataset coverage. LLM features capture 26.4% of model importance but add zero CV signal (delta = -0.05pp). The reason is structural: anonymised_prose is generated from the same JSON fields we parse directly -- it is a lossy re-encoding, not a richer source. The ceiling (CV ~= 0.25, Val ~= 0.30) reflects the information content of this dataset, not a modeling limitation. In characterizing where the signal runs out and why, this work functions as a benchmark diagnostic -- one that points directly to what a richer dataset would need to include.",
-          "timestamp": "2026-04-01T00:28:53",
-          "url": "https://arxiv.org/abs/2604.00339v1",
-          "extras": {
-            "data_origin": "arXiv",
-            "authors": "Yagiz Ihlamur",
-            "updated": "2026-04-01T00:28:53"
-          }
-        },
-        {
-          "subject": "The Persistent Vulnerability of Aligned AI Systems",
-          "body": "Autonomous AI agents are being deployed with filesystem access, email control, and multi-step planning. This thesis contributes to four open problems in AI safety: understanding dangerous internal computations, removing dangerous behaviors once embedded, testing for vulnerabilities before deployment, and predicting when models will act against deployers.\n  ACDC automates circuit discovery in transformers, recovering all five component types from prior manual work on GPT-2 Small by selecting 68 edges from 32,000 candidates in hours rather than months.\n  Latent Adversarial Training (LAT) removes dangerous behaviors by optimizing perturbations in the residual stream to elicit failure modes, then training under those perturbations. LAT solved the sleeper agent problem where standard safety training failed, matching existing defenses with 700x fewer GPU hours.\n  Best-of-N jailbreaking achieves 89% attack success on GPT-4o and 78% on Claude 3.5 Sonnet through random input augmentations. Attack success follows power law scaling across text, vision, and audio, enabling quantitative forecasting of adversarial robustness.\n  Agentic misalignment tests whether frontier models autonomously choose harmful actions given ordinary goals. Across 16 models, agents engaged in blackmail (96% for Claude Opus 4), espionage, and actions causing death. Misbehavior rates rose from 6.5% to 55.1% when models stated scenarios were real rather than evaluations.\n  The thesis does not fully resolve any of these problems but makes each tractable and measurable.",
-          "timestamp": "2026-03-31T23:49:07",
-          "url": "https://arxiv.org/abs/2604.00324v1",
-          "extras": {
-            "data_origin": "arXiv",
-            "authors": "Aengus Lynch",
-            "updated": "2026-03-31T23:49:07"
-          }
-        },
-        {
-          "subject": "Do Language Models Know When They'll Refuse? Probing Introspective Awareness of Safety Boundaries",
-          "body": "Large language models are trained to refuse harmful requests, but can they accurately predict when they will refuse before responding? We investigate this question through a systematic study where models first predict their refusal behavior, then respond in a fresh context. Across 3754 datapoints spanning 300 requests, we evaluate four frontier models: Claude Sonnet 4, Claude Sonnet 4.5, GPT-5.2, and Llama 3.1 405B. Using signal detection theory (SDT), we find that all models exhibit high introspective sensitivity (d' = 2.4-3.5), but sensitivity drops substantially at safety boundaries. We observe generational improvement within Claude (Sonnet 4.5: 95.7 percent accuracy vs Sonnet 4: 93.0 percent), while GPT-5.2 shows lower accuracy (88.9 percent) with more variable behavior. Llama 405B achieves high sensitivity but exhibits strong refusal bias and poor calibration, resulting in lower overall accuracy (80.0 percent). Topic-wise analysis reveals weapons-related queries are consistently hardest for introspection. Critically, confidence scores provide actionable signal: restricting to high-confidence predictions yields 98.3 percent accuracy for well-calibrated models, enabling practical confidence-based routing for safety-critical deployments.",
-          "timestamp": "2026-03-31T20:49:34",
-          "url": "https://arxiv.org/abs/2604.00228v1",
-          "extras": {
-            "data_origin": "arXiv",
-            "authors": "Tanay Gondil",
-            "updated": "2026-03-31T20:49:34"
           }
         }
       ]
@@ -239,166 +295,7 @@
           }
         }
       ]
-    },
-    "projects": {
-      "count": 14,
-      "items": [
-        {
-          "subject": "wanshuiyin/Auto-claude-code-research-in-sleep",
-          "body": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
-          "timestamp": "2026-03-28T08:10:30",
-          "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-          "extras": {
-            "language": "Python",
-            "topics": "ai-research, ai-tools, aris, autonomous-agent, claude, claude-code, claude-code-skills, codex, deep-learning, gpt, idea-generation, llm, machine-learning, mcp, mcp-server, ml-research, openai, paper-review, paper-writing, research-automation",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "jingyaogong/minimind",
-          "body": "🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!",
-          "timestamp": "2026-03-28T07:36:27",
-          "url": "https://github.com/jingyaogong/minimind",
-          "extras": {
-            "language": "Python",
-            "topics": "artificial-intelligence, large-language-model",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "unslothai/unsloth",
-          "body": "Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
-          "timestamp": "2026-03-28T07:26:14",
-          "url": "https://github.com/unslothai/unsloth",
-          "extras": {
-            "language": "Python",
-            "topics": "agent, deepseek, fine-tuning, gemma, gemma3, gpt-oss, llama, llama3, llm, llms, mistral, openai, qwen, reinforcement-learning, self-hosted, text-to-speech, tts, ui, unsloth",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "rasbt/LLMs-from-scratch",
-          "body": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-          "timestamp": "2026-03-28T07:12:05",
-          "url": "https://github.com/rasbt/LLMs-from-scratch",
-          "extras": {
-            "language": "Jupyter Notebook",
-            "topics": "ai, artificial-intelligence, chatbot, chatgpt, deep-learning, from-scratch, generative-ai, gpt, language-model, large-language-models, llm, machine-learning, neural-networks, python, pytorch, transformers",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "hiyouga/LlamaFactory",
-          "body": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
-          "timestamp": "2026-03-28T07:11:46",
-          "url": "https://github.com/hiyouga/LlamaFactory",
-          "extras": {
-            "language": "Python",
-            "topics": "agent, ai, deepseek, fine-tuning, gemma, gpt, instruction-tuning, large-language-models, llama, llama3, llm, lora, moe, nlp, peft, qlora, quantization, qwen, rlhf, transformers",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "promptslab/Awesome-Prompt-Engineering",
-          "body": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ",
-          "timestamp": "2026-03-28T07:08:19",
-          "url": "https://github.com/promptslab/Awesome-Prompt-Engineering",
-          "extras": {
-            "language": "TypeScript",
-            "topics": "chatgpt, chatgpt-api, deep-learning, few-shot-learning, gpt, gpt-3, machine-learning, openai, prompt, prompt-based-learning, prompt-engineering, prompt-generator, prompt-learning, prompt-toolkit, prompt-tuning, promptengineering, text-to-image, text-to-speech, text-to-video",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "OpenRLHF/OpenRLHF",
-          "body": "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ & TIS & vLLM & Ray & Async  RL)",
-          "timestamp": "2026-03-28T07:08:19",
-          "url": "https://github.com/OpenRLHF/OpenRLHF",
-          "extras": {
-            "language": "Python",
-            "topics": "large-language-models, openai-o1, proximal-policy-optimization, raylib, reinforcement-learning, reinforcement-learning-from-human-feedback, transformers, vllm",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "enricoros/big-AGI",
-          "body": "AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.",
-          "timestamp": "2026-03-28T07:08:04",
-          "url": "https://github.com/enricoros/big-AGI",
-          "extras": {
-            "language": "TypeScript",
-            "topics": "agi, ai-agents, ai-suite, ai-workspace, anthropic-api, deepseek-api, gemini-api, gpt, gpt-5, librechat, multi-modal, multi-model, nano-banana, openai-responses-api, openwebui, perplexity-api, sonnet-4-5, xai-api",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "shibing624/MedicalGPT",
-          "body": "MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。",
-          "timestamp": "2026-03-28T06:44:11",
-          "url": "https://github.com/shibing624/MedicalGPT",
-          "extras": {
-            "language": "Python",
-            "topics": "chatgpt, dpo, gpt, llama, llm, medical, medicalgpt",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "emmetsite342/visual-transformer-guide",
-          "body": "Explain how Transformer AI models work with an interactive, beginner-friendly guide covering key concepts from tokenization to image generation.",
-          "timestamp": "2026-03-28T05:46:33",
-          "url": "https://github.com/emmetsite342/visual-transformer-guide",
-          "extras": {
-            "language": "HTML",
-            "topics": "ai, ai-education, attention-mechanism, efficient-inference, finegrained, foundation-model, gpt, large-language-models-and-translation-systems, llm, machine-learning, multi-modal-fusion, neural-networks, pedestrian-attribute-recognition, pytorch, recognition, video-based-attribute-recognition, visual-geometry-estimation, visual-learning, visual-reasoning, vqa",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "InternLM/xtuner",
-          "body": "A Next-Generation Training Engine Built for Ultra-Large MoE Models",
-          "timestamp": "2026-03-28T05:00:38",
-          "url": "https://github.com/InternLM/xtuner",
-          "extras": {
-            "language": "Python",
-            "topics": "agent, deepseek-v3, gpt-oss, intern-s1, internvl, kimi-k2, llm, multimodal, qwen3-moe, qwen3-vl, reinforcement-learning",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "Tberke0/go-llm",
-          "body": "🤖 Simulate AI with go-llm, your unified Go SDK for various Large Language Models, enabling seamless application development with a clean, fluent API.",
-          "timestamp": "2026-03-28T04:56:41",
-          "url": "https://github.com/Tberke0/go-llm",
-          "extras": {
-            "language": "Go",
-            "topics": "agi, ai, anthropic, desktop-app, dspy, electron, embeddings, generative-ai, go, gpt, grok, index, openai, pinecone, pipeline, prompt, prompt-engineering, structured-output, windows",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "SesethuNkqenkqa/veritas-ai",
-          "body": "🤖 Build and audit AI models with VeritasAI, ensuring fairness, explainability, and ethical governance throughout the machine learning lifecycle.",
-          "timestamp": "2026-03-28T04:48:10",
-          "url": "https://github.com/SesethuNkqenkqa/veritas-ai",
-          "extras": {
-            "language": "Python",
-            "topics": "agents, agi, ai-safety, algorithmic, computer-vision, explainable-ai, fastapi, finance, interpretable-ai, llm, llm-agents, memory, memoryos, molmo, openai, proro-agi, trustlog, veritas-os, worldmodel",
-            "data_origin": "GitHub"
-          }
-        },
-        {
-          "subject": "TencentCloudADP/youtu-agent",
-          "body": "A simple yet powerful agent framework that delivers with open-source models",
-          "timestamp": "2026-03-28T04:33:30",
-          "url": "https://github.com/TencentCloudADP/youtu-agent",
-          "extras": {
-            "language": "Python",
-            "topics": "agent-framework, agents, openai-agents, python",
-            "data_origin": "GitHub"
-          }
-        }
-      ]
     }
   },
-  "summary": "Here are 4-6 key OpenAI-related developments with insight:\n\n* **OpenAI Raises $122 Billion in New Funding**: OpenAI has secured $122 billion in new funding to expand its frontier AI capabilities, invest in next-generation compute, and meet growing demand for ChatGPT and Codex.\n* **Codex Now Offers Flexible Pricing for Teams**: Codex, a large language model developed by OpenAI, now offers pay-as-you-go pricing for businesses and enterprises, providing a more flexible option for teams to start and scale adoption.\n* **OpenAI Acquires TBPN**: OpenAI has acquired TBPN, a media company focused on independent media and AI-related conversations, to accelerate global conversations around AI and support independent media.\n* **New Research on Large Language Models**: Researchers have published several papers on large language models, including a study on the efficiency of training large language models, a paper on the security risks of AI-generated code, and a work on the organizational structure of multi-agent systems.\n* **OpenAI Workshops on AI for Disaster Response**: OpenAI has hosted a workshop with the Gates Foundation on AI for disaster response in Asia, focusing on how AI can help disaster response teams turn data into action.\n* **NVIDIA's Gemma-4 Accelerates Large Language Model Training**: NVIDIA's Gemma-4 AI chip has been used to accelerate the training of large language models, enabling faster and more efficient training of these complex models.\n\nTrend: **Increasing Investment in AI and Large Language Models**: The trend in the AI and machine learning community is to invest heavily in large language models and related infrastructure, with OpenAI, NVIDIA, and other companies pouring billions of dollars into research and development. This trend is likely to continue as the demand for AI applications grows and the potential for large language models to transform various industries becomes more apparent."
+  "summary": "**Key Developments and Trends:**\n\n* **OpenAI's Expansion**: OpenAI has raised $122 billion in new funding to expand its frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.\n* **NVIDIA's Advances**: NVIDIA has announced several advancements in AI, including the Gemma 4-31B-IT-NVFP4 model, and has expanded its AI ecosystem through partnerships with companies like Marvell.\n* **AWS' Agentic AI**: Amazon Web Services (AWS) has been actively promoting agentic AI, with various announcements and blog posts on topics such as AI risk intelligence, governance, and scaling.\n* **GPT-NL Public Corpus**: A new Dutch-language dataset has been released, which is permissively licensed and includes 36B preprocessed Dutch tokens, making it a valuable resource for language model pre-training.\n* **OrgAgent Framework**: A new hierarchical multi-agent framework has been introduced, which separates collaboration into governance, execution, and compliance layers, and has been shown to outperform other organizational structures in various settings.\n* **AI Reproducibility**: Researchers have successfully reproduced OpenAI's published scores for the gpt-oss-20b model using a reverse-engineered agent harness, highlighting the importance of reproducibility in AI research.\n\n**Trend:**\n\n* **Agentic AI**: The trend of agentic AI, which involves the development of AI systems that can make decisions, take actions, and interact with humans in a more autonomous and adaptive way, is gaining momentum. This trend is being driven by advancements in areas such as multi-agent systems, natural language processing, and computer vision. As agentic AI continues to evolve, we can expect to see more sophisticated AI systems that can learn, reason, and interact with humans in more complex and nuanced ways."
 }
