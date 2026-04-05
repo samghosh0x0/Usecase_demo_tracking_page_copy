@@ -1,10 +1,19 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-05T04:39:23.791Z",
+  "timestamp": "2026-04-05T23:49:41.284Z",
   "categories": {
     "news": {
-      "count": 26,
+      "count": 25,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Influcio",
+          "body": "AI marketing Agent for result-driven influencer campaign",
+          "timestamp": "2026-04-05T14:00:02",
+          "url": "https://www.producthunt.com/products/influcio-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: MAI-Transcribe-1",
           "body": "Production ASR for noisy multilingual audio",
@@ -87,10 +96,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Slackbot",
-          "body": "Team up with your AI teammate in the all-new Slack",
+          "subject": "Product Hunt Launch: Ollama v0.19",
+          "body": "Massive local model speedup on Apple Silicon with MLX",
           "timestamp": "2026-04-01T14:00:02",
-          "url": "https://www.producthunt.com/products/slack",
+          "url": "https://www.producthunt.com/products/ollama",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -114,10 +123,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Ollama v0.19",
-          "body": "Massive local model speedup on Apple Silicon with MLX",
+          "subject": "Product Hunt Launch: Slackbot",
+          "body": "Team up with your AI teammate in the all-new Slack",
           "timestamp": "2026-04-01T14:00:02",
-          "url": "https://www.producthunt.com/products/ollama",
+          "url": "https://www.producthunt.com/products/slack",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -168,6 +177,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: dictate.",
+          "body": "Replace your iPhone keyboard with AI voice typing",
+          "timestamp": "2026-03-30T14:00:01",
+          "url": "https://www.producthunt.com/products/dictate",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Bluor AI",
           "body": "Beautiful emails, in seconds",
           "timestamp": "2026-03-30T14:00:01",
@@ -211,36 +229,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: dictate.",
-          "body": "Replace your iPhone keyboard with AI voice typing",
-          "timestamp": "2026-03-30T14:00:01",
-          "url": "https://www.producthunt.com/products/dictate",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: CodingPrep",
-          "body": "Open Source coding interview prep tool with AI interviewer",
-          "timestamp": "2026-03-29T14:00:01",
-          "url": "https://www.producthunt.com/products/codingprep",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: GuideYou",
-          "body": "Guidance for everyday technology",
-          "timestamp": "2026-03-29T14:00:01",
-          "url": "https://www.producthunt.com/products/guideyou",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 bullet points summarizing key OpenAI related developments with insight:\n\n* **ChatGPT on CarPlay**: OpenAI's ChatGPT has been integrated with CarPlay, allowing users to interact with the conversational AI system hands-free while driving. This development indicates OpenAI's continued focus on making its technology more accessible and user-friendly.\n* **Product Hunt Launches**: Several products related to OpenAI have been launched on Product Hunt, a platform for discovering and sharing new products and technologies. These launches include products like MAI-Transcribe-1, Google Vids 2.0, and ChatGPT on CarPlay, which demonstrate the growing interest in OpenAI-related technologies.\n* **Mesh LLM**: OpenAI has launched Mesh LLM, a product that allows users to pool compute to run powerful open models. This development suggests that OpenAI is investing in infrastructure and tools to support the growth of its large language models (LLMs).\n* **Arlopass**: Arlopass is an AI wallet that allows web apps to use users' models without requiring their keys. This product indicates OpenAI's interest in developing more secure and user-friendly ways to access and use its technology.\n* **Gallifai**: Gallifai is a speedy conversational AI system that has been launched on Product Hunt. This product demonstrates the growing interest in conversational AI and suggests that OpenAI is competing with other companies to develop more efficient and effective conversational AI systems.\n\nTrend: **Increased focus on accessibility and usability**: OpenAI's recent developments, such as ChatGPT on CarPlay and Mesh LLM, suggest that the company is prioritizing making its technology more accessible and user-friendly. This trend is likely driven by OpenAI's goal of making its technology more widely adopted and used by a broader range of people."
+  "summary": "Here are 4-6 key developments in OpenAI-related news, along with a trend:\n\n**Developments:**\n\n* **ChatGPT on CarPlay:** ChatGPT, an AI assistant developed by OpenAI, is now available on CarPlay, allowing users to have hands-free conversations with the assistant while driving.\n* **HoloTutor by VictoryXR:** HoloTutor is an immersive AI-powered tutoring platform that uses augmented reality to make learning more interactive and engaging.\n* **Mesh LLM:** Mesh LLM is a platform that enables users to pool their computational resources to run powerful open models, allowing for more efficient and scalable AI development.\n* **FindThem:** FindThem is an AI-powered profile search tool that provides access to enriched LinkedIn data and web data, making it easier to search and find relevant information.\n* **WP Copilot:** WP Copilot is an agentic AI copilot built specifically for WordPress, enabling users to quickly and easily create content with the help of AI.\n* **GLM-5V-Turbo:** GLM-5V-Turbo is a vision-to-code foundation model for real GUI automation, allowing developers to automate tasks and create GUIs more efficiently.\n\n**Trend:** The trend in OpenAI-related news is towards **increased accessibility and integration of AI-powered tools and services**. Many of the recently launched products and features focus on making AI more user-friendly, efficient, and accessible to a wider audience. This includes integrations with existing platforms (e.g. CarPlay, WordPress), ease of use (e.g. HoloTutor), and increased scalability (e.g. Mesh LLM). As AI technology continues to advance, we can expect to see more innovations in this area."
 }
