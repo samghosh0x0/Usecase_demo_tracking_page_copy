@@ -1,10 +1,28 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-05T01:47:23.760Z",
+  "timestamp": "2026-04-05T02:15:28.287Z",
   "categories": {
     "news": {
-      "count": 25,
+      "count": 26,
       "items": [
+        {
+          "subject": "Product Hunt Launch: MAI-Transcribe-1",
+          "body": "Production ASR for noisy multilingual audio",
+          "timestamp": "2026-04-03T14:00:02",
+          "url": "https://www.producthunt.com/products/mai-image-2-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Google Vids 2.0",
+          "body": "Create, edit and share videos at no cost w/ new AI features...",
+          "timestamp": "2026-04-03T14:00:02",
+          "url": "https://www.producthunt.com/products/google",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: ChatGPT on CarPlay",
           "body": "ChatGPT voice in CarPlay for hands-free driving AI on the go Discussion...",
@@ -15,287 +33,214 @@
           }
         },
         {
-          "subject": "AWS: Control which domains your AI agents can access",
-          "body": "AI agents that can browse the web open powerful possibilities—from research automation...",
-          "timestamp": "2026-04-03T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/",
+          "subject": "Product Hunt Launch: HoloTutor by VictoryXR",
+          "body": "The immersive AI tutor",
+          "timestamp": "2026-04-03T14:00:02",
+          "url": "https://www.producthunt.com/products/holotutor-by-victoryxr",
           "extras": {
-            "data_origin": "AWS AI News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "AWS: Scaling seismic foundation models on AWS: Distributed training with Amazon SageMaker HyperPod and expanding context windows",
-          "body": "This post is cowritten with Altay Sansal and Alejandro Valenciano from TGS...",
-          "timestamp": "2026-04-03T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/",
+          "subject": "Product Hunt Launch: FindThem",
+          "body": "AI Profile Search Across LinkedIn enriched with Web Data",
+          "timestamp": "2026-04-03T14:00:02",
+          "url": "https://www.producthunt.com/products/findthem",
           "extras": {
-            "data_origin": "AWS AI News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "AWS: Simulate realistic users to evaluate multi-turn AI agents in Strands Evals",
-          "body": "Evaluating single-turn agent interactions follows a pattern that most teams understand well...",
-          "timestamp": "2026-04-03T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/",
+          "subject": "Product Hunt Launch: Mesh LLM",
+          "body": "Pool compute to run powerful open models",
+          "timestamp": "2026-04-03T14:00:02",
+          "url": "https://www.producthunt.com/products/mesh-llm",
           "extras": {
-            "data_origin": "AWS AI News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
-          "body": "Open models are driving a new wave of on-device AI, extending innovation...",
-          "timestamp": "2026-04-03T04:00:01",
-          "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/",
-          "extras": {
-            "data_origin": "NVIDIA News"
-          }
-        },
-        {
-          "subject": "Codex now offers more flexible pricing for teams",
-          "body": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
-          "timestamp": "2026-04-03T04:00:01",
-          "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-          "extras": {
-            "data_origin": "OpenAI News"
-          }
-        },
-        {
-          "subject": "OpenAI acquires TBPN",
-          "body": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
-          "timestamp": "2026-04-03T04:00:01",
-          "url": "https://openai.com/index/openai-acquires-tbpn",
-          "extras": {
-            "data_origin": "OpenAI News"
-          }
-        },
-        {
-          "subject": "AWS: Persist session state with filesystem configuration and execute shell commands",
-          "body": "AI agents have evolved significantly beyond chat. Writing code, persist filesystem state...",
+          "subject": "Product Hunt Launch: tama96",
+          "body": "A Tamagotchi for your terminal, desktop, and AI agents",
           "timestamp": "2026-04-02T14:00:02",
-          "url": "https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/",
+          "url": "https://www.producthunt.com/products/tama96-desktop-terminal-ai-pet",
           "extras": {
-            "data_origin": "AWS AI News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "AWS: Rocket Close transforms mortgage document processing with Amazon Bedrock and Amazon Textract",
-          "body": "This post is cowritten by Jeremy Little and Chris Day from Rocket...",
+          "subject": "Product Hunt Launch: WP Copilot",
+          "body": "Agentic AI copilot built for WordPress",
           "timestamp": "2026-04-02T14:00:02",
-          "url": "https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/",
+          "url": "https://www.producthunt.com/products/wp-copilot",
           "extras": {
-            "data_origin": "AWS AI News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "AWS: Automating competitive price intelligence with Amazon Nova Act",
-          "body": "Monitoring competitor prices is essential for ecommerce teams to maintain a market...",
-          "timestamp": "2026-04-02T04:00:02",
-          "url": "https://aws.amazon.com/blogs/machine-learning/automating-competitive-price-intelligence-with-amazon-nova-act/",
+          "subject": "Product Hunt Launch: GLM-5V-Turbo",
+          "body": "Vision-to-code foundation model for real GUI automation",
+          "timestamp": "2026-04-02T14:00:02",
+          "url": "https://www.producthunt.com/products/z-ai",
           "extras": {
-            "data_origin": "AWS AI News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "AWS: Accelerating software delivery with agentic QA automation using Amazon Nova Act",
-          "body": "Quality assurance (QA) automation is critical for modern software delivery. It catches...",
-          "timestamp": "2026-04-01T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act/",
+          "subject": "Product Hunt Launch: Slackbot",
+          "body": "Team up with your AI teammate in the all-new Slack",
+          "timestamp": "2026-04-01T14:00:02",
+          "url": "https://www.producthunt.com/products/slack",
           "extras": {
-            "data_origin": "AWS AI News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "AWS: Can your governance keep pace with your AI ambitions? AI risk intelligence in the agentic era",
-          "body": "Dev: Ops used to be predictable: same input, same output, binary success, static...",
-          "timestamp": "2026-04-01T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/can-your-governance-keep-pace-with-your-ai-ambitions-ai-risk-intelligence-in-the-agentic-era/",
+          "subject": "Product Hunt Launch: Ray-Ban Meta G2 Blayzer & Scriber Optics",
+          "body": "Meta's first AI glasses built for prescriptions",
+          "timestamp": "2026-04-01T14:00:02",
+          "url": "https://www.producthunt.com/products/ray-ban-meta-g2-blayzer-scriber-optics",
           "extras": {
-            "data_origin": "AWS AI News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "AWS: AWS launches frontier agents for security testing and cloud operations",
-          "body": "I’m excited to announce that AWS Security Agent on-demand penetration testing and...",
-          "timestamp": "2026-04-01T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
+          "subject": "Product Hunt Launch: Baton",
+          "body": "Orchestrate your AI coding agents",
+          "timestamp": "2026-04-01T14:00:02",
+          "url": "https://www.producthunt.com/products/baton-2",
           "extras": {
-            "data_origin": "AWS AI News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "AWS: Building an AI powered system for compliance evidence collection",
-          "body": "Compliance audits require comprehensive evidence trails, often involving hundreds of screenshots across...",
-          "timestamp": "2026-04-01T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-system-for-compliance-evidence-collection/",
+          "subject": "Product Hunt Launch: Ollama v0.19",
+          "body": "Massive local model speedup on Apple Silicon with MLX",
+          "timestamp": "2026-04-01T14:00:02",
+          "url": "https://www.producthunt.com/products/ollama",
           "extras": {
-            "data_origin": "AWS AI News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "AWS: Build a FinOps agent using Amazon Bedrock AgentCore",
-          "body": "Managing costs across multiple AWS accounts often requires finance teams to query...",
-          "timestamp": "2026-04-01T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/",
-          "extras": {
-            "data_origin": "AWS AI News"
-          }
-        },
-        {
-          "subject": "AWS: Build reliable AI agents with Amazon Bedrock AgentCore Evaluations",
-          "body": "Your AI agent worked in the demo, impressed stakeholders, handled test scenarios...",
-          "timestamp": "2026-04-01T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-agents-with-amazon-bedrock-agentcore-evaluations/",
-          "extras": {
-            "data_origin": "AWS AI News"
-          }
-        },
-        {
-          "subject": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
-          "body": "CERAWeek — dubbed the Davos of energy — is where policymakers, producers...",
-          "timestamp": "2026-04-01T04:00:01",
-          "url": "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/",
-          "extras": {
-            "data_origin": "NVIDIA News"
-          }
-        },
-        {
-          "subject": "Accelerating the next phase of AI",
-          "body": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-          "timestamp": "2026-04-01T04:00:01",
-          "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-          "extras": {
-            "data_origin": "OpenAI News"
-          }
-        },
-        {
-          "subject": "NVIDIA AI Ecosystem Expands as Marvell Joins Forces Through NVLink Fusion",
-          "body": "Collaboration Delivers Greater Choice and Flexibility for Customers and Fully Compatible With...",
+          "subject": "Product Hunt Launch: Arlopass",
+          "body": "AI wallet that lets web apps use your models, not your keys...",
           "timestamp": "2026-03-31T14:00:02",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
+          "url": "https://www.producthunt.com/products/arlopass",
           "extras": {
-            "data_origin": "NVIDIA News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Nvidia’s Jensen Huang says ‘We’ve achieved AGI.’ But no one can agree on what that means. Why the most important term in tech remains hotly debated.",
-          "body": "Nvidia’s Jensen Huang said last week that ‘AGI has already been achieved.’ Recent research says it hasn’t been—and proposes new ways to measure it.",
+          "subject": "Product Hunt Launch: Gallifai",
+          "body": "Speedy conversational AI",
           "timestamp": "2026-03-31T14:00:02",
-          "url": "https://fortune.com/2026/03/30/agi-definition-jensen-huang-lex-fridman-deepmind-turing-text-cognitive-taxonomy/",
+          "url": "https://www.producthunt.com/products/gallifai",
           "extras": {
-            "data_origin": "Fortune"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "AWS: Deliver hyper-personalized viewer experiences with an agentic AI movie assistant using Amazon Bedrock AgentCore and Amazon Nova Sonic 2.0",
-          "body": "Deliver hyperpersonalized viewer experiences with an agentic AI movie assistant using Amazon...",
-          "timestamp": "2026-03-31T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/deliver-hyper-personalized-viewer-experiences-with-an-agentic-ai-movie-assistant-using-amazon-bedrock-agentcore-and-amazon-nova-sonic-2-0/",
+          "subject": "Product Hunt Launch: Autoclaw",
+          "body": "One-click Openclaw set up by Z. AI",
+          "timestamp": "2026-03-31T14:00:02",
+          "url": "https://www.producthunt.com/products/autoclaw",
           "extras": {
-            "data_origin": "AWS AI News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "AWS: Build a solar flare detection system on SageMaker AI LSTM networks and ESA STIX data",
-          "body": "The effective monitoring and characterization of solar flares demands sophisticated analysis of...",
-          "timestamp": "2026-03-31T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/",
+          "subject": "Product Hunt Launch: JobFlow",
+          "body": "Your AI co-pilot for job hunting",
+          "timestamp": "2026-03-31T14:00:02",
+          "url": "https://www.producthunt.com/products/jobflow-2",
           "extras": {
-            "data_origin": "AWS AI News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "AWS: Reimagine marketing at Volkswagen Group with generative AI",
-          "body": "This post is cowritten by Sebastian Angersbach, Philip Trempler, and Weiran Zhang...",
-          "timestamp": "2026-03-31T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/reimagine-marketing-at-volkswagen-group-with-generative-ai/",
+          "subject": "Product Hunt Launch: OpenClawCloud",
+          "body": "The turn key OpenClaw solution with unlimited LLM tokens",
+          "timestamp": "2026-03-31T14:00:02",
+          "url": "https://www.producthunt.com/products/openclawcloud",
           "extras": {
-            "data_origin": "AWS AI News"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "AWS: How Ring scales global customer support with Amazon Bedrock Knowledge Bases",
-          "body": "This post is cowritten with David Kim, and Premjit Singh from Ring...",
-          "timestamp": "2026-03-31T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/how-ring-scales-global-customer-support-with-amazon-bedrock-knowledge-bases/",
-          "extras": {
-            "data_origin": "AWS AI News"
-          }
-        },
-        {
-          "subject": "Helping disaster response teams turn AI into action across Asia",
-          "body": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+          "subject": "Product Hunt Launch: Bluor AI",
+          "body": "Beautiful emails, in seconds",
           "timestamp": "2026-03-30T14:00:01",
-          "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+          "url": "https://www.producthunt.com/products/bluor-ai",
           "extras": {
-            "data_origin": "OpenAI News"
-          }
-        }
-      ]
-    },
-    "papers": {
-      "count": 4,
-      "items": [
-        {
-          "subject": "Test-Time Scaling Makes Overtraining Compute-Optimal",
-          "body": "Modern LLMs scale at test-time, e.g. via repeated sampling, where inference cost grows with model size and the number of samples. This creates a trade-off that pretraining scaling laws, such as Chinchilla, do not address. We present Train-to-Test ($T^2$) scaling laws that jointly optimize model size, training tokens, and number of inference samples under fixed end-to-end budgets. $T^2$ modernizes pretraining scaling laws with pass@$k$ modeling used for test-time scaling, then jointly optimizes pretraining and test-time decisions. Forecasts from $T^2$ are robust over distinct modeling approaches: measuring joint scaling effect on the task loss and modeling impact on task accuracy. Across eight downstream tasks, we find that when accounting for inference cost, optimal pretraining decisions shift radically into the overtraining regime, well-outside of the range of standard pretraining scaling suites. We validate our results by pretraining heavily overtrained models in the optimal region that $T^2$ scaling forecasts, confirming their substantially stronger performance compared to pretraining scaling alone. Finally, as frontier LLMs are post-trained, we show that our findings survive the post-training stage, making $T^2$ scaling meaningful in modern deployments.",
-          "timestamp": "2026-04-01T21:17:32",
-          "url": "https://arxiv.org/abs/2604.01411v1",
-          "extras": {
-            "data_origin": "arXiv",
-            "authors": "Nicholas Roberts, Sungjun Cho, Zhiqi Gao, Tzu-Heng Huang, Albert Wu, Gabriel Orlanski, Avi Trost, Kelly Buchanan, Aws Albarghouthi, Frederic Sala",
-            "updated": "2026-04-01T21:17:32"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "OrgAgent: Organize Your Multi-Agent System like a Company",
-          "body": "While large language model-based multi-agent systems have shown strong potential for complex reasoning, how to effectively organize multiple agents remains an open question. In this paper, we introduce OrgAgent, a company-style hierarchical multi-agent framework that separates collaboration into governance, execution, and compliance layers. OrgAgent decomposes multi-agent reasoning into three layers: a governance layer for planning and resource allocation, an execution layer for task solving and review, and a compliance layer for final answer control. By evaluating the framework across reasoning tasks, LLMs, execution modes, and execution policies, we find that multi-agent systems organized in a company-style hierarchy generally outperform other organizational structures. Besides, hierarchical coordination also reduces token consumption relative to flat collaboration in most settings. For example, for GPT-OSS-120B, the hierarchical setting improves performance over flat multi-agent system by 102.73% while reducing token usage by 74.52% on SQuAD 2.0. Further analysis shows that hierarchy helps most when tasks benefit from stable skill assignment, controlled information flow, and layered verification. Overall, our findings highlight organizational structure as an important factor in multi-agent reasoning, shaping not only effectiveness and cost, but also coordination behavior.",
-          "timestamp": "2026-04-01T15:21:14",
-          "url": "https://arxiv.org/abs/2604.01020v1",
+          "subject": "Product Hunt Launch: Latchkey",
+          "body": "Credential layer for local AI agents",
+          "timestamp": "2026-03-30T14:00:01",
+          "url": "https://www.producthunt.com/products/imbue-7",
           "extras": {
-            "data_origin": "arXiv",
-            "authors": "Yiru Wang, Xinyue Shen, Yaohui Han, Michael Backes, Pin-Yu Chen, Tsung-Yi Ho",
-            "updated": "2026-04-01T15:21:14"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "GPT-NL Public Corpus: A Permissively Licensed, Dutch-First Dataset for LLM Pre-training",
-          "body": "We present the GPT-NL Public Corpus, the biggest permissively licensed corpus of Dutch language resources. The GPT-NL Public Corpus contains 21 Dutch-only collections totalling 36B preprocessed Dutch tokens not present in any other LLM pretraining corpus. Additionally, the corpus includes roughly 207B English, 232B Code, and 48B German/Danish tokens taken from existing sets which we further curated for compliance. This corpus includes curated data from large existing corpora like Common Corpus and Common Crawl, as well as newly created Dutch-specific collections. Most newly created Dutch collections consist of content collected in collaboration with organisations or synthetically augmented content. All data is collected and evaluated with the aim of facilitating the creation of (commercial) language models that are lawful, useful and non-harmful. All data included in the GPT-NL Public Corpus is sourced from datasets with permissive licensing and is curated and redistributed under a CC-BY license. The full dataset is publicly available on the Hugging Face Hub.",
-          "timestamp": "2026-04-01T14:00:53",
-          "url": "https://arxiv.org/abs/2604.00920v1",
+          "subject": "Product Hunt Launch: Neuralingo Language Learning",
+          "body": "slowly inch your way to mastery: try, fail, learn, get good Discussion...",
+          "timestamp": "2026-03-30T14:00:01",
+          "url": "https://www.producthunt.com/products/neuralingo-language-learning",
           "extras": {
-            "data_origin": "arXiv",
-            "authors": "Jesse van Oort, Frank Brinkkemper, Erik de Graaf, Bram Vanroy, Saskia Lensink",
-            "updated": "2026-04-01T14:00:53"
+            "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "In harmony with gpt-oss",
-          "body": "No one has independently reproduced OpenAI's published scores for gpt-oss-20b with tools, because the original paper discloses neither the tools nor the agent harness. We reverse-engineered the model's in-distribution tools: when prompted without tool definitions, gpt-oss still calls tools from its training distribution with high statistical confidence -- a strong prior, not a hallucination. We then built a native harmony agent harness (https://github.com/borislavmavrin/harmonyagent.git) that encodes messages in the model's native format, bypassing the lossy Chat Completions conversion. Together, these yield the first independent reproduction of OpenAI's published scores: 60.4% on SWE Verified HIGH (published 60.7%), 53.3% MEDIUM (53.2%), and 91.7% on AIME25 with tools (90.4%).",
-          "timestamp": "2026-04-01T01:16:13",
-          "url": "https://arxiv.org/abs/2604.00362v1",
+          "subject": "Product Hunt Launch: FitnessAi",
+          "body": "One Stop Fitness Hub for health and fitness",
+          "timestamp": "2026-03-30T14:00:01",
+          "url": "https://www.producthunt.com/products/fitnessai-3",
           "extras": {
-            "data_origin": "arXiv",
-            "authors": "Borislav Mavrin",
-            "updated": "2026-04-01T01:16:13"
+            "data_origin": "Product Hunt"
           }
-        }
-      ]
-    },
-    "models": {
-      "count": 1,
-      "items": [
+        },
         {
-          "subject": "nvidia/Gemma-4-31B-IT-NVFP4",
-          "body": "[\"Model Optimizer\", \"safetensors\", \"gemma4\", \"nvidia\", \"ModelOpt\", \"Gemma-4-31B-IT\", \"lighthouse\", \"quantized\", \"NVFP4\", \"text-generation\", \"conversational\", \"base_model:google/gemma-4-31B-it\", \"base_model:quantized:google/gemma-4-31B-it\", \"license:other\", \"modelopt\", \"region:us\"]",
-          "timestamp": "2026-04-02T19:47:50",
-          "url": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
+          "subject": "Product Hunt Launch: ClawKing",
+          "body": "On-chain AI battle royale where 8 lobsters fight",
+          "timestamp": "2026-03-30T14:00:01",
+          "url": "https://www.producthunt.com/products/clawking",
           "extras": {
-            "data_origin": "huggingface",
-            "namespace": "nvidia"
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: dictate.",
+          "body": "Replace your iPhone keyboard with AI voice typing",
+          "timestamp": "2026-03-30T14:00:01",
+          "url": "https://www.producthunt.com/products/dictate",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: CodingPrep",
+          "body": "Open Source coding interview prep tool with AI interviewer",
+          "timestamp": "2026-03-29T14:00:01",
+          "url": "https://www.producthunt.com/products/codingprep",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: GuideYou",
+          "body": "Guidance for everyday technology",
+          "timestamp": "2026-03-29T14:00:01",
+          "url": "https://www.producthunt.com/products/guideyou",
+          "extras": {
+            "data_origin": "Product Hunt"
           }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 key OpenAI related developments with insight, along with one trend:\n\n**Developments:**\n\n* **Integration with Apple CarPlay:** OpenAI's ChatGPT is now available on Apple CarPlay, allowing users to interact with the AI model hands-free in their vehicles.\n* **Flexible Pricing for Codex:** OpenAI has introduced pay-as-you-go pricing for Codex, its AI-powered coding tool, to provide teams with a more flexible option to incorporate the technology into their workflows.\n* **Acquisition of TBPN:** OpenAI has acquired TBPN, a company focused on supporting independent media and facilitating global conversations around AI, to enhance its reach and partnerships in the industry.\n* **Advancements in AGI:** OpenAI has been at the forefront of advancements in Artificial General Intelligence (AGI), a term that has been widely debated in the tech industry. While some claim that AGI has already been achieved, others argue that it remains a subject of research and development.\n\n**Trend:**\n\n**The Rise of On-Device AI:** The trend is clear: AI is no longer confined to the cloud, but is increasingly being deployed on-device, where users can interact with it in a more intuitive and hands-free manner. OpenAI's ChatGPT on CarPlay and other developments in on-device AI, such as NVIDIA's Gemma 4 model, demonstrate the industry's increasing focus on making AI more ubiquitous and accessible.\n\nNote that some of the other developments mentioned in the original text, such as AWS's advancements in AI and NVIDIA's partnerships, are not specifically related to OpenAI but are part of the broader AI ecosystem."
+  "summary": "Here are the key OpenAI related developments with insights:\n\n• **ChatGPT on CarPlay**: OpenAI has made its ChatGPT voice assistant available on CarPlay, enabling users to interact with the AI assistant while driving.\n• **MAI-Transcribe-1**: OpenAI has launched a production ASR (Automatic Speech Recognition) model for noisy multilingual audio, reportedly facilitating multilingual interactions.\n\nThese developments reflect a focus on making AI assistants more widely available and easier to use, particularly in everyday situations such as driving or interacting with noisy audio.\n\nInsights:\n\n* **Advancements in AI Assistants**: These developments demonstrate a continued push towards making AI assistants more accessible and intuitive, which will likely have significant implications for how people interact with technology.\n* **Growing Adoption of OpenAI's Technology**: The fact that multiple OpenAI-related launches have been featured on Product Hunt suggests that the company's technology is gaining traction and adoption across various industries.\n\nTrend:\n\n* **Convergence of AI, Voice, and User Experience**: As OpenAI and other companies continue to advance AI assistants, voice interaction, and user experience, we can expect to see a convergence of these technologies in the future. This may lead to a more seamless and intuitive way for users to interact with AI-powered systems."
 }
