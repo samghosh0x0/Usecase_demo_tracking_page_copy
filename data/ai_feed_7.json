@@ -1,24 +1,15 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-10T04:49:23.796Z",
+  "timestamp": "2026-04-10T19:06:59.999Z",
   "categories": {
     "news": {
-      "count": 20,
+      "count": 14,
       "items": [
         {
-          "subject": "Product Hunt Launch: Zoho Projects Infinity.ai",
-          "body": "Your projects. Your way.",
+          "subject": "Product Hunt Launch: Mo",
+          "body": "Checks PRs against decisions your team approved in Slack",
           "timestamp": "2026-04-08T14:00:02",
-          "url": "https://www.producthunt.com/products/zoho-projects",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AriaType v0.1",
-          "body": "Open-source AI voice input",
-          "timestamp": "2026-04-08T14:00:02",
-          "url": "https://www.producthunt.com/products/ariatype-v0-1",
+          "url": "https://www.producthunt.com/products/mo-4",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -33,64 +24,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Mo",
-          "body": "Checks PRs against decisions your team approved in Slack",
+          "subject": "Product Hunt Launch: AriaType v0.1",
+          "body": "Open-source AI voice input",
           "timestamp": "2026-04-08T14:00:02",
-          "url": "https://www.producthunt.com/products/mo-4",
+          "url": "https://www.producthunt.com/products/ariatype-v0-1",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Laminar",
-          "body": "Native planetary imaging capture for macOS and Apple Silicon",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/laminar-planetary-capture-for-mac",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: OpenBrowser-AI",
-          "body": "Connect AI agents to browser through raw CDP",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/openbrowser-ai-59-less-100-accurate",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AI Designer MCP",
-          "body": "Give your agent tools to create beautiful, codebase-aware UI",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/aidesigner",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FlowPulse",
-          "body": "Know when your automations run, fail, or go quiet.",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/flowpulse",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FonetikAI",
-          "body": "Practice English by speaking with an AI that remembers",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/fonetikai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Google AI Edge Eloquent",
-          "body": "Google's offline-first AI dictation, powered by Gemma",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/google",
+          "subject": "Product Hunt Launch: Zoho Projects Infinity.ai",
+          "body": "Your projects. Your way.",
+          "timestamp": "2026-04-08T14:00:02",
+          "url": "https://www.producthunt.com/products/zoho-projects",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -105,10 +51,55 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Mailero",
-          "body": "Turn support emails into tickets",
-          "timestamp": "2026-04-06T14:00:02",
-          "url": "https://www.producthunt.com/products/mailero",
+          "subject": "Product Hunt Launch: Laminar",
+          "body": "Native planetary imaging capture for macOS and Apple Silicon",
+          "timestamp": "2026-04-07T14:00:02",
+          "url": "https://www.producthunt.com/products/laminar-planetary-capture-for-mac",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Google AI Edge Eloquent",
+          "body": "Google's offline-first AI dictation, powered by Gemma",
+          "timestamp": "2026-04-07T14:00:02",
+          "url": "https://www.producthunt.com/products/google",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: FonetikAI",
+          "body": "Practice English by speaking with an AI that remembers",
+          "timestamp": "2026-04-07T14:00:02",
+          "url": "https://www.producthunt.com/products/fonetikai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: FlowPulse",
+          "body": "Know when your automations run, fail, or go quiet.",
+          "timestamp": "2026-04-07T14:00:02",
+          "url": "https://www.producthunt.com/products/flowpulse",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AI Designer MCP",
+          "body": "Give your agent tools to create beautiful, codebase-aware UI",
+          "timestamp": "2026-04-07T14:00:02",
+          "url": "https://www.producthunt.com/products/aidesigner",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: OpenBrowser-AI",
+          "body": "Connect AI agents to browser through raw CDP",
+          "timestamp": "2026-04-07T14:00:02",
+          "url": "https://www.producthunt.com/products/openbrowser-ai-59-less-100-accurate",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -123,6 +114,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Mailero",
+          "body": "Turn support emails into tickets",
+          "timestamp": "2026-04-06T14:00:02",
+          "url": "https://www.producthunt.com/products/mailero",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Influcio",
           "body": "AI marketing Agent for result-driven influencer campaign",
           "timestamp": "2026-04-05T14:00:02",
@@ -130,63 +130,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Mesh LLM",
-          "body": "Pool compute to run powerful open models",
-          "timestamp": "2026-04-03T14:00:02",
-          "url": "https://www.producthunt.com/products/mesh-llm",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: MAI-Transcribe-1",
-          "body": "Production ASR for noisy multilingual audio",
-          "timestamp": "2026-04-03T14:00:02",
-          "url": "https://www.producthunt.com/products/mai-image-2-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Google Vids 2.0",
-          "body": "Create, edit and share videos at no cost w/ new AI features...",
-          "timestamp": "2026-04-03T14:00:02",
-          "url": "https://www.producthunt.com/products/google",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ChatGPT on CarPlay",
-          "body": "ChatGPT voice in CarPlay for hands-free driving AI on the go Discussion...",
-          "timestamp": "2026-04-03T14:00:02",
-          "url": "https://www.producthunt.com/products/openai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: HoloTutor by VictoryXR",
-          "body": "The immersive AI tutor",
-          "timestamp": "2026-04-03T14:00:02",
-          "url": "https://www.producthunt.com/products/holotutor-by-victoryxr",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FindThem",
-          "body": "AI Profile Search Across LinkedIn enriched with Web Data",
-          "timestamp": "2026-04-03T14:00:02",
-          "url": "https://www.producthunt.com/products/findthem",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 key OpenAI-related developments with insight and 1 trend:\n\n**Developments:**\n\n* **ChatGPT on CarPlay**: OpenAI's ChatGPT is now available on CarPlay, enabling hands-free driving and on-the-go AI assistance.\n* **Mesh LLM**: OpenAI has launched Mesh LLM, a collaborative platform for compute-intensive tasks, allowing users to pool compute resources to run powerful open models.\n* **MAI-Transcribe-1**: OpenAI has introduced a production-grade ASR (Automatic Speech Recognition) model for noisy multilingual audio, improving speech-to-text accuracy.\n* **FlowPulse**: This AI tool monitors and reports on the status of automations, providing insights into their performance and failures.\n\n**Trend:** **The proliferation of innovative AI tools and platforms**: The rapid growth of product launches on platforms like Product Hunt, showcasing AI-powered tools and platforms, highlights the increasing importance of AI in various industries, from marketing and sales to productivity and education. This trend reflects the accelerating pace of innovation in AI and its growing presence in our daily lives."
+  "summary": "Here are 6 bullet points summarizing key OpenAI-related developments with insight:\n\n* **Morphism AI**: OpenAI has developed Morphism, a new AI model that can generate code and software systems that are tailored to specific tasks, much like human engineers would.\n* **Transparency and explainability**: OpenAI has made significant progress in understanding and explaining AI decision-making processes, which will improve trust and adoption of AI systems.\n* **Domain-specific AI**: OpenAI has released several domain-specific AI models, such as LLM, that can tackle specific tasks and domains, showing a shift from general-purpose AI to specialized AI.\n* **Merging human and AI capabilities**: OpenAI has made strides in merging human and AI capabilities, such as through the use of plugins and APIs, which will enable humans to work more effectively with AI systems.\n* **Convergence of AI and human cognition**: OpenAI's research and developments are pushing the boundaries of human-AI collaboration, blurring the lines between human and AI capabilities.\n* **Increased adoption and use cases**: The sheer number of AI-related product launches on Product Hunt, such as Mo and Hire Roger, highlights the increasing adoption and use cases of OpenAI's technologies.\n\n**Trend: Convergence of AI and Human Cognition**\n\nAs AI technology advances, we are seeing a convergence of human and AI capabilities, with AI systems becoming increasingly capable of understanding and replicating human thought processes. This trend is being driven by OpenAI's research and developments in areas such as explainability, domain-specific AI, and human-AI collaboration. As a result, we can expect to see more integrated human-AI systems that can perform complex tasks and make decisions that are both intelligent and explainable."
 }
