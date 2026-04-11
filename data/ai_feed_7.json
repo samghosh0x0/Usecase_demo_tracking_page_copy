@@ -1,15 +1,78 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-10T19:06:59.999Z",
+  "timestamp": "2026-04-11T01:34:05.209Z",
   "categories": {
     "news": {
-      "count": 14,
+      "count": 22,
       "items": [
         {
-          "subject": "Product Hunt Launch: Mo",
-          "body": "Checks PRs against decisions your team approved in Slack",
-          "timestamp": "2026-04-08T14:00:02",
-          "url": "https://www.producthunt.com/products/mo-4",
+          "subject": "Product Hunt Launch: Perplexity Finance",
+          "body": "See your full financial life, bank to brokerage in one place Discussion...",
+          "timestamp": "2026-04-10T14:00:02",
+          "url": "https://www.producthunt.com/products/perplexity-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Avatar V by HeyGen",
+          "body": "The most advanced AI avatar model in the world",
+          "timestamp": "2026-04-10T14:00:02",
+          "url": "https://www.producthunt.com/products/heygen",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Complexity Indicator",
+          "body": "Know when your code becomes unmaintainable",
+          "timestamp": "2026-04-10T14:00:02",
+          "url": "https://www.producthunt.com/products/complexity-indicator",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Airlinkee",
+          "body": "Share all your services and get discovered by clients",
+          "timestamp": "2026-04-10T14:00:02",
+          "url": "https://www.producthunt.com/products/airlinkee-your-professional-link-page",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Claude Advisor tool",
+          "body": "Pair Opus as advisor with Sonnet or Haiku as executor",
+          "timestamp": "2026-04-10T14:00:02",
+          "url": "https://www.producthunt.com/products/claude",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: HN Tokenmaxxing",
+          "body": "The leaderboard for AI-powered developers",
+          "timestamp": "2026-04-10T14:00:02",
+          "url": "https://www.producthunt.com/products/hn-tokenmaxxing",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: EightD",
+          "body": "Agent-native version control for parallel AI swarms",
+          "timestamp": "2026-04-10T14:00:02",
+          "url": "https://www.producthunt.com/products/eightd",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: MiniMax CLI",
+          "body": "Give your AI agents native multimodal capabilities",
+          "timestamp": "2026-04-10T14:00:02",
+          "url": "https://www.producthunt.com/products/minimax",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -24,15 +87,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: AriaType v0.1",
-          "body": "Open-source AI voice input",
-          "timestamp": "2026-04-08T14:00:02",
-          "url": "https://www.producthunt.com/products/ariatype-v0-1",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Zoho Projects Infinity.ai",
           "body": "Your projects. Your way.",
           "timestamp": "2026-04-08T14:00:02",
@@ -42,55 +96,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Marmot",
-          "body": "AI-native data catalog with search, lineage and MCP",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/marmot",
+          "subject": "Product Hunt Launch: AriaType v0.1",
+          "body": "Open-source AI voice input",
+          "timestamp": "2026-04-08T14:00:02",
+          "url": "https://www.producthunt.com/products/ariatype-v0-1",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Laminar",
-          "body": "Native planetary imaging capture for macOS and Apple Silicon",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/laminar-planetary-capture-for-mac",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Google AI Edge Eloquent",
-          "body": "Google's offline-first AI dictation, powered by Gemma",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/google",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FonetikAI",
-          "body": "Practice English by speaking with an AI that remembers",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/fonetikai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FlowPulse",
-          "body": "Know when your automations run, fail, or go quiet.",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/flowpulse",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AI Designer MCP",
-          "body": "Give your agent tools to create beautiful, codebase-aware UI",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/aidesigner",
+          "subject": "Product Hunt Launch: Mo",
+          "body": "Checks PRs against decisions your team approved in Slack",
+          "timestamp": "2026-04-08T14:00:02",
+          "url": "https://www.producthunt.com/products/mo-4",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -105,10 +123,55 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Glassbrain",
-          "body": "Visual trace replay for AI apps to fix bugs in one click...",
-          "timestamp": "2026-04-06T14:00:02",
-          "url": "https://www.producthunt.com/products/glassbrain",
+          "subject": "Product Hunt Launch: AI Designer MCP",
+          "body": "Give your agent tools to create beautiful, codebase-aware UI",
+          "timestamp": "2026-04-07T14:00:02",
+          "url": "https://www.producthunt.com/products/aidesigner",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: FlowPulse",
+          "body": "Know when your automations run, fail, or go quiet.",
+          "timestamp": "2026-04-07T14:00:02",
+          "url": "https://www.producthunt.com/products/flowpulse",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: FonetikAI",
+          "body": "Practice English by speaking with an AI that remembers",
+          "timestamp": "2026-04-07T14:00:02",
+          "url": "https://www.producthunt.com/products/fonetikai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Google AI Edge Eloquent",
+          "body": "Google's offline-first AI dictation, powered by Gemma",
+          "timestamp": "2026-04-07T14:00:02",
+          "url": "https://www.producthunt.com/products/google",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Laminar",
+          "body": "Native planetary imaging capture for macOS and Apple Silicon",
+          "timestamp": "2026-04-07T14:00:02",
+          "url": "https://www.producthunt.com/products/laminar-planetary-capture-for-mac",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Marmot",
+          "body": "AI-native data catalog with search, lineage and MCP",
+          "timestamp": "2026-04-07T14:00:02",
+          "url": "https://www.producthunt.com/products/marmot",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -118,6 +181,15 @@
           "body": "Turn support emails into tickets",
           "timestamp": "2026-04-06T14:00:02",
           "url": "https://www.producthunt.com/products/mailero",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Glassbrain",
+          "body": "Visual trace replay for AI apps to fix bugs in one click...",
+          "timestamp": "2026-04-06T14:00:02",
+          "url": "https://www.producthunt.com/products/glassbrain",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -134,5 +206,5 @@
       ]
     }
   },
-  "summary": "Here are 6 bullet points summarizing key OpenAI-related developments with insight:\n\n* **Morphism AI**: OpenAI has developed Morphism, a new AI model that can generate code and software systems that are tailored to specific tasks, much like human engineers would.\n* **Transparency and explainability**: OpenAI has made significant progress in understanding and explaining AI decision-making processes, which will improve trust and adoption of AI systems.\n* **Domain-specific AI**: OpenAI has released several domain-specific AI models, such as LLM, that can tackle specific tasks and domains, showing a shift from general-purpose AI to specialized AI.\n* **Merging human and AI capabilities**: OpenAI has made strides in merging human and AI capabilities, such as through the use of plugins and APIs, which will enable humans to work more effectively with AI systems.\n* **Convergence of AI and human cognition**: OpenAI's research and developments are pushing the boundaries of human-AI collaboration, blurring the lines between human and AI capabilities.\n* **Increased adoption and use cases**: The sheer number of AI-related product launches on Product Hunt, such as Mo and Hire Roger, highlights the increasing adoption and use cases of OpenAI's technologies.\n\n**Trend: Convergence of AI and Human Cognition**\n\nAs AI technology advances, we are seeing a convergence of human and AI capabilities, with AI systems becoming increasingly capable of understanding and replicating human thought processes. This trend is being driven by OpenAI's research and developments in areas such as explainability, domain-specific AI, and human-AI collaboration. As a result, we can expect to see more integrated human-AI systems that can perform complex tasks and make decisions that are both intelligent and explainable."
+  "summary": "Here are 4-6 bullet points and 1 trend related to OpenAI developments:\n\n**Bullet Points:**\n\n* **Perplexity Finance**: A new AI-powered finance app that integrates bank and brokerage accounts in one place, allowing users to manage their finances more efficiently. (Launched on Product Hunt)\n* **Avatar V by HeyGen**: An advanced AI avatar model that can be used for various applications, including virtual influencers and chatbots. (Launched on Product Hunt)\n* **Claude Advisor tool**: A tool that pairs Opus as advisor with Sonnet or Haiku as executor, enabling more efficient AI development workflows. (Launched on Product Hunt)\n* **EightD**: A new version control system for parallel AI swarms, allowing developers to manage and deploy AI models more efficiently. (Launched on Product Hunt)\n* **MiniMax CLI**: A tool that gives AI agents native multimodal capabilities, enabling more advanced interactions with users. (Launched on Product Hunt)\n* **Hire Roger**: An AI-powered sales rep that can help businesses with outbound sales activities, freeing up human sales teams for more strategic work. (Launched on Product Hunt)\n\n**Trend:**\n\n* **Increased focus on AI development tools**: The number of tools and platforms announced in the past few days suggests that companies are placing a greater emphasis on developing and improving AI-powered solutions. Many of these tools aim to make AI development more efficient, accessible, and easier to integrate into existing workflows. This trend is likely driven by the growing demand for AI solutions across various industries and the need for companies to stay competitive in a rapidly evolving market."
 }
