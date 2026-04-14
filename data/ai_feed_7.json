@@ -1,10 +1,37 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-14T04:47:17.726Z",
+  "timestamp": "2026-04-14T23:54:34.352Z",
   "categories": {
     "news": {
-      "count": 28,
+      "count": 24,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Shuffle AI Redesign Extension",
+          "body": "Redesign any site using leading AI models",
+          "timestamp": "2026-04-14T14:00:02",
+          "url": "https://www.producthunt.com/products/ai-website-redesign",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Softr AI Co-Builder",
+          "body": "Build business apps with AI - that actually work",
+          "timestamp": "2026-04-14T14:00:02",
+          "url": "https://www.producthunt.com/products/softr",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Strix Agents",
+          "body": "AI Hackers to secure your vibe-coded apps",
+          "timestamp": "2026-04-14T14:00:02",
+          "url": "https://www.producthunt.com/products/strix-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: showmd",
           "body": "Markdown was never meant to be previewed plain text",
@@ -60,6 +87,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Vequil",
+          "body": "Operate AI agents with confidence",
+          "timestamp": "2026-04-11T14:00:02",
+          "url": "https://www.producthunt.com/products/vequil",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: LinkShell",
           "body": "Control your AI terminal sessions from your phone.",
           "timestamp": "2026-04-11T14:00:02",
@@ -73,24 +109,6 @@
           "body": "Spend less time reading emails, more time making moves",
           "timestamp": "2026-04-11T14:00:02",
           "url": "https://www.producthunt.com/products/summagent",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Vequil",
-          "body": "Operate AI agents with confidence",
-          "timestamp": "2026-04-11T14:00:02",
-          "url": "https://www.producthunt.com/products/vequil",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Claude Advisor tool",
-          "body": "Pair Opus as advisor with Sonnet or Haiku as executor",
-          "timestamp": "2026-04-10T14:00:02",
-          "url": "https://www.producthunt.com/products/claude",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -132,6 +150,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Claude Advisor tool",
+          "body": "Pair Opus as advisor with Sonnet or Haiku as executor",
+          "timestamp": "2026-04-10T14:00:02",
+          "url": "https://www.producthunt.com/products/claude",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: HN Tokenmaxxing",
           "body": "The leaderboard for AI-powered developers",
           "timestamp": "2026-04-10T14:00:02",
@@ -154,6 +181,15 @@
           "body": "Give your AI agents native multimodal capabilities",
           "timestamp": "2026-04-10T14:00:02",
           "url": "https://www.producthunt.com/products/minimax",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Mo",
+          "body": "Checks PRs against decisions your team approved in Slack",
+          "timestamp": "2026-04-08T14:00:02",
+          "url": "https://www.producthunt.com/products/mo-4",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -184,81 +220,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Mo",
-          "body": "Checks PRs against decisions your team approved in Slack",
-          "timestamp": "2026-04-08T14:00:02",
-          "url": "https://www.producthunt.com/products/mo-4",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Marmot",
-          "body": "AI-native data catalog with search, lineage and MCP",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/marmot",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: OpenBrowser-AI",
-          "body": "Connect AI agents to browser through raw CDP",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/openbrowser-ai-59-less-100-accurate",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AI Designer MCP",
-          "body": "Give your agent tools to create beautiful, codebase-aware UI",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/aidesigner",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FlowPulse",
-          "body": "Know when your automations run, fail, or go quiet.",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/flowpulse",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FonetikAI",
-          "body": "Practice English by speaking with an AI that remembers",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/fonetikai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Google AI Edge Eloquent",
-          "body": "Google's offline-first AI dictation, powered by Gemma",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/google",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Laminar",
-          "body": "Native planetary imaging capture for macOS and Apple Silicon",
-          "timestamp": "2026-04-07T14:00:02",
-          "url": "https://www.producthunt.com/products/laminar-planetary-capture-for-mac",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Based on the provided data, here are 4-6 bullet points and 1 trend summarizing key OpenAI related developments:\n\n**Bullet Points:**\n\n* **Showmd**: A Product Hunt launch that provides a Markdown preview tool for quick editing and reviewing Markdown documents.\n* **Claude Advisor tool**: A tool that pairs Opus as an advisor with Sonnet or Haiku as executor, allowing for AI-driven decision-making and automation.\n* **MiniMax CLI**: A tool that gives AI agents native multimodal capabilities, enabling them to interact with multiple interfaces and modalities.\n* **Avatar V by HeyGen**: The most advanced AI avatar model in the world, capable of creating highly realistic and personalized avatars.\n* **OpenBrowser-AI**: A tool that connects AI agents to the browser through raw CDP (Custom Data Protocol), enabling seamless interaction between AI and the browser.\n* **FlowPulse**: A tool that monitors and tracks automations, providing insights into when they run, fail, or go quiet.\n\n**Trend:**\n\n* **Increased focus on AI Integration and Automation**: Many of the launched products show a trend towards integrating AI with various platforms, tools, and interfaces, highlighting the growing importance of automation and seamless AI-human interaction in modern technology. This trend emphasizes the pursuit of enhanced productivity, efficiency, and user experience through innovative AI-driven solutions."
+  "summary": "Here are 4-6 bullet points and 1 trend related to the OpenAI developments:\n\n**Recent Developments:**\n\n* **Redesigning websites with AI**: The launch of Shuffle AI Redesign Extension allows users to redesign any website using leading AI models, democratizing web design.\n* **AI-powered business apps**: Softr AI Co-Builder enables users to build business apps with AI capabilities, making it easier to create functional apps without coding expertise.\n* **AI-powered security**: Strix Agents has been launched, offering AI-powered security solutions to protect users' vibe-coded apps from potential threats.\n* **AI-powered financial management**: Perplexity Finance is a platform that integrates financial data from multiple sources, allowing users to monitor their financial lives in one place.\n* **AI-powered marketing tools**: Hire Roger, a product launched on Product Hunt, is an AI-powered sales rep that can help businesses with outreach and lead generation.\n* **Open-source AI voice input**: Ariatype v0.1 is an open-source AI-powered voice input system, enabling developers to access natural language processing capabilities.\n\n**Trend:** The AI development space is seeing a surge in tools and platforms that aim to streamline complex user experiences, improve productivity, and enhance security. Many of the recent launches are focused on automating tasks, generating insights, and providing personalized recommendations, reflecting the broader trend of emphasizing innovation and efficiency in software development."
 }
