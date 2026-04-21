@@ -1,10 +1,37 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-20T05:15:22.441Z",
+  "timestamp": "2026-04-21T00:48:30.349Z",
   "categories": {
     "news": {
-      "count": 30,
+      "count": 27,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Embedist",
+          "body": "Opensource AI-native embedded development environment",
+          "timestamp": "2026-04-20T14:00:02",
+          "url": "https://www.producthunt.com/products/embedist",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: SuperBrain",
+          "body": "Self-hosted, AI-powered second brain for Android",
+          "timestamp": "2026-04-20T14:00:02",
+          "url": "https://www.producthunt.com/products/superbrain-ai-powered-second-brain",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: GalaxyBrain",
+          "body": "An information operating system powered by local files",
+          "timestamp": "2026-04-20T14:00:02",
+          "url": "https://www.producthunt.com/products/galaxybrain-com",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Is Your Site Agent-Ready? by Cloudflare",
           "body": "Scan your website to see how ready it is for AI agents...",
@@ -60,6 +87,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Canva AI 2.0",
+          "body": "AI that creates with you, and connects to your world",
+          "timestamp": "2026-04-17T14:00:01",
+          "url": "https://www.producthunt.com/products/canva",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Stoa",
           "body": "A live multiplayer AI team space for getting real work done Discussion...",
           "timestamp": "2026-04-17T14:00:01",
@@ -91,15 +127,6 @@
           "body": "Your AI security engineer. Ship fast while staying secure.",
           "timestamp": "2026-04-17T14:00:01",
           "url": "https://www.producthunt.com/products/hacktron",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Canva AI 2.0",
-          "body": "AI that creates with you, and connects to your world",
-          "timestamp": "2026-04-17T14:00:01",
-          "url": "https://www.producthunt.com/products/canva",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -195,6 +222,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Strix Agents",
+          "body": "AI Hackers to secure your vibe-coded apps",
+          "timestamp": "2026-04-14T14:00:02",
+          "url": "https://www.producthunt.com/products/strix-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Shuffle AI Redesign Extension",
           "body": "Redesign any site using leading AI models",
           "timestamp": "2026-04-14T14:00:02",
@@ -211,72 +247,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Strix Agents",
-          "body": "AI Hackers to secure your vibe-coded apps",
-          "timestamp": "2026-04-14T14:00:02",
-          "url": "https://www.producthunt.com/products/strix-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SuperHQ",
-          "body": "Run AI coding agents in real micro: VM sandboxes",
-          "timestamp": "2026-04-13T14:00:02",
-          "url": "https://www.producthunt.com/products/superhq",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: showmd",
-          "body": "Markdown was never meant to be previewed plain text",
-          "timestamp": "2026-04-13T14:00:02",
-          "url": "https://www.producthunt.com/products/showmd-ai-markdown-quicklook-preview",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ContextPool",
-          "body": "Persistent memory for AI coding agents",
-          "timestamp": "2026-04-13T14:00:02",
-          "url": "https://www.producthunt.com/products/contextpool",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Clarm",
-          "body": "AI inbound layer to capture, qualify, and route leads",
-          "timestamp": "2026-04-13T14:00:02",
-          "url": "https://www.producthunt.com/products/clarm-ai-technical-support",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Open Comet",
-          "body": "The autonomous AI browser agent for deep research & tasks",
-          "timestamp": "2026-04-13T14:00:02",
-          "url": "https://www.producthunt.com/products/dressmeup",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Claunnector",
-          "body": "Connect your Mac's Mail, Calendar, and more to AI",
-          "timestamp": "2026-04-13T14:00:02",
-          "url": "https://www.producthunt.com/products/claunnector",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 6 key developments and 1 trend:\n\n**Key Developments:**\n\n* **Cloudflare Launches Agent-Ready Website Scanner**: Cloudflare has launched a website scanner to help businesses determine if their site is ready for AI agents. The scanner checks for various factors such as security, accessibility, and performance. (Product Hunt)\n* **Anthropic Labs Introduces Claude Design**: Anthropic Labs has introduced Claude Design, a tool that allows users to create prototypes, slides, and one-pagers by talking to Claude, a conversational AI model. (Anthropic News)\n* **Resend Launches CLI 2.0**: Resend has launched CLI 2.0, a tool that allows users to build, customize, and ship emails from their own app, with the help of AI. (Product Hunt)\n* **Pilot5.ai Launches AI Model Comparison Tool**: Pilot5.ai has launched a tool that allows users to ask a question and receive five perspectives from different AI models. (Product Hunt)\n* **Open Comet Launches Autonomous AI Browser Agent**: Open Comet has launched an autonomous AI browser agent that can perform deep research and tasks. (Product Hunt)\n* **Hacktron Launches AI Security Engineer**: Hacktron has launched an AI security engineer that can help users ship fast while staying secure. (Product Hunt)\n\n**Trend:** The trend of increasing interest in AI agents and AI-powered tools is clear, with many new products and services launching on Product Hunt. These tools aim to make it easier for businesses and individuals to build, manage, and interact with AI agents, and to take advantage of the capabilities of these agents. This trend is likely to continue as AI technology advances and becomes more accessible to a wider range of users."
+  "summary": "Here are 4-6 key developments with insight:\n\n* **Embedist** was launched on Product Hunt, an open-source AI-native embedded development environment, allowing developers to create AI-powered applications.\n* **SuperBrain** was also launched, a self-hosted, AI-powered second brain for Android, offering a new way to interact with AI.\n* **GalaxyBrain** was launched, an information operating system powered by local files, aiming to provide a new way to organize and interact with information.\n* **Is Your Site Agent-Ready?** was launched, a tool by Cloudflare to scan websites and assess their readiness for AI agents.\n* **Product Hunt** saw a surge in AI-related product launches, with 27 new products announced in the past day, highlighting the growing interest in AI development and adoption.\n* **Claude Design** was launched by Anthropic Labs, allowing users to create prototypes, slides, and one-pagers using natural language input.\n\nTrend: **Increased adoption of AI-native technologies**, with a surge in the development and launch of AI-powered products and tools, indicating a growing shift towards AI-centric solutions across various industries."
 }
