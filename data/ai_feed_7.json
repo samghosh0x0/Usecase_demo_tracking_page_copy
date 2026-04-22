@@ -1,10 +1,46 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-21T04:50:16.425Z",
+  "timestamp": "2026-04-22T04:48:25.204Z",
   "categories": {
     "news": {
-      "count": 27,
+      "count": 28,
       "items": [
+        {
+          "subject": "Product Hunt Launch: MAXIA Oracle",
+          "body": "Multi-source price feed for AI agents",
+          "timestamp": "2026-04-21T14:00:02",
+          "url": "https://www.producthunt.com/products/maxia-oracle",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: X Island",
+          "body": "Dynamic Island for AI Coding Agents",
+          "timestamp": "2026-04-21T14:00:02",
+          "url": "https://www.producthunt.com/products/x-isiand",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Gauge Sentiment",
+          "body": "How is your brand perceived by AI?",
+          "timestamp": "2026-04-21T14:00:02",
+          "url": "https://www.producthunt.com/products/gauge",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Pioneer",
+          "body": "Fine-tune any LLM in minutes, with one prompt",
+          "timestamp": "2026-04-21T14:00:02",
+          "url": "https://www.producthunt.com/products/launching-pioneer",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Embedist",
           "body": "Opensource AI-native embedded development environment",
@@ -87,15 +123,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Canva AI 2.0",
-          "body": "AI that creates with you, and connects to your world",
-          "timestamp": "2026-04-17T14:00:01",
-          "url": "https://www.producthunt.com/products/canva",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Stoa",
           "body": "A live multiplayer AI team space for getting real work done Discussion...",
           "timestamp": "2026-04-17T14:00:01",
@@ -132,6 +159,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Canva AI 2.0",
+          "body": "AI that creates with you, and connects to your world",
+          "timestamp": "2026-04-17T14:00:01",
+          "url": "https://www.producthunt.com/products/canva",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Ichiba AI",
           "body": "AI to AI influence, scored. See what moves the models",
           "timestamp": "2026-04-17T14:00:01",
@@ -154,6 +190,15 @@
           "body": "The canvas for thinking with AI",
           "timestamp": "2026-04-17T14:00:01",
           "url": "https://www.producthunt.com/products/arky",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: OpenAI Agents SDK",
+          "body": "Build production agents with harness and sandbox",
+          "timestamp": "2026-04-16T14:00:02",
+          "url": "https://www.producthunt.com/products/openai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -211,45 +256,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: OpenAI Agents SDK",
-          "body": "Build production agents with harness and sandbox",
-          "timestamp": "2026-04-16T14:00:02",
-          "url": "https://www.producthunt.com/products/openai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Strix Agents",
-          "body": "AI Hackers to secure your vibe-coded apps",
-          "timestamp": "2026-04-14T14:00:02",
-          "url": "https://www.producthunt.com/products/strix-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Shuffle AI Redesign Extension",
-          "body": "Redesign any site using leading AI models",
-          "timestamp": "2026-04-14T14:00:02",
-          "url": "https://www.producthunt.com/products/ai-website-redesign",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Softr AI Co-Builder",
-          "body": "Build business apps with AI - that actually work",
-          "timestamp": "2026-04-14T14:00:02",
-          "url": "https://www.producthunt.com/products/softr",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n**Top 4 product launches:**\n\n* **Embedist**: An opensource AI-native embedded development environment (producthunt.com/products/embedist)\n* **SuperBrain**: A self-hosted, AI-powered second brain for Android (producthunt.com/products/superbrain-ai-powered-second-brain)\n* **Claude Design**: A tool that allows users to make prototypes, slides, and one-pagers by talking to Claude (producthunt.com/products/claude)\n* **DB Explorer**: A modern AI-first database client (producthunt.com/products/sourceforge)\n\n**Trend:** The launch of several AI-related products indicate a growing focus on **augmented intelligence**, where humans and AI systems collaborate to create new products and experiences. These launches suggest that there is a demand for tools that can integrate AI capabilities into various industries and workflows, enabling users to work more efficiently and effectively."
+  "summary": "**Key Developments**\n\n* **MAXIA Oracle**: A multi-source price feed for AI agents has been launched on Product Hunt, providing accurate and reliable pricing data for AI-driven applications.\n* **X Island**: A dynamic island for AI coding agents has been introduced, enabling developers to create more efficient and effective coding experiences.\n* **Gauge Sentiment**: A tool for measuring brand perception by AI has been launched, allowing businesses to gauge how their brand is perceived by artificial intelligence systems.\n* **Pioneer**: A fine-tuning platform for large language models (LLMs) has been introduced, enabling developers to fine-tune LLMs in minutes using a single prompt.\n* **OpenAI Agents SDK**: An SDK for building production agents using OpenAI's harness and sandbox has been launched, simplifying the development process for AI agents.\n\n**Trend: Growing Interest in AI-Driven Development Tools**\n\nThe increasing number of product launches and tools related to AI-driven development, such as MAXIA Oracle, X Island, and Pioneer, suggests a growing interest in leveraging AI to improve development efficiency and effectiveness. This trend is likely to continue as AI continues to play a more prominent role in software development."
 }
