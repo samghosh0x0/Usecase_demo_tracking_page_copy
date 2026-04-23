@@ -1,15 +1,60 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-22T08:16:44.450Z",
+  "timestamp": "2026-04-23T02:35:42.961Z",
   "categories": {
     "news": {
-      "count": 28,
+      "count": 34,
       "items": [
         {
-          "subject": "Product Hunt Launch: MAXIA Oracle",
-          "body": "Multi-source price feed for AI agents",
-          "timestamp": "2026-04-21T14:00:02",
-          "url": "https://www.producthunt.com/products/maxia-oracle",
+          "subject": "Product Hunt Launch: Basedash Automations",
+          "body": "Your AI data analyst that works while you sleep.",
+          "timestamp": "2026-04-22T14:00:01",
+          "url": "https://www.producthunt.com/products/basedash",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ChatGPT Images 2.0",
+          "body": "First image model with thinking capabilities",
+          "timestamp": "2026-04-22T14:00:01",
+          "url": "https://www.producthunt.com/products/chatgpt-images-2-0",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Kyohansha",
+          "body": "Web-based 60FPS Live2D AI with Lite-RAG long-term memory",
+          "timestamp": "2026-04-22T14:00:01",
+          "url": "https://www.producthunt.com/products/kyohansha",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: VibeAround",
+          "body": "Chat with your local AI coding agent from any IM or browser...",
+          "timestamp": "2026-04-22T14:00:01",
+          "url": "https://www.producthunt.com/products/vibearound",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: kimiflare",
+          "body": "kimi k2.6 cli code editor hosted on cloudflare workers AI",
+          "timestamp": "2026-04-22T14:00:01",
+          "url": "https://www.producthunt.com/products/kimiflare",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: TabMail",
+          "body": "An agentic email assistant for iOS and Thunderbird",
+          "timestamp": "2026-04-22T14:00:01",
+          "url": "https://www.producthunt.com/products/tabmail",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -24,6 +69,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Pioneer",
+          "body": "Fine-tune any LLM in minutes, with one prompt",
+          "timestamp": "2026-04-21T14:00:02",
+          "url": "https://www.producthunt.com/products/launching-pioneer",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Gauge Sentiment",
           "body": "How is your brand perceived by AI?",
           "timestamp": "2026-04-21T14:00:02",
@@ -33,10 +87,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Pioneer",
-          "body": "Fine-tune any LLM in minutes, with one prompt",
+          "subject": "Product Hunt Launch: MAXIA Oracle",
+          "body": "Multi-source price feed for AI agents",
           "timestamp": "2026-04-21T14:00:02",
-          "url": "https://www.producthunt.com/products/launching-pioneer",
+          "url": "https://www.producthunt.com/products/maxia-oracle",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -69,6 +123,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Claude Design by Anthropic Labs",
+          "body": "Make prototypes, slides & one-pagers by talking to Claude",
+          "timestamp": "2026-04-18T14:00:01",
+          "url": "https://www.producthunt.com/products/claude",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Is Your Site Agent-Ready? by Cloudflare",
           "body": "Scan your website to see how ready it is for AI agents...",
           "timestamp": "2026-04-18T14:00:01",
@@ -96,15 +159,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Claude Design by Anthropic Labs",
-          "body": "Make prototypes, slides & one-pagers by talking to Claude",
-          "timestamp": "2026-04-18T14:00:01",
-          "url": "https://www.producthunt.com/products/claude",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Grok Voice API",
           "body": "Fast, accurate STT and TTS APIs at the best price",
           "timestamp": "2026-04-18T14:00:01",
@@ -123,55 +177,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Stoa",
-          "body": "A live multiplayer AI team space for getting real work done Discussion...",
-          "timestamp": "2026-04-17T14:00:01",
-          "url": "https://www.producthunt.com/products/stoa-4",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: DB Explorer",
-          "body": "Modern AI‑first database client",
-          "timestamp": "2026-04-17T14:00:01",
-          "url": "https://www.producthunt.com/products/sourceforge",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Studio",
-          "body": "Organize, tag and edit thousands of photos at once with AI Discussion...",
-          "timestamp": "2026-04-17T14:00:01",
-          "url": "https://www.producthunt.com/products/coreviz-visual-ai-for-teams",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Hacktron",
-          "body": "Your AI security engineer. Ship fast while staying secure.",
-          "timestamp": "2026-04-17T14:00:01",
-          "url": "https://www.producthunt.com/products/hacktron",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Canva AI 2.0",
-          "body": "AI that creates with you, and connects to your world",
-          "timestamp": "2026-04-17T14:00:01",
-          "url": "https://www.producthunt.com/products/canva",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Ichiba AI",
           "body": "AI to AI influence, scored. See what moves the models",
           "timestamp": "2026-04-17T14:00:01",
           "url": "https://www.producthunt.com/products/ichiba-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Arky",
+          "body": "The canvas for thinking with AI",
+          "timestamp": "2026-04-17T14:00:01",
+          "url": "https://www.producthunt.com/products/arky",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -186,10 +204,46 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Arky",
-          "body": "The canvas for thinking with AI",
+          "subject": "Product Hunt Launch: Canva AI 2.0",
+          "body": "AI that creates with you, and connects to your world",
           "timestamp": "2026-04-17T14:00:01",
-          "url": "https://www.producthunt.com/products/arky",
+          "url": "https://www.producthunt.com/products/canva",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Hacktron",
+          "body": "Your AI security engineer. Ship fast while staying secure.",
+          "timestamp": "2026-04-17T14:00:01",
+          "url": "https://www.producthunt.com/products/hacktron",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Studio",
+          "body": "Organize, tag and edit thousands of photos at once with AI Discussion...",
+          "timestamp": "2026-04-17T14:00:01",
+          "url": "https://www.producthunt.com/products/coreviz-visual-ai-for-teams",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: DB Explorer",
+          "body": "Modern AI‑first database client",
+          "timestamp": "2026-04-17T14:00:01",
+          "url": "https://www.producthunt.com/products/sourceforge",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Stoa",
+          "body": "A live multiplayer AI team space for getting real work done Discussion...",
+          "timestamp": "2026-04-17T14:00:01",
+          "url": "https://www.producthunt.com/products/stoa-4",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -260,5 +314,5 @@
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **MAXIA Oracle** was launched on Product Hunt, providing a multi-source price feed for AI agents.\n* **X Island**, a dynamic island for AI coding agents, was also launched on Product Hunt.\n* **Gauge Sentiment** was launched, allowing users to see how their brand is perceived by AI.\n* **Pioneer**, a tool for fine-tuning LLMs with one prompt, was launched on Product Hunt.\n* **Embedist**, an opensource AI-native embedded development environment, was launched on Product Hunt.\n\n**Trend:**\n\n* **Growing Adoption of AI Agents:** The number of AI-related product launches on Product Hunt is increasing rapidly, indicating growing adoption and interest in AI agents and tools that support their development. This trend is likely driven by the increasing availability of AI-powered solutions and the need for businesses to integrate AI into their operations.\n\n**Insight:** The recent wave of AI-related product launches on Product Hunt suggests that AI agents are becoming more mainstream and are being adopted by a wider range of industries. This trend is likely to continue as AI-powered solutions become more accessible and user-friendly, enabling more businesses to integrate AI into their operations."
+  "summary": "Here are 6 key developments with insight:\n\n* **Basedash Automations** was launched on Product Hunt, which allows users to automate repetitive tasks and gain insights from their data. This highlights the growing demand for AI-powered automation solutions.\n* **ChatGPT Images 2.0** was also launched, which boasts the first image model with thinking capabilities. This suggests that AI models are becoming increasingly sophisticated and capable of complex tasks.\n* **Kyohansha**, a web-based 60FPS Live2D AI with Lite-RAG long-term memory, was launched. This indicates that AI-powered animation and graphics tools are becoming more advanced.\n* **VibeAround**, a chat with your local AI coding agent from any IM or browser, was launched. This shows that AI-powered coding assistants are becoming more accessible and user-friendly.\n* **Pioneer**, a tool for fine-tuning any LLM in minutes with one prompt, was launched. This suggests that AI model fine-tuning is becoming more efficient and accessible.\n* **Gauge Sentiment**, a tool for measuring brand perception by AI, was launched. This highlights the growing importance of AI-driven sentiment analysis in marketing and branding.\n\nTrend: **Increased Focus on AI Automation and Integration**\n\nThe recent launches on Product Hunt suggest a growing focus on AI automation and integration across various industries and applications. Many of the launched products aim to automate repetitive tasks, provide AI-powered coding assistants, or enable fine-tuning of AI models. This trend indicates that businesses and developers are increasingly looking for ways to harness the power of AI to streamline processes, improve productivity, and enhance user experiences."
 }
