@@ -1,10 +1,64 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-27T05:26:35.821Z",
+  "timestamp": "2026-04-28T00:16:34.073Z",
   "categories": {
     "news": {
-      "count": 24,
+      "count": 26,
       "items": [
+        {
+          "subject": "Product Hunt Launch: SNEWPapers",
+          "body": "The World's First AI Newspaper Archive",
+          "timestamp": "2026-04-27T14:00:02",
+          "url": "https://www.producthunt.com/products/snewpapers",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Waitlister",
+          "body": "The waitlist software to launch your product",
+          "timestamp": "2026-04-27T14:00:02",
+          "url": "https://www.producthunt.com/products/waitlister",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Vouch API",
+          "body": "AI equity research that proves it isn't lying",
+          "timestamp": "2026-04-27T14:00:02",
+          "url": "https://www.producthunt.com/products/vouch-api",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Replyless - Best Superhuman Alternative",
+          "body": "AI Email app that sends daily email briefs on Telegram",
+          "timestamp": "2026-04-27T14:00:02",
+          "url": "https://www.producthunt.com/products/replylessai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: VIDEO AI ME",
+          "body": "Create videos with AI actors that sound and look real",
+          "timestamp": "2026-04-27T14:00:02",
+          "url": "https://www.producthunt.com/products/video-ai-me",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Codex 3.0 by OpenAI",
+          "body": "Codex can now build, test & debug on autopilot",
+          "timestamp": "2026-04-24T14:00:02",
+          "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Nordcraft 2.0",
           "body": "2.0 Adds a new AI Agent. Up to 6x faster than Claude...",
@@ -64,15 +118,6 @@
           "body": "Run as a fully hardened production email server.",
           "timestamp": "2026-04-24T14:00:02",
           "url": "https://www.producthunt.com/products/mailcue-realistic-email-testing-server",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Codex 3.0 by OpenAI",
-          "body": "Codex can now build, test & debug on autopilot",
-          "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -159,6 +204,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Pioneer",
+          "body": "Fine-tune any LLM in minutes, with one prompt",
+          "timestamp": "2026-04-21T14:00:02",
+          "url": "https://www.producthunt.com/products/launching-pioneer",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: MAXIA Oracle",
           "body": "Multi-source price feed for AI agents",
           "timestamp": "2026-04-21T14:00:02",
@@ -184,45 +238,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Pioneer",
-          "body": "Fine-tune any LLM in minutes, with one prompt",
-          "timestamp": "2026-04-21T14:00:02",
-          "url": "https://www.producthunt.com/products/launching-pioneer",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: GalaxyBrain",
-          "body": "An information operating system powered by local files",
-          "timestamp": "2026-04-20T14:00:02",
-          "url": "https://www.producthunt.com/products/galaxybrain-com",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Embedist",
-          "body": "Opensource AI-native embedded development environment",
-          "timestamp": "2026-04-20T14:00:02",
-          "url": "https://www.producthunt.com/products/embedist",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SuperBrain",
-          "body": "Self-hosted, AI-powered second brain for Android",
-          "timestamp": "2026-04-20T14:00:02",
-          "url": "https://www.producthunt.com/products/superbrain-ai-powered-second-brain",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n**Bullet Points:**\n\n* **AI Model Advancements**: Several new AI models have been launched, including Nordcraft 2.0, Codex 3.0 by OpenAI, and ChatGPT Images 2.0, which boast improved capabilities and speed.\n* **Increased Focus on AI-Powered Tools**: The latest Product Hunt launches showcase a growing trend of AI-powered tools, such as Basedash Automations, TabMail, and MAXIA Oracle, designed to streamline workflows and enhance productivity.\n* **Expansion of AI Applications**: AI is being applied across various domains, including education (Haiker), entertainment (TuneJourney.com), and finance (MAXIA Oracle).\n* **Open-Source and Community-Driven Initiatives**: Projects like DeepSeek-V4, Embedist, and Kyohansha highlight the growing emphasis on open-source and community-driven AI development.\n\n**Trend:**\n\n* **Accelerating AI Adoption and Innovation**: The sheer number and diversity of AI-related launches on Product Hunt suggest a rapid acceleration of AI adoption and innovation across various industries, with a focus on improving productivity, efficiency, and user experience.\n\nThese developments underscore the increasing momentum of AI research and development, with a growing focus on practical applications and user-centric solutions."
+  "summary": "Here are the key developments with insight:\n\n**Key Developments:**\n\n* **Codex 3.0 by OpenAI**: The latest version of Codex, a large language model, can now build, test, and debug code on autopilot, marking a significant milestone in the evolution of AI-powered coding.\n* **Nordcraft 2.0**: The updated AI agent in Nordcraft 2.0 is said to be up to 6x faster than Claude, another popular AI model, indicating significant advancements in AI performance and efficiency.\n* **ChatGPT Images 2.0**: The first image model with thinking capabilities has been launched, allowing for more sophisticated and dynamic image generation.\n* **Basedash Automations**: A new AI-powered data analyst that works while you sleep has been introduced, promising to automate routine data analysis tasks.\n* **Pioneer**: A tool that allows users to fine-tune any large language model (LLM) in minutes with just one prompt has been launched, marking a significant improvement in LLM customization and flexibility.\n\n**Trend:** **Rise of AI-powered productivity tools**: The recent launches of AI-powered productivity tools, such as Codex 3.0, Nordcraft 2.0, Basedash Automations, and Pioneer, indicate a growing trend towards automating routine tasks and workflows using AI. These tools promise to free up human time and resources for more strategic and creative work."
 }
