@@ -1,10 +1,46 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-29T05:28:48.337Z",
+  "timestamp": "2026-04-30T05:32:37.778Z",
   "categories": {
     "news": {
-      "count": 27,
+      "count": 25,
       "items": [
+        {
+          "subject": "Product Hunt Launch: ZenTrack: Finances, Streaks, Health",
+          "body": "Notes, money, and health. Sorted.",
+          "timestamp": "2026-04-29T14:00:02",
+          "url": "https://www.producthunt.com/products/zentrack-finances-streaks-health",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Picsart CLI",
+          "body": "Picsart's power right from your AI chat box",
+          "timestamp": "2026-04-29T14:00:02",
+          "url": "https://www.producthunt.com/products/picsart",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Venture Factory AI",
+          "body": "Your full venture strategy, built in minutes.",
+          "timestamp": "2026-04-29T14:00:02",
+          "url": "https://www.producthunt.com/products/venture-factory-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Asterik",
+          "body": "Describe a film look & AI color-grades your photo instantly",
+          "timestamp": "2026-04-29T14:00:02",
+          "url": "https://www.producthunt.com/products/asterik",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Lumen Tool",
           "body": "A 3D portrait lighting simulator",
@@ -51,6 +87,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Replyless - Best Superhuman Alternative",
+          "body": "AI Email app that sends daily email briefs on Telegram",
+          "timestamp": "2026-04-27T14:00:02",
+          "url": "https://www.producthunt.com/products/replylessai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: SNEWPapers",
           "body": "The World's First AI Newspaper Archive",
           "timestamp": "2026-04-27T14:00:02",
@@ -78,15 +123,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Replyless - Best Superhuman Alternative",
-          "body": "AI Email app that sends daily email briefs on Telegram",
-          "timestamp": "2026-04-27T14:00:02",
-          "url": "https://www.producthunt.com/products/replylessai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: VIDEO AI ME",
           "body": "Create videos with AI actors that sound and look real",
           "timestamp": "2026-04-27T14:00:02",
@@ -96,10 +132,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: SaveForm.io",
-          "body": "Automated form tracking and e-mail notifications & webhooks",
+          "subject": "Product Hunt Launch: TuneJourney.com",
+          "body": "AI learns your listening habits and curates your live radio",
           "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/saveform-io",
+          "url": "https://www.producthunt.com/products/tunejourney-com",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -127,6 +163,15 @@
           "body": "Send cross-chain transactions without bridging or gas hassle",
           "timestamp": "2026-04-24T14:00:02",
           "url": "https://www.producthunt.com/products/universal-gas-framework-ugf",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: SaveForm.io",
+          "body": "Automated form tracking and e-mail notifications & webhooks",
+          "timestamp": "2026-04-24T14:00:02",
+          "url": "https://www.producthunt.com/products/saveform-io",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -184,72 +229,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: TuneJourney.com",
-          "body": "AI learns your listening habits and curates your live radio",
-          "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/tunejourney-com",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: TabMail",
-          "body": "An agentic email assistant for iOS and Thunderbird",
-          "timestamp": "2026-04-22T14:00:01",
-          "url": "https://www.producthunt.com/products/tabmail",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Basedash Automations",
-          "body": "Your AI data analyst that works while you sleep.",
-          "timestamp": "2026-04-22T14:00:01",
-          "url": "https://www.producthunt.com/products/basedash",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ChatGPT Images 2.0",
-          "body": "First image model with thinking capabilities",
-          "timestamp": "2026-04-22T14:00:01",
-          "url": "https://www.producthunt.com/products/chatgpt-images-2-0",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Kyohansha",
-          "body": "Web-based 60FPS Live2D AI with Lite-RAG long-term memory",
-          "timestamp": "2026-04-22T14:00:01",
-          "url": "https://www.producthunt.com/products/kyohansha",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: VibeAround",
-          "body": "Chat with your local AI coding agent from any IM or browser...",
-          "timestamp": "2026-04-22T14:00:01",
-          "url": "https://www.producthunt.com/products/vibearound",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: kimiflare",
-          "body": "kimi k2.6 cli code editor hosted on cloudflare workers AI",
-          "timestamp": "2026-04-22T14:00:01",
-          "url": "https://www.producthunt.com/products/kimiflare",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 key developments and 1 trend:\n\n**Key Developments:**\n\n* **Product Hunt Launches:** 27 new products were launched on Product Hunt, showcasing a wide range of AI-related innovations, including 3D portrait lighting simulators, AI transcription tools, and AI-powered video creation platforms.\n* **AI Transcription:** Thoth, a private and local AI transcription tool for Mac, was launched on Product Hunt, highlighting the growing demand for AI-powered transcription solutions.\n* **Video Creation:** VIDEO AI ME, a platform that enables users to create videos with AI actors that sound and look real, was launched on Product Hunt, showcasing the increasing adoption of AI in video creation.\n* **Email Automation:** MailCue, a platform that allows users to run email automation on autopilot, was launched on Product Hunt, highlighting the growing need for AI-powered email automation solutions.\n* **AI Research:** Vouch API, an AI equity research platform, was launched on Product Hunt, showcasing the growing use of AI in financial research and analysis.\n* **Coding Agent:** VibeAround, a platform that enables users to chat with their local AI coding agent from any IM or browser, was launched on Product Hunt, highlighting the growing adoption of AI in coding and development.\n\n**Trend:**\n\n* **AI Adoption Acceleration:** The sheer number of AI-related product launches on Product Hunt in a single week suggests that AI adoption is accelerating, with more and more developers, entrepreneurs, and businesses embracing AI-powered solutions to solve real-world problems."
+  "summary": "Here are the key developments and a trend from the recent Product Hunt launches:\n\n**Key Developments:**\n\n* **Health and Finance Tracking**: ZenTrack, a new product, allows users to track their finances, streaks, and health in one application.\n* **AI-powered Photo Editor**: Asterik is an AI-powered photo editor that can describe a film look and color-grade photos instantly.\n* **Local AI Transcription**: Thoth is a private, local AI transcription tool for Mac users.\n* **Open-source Video Editing**: Doza Assist is an open-source local AI that learns how users edit video.\n* **AI-powered Radio Curation**: TuneJourney.com is an AI that learns users' listening habits and curates live radio.\n\n**Trend:** **AI-powered Productivity Tools**: Many of the recent Product Hunt launches are AI-powered productivity tools, such as ZenTrack, NotchNest AI, and Doza Assist, which use machine learning and natural language processing to automate and simplify various tasks. These tools are becoming increasingly popular as users seek to augment their productivity and efficiency."
 }
