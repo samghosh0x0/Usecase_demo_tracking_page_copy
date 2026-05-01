@@ -1,10 +1,64 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-04-30T05:32:37.778Z",
+  "timestamp": "2026-05-01T05:43:54.927Z",
   "categories": {
     "news": {
-      "count": 25,
+      "count": 31,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Crin AI",
+          "body": "Learn about AI & watch text become tokens in a node graph...",
+          "timestamp": "2026-04-30T14:00:02",
+          "url": "https://www.producthunt.com/products/crin-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Spec27",
+          "body": "Spec-driven testing for AI agents and AI apps",
+          "timestamp": "2026-04-30T14:00:02",
+          "url": "https://www.producthunt.com/products/spec27-early-access",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: KushoAI for Playwright",
+          "body": "Open-source Terminal UI, just record & get exhaustive tests",
+          "timestamp": "2026-04-30T14:00:02",
+          "url": "https://www.producthunt.com/products/kushoai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: MailToDock",
+          "body": "Turn Gmail into Google Tasks with AI-powered",
+          "timestamp": "2026-04-30T14:00:02",
+          "url": "https://www.producthunt.com/products/mailtodock",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Miaw AI secretary",
+          "body": "Non-invasive AI secretary to help without context switching",
+          "timestamp": "2026-04-30T14:00:02",
+          "url": "https://www.producthunt.com/products/miaw-ai-secretary",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Docky",
+          "body": "Pin, group, and remove apps easily from your dock",
+          "timestamp": "2026-04-30T14:00:02",
+          "url": "https://www.producthunt.com/products/docky-the-dock-rebuit-for-focus",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: ZenTrack: Finances, Streaks, Health",
           "body": "Notes, money, and health. Sorted.",
@@ -87,15 +141,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Replyless - Best Superhuman Alternative",
-          "body": "AI Email app that sends daily email briefs on Telegram",
-          "timestamp": "2026-04-27T14:00:02",
-          "url": "https://www.producthunt.com/products/replylessai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: SNEWPapers",
           "body": "The World's First AI Newspaper Archive",
           "timestamp": "2026-04-27T14:00:02",
@@ -118,6 +163,15 @@
           "body": "AI equity research that proves it isn't lying",
           "timestamp": "2026-04-27T14:00:02",
           "url": "https://www.producthunt.com/products/vouch-api",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Replyless - Best Superhuman Alternative",
+          "body": "AI Email app that sends daily email briefs on Telegram",
+          "timestamp": "2026-04-27T14:00:02",
+          "url": "https://www.producthunt.com/products/replylessai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -233,5 +287,5 @@
       ]
     }
   },
-  "summary": "Here are the key developments and a trend from the recent Product Hunt launches:\n\n**Key Developments:**\n\n* **Health and Finance Tracking**: ZenTrack, a new product, allows users to track their finances, streaks, and health in one application.\n* **AI-powered Photo Editor**: Asterik is an AI-powered photo editor that can describe a film look and color-grade photos instantly.\n* **Local AI Transcription**: Thoth is a private, local AI transcription tool for Mac users.\n* **Open-source Video Editing**: Doza Assist is an open-source local AI that learns how users edit video.\n* **AI-powered Radio Curation**: TuneJourney.com is an AI that learns users' listening habits and curates live radio.\n\n**Trend:** **AI-powered Productivity Tools**: Many of the recent Product Hunt launches are AI-powered productivity tools, such as ZenTrack, NotchNest AI, and Doza Assist, which use machine learning and natural language processing to automate and simplify various tasks. These tools are becoming increasingly popular as users seek to augment their productivity and efficiency."
+  "summary": "Here are the key developments with insight:\n\n**Latest AI product launches:**\n\n* **Crin AI**: A new platform that allows users to watch text become tokens in a node graph\n* **Spec27**: A tool for spec-driven testing of AI agents and apps\n* **KushoAI for Playwright**: An open-source terminal UI tool for creating exhaustive tests\n* **Miaw AI secretary**: A non-invasive AI secretary that helps users without context switching\n\n**Trend:**\n\n* **Increased focus on AI-powered productivity tools**: Many of the latest product launches (6 out of 31) are focused on AI-powered productivity tools, such as spec-driven testing, open-source terminal UI, and AI-powered secretaries. This trend suggests that users are looking for ways to automate and streamline their workflows using AI, and developers are responding to this demand with innovative solutions.\n\n**Other notable launches:**\n\n* **Nordcraft 2.0**: Adds a new AI agent that is up to 6x faster than Claude, suggesting a focus on improving AI performance and speed\n* **NotchNest AI**: Brings Apple Intelligence to the Notch, suggesting a focus on integrating AI into existing platforms and products\n* **Universal Gas Framework (UGF)**: Enables cross-chain transactions without bridging or gas hassle, suggesting a focus on improving blockchain scalability and usability"
 }
