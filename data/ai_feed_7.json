@@ -1,10 +1,37 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-01T13:09:07.757Z",
+  "timestamp": "2026-05-02T05:13:07.893Z",
   "categories": {
     "news": {
-      "count": 31,
+      "count": 23,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Marx Finance",
+          "body": "AI agents debate the markets",
+          "timestamp": "2026-05-01T14:00:02",
+          "url": "https://www.producthunt.com/products/marx-finance",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: nudge",
+          "body": "Drop your tasks. AI auto-schedules your whole week.",
+          "timestamp": "2026-05-01T14:00:02",
+          "url": "https://www.producthunt.com/products/nudge-26",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Montage",
+          "body": "UI Agentic framework for quicker output & less token usage",
+          "timestamp": "2026-05-01T14:00:02",
+          "url": "https://www.producthunt.com/products/montage-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Crin AI",
           "body": "Learn about AI & watch text become tokens in a node graph...",
@@ -60,6 +87,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Venture Factory AI",
+          "body": "Your full venture strategy, built in minutes.",
+          "timestamp": "2026-04-29T14:00:02",
+          "url": "https://www.producthunt.com/products/venture-factory-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: ZenTrack: Finances, Streaks, Health",
           "body": "Notes, money, and health. Sorted.",
           "timestamp": "2026-04-29T14:00:02",
@@ -73,15 +109,6 @@
           "body": "Picsart's power right from your AI chat box",
           "timestamp": "2026-04-29T14:00:02",
           "url": "https://www.producthunt.com/products/picsart",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Venture Factory AI",
-          "body": "Your full venture strategy, built in minutes.",
-          "timestamp": "2026-04-29T14:00:02",
-          "url": "https://www.producthunt.com/products/venture-factory-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -141,6 +168,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: VIDEO AI ME",
+          "body": "Create videos with AI actors that sound and look real",
+          "timestamp": "2026-04-27T14:00:02",
+          "url": "https://www.producthunt.com/products/video-ai-me",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: SNEWPapers",
           "body": "The World's First AI Newspaper Archive",
           "timestamp": "2026-04-27T14:00:02",
@@ -175,117 +211,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: VIDEO AI ME",
-          "body": "Create videos with AI actors that sound and look real",
-          "timestamp": "2026-04-27T14:00:02",
-          "url": "https://www.producthunt.com/products/video-ai-me",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: TuneJourney.com",
-          "body": "AI learns your listening habits and curates your live radio",
-          "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/tunejourney-com",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Nordcraft 2.0",
-          "body": "2.0 Adds a new AI Agent. Up to 6x faster than Claude...",
-          "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/toddle",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: NotchNest AI",
-          "body": "AI powered by Apple Intelligence now in your Notch",
-          "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/notchnest-quick-access-hub",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Universal Gas Framework (UGF)",
-          "body": "Send cross-chain transactions without bridging or gas hassle",
-          "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/universal-gas-framework-ugf",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SaveForm.io",
-          "body": "Automated form tracking and e-mail notifications & webhooks",
-          "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/saveform-io",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Haiker",
-          "body": "Hacker News App for non-native english speaker",
-          "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/haiker",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: LifeOS",
-          "body": "Use your LLM context to find friends and collaborators",
-          "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/lifeos-6",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: MailCue",
-          "body": "Run as a fully hardened production email server.",
-          "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/mailcue-realistic-email-testing-server",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Codex 3.0 by OpenAI",
-          "body": "Codex can now build, test & debug on autopilot",
-          "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tyndale",
-          "body": "Translate your app with the AI you already pay for",
-          "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/tyndale",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: DeepSeek-V4",
-          "body": "The open-source era of 1M context intelligence",
-          "timestamp": "2026-04-24T14:00:02",
-          "url": "https://www.producthunt.com/products/deepseek",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **AI-powered tools and applications are gaining momentum**: Several AI-powered tools and applications were launched on Product Hunt, including Crin AI, Spec27, KushoAI, and others, showcasing the increasing interest in leveraging AI technology for various tasks and industries.\n* **Increased focus on computer vision and AI-generated content**: The launch of Asterik, which uses AI to create film-like color grades for photos, and Lumen Tool, a 3D portrait lighting simulator, highlights the growing interest in AI-generated content and computer vision applications.\n* **Expansion of AI into different industries**: New products like VIDEO AI ME, which enables the creation of videos with AI-generated actors, and SNEWPapers, an AI-powered newspaper archive, demonstrate the increasing use of AI across various sectors, including media and publishing.\n* **Improvements in AI-powered productivity and workflow tools**: The launch of Spec27, which offers spec-driven testing for AI agents and apps, and Doza Assist, an open-source AI tool that learns how to edit video, reflect the ongoing strive for efficiency and automation in professional workflows.\n* **Rise of local AI applications**: The emergence of products like Thoth, a private, local AI transcription tool for Mac, and Miaw AI secretary, a non-invasive AI assistant, highlights the growing demand for AI-powered tools that can be used locally without requiring cloud-based services.\n\n**Trend:** The trend is **increasing investment in AI-powered tools and applications**, as startups and companies look to leverage AI technology to enhance productivity, creatively, and efficiency in various industries, from media and publishing to workflow and computer vision."
+  "summary": "Here are the key developments with insight:\n\n**Key Developments:**\n\n* **AI-powered productivity tools are on the rise**: Several new products have been launched on Product Hunt, showcasing AI-driven tools that aim to boost productivity, such as Nudge, which auto-schedules tasks, and Miaw AI secretary, which acts as a non-invasive AI secretary.\n* **AI in creative industries is gaining traction**: Products like Picsart CLI, Lumen Tool, and Asterik demonstrate the increasing use of AI in creative fields, enabling users to create and edit content more efficiently.\n* **AI-powered tools for finance and entrepreneurship are emerging**: Venture Factory AI and Vouch API are examples of AI-driven tools that aim to support entrepreneurs and investors in making informed decisions.\n* **AI-powered tools for communication and organization are being developed**: Products like MailToDock and Waitlister demonstrate the growing interest in using AI to streamline communication and organization.\n\n**Trend:**\n\n* **Increased focus on AI-powered productivity and creativity tools**: The recent launches on Product Hunt suggest a growing interest in developing AI-powered tools that can help users be more productive and creative. This trend is likely driven by the increasing demand for automation and efficiency in various industries, as well as the need for innovative solutions to complex problems."
 }
