@@ -1,10 +1,28 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-04T11:04:24.603Z",
+  "timestamp": "2026-05-05T02:23:37.600Z",
   "categories": {
     "news": {
-      "count": 23,
+      "count": 20,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Regulus by Cumbuca",
+          "body": "AI chatbot trained on Brazil's Central Bank regulations",
+          "timestamp": "2026-05-04T14:00:02",
+          "url": "https://www.producthunt.com/products/cumbuca",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Flowly",
+          "body": "Your personal AI assistant, native to your desktop",
+          "timestamp": "2026-05-04T14:00:02",
+          "url": "https://www.producthunt.com/products/flowly-6",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Marx Finance",
           "body": "AI agents debate the markets",
@@ -28,6 +46,15 @@
           "body": "UI Agentic framework for quicker output & less token usage",
           "timestamp": "2026-05-01T14:00:02",
           "url": "https://www.producthunt.com/products/montage-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Miaw AI secretary",
+          "body": "Non-invasive AI secretary to help without context switching",
+          "timestamp": "2026-04-30T14:00:02",
+          "url": "https://www.producthunt.com/products/miaw-ai-secretary",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -69,28 +96,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Miaw AI secretary",
-          "body": "Non-invasive AI secretary to help without context switching",
-          "timestamp": "2026-04-30T14:00:02",
-          "url": "https://www.producthunt.com/products/miaw-ai-secretary",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Docky",
           "body": "Pin, group, and remove apps easily from your dock",
           "timestamp": "2026-04-30T14:00:02",
           "url": "https://www.producthunt.com/products/docky-the-dock-rebuit-for-focus",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Venture Factory AI",
-          "body": "Your full venture strategy, built in minutes.",
-          "timestamp": "2026-04-29T14:00:02",
-          "url": "https://www.producthunt.com/products/venture-factory-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -114,10 +123,28 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Venture Factory AI",
+          "body": "Your full venture strategy, built in minutes.",
+          "timestamp": "2026-04-29T14:00:02",
+          "url": "https://www.producthunt.com/products/venture-factory-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Asterik",
           "body": "Describe a film look & AI color-grades your photo instantly",
           "timestamp": "2026-04-29T14:00:02",
           "url": "https://www.producthunt.com/products/asterik",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Blueprint",
+          "body": "Turn random prompts into airtight plans for any coding agent",
+          "timestamp": "2026-04-28T14:00:02",
+          "url": "https://www.producthunt.com/products/imbue-7",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -157,63 +184,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Blueprint",
-          "body": "Turn random prompts into airtight plans for any coding agent",
-          "timestamp": "2026-04-28T14:00:02",
-          "url": "https://www.producthunt.com/products/imbue-7",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: VIDEO AI ME",
-          "body": "Create videos with AI actors that sound and look real",
-          "timestamp": "2026-04-27T14:00:02",
-          "url": "https://www.producthunt.com/products/video-ai-me",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SNEWPapers",
-          "body": "The World's First AI Newspaper Archive",
-          "timestamp": "2026-04-27T14:00:02",
-          "url": "https://www.producthunt.com/products/snewpapers",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Waitlister",
-          "body": "The waitlist software to launch your product",
-          "timestamp": "2026-04-27T14:00:02",
-          "url": "https://www.producthunt.com/products/waitlister",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Vouch API",
-          "body": "AI equity research that proves it isn't lying",
-          "timestamp": "2026-04-27T14:00:02",
-          "url": "https://www.producthunt.com/products/vouch-api",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Replyless - Best Superhuman Alternative",
-          "body": "AI Email app that sends daily email briefs on Telegram",
-          "timestamp": "2026-04-27T14:00:02",
-          "url": "https://www.producthunt.com/products/replylessai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **AI-Powered Financial Planning:** Marx Finance, a new product, allows users to debate their financial decisions with AI agents, showcasing the integration of AI in personal finance.\n* **Task Management with AI:** nudge, another newly launched product, enables users to drop tasks and let AI auto-schedule their week, emphasizing the convenience of AI-powered productivity tools.\n* **Agile UI Development:** Montage, a UI Agentic framework, provides quicker output and reduced token usage, highlighting advancements in human-computer interaction.\n* **Educational AI Tools:** Crin AI and Blueprint offer AI-driven learning experiences, where users can explore node graphs and turn random prompts into comprehensive plans, respectively.\n* **AI-Driven Creativity:** Asterik, a photo editing tool, enables users to describe a film look and instantly achieve the desired color-grade, demonstrating the creative potential of AI in visual arts.\n* **Private AI Transcription:** Thoth, a local transcription tool, allows users to record and listen to audio privately, emphasizing the importance of AI in maintaining users' confidentiality.\n\n**Trend:** \nThe trend in recent product launches is the integration of AI in various sectors, including finance, productivity, education, creativity, and communication. This indicates a growing interest in developing AI-powered solutions that enhance users' lives and facilitate automation in different areas."
+  "summary": "Here are 4-6 bullet points summarizing the key developments with insight, along with 1 trend:\n\n**Key Developments:**\n\n* **AI chatbots and agents on the rise**: Several new products have launched on Product Hunt, showcasing AI-powered chatbots and agents that can assist with various tasks, such as Cumbuca's Regulus, which is trained on Brazil's Central Bank regulations.\n* **Increased focus on productivity and organization**: Many new products are aimed at helping users stay organized and focused, such as MailToDock, which turns Gmail into Google Tasks with AI-powered functionality.\n* **Growing demand for AI-powered creative tools**: Products like Asterik, which can color-grade photos based on a film look description, and Lumen Tool, a 3D portrait lighting simulator, demonstrate the growing interest in AI-powered creative tools.\n* **Open-source and local AI solutions gaining traction**: Doza Assist, a local AI that learns how users edit video, and Thoth, a private, local AI transcription tool for Mac, showcase the increasing popularity of open-source and local AI solutions.\n* **AI-powered testing and debugging tools emerging**: Spec27, a spec-driven testing tool for AI agents and apps, and KushoAI for Playwright, an open-source Terminal UI for testing, highlight the growing need for AI-powered testing and debugging tools.\n\n**Trend:**\n\n* **Increasing convergence of AI and productivity**: As AI continues to advance, we're seeing a growing convergence of AI and productivity tools, with many new products emerging that combine AI-powered functionality with traditional productivity and organization features. This trend is likely to continue, as users increasingly rely on AI to automate and streamline their workflows."
 }
