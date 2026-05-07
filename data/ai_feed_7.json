@@ -1,10 +1,91 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-06T05:31:25.729Z",
+  "timestamp": "2026-05-07T05:34:13.236Z",
   "categories": {
     "news": {
-      "count": 19,
+      "count": 23,
       "items": [
+        {
+          "subject": "Product Hunt Launch: moar",
+          "body": "Your documents. AI ready.",
+          "timestamp": "2026-05-06T14:00:02",
+          "url": "https://www.producthunt.com/products/moar-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: damnlines.com",
+          "body": "No one likes waiting in a damn line.",
+          "timestamp": "2026-05-06T14:00:02",
+          "url": "https://www.producthunt.com/products/damnlines-com",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Magic Studio by Once UI",
+          "body": "Turn Once UI into a $10k agency",
+          "timestamp": "2026-05-06T14:00:02",
+          "url": "https://www.producthunt.com/products/magic-studio-by-once-ui",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Ajelix AI Agent for Work",
+          "body": "The first truly agentic AI sidebar for Google Workspace",
+          "timestamp": "2026-05-06T14:00:02",
+          "url": "https://www.producthunt.com/products/ajelix-ai-excel-tools",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Kanwas",
+          "body": "Open-Source Brain For Your Team",
+          "timestamp": "2026-05-06T14:00:02",
+          "url": "https://www.producthunt.com/products/kanwas",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: DevAlly",
+          "body": "AI powered accessibility compliance for teams who ship fast",
+          "timestamp": "2026-05-06T14:00:02",
+          "url": "https://www.producthunt.com/products/devally",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Ads in ChatGPT",
+          "body": "Create, manage, and measure your ChatGPT ad campaigns",
+          "timestamp": "2026-05-06T14:00:02",
+          "url": "https://www.producthunt.com/products/chatgpt",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Knowly 1.0",
+          "body": "LLM Wiki + Notebook: LM, in one closed-loop Proactive AI",
+          "timestamp": "2026-05-06T14:00:02",
+          "url": "https://www.producthunt.com/products/knowly-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Unity AI",
+          "body": "AI agents built directly into Unity workflows",
+          "timestamp": "2026-05-05T14:00:02",
+          "url": "https://www.producthunt.com/products/unity",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Agentic API Grader by SaaStr.ai",
           "body": "Your #1 new customer is an AI agent. Are they getting an...",
@@ -28,15 +109,6 @@
           "body": "The context layer for production-grade AI agent",
           "timestamp": "2026-05-05T14:00:02",
           "url": "https://www.producthunt.com/products/airbyte-agents",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Unity AI",
-          "body": "AI agents built directly into Unity workflows",
-          "timestamp": "2026-05-05T14:00:02",
-          "url": "https://www.producthunt.com/products/unity",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -87,6 +159,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Docky",
+          "body": "Pin, group, and remove apps easily from your dock",
+          "timestamp": "2026-04-30T14:00:02",
+          "url": "https://www.producthunt.com/products/docky-the-dock-rebuit-for-focus",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Crin AI",
           "body": "Learn about AI & watch text become tokens in a node graph...",
           "timestamp": "2026-04-30T14:00:02",
@@ -130,54 +211,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Docky",
-          "body": "Pin, group, and remove apps easily from your dock",
-          "timestamp": "2026-04-30T14:00:02",
-          "url": "https://www.producthunt.com/products/docky-the-dock-rebuit-for-focus",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Asterik",
-          "body": "Describe a film look & AI color-grades your photo instantly",
-          "timestamp": "2026-04-29T14:00:02",
-          "url": "https://www.producthunt.com/products/asterik",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ZenTrack: Finances, Streaks, Health",
-          "body": "Notes, money, and health. Sorted.",
-          "timestamp": "2026-04-29T14:00:02",
-          "url": "https://www.producthunt.com/products/zentrack-finances-streaks-health",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Picsart CLI",
-          "body": "Picsart's power right from your AI chat box",
-          "timestamp": "2026-04-29T14:00:02",
-          "url": "https://www.producthunt.com/products/picsart",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Venture Factory AI",
-          "body": "Your full venture strategy, built in minutes.",
-          "timestamp": "2026-04-29T14:00:02",
-          "url": "https://www.producthunt.com/products/venture-factory-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **Increased focus on AI agents:** Many new products have been launched that utilize AI agents, such as AI-powered assistants, chatbots, and automation tools. Examples include Agentic API Grader by SaaStr.ai, Tollecode, and Miaw AI Secretary.\n* **Automated workflows and productivity:** Several products aim to automate tasks and enhance productivity, such as Unity AI, Flowly, and Nudge. These tools integrate AI into workflows to simplify tasks and boost efficiency.\n* **Market analysis and research:** AI-powered analysis and research tools are being developed, such as Marx Finance and Venture Factory AI. These tools leverage AI to inform business and investment decisions.\n* **Content creation and design:** AI-powered creative tools are emerging, such as Crin AI, which helps users learn about AI and generates code, and Monteage, a UI framework that leverages AI for quicker output.\n* **Productivity and organization:** Several products aim to streamline workflows and organization, such as ZenTrack, MailToDock, and Docky.\n\n**Trend:** The trend is focused on the integration of AI into various industries and workflows, with a focus on automation, productivity, and innovation. This includes the development of AI-powered agents, chatbots, and automation tools, as well as AI-powered analysis and research tools that help inform business decisions."
+  "summary": "**Key Developments:**\n\n* **Product Hunt Launches**: A total of 23 products were launched on Product Hunt, showcasing various AI-powered tools and applications.\n* **AI Agent Integrations**: Several products were launched that integrate AI agents with popular platforms such as Google Workspace, ChatGPT, and more.\n* **Accessibility and Compliance**: Two products, DevAlly and Unity AI, focus on accessibility and compliance for teams.\n* **Creative Tools**: Magic Studio by Once UI and Montage are designed to help users create AI-powered content.\n* **Learning and Education**: Crin AI provides an interactive platform to learn about AI, and Spec27 offers spec-driven testing for AI agents and apps.\n* **Productivity and Automation**: Nudge, Flowly, and MailToDock aim to streamline tasks and automate workflows using AI.\n\n**Trend:**\n\n* **Agentic AI**: The rise of agentic AI, where AI agents can perform tasks and make decisions on behalf of humans, is becoming increasingly prominent. Many of the launched products focus on integrating AI agents with various platforms and applications, highlighting the growing demand for agentic AI capabilities."
 }
