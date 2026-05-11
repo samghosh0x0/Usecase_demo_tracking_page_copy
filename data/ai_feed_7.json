@@ -1,10 +1,19 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-10T05:39:24.264Z",
+  "timestamp": "2026-05-11T06:00:52.399Z",
   "categories": {
     "news": {
-      "count": 25,
+      "count": 26,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Adject 2.0",
+          "body": "Create hyperrealistic product visuals with AI",
+          "timestamp": "2026-05-10T14:00:02",
+          "url": "https://www.producthunt.com/products/adject",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Zappy by ZapDigits",
           "body": "Your AI reporting analyst",
@@ -105,19 +114,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: damnlines.com",
-          "body": "No one likes waiting in a damn line.",
+          "subject": "Product Hunt Launch: moar",
+          "body": "Your documents. AI ready.",
           "timestamp": "2026-05-06T14:00:02",
-          "url": "https://www.producthunt.com/products/damnlines-com",
+          "url": "https://www.producthunt.com/products/moar-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: moar",
-          "body": "Your documents. AI ready.",
+          "subject": "Product Hunt Launch: damnlines.com",
+          "body": "No one likes waiting in a damn line.",
           "timestamp": "2026-05-06T14:00:02",
-          "url": "https://www.producthunt.com/products/moar-2",
+          "url": "https://www.producthunt.com/products/damnlines-com",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -233,5 +242,5 @@
       ]
     }
   },
-  "summary": "Key Developments:\n\n* **Rise of AI Tools**: Multiple AI-powered tools were launched on Product Hunt, showcasing the increasing interest in AI solutions. These tools include Staff.rip for describing code changes, Kuku for local second brain functionality, and Contextual Moderation for chat experiences.\n* **AI Agent Focus**: Several launches focused on AI agents, such as Phrony, KodHau, and Airbyte Agents, highlighting the growing importance of agent-based AI solutions.\n* **Productivity and Accessibility**: Tools like Moar, reMarkable Paper Pure, and DevAlly aimed to improve productivity and accessibility, demonstrating the potential of AI in enhancing user experiences.\n* **Open-Source Initiatives**: Projects like Kanwas and Tollecode were launched as open-source initiatives, promoting collaboration and community-driven development.\n* **New Customer Engagement**: Agentic API Grader by SaaStr.ai aimed to help businesses engage with AI agents as new customers, emphasizing the growing relevance of AI in customer acquisition.\n\nTrend: **Increasing Application of AI in Vertical Industries**: The recent Product Hunt launches reflect a broader trend of AI adoption across various industries, including productivity, accessibility, and customer engagement. This trend is likely to continue as AI technology continues to advance and become more accessible to developers and businesses."
+  "summary": "**Key Developments:**\n\n* **Adject 2.0**: A product launch that enables the creation of hyperrealistic product visuals with AI.\n* **ZapDigits**: A product launch that offers AI-powered reporting and analysis.\n* **MarkUp**: A product launch that allows users to edit websites through AI with visual prompts.\n* **KodHau**: A product launch that helps stop AI from breaking production by providing senior context for AI agents.\n* **Contextual Moderation for Chat**: A product launch that offers AI-powered moderation for safer chat experiences.\n\n**Trend:**\nThe trend in this dataset is the **increasing adoption of AI-powered tools and technologies**. Many of the product launches featured in this dataset involve the use of AI to automate tasks, improve productivity, and enhance user experience. This suggests that companies are recognizing the potential benefits of AI and are working to develop and integrate AI-powered solutions into their products and services."
 }
