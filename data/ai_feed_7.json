@@ -1,10 +1,73 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-11T06:00:52.399Z",
+  "timestamp": "2026-05-12T05:40:20.039Z",
   "categories": {
     "news": {
-      "count": 26,
+      "count": 31,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Yeta AI",
+          "body": "Real-time AI dubbing for any YouTube video",
+          "timestamp": "2026-05-11T14:00:02",
+          "url": "https://www.producthunt.com/products/yeta-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Connector.wtf",
+          "body": "Plug Google Ads, Meta & LinkedIn into your AI chat. Free.",
+          "timestamp": "2026-05-11T14:00:02",
+          "url": "https://www.producthunt.com/products/connector-wtf",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Bruin",
+          "body": "The AI data agent that collaborates with your team",
+          "timestamp": "2026-05-11T14:00:02",
+          "url": "https://www.producthunt.com/products/bruin",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: RPCForge",
+          "body": "Multi-chain Ethereum RPC you own and control",
+          "timestamp": "2026-05-11T14:00:02",
+          "url": "https://www.producthunt.com/products/rpcforge-own-your-rpc",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: CacheTray",
+          "body": "Capture anything & send it to Claude or ChatGPT in one click...",
+          "timestamp": "2026-05-11T14:00:02",
+          "url": "https://www.producthunt.com/products/cachetray-clipboard-for-ai-workflows",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Suprbox",
+          "body": "Box for AI agents to secure enterprise data storage",
+          "timestamp": "2026-05-11T14:00:02",
+          "url": "https://www.producthunt.com/products/suprbox",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Grok Connectors",
+          "body": "Bring your daily apps into Grok",
+          "timestamp": "2026-05-11T14:00:02",
+          "url": "https://www.producthunt.com/products/grok",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Adject 2.0",
           "body": "Create hyperrealistic product visuals with AI",
@@ -60,6 +123,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Phrony",
+          "body": "Ship AI agents without the operational burden",
+          "timestamp": "2026-05-07T14:00:02",
+          "url": "https://www.producthunt.com/products/phrony",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Contextual Moderation for Chat",
           "body": "AI-powered moderation for safer chat experiences",
           "timestamp": "2026-05-07T14:00:02",
@@ -73,15 +145,6 @@
           "body": "The reMarkable 2 successor goes back to basics.",
           "timestamp": "2026-05-07T14:00:02",
           "url": "https://www.producthunt.com/products/remarkable-paper-pro",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Phrony",
-          "body": "Ship AI agents without the operational burden",
-          "timestamp": "2026-05-07T14:00:02",
-          "url": "https://www.producthunt.com/products/phrony",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -186,6 +249,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Unity AI",
+          "body": "AI agents built directly into Unity workflows",
+          "timestamp": "2026-05-05T14:00:02",
+          "url": "https://www.producthunt.com/products/unity",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Agentic API Grader by SaaStr.ai",
           "body": "Your #1 new customer is an AI agent. Are they getting an...",
           "timestamp": "2026-05-05T14:00:02",
@@ -211,36 +283,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Unity AI",
-          "body": "AI agents built directly into Unity workflows",
-          "timestamp": "2026-05-05T14:00:02",
-          "url": "https://www.producthunt.com/products/unity",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Flowly",
-          "body": "Your personal AI assistant, native to your desktop",
-          "timestamp": "2026-05-04T14:00:02",
-          "url": "https://www.producthunt.com/products/flowly-6",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Regulus by Cumbuca",
-          "body": "AI chatbot trained on Brazil's Central Bank regulations",
-          "timestamp": "2026-05-04T14:00:02",
-          "url": "https://www.producthunt.com/products/cumbuca",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **Adject 2.0**: A product launch that enables the creation of hyperrealistic product visuals with AI.\n* **ZapDigits**: A product launch that offers AI-powered reporting and analysis.\n* **MarkUp**: A product launch that allows users to edit websites through AI with visual prompts.\n* **KodHau**: A product launch that helps stop AI from breaking production by providing senior context for AI agents.\n* **Contextual Moderation for Chat**: A product launch that offers AI-powered moderation for safer chat experiences.\n\n**Trend:**\nThe trend in this dataset is the **increasing adoption of AI-powered tools and technologies**. Many of the product launches featured in this dataset involve the use of AI to automate tasks, improve productivity, and enhance user experience. This suggests that companies are recognizing the potential benefits of AI and are working to develop and integrate AI-powered solutions into their products and services."
+  "summary": "Here are 6 key developments with insight:\n\n* **Rise of AI-powered productivity tools**: Several new tools were launched on Product Hunt, such as CacheTray, Staff.rip, and Basedash, which aim to improve productivity by automating tasks and providing AI-driven insights.\n* **Increased focus on AI security and governance**: Tools like Suprbox and KodHau were launched to address concerns around AI security and governance, highlighting the growing importance of ensuring the reliability and integrity of AI systems.\n* **Growing interest in AI-powered content creation**: Adject 2.0 and LikeTony.ai were launched to enable users to create high-quality content using AI, such as product visuals and speech-like dialogue, which could potentially disrupt the content creation industry.\n* **Advancements in AI-human collaboration**: Tools like Bruin and Phrony were launched to facilitate more effective collaboration between humans and AI agents, enabling teams to work more efficiently and make better decisions.\n* **Expansion of AI applications beyond tech**: The launch of Magic Studio by Once UI, a tool that enables non-technical users to create high-end designs, indicates a growing interest in using AI to enhance creative industries beyond tech.\n* **Rise of open-source AI solutions**: Several open-source AI solutions were launched, including Kuku, Kanwas, and Knowly 1.0, which could potentially democratize access to AI technology and enable more developers to build AI-powered products.\n\nTrend: **Increased convergence of AI, productivity, and creativity**: The current trend suggests that AI is becoming increasingly integrated into various aspects of productivity and creativity, enabling users to work more efficiently and effectively. This convergence is likely to continue, leading to new opportunities for innovation and disruption across industries."
 }
