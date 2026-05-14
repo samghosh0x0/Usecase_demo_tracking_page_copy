@@ -1,10 +1,37 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-13T05:51:10.883Z",
+  "timestamp": "2026-05-14T05:50:12.444Z",
   "categories": {
     "news": {
-      "count": 30,
+      "count": 25,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Zen Reports",
+          "body": "See how much traffic your website gets from ChatGPT",
+          "timestamp": "2026-05-13T14:00:02",
+          "url": "https://www.producthunt.com/products/zen-reports",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Blaze 2.0",
+          "body": "AI marketer for SMBs complete w/ strategy, content, and ads",
+          "timestamp": "2026-05-13T14:00:02",
+          "url": "https://www.producthunt.com/products/blaze-5",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: PitchDrop.ai",
+          "body": "Your AI pitch advisor",
+          "timestamp": "2026-05-13T14:00:02",
+          "url": "https://www.producthunt.com/products/pitchdrop-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: knooth",
           "body": "Screen recording with AI-powered editing for Mac",
@@ -28,6 +55,15 @@
           "body": "Audit your site for the AI search era. 100% Open Source Discussion...",
           "timestamp": "2026-05-12T14:00:02",
           "url": "https://www.producthunt.com/products/free-ai-seo-auditor",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Grok Connectors",
+          "body": "Bring your daily apps into Grok",
+          "timestamp": "2026-05-11T14:00:02",
+          "url": "https://www.producthunt.com/products/grok",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -87,15 +123,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Grok Connectors",
-          "body": "Bring your daily apps into Grok",
-          "timestamp": "2026-05-11T14:00:02",
-          "url": "https://www.producthunt.com/products/grok",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Adject 2.0",
           "body": "Create hyperrealistic product visuals with AI",
           "timestamp": "2026-05-10T14:00:02",
@@ -123,15 +150,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Kuku:",
-          "body": "Your open-source, local second brain for every AI",
-          "timestamp": "2026-05-08T14:00:02",
-          "url": "https://www.producthunt.com/products/kuku",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: MarkUp",
           "body": "Edit websites through AI with visual prompts",
           "timestamp": "2026-05-08T14:00:02",
@@ -141,10 +159,28 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Kuku:",
+          "body": "Your open-source, local second brain for every AI",
+          "timestamp": "2026-05-08T14:00:02",
+          "url": "https://www.producthunt.com/products/kuku",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: KodHau",
           "body": "Stop your AI from breaking prod-give it your team decisions",
           "timestamp": "2026-05-08T14:00:02",
           "url": "https://www.producthunt.com/products/kodhau-senior-context-for-ai-agents",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: LikeTony.ai",
+          "body": "Make your landing sound like Elon, Jobs or Yoda",
+          "timestamp": "2026-05-07T14:00:02",
+          "url": "https://www.producthunt.com/products/liketony-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -193,90 +229,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: LikeTony.ai",
-          "body": "Make your landing sound like Elon, Jobs or Yoda",
-          "timestamp": "2026-05-07T14:00:02",
-          "url": "https://www.producthunt.com/products/liketony-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Knowly 1.0",
-          "body": "LLM Wiki + Notebook: LM, in one closed-loop Proactive AI",
-          "timestamp": "2026-05-06T14:00:02",
-          "url": "https://www.producthunt.com/products/knowly-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: moar",
-          "body": "Your documents. AI ready.",
-          "timestamp": "2026-05-06T14:00:02",
-          "url": "https://www.producthunt.com/products/moar-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: damnlines.com",
-          "body": "No one likes waiting in a damn line.",
-          "timestamp": "2026-05-06T14:00:02",
-          "url": "https://www.producthunt.com/products/damnlines-com",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Magic Studio by Once UI",
-          "body": "Turn Once UI into a $10k agency",
-          "timestamp": "2026-05-06T14:00:02",
-          "url": "https://www.producthunt.com/products/magic-studio-by-once-ui",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ajelix AI Agent for Work",
-          "body": "The first truly agentic AI sidebar for Google Workspace",
-          "timestamp": "2026-05-06T14:00:02",
-          "url": "https://www.producthunt.com/products/ajelix-ai-excel-tools",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Kanwas",
-          "body": "Open-Source Brain For Your Team",
-          "timestamp": "2026-05-06T14:00:02",
-          "url": "https://www.producthunt.com/products/kanwas",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: DevAlly",
-          "body": "AI powered accessibility compliance for teams who ship fast",
-          "timestamp": "2026-05-06T14:00:02",
-          "url": "https://www.producthunt.com/products/devally",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ads in ChatGPT",
-          "body": "Create, manage, and measure your ChatGPT ad campaigns",
-          "timestamp": "2026-05-06T14:00:02",
-          "url": "https://www.producthunt.com/products/chatgpt",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **AI-powered editing tool for Mac:** knooth, a screen recording app with AI-powered editing, was launched on Product Hunt.\n* **Local predictive memory for AI agents:** Khaos Brain, a local predictive memory for AI agents, was launched on Product Hunt.\n* **AI SEO auditor:** Free AI SEO Auditor, a tool to audit websites for the AI search era, was launched on Product Hunt.\n* **Real-time AI dubbing for YouTube videos:** Yeta AI, a real-time AI dubbing tool for YouTube videos, was launched on Product Hunt.\n* **AI reporting analyst:** Zappy by ZapDigits, an AI reporting analyst tool, was launched on Product Hunt.\n* **AI data agent:** Bruin, an AI data agent that collaborates with teams, was launched on Product Hunt.\n\n**Trend:** **Rise of AI-powered productivity tools:** The recent Product Hunt launches highlight a growing trend of AI-powered productivity tools, with a focus on automation, efficiency, and collaboration. These tools aim to simplify complex tasks and help professionals work smarter and faster."
+  "summary": "Here are 6 key developments with insight:\n\n* **AI-powered reporting and analytics tools are emerging**: Zen Reports, Zappy by ZapDigits, and Basedash MCP server are examples of tools that are leveraging AI to provide customers with enhanced reporting and analytics capabilities.\n* **AI-powered marketing and advertising tools are gaining traction**: Blaze 2.0 and Adject 2.0 are two examples of tools that are using AI to help small businesses with marketing and advertising.\n* **AI-powered content creation tools are increasing in popularity**: LikeTony.ai and AudioClip are examples of tools that are using AI to help with content creation.\n* **AI-powered moderation and security tools are being developed**: Contextual Moderation for Chat and KodHau are two examples of tools that are using AI to help with moderation and security.\n* **AI-powered productivity tools are being released**: Kuku, Phrony, and CacheTray are examples of tools that are using AI to help with productivity and workflow.\n\nTrend: **Increased focus on AI-powered productivity and workflow tools**: Many of the products launched on Product Hunt in the past week are focused on improving productivity and workflow through AI-powered tools and automation. This suggests that there is a growing demand for tools that can help individuals and organizations work more efficiently and effectively."
 }
