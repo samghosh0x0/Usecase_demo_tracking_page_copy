@@ -1,10 +1,73 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-18T06:16:57.790Z",
+  "timestamp": "2026-05-19T06:10:48.928Z",
   "categories": {
     "news": {
       "count": 24,
       "items": [
+        {
+          "subject": "Product Hunt Launch: pixserp",
+          "body": "Your LLM on the live web. One endpoint, ten answer shapes.",
+          "timestamp": "2026-05-18T14:00:01",
+          "url": "https://www.producthunt.com/products/pixserp",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Searchad.ai",
+          "body": "Run Apple Search Ads by Chatting with AI",
+          "timestamp": "2026-05-18T14:00:01",
+          "url": "https://www.producthunt.com/products/searchad-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: SizzleAir",
+          "body": "Thermal assistant for fanless MacBook Airs.",
+          "timestamp": "2026-05-18T14:00:01",
+          "url": "https://www.producthunt.com/products/sizzleair",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: M1 by Montage",
+          "body": "Agentic UI that scales on demand",
+          "timestamp": "2026-05-18T14:00:01",
+          "url": "https://www.producthunt.com/products/montage-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: The Claude Code Daily",
+          "body": "Claude Code news. Curated Daily.",
+          "timestamp": "2026-05-18T14:00:01",
+          "url": "https://www.producthunt.com/products/the-claude-code-daily",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Voiser AI",
+          "body": "Human-like AI voiceovers in 140+ languages",
+          "timestamp": "2026-05-18T14:00:01",
+          "url": "https://www.producthunt.com/products/voiser-ai-text-to-speech",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AnyFrame",
+          "body": "Sandboxes for your AI agents",
+          "timestamp": "2026-05-18T14:00:01",
+          "url": "https://www.producthunt.com/products/anyframe-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Agent-Sin",
           "body": "AI agent that handles repeated tasks through reusable skills",
@@ -33,19 +96,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Tenure",
-          "body": "Local LLM that remembers your stack and why you chose them",
+          "subject": "Product Hunt Launch: Crystal",
+          "body": "Identify rocks, crystals & gemstones instantly with AI",
           "timestamp": "2026-05-14T14:00:02",
-          "url": "https://www.producthunt.com/products/tenure",
+          "url": "https://www.producthunt.com/products/crystal-7",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Crystal",
-          "body": "Identify rocks, crystals & gemstones instantly with AI",
+          "subject": "Product Hunt Launch: Tenure",
+          "body": "Local LLM that remembers your stack and why you chose them",
           "timestamp": "2026-05-14T14:00:02",
-          "url": "https://www.producthunt.com/products/crystal-7",
+          "url": "https://www.producthunt.com/products/tenure",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -132,6 +195,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Free AI SEO Auditor",
+          "body": "Audit your site for the AI search era. 100% Open Source Discussion...",
+          "timestamp": "2026-05-12T14:00:02",
+          "url": "https://www.producthunt.com/products/free-ai-seo-auditor",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: knooth",
           "body": "Screen recording with AI-powered editing for Mac",
           "timestamp": "2026-05-12T14:00:02",
@@ -148,81 +220,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Free AI SEO Auditor",
-          "body": "Audit your site for the AI search era. 100% Open Source Discussion...",
-          "timestamp": "2026-05-12T14:00:02",
-          "url": "https://www.producthunt.com/products/free-ai-seo-auditor",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Grok Connectors",
-          "body": "Bring your daily apps into Grok",
-          "timestamp": "2026-05-11T14:00:02",
-          "url": "https://www.producthunt.com/products/grok",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Yeta AI",
-          "body": "Real-time AI dubbing for any YouTube video",
-          "timestamp": "2026-05-11T14:00:02",
-          "url": "https://www.producthunt.com/products/yeta-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Connector.wtf",
-          "body": "Plug Google Ads, Meta & LinkedIn into your AI chat. Free.",
-          "timestamp": "2026-05-11T14:00:02",
-          "url": "https://www.producthunt.com/products/connector-wtf",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Bruin",
-          "body": "The AI data agent that collaborates with your team",
-          "timestamp": "2026-05-11T14:00:02",
-          "url": "https://www.producthunt.com/products/bruin",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: RPCForge",
-          "body": "Multi-chain Ethereum RPC you own and control",
-          "timestamp": "2026-05-11T14:00:02",
-          "url": "https://www.producthunt.com/products/rpcforge-own-your-rpc",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: CacheTray",
-          "body": "Capture anything & send it to Claude or ChatGPT in one click...",
-          "timestamp": "2026-05-11T14:00:02",
-          "url": "https://www.producthunt.com/products/cachetray-clipboard-for-ai-workflows",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Suprbox",
-          "body": "Box for AI agents to secure enterprise data storage",
-          "timestamp": "2026-05-11T14:00:02",
-          "url": "https://www.producthunt.com/products/suprbox",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n**Bullet points:**\n\n* **AI Agent Ecosystem Expansion**: Several new AI agents have been launched on Product Hunt, including Agent-Sin, Nimbus, and Bruin, which offer various capabilities such as handling repeated tasks, agentic browsing, and data collaboration.\n* **Local LLMs Gain Popularity**: Tenure, a local LLM that remembers your stack and why you chose them, has been launched, indicating growing interest in local LLMs for specific use cases.\n* **AI-powered Tools for Creativity and Productivity**: Products like knooth (screen recording with AI-powered editing), Raindrop Workshop (open source, free, local debugger for AI agents), and CacheTray (capture and send content to Claude or ChatGPT in one click) suggest a focus on AI-powered tools for creative and productivity applications.\n* **SEO and Web Analytics**: Free AI SEO Auditor and Zen Reports (see how much traffic your website gets from ChatGPT) indicate growing interest in AI-powered SEO and web analytics tools.\n* **E-commerce and Marketing**: Storecraft (rapidly build AI-powered, Headless e-commerce backends) and Blaze 2.0 (AI marketer for SMBs complete with strategy, content, and ads) suggest a focus on AI-powered e-commerce and marketing solutions.\n\n**Trend:**\n**Increased Focus on AI Agent Ecosystem and Productivity Tools**: The recent launches on Product Hunt indicate a growing interest in AI agent ecosystems and productivity tools that leverage AI capabilities to enhance workflows and creativity. This trend is likely driven by the increasing adoption of AI and machine learning technologies in various industries and applications."
+  "summary": "**Key Developments:**\n\n* **Launch of AI-related products on Product Hunt**: Over 20 AI-related products were launched on Product Hunt in the past week, including Pixserp, Searchad.ai, SizzleAir, and more.\n* **Advancements in AI agents and interfaces**: Products like Agent-Sin, AnyFrame, and Nimbus showcased advancements in AI agents and interfaces, enabling more seamless interactions between humans and AI systems.\n* **Expansion of AI capabilities**: Launches like Voiser AI, which provides human-like voiceovers in 140+ languages, and Enjo Help Center, which auto-builds help centers that learn from teams, indicate the expansion of AI capabilities in various domains.\n* **Focus on accessibility and ease of use**: Products like Kimi WebBridge and Raindrop Workshop focused on making AI more accessible and easier to use, with features like bridging AI agents to the live web and local debugging.\n* **Increased interest in AI marketing and SEO**: The launch of products like Blaze 2.0, PitchDrop.ai, and Free AI SEO Auditor indicates an increased interest in using AI for marketing and SEO purposes.\n\n**Trend:**\n\n* **Rapid development and deployment of AI-powered products**: The high number of AI-related product launches on Product Hunt in a short period indicates a trend of rapid development and deployment of AI-powered products, driven by advancements in AI technology and increasing demand for AI solutions. This trend is likely to continue as more companies and individuals explore the potential of AI to transform various industries and aspects of life."
 }
