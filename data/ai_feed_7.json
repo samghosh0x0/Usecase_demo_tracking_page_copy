@@ -1,10 +1,64 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-19T06:10:48.928Z",
+  "timestamp": "2026-05-20T06:11:04.877Z",
   "categories": {
     "news": {
-      "count": 24,
+      "count": 27,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Insights",
+          "body": "Step-by-step action plans to improve your AI visibility.",
+          "timestamp": "2026-05-19T14:00:02",
+          "url": "https://www.producthunt.com/products/omnia-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Odysseyml",
+          "body": "Run multiplayer game simulations with an AI world model",
+          "timestamp": "2026-05-19T14:00:02",
+          "url": "https://www.producthunt.com/products/odysseyml-starchild-1-model",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: CLI Market",
+          "body": "3,760 retailers, one API for AI agents",
+          "timestamp": "2026-05-19T14:00:02",
+          "url": "https://www.producthunt.com/products/cli-market",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Trainer",
+          "body": "Train AI agents by recording your screen",
+          "timestamp": "2026-05-19T14:00:02",
+          "url": "https://www.producthunt.com/products/trainer-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Thinnest AI",
+          "body": "Build Voice AI Agents in 100+ languages for ₹1.5/min",
+          "timestamp": "2026-05-19T14:00:02",
+          "url": "https://www.producthunt.com/products/thinnest-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: VWFNDR™ + MBL",
+          "body": "Take raw photos with proof they're real, not AI",
+          "timestamp": "2026-05-19T14:00:02",
+          "url": "https://www.producthunt.com/products/vwfndr-mbl",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: pixserp",
           "body": "Your LLM on the live web. One endpoint, ten answer shapes.",
@@ -96,19 +150,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Crystal",
-          "body": "Identify rocks, crystals & gemstones instantly with AI",
+          "subject": "Product Hunt Launch: Tenure",
+          "body": "Local LLM that remembers your stack and why you chose them",
           "timestamp": "2026-05-14T14:00:02",
-          "url": "https://www.producthunt.com/products/crystal-7",
+          "url": "https://www.producthunt.com/products/tenure",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Tenure",
-          "body": "Local LLM that remembers your stack and why you chose them",
+          "subject": "Product Hunt Launch: Crystal",
+          "body": "Identify rocks, crystals & gemstones instantly with AI",
           "timestamp": "2026-05-14T14:00:02",
-          "url": "https://www.producthunt.com/products/tenure",
+          "url": "https://www.producthunt.com/products/crystal-7",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -168,6 +222,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: PitchDrop.ai",
+          "body": "Your AI pitch advisor",
+          "timestamp": "2026-05-13T14:00:02",
+          "url": "https://www.producthunt.com/products/pitchdrop-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Zen Reports",
           "body": "See how much traffic your website gets from ChatGPT",
           "timestamp": "2026-05-13T14:00:02",
@@ -184,45 +247,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: PitchDrop.ai",
-          "body": "Your AI pitch advisor",
-          "timestamp": "2026-05-13T14:00:02",
-          "url": "https://www.producthunt.com/products/pitchdrop-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Free AI SEO Auditor",
-          "body": "Audit your site for the AI search era. 100% Open Source Discussion...",
-          "timestamp": "2026-05-12T14:00:02",
-          "url": "https://www.producthunt.com/products/free-ai-seo-auditor",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: knooth",
-          "body": "Screen recording with AI-powered editing for Mac",
-          "timestamp": "2026-05-12T14:00:02",
-          "url": "https://www.producthunt.com/products/knooth",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Khaos Brain",
-          "body": "Local predictive memory for AI agents",
-          "timestamp": "2026-05-12T14:00:02",
-          "url": "https://www.producthunt.com/products/khaos-brain",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **Launch of AI-related products on Product Hunt**: Over 20 AI-related products were launched on Product Hunt in the past week, including Pixserp, Searchad.ai, SizzleAir, and more.\n* **Advancements in AI agents and interfaces**: Products like Agent-Sin, AnyFrame, and Nimbus showcased advancements in AI agents and interfaces, enabling more seamless interactions between humans and AI systems.\n* **Expansion of AI capabilities**: Launches like Voiser AI, which provides human-like voiceovers in 140+ languages, and Enjo Help Center, which auto-builds help centers that learn from teams, indicate the expansion of AI capabilities in various domains.\n* **Focus on accessibility and ease of use**: Products like Kimi WebBridge and Raindrop Workshop focused on making AI more accessible and easier to use, with features like bridging AI agents to the live web and local debugging.\n* **Increased interest in AI marketing and SEO**: The launch of products like Blaze 2.0, PitchDrop.ai, and Free AI SEO Auditor indicates an increased interest in using AI for marketing and SEO purposes.\n\n**Trend:**\n\n* **Rapid development and deployment of AI-powered products**: The high number of AI-related product launches on Product Hunt in a short period indicates a trend of rapid development and deployment of AI-powered products, driven by advancements in AI technology and increasing demand for AI solutions. This trend is likely to continue as more companies and individuals explore the potential of AI to transform various industries and aspects of life."
+  "summary": "**Key Developments:**\n\n* **Launch of new AI products**: 19 new AI products have been launched on Product Hunt, including tools for improving AI visibility, running multiplayer game simulations, and building voice AI agents.\n* **Increased focus on AI accessibility**: Several products, such as Trainer and Thinnest AI, aim to make AI more accessible to a wider audience, including those with limited technical expertise.\n* **Advancements in AI agent capabilities**: Products like Agent-Sin and Nimbus showcase the development of AI agents that can handle repeated tasks and interact with the live web.\n* **Growing importance of AI ethics**: The launch of products like VWFNDR and Searchad.ai highlight the need for AI tools that can detect and prevent AI-generated content.\n\n**Trend:**\n\n* **Rapid growth of the AI-as-a-Service market**: The launch of numerous AI products on Product Hunt suggests a surge in demand for AI tools that can be easily integrated into various applications and industries. This trend is expected to continue as more businesses seek to leverage AI to improve their operations and services."
 }
