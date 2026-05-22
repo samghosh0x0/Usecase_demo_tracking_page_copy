@@ -1,10 +1,64 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-21T06:12:51.544Z",
+  "timestamp": "2026-05-22T06:10:51.442Z",
   "categories": {
     "news": {
-      "count": 31,
+      "count": 29,
       "items": [
+        {
+          "subject": "Product Hunt Launch: InstaVM",
+          "body": "Instant computers in isolated environments for AI agents",
+          "timestamp": "2026-05-21T13:30:02",
+          "url": "https://www.producthunt.com/products/instavm",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Slideshot",
+          "body": "Product demo videos, recorded by your AI agent",
+          "timestamp": "2026-05-21T13:30:02",
+          "url": "https://www.producthunt.com/products/slideshot",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AlliHat",
+          "body": "Claude AI in your Safari sidebar",
+          "timestamp": "2026-05-21T13:30:02",
+          "url": "https://www.producthunt.com/products/allihat",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tycoon AI",
+          "body": "Run one-person companies entirely with AI agents",
+          "timestamp": "2026-05-21T13:30:02",
+          "url": "https://www.producthunt.com/products/tycoon-us",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Basedash Skills",
+          "body": "Reusable AI instructions for every Basedash surface.",
+          "timestamp": "2026-05-21T13:30:02",
+          "url": "https://www.producthunt.com/products/basedash",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tacet",
+          "body": "The brain monitor for cognitive health scores",
+          "timestamp": "2026-05-21T13:30:02",
+          "url": "https://www.producthunt.com/products/tacet",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Owlish",
           "body": "Reduce support volume with AI agents trained on your docs",
@@ -69,19 +123,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Insights",
-          "body": "Step-by-step action plans to improve your AI visibility.",
+          "subject": "Product Hunt Launch: Odysseyml",
+          "body": "Run multiplayer game simulations with an AI world model",
           "timestamp": "2026-05-19T14:00:02",
-          "url": "https://www.producthunt.com/products/omnia-2",
+          "url": "https://www.producthunt.com/products/odysseyml-starchild-1-model",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Odysseyml",
-          "body": "Run multiplayer game simulations with an AI world model",
+          "subject": "Product Hunt Launch: Insights",
+          "body": "Step-by-step action plans to improve your AI visibility.",
           "timestamp": "2026-05-19T14:00:02",
-          "url": "https://www.producthunt.com/products/odysseyml-starchild-1-model",
+          "url": "https://www.producthunt.com/products/omnia-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -123,15 +177,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: SizzleAir",
-          "body": "Thermal assistant for fanless MacBook Airs.",
-          "timestamp": "2026-05-18T14:00:01",
-          "url": "https://www.producthunt.com/products/sizzleair",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: pixserp",
           "body": "Your LLM on the live web. One endpoint, ten answer shapes.",
           "timestamp": "2026-05-18T14:00:01",
@@ -145,6 +190,15 @@
           "body": "Run Apple Search Ads by Chatting with AI",
           "timestamp": "2026-05-18T14:00:01",
           "url": "https://www.producthunt.com/products/searchad-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: SizzleAir",
+          "body": "Thermal assistant for fanless MacBook Airs.",
+          "timestamp": "2026-05-18T14:00:01",
+          "url": "https://www.producthunt.com/products/sizzleair",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -186,6 +240,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Kimi WebBridge",
+          "body": "A bridge connecting AI agents to the live web",
+          "timestamp": "2026-05-15T14:00:02",
+          "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Agent-Sin",
           "body": "AI agent that handles repeated tasks through reusable skills",
           "timestamp": "2026-05-15T14:00:02",
@@ -202,90 +265,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Kimi WebBridge",
-          "body": "A bridge connecting AI agents to the live web",
-          "timestamp": "2026-05-15T14:00:02",
-          "url": "https://www.producthunt.com/products/kimi-ai-assistant",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Storecraft",
-          "body": "Rapidly build AI-powered, Headless e-commerce backends",
-          "timestamp": "2026-05-14T14:00:02",
-          "url": "https://www.producthunt.com/products/storecraft",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tenure",
-          "body": "Local LLM that remembers your stack and why you chose them",
-          "timestamp": "2026-05-14T14:00:02",
-          "url": "https://www.producthunt.com/products/tenure",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Crystal",
-          "body": "Identify rocks, crystals & gemstones instantly with AI",
-          "timestamp": "2026-05-14T14:00:02",
-          "url": "https://www.producthunt.com/products/crystal-7",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: The Augmented AI",
-          "body": "Real-time AI insights for meetings without interruptions",
-          "timestamp": "2026-05-14T14:00:02",
-          "url": "https://www.producthunt.com/products/the-augmented-ai-live-ai-cortex",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: transfa.sh",
-          "body": "WeTransfer for AI agents",
-          "timestamp": "2026-05-14T14:00:02",
-          "url": "https://www.producthunt.com/products/transfa-sh",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Enjo Help Center",
-          "body": "AI auto-builds your help centers that learn from your team",
-          "timestamp": "2026-05-14T14:00:02",
-          "url": "https://www.producthunt.com/products/enjo-help-center",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Comie.dev",
-          "body": "Production context for AI with logs, DBs, and error tracking",
-          "timestamp": "2026-05-14T14:00:02",
-          "url": "https://www.producthunt.com/products/comie-dev",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Raindrop Workshop",
-          "body": "Open source, free, local debugger for AI agents.",
-          "timestamp": "2026-05-14T14:00:02",
-          "url": "https://www.producthunt.com/products/raindrop",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Developments and Trends in AI:**\n\nHere are the key developments in AI, as reported in the latest product launches:\n\n• **AI Agents Trained on Docs:** Owlish, a product recently launched on Product Hunt, aims to reduce support volume with AI agents trained on company documents. This suggests a growing interest in AI-driven customer support solutions.\n\n• **Advancements in AI Access:** Supercut for Agents, another recent launch, enables permission-aware AI access to recordings and metadata. This further indicates the importance of data access control in AI systems.\n\n• **Thermal Assistant for Fanless Laptops:** SizzleAir has been launched for the MacBook Air, which is fanless by design. This might suggest growing interest in AI-powered cooling solutions for mobile devices.\n\n• **Local AI Search for Mac Users:** Invenio provides a local AI search feature for Mac users, specifically for photo and video libraries. This implies an increasing desire for AI-powered search and organization tools for personal data.\n\n• **Google Pixel AI Image Generation:** Google Pics has been launched, boasting boundless AI image generation with precision editing capabilities. This represents significant advancements in AI-based image generation capabilities.\n\n• **LLM-Powered Photo Authentication:** VWFNDR & MBL has been launched to counter AI-generated images with physical proof of a photo's authenticity. This product addresses the problem of AI-generated content, promoting authentic visual verification.\n\n**Trend: AI Adoption in Various Industries**\n\nAcross the board, the recent product launches showcase a trend towards AI adoption in various industries, including customer support, thermal management, search, image generation, and authentication. As more companies explore AI solutions to solve specific problems, new innovations emerge, pushing the boundaries of what AI is capable of achieving."
+  "summary": "Here are the key developments with insight:\n\n* **AI Agent Expansion**: Several new products were launched on Product Hunt, including InstaVM, Slideshot, AlliHat, Tycoon AI, Basedash Skills, and Tacet, among others. These products showcase the growing trend of AI agents being used in various industries, from isolated environments to AI-generated image editing.\n* **Increased Focus on Accessibility**: Products like Thinnest AI and Voiser AI focus on providing human-like voiceovers in 140+ languages, indicating a growing emphasis on accessibility and inclusivity in AI development.\n* **Enhanced Security Features**: Hiro and SizzleAir offer security features, such as agentic security teams and thermal assistants, to enhance user experience and prevent potential risks associated with AI adoption.\n* **Integration with Existing Tools**: Products like CLI Market, Agent-Sin, and AnyFrame aim to integrate AI agents with existing tools and platforms, facilitating seamless collaboration between humans and AI.\n* **Emphasis on User Experience**: Nimbus and InstaVM focus on improving user experience through agentic browsers and instant computers in isolated environments, highlighting the importance of UX in AI product development.\n* **Growing Importance of AI in Industries**: Products like CLI Market and Searchad.ai demonstrate the growing adoption of AI in industries such as e-commerce and advertising, showcasing the potential of AI to revolutionize existing business models.\n\nTrend: **Rise of AI Agents**: The sheer number of AI agent-related products launched on Product Hunt indicates a growing trend towards AI agent adoption. As AI technology continues to advance, we can expect to see more products and services emerging that utilize AI agents to enhance user experience, increase efficiency, and improve decision-making."
 }
