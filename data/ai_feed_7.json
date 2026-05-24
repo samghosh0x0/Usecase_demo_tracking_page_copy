@@ -1,15 +1,42 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-23T05:41:18.233Z",
+  "timestamp": "2026-05-24T06:03:48.507Z",
   "categories": {
     "news": {
-      "count": 34,
+      "count": 37,
       "items": [
         {
-          "subject": "Product Hunt Launch: Cleo",
-          "body": "The AI PM that runs your team and fills roles",
+          "subject": "Product Hunt Launch: SignalLEMO - Ai Outreach Made Simple",
+          "body": "AI-powered lead outreach for field service contractors",
+          "timestamp": "2026-05-23T13:30:02",
+          "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Shroomie",
+          "body": "AI-powered news made fun and habit-forming",
+          "timestamp": "2026-05-23T04:00:02",
+          "url": "https://www.producthunt.com/products/shroomie",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Nota: AI Notes & Voice",
+          "body": "Nota chatbot. Nota blank page.",
+          "timestamp": "2026-05-23T04:00:02",
+          "url": "https://www.producthunt.com/products/nota-ai-notes-voice",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Nugget AI",
+          "body": "Turn customer interviews into your product roadmap",
           "timestamp": "2026-05-22T13:30:02",
-          "url": "https://www.producthunt.com/products/cleo-4",
+          "url": "https://www.producthunt.com/products/nugget-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -28,15 +55,6 @@
           "body": "Just tell your guitar pedal how to sound",
           "timestamp": "2026-05-22T13:30:02",
           "url": "https://www.producthunt.com/products/jamtime-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Nugget AI",
-          "body": "Turn customer interviews into your product roadmap",
-          "timestamp": "2026-05-22T13:30:02",
-          "url": "https://www.producthunt.com/products/nugget-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -73,6 +91,15 @@
           "body": "Real-time AI cheating detection for technical interviews.",
           "timestamp": "2026-05-22T13:30:02",
           "url": "https://www.producthunt.com/products/zero-assist",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Cleo",
+          "body": "The AI PM that runs your team and fills roles",
+          "timestamp": "2026-05-22T13:30:02",
+          "url": "https://www.producthunt.com/products/cleo-4",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -132,10 +159,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Supercut for Agents",
-          "body": "Permission-aware AI access to recordings and metadata",
+          "subject": "Product Hunt Launch: GhostSnap",
+          "body": "Take multiple screenshots that are auto compressed for AI",
           "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/supercut",
+          "url": "https://www.producthunt.com/products/ghostsnap",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -150,10 +177,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: GhostSnap",
-          "body": "Take multiple screenshots that are auto compressed for AI",
+          "subject": "Product Hunt Launch: Supercut for Agents",
+          "body": "Permission-aware AI access to recordings and metadata",
           "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/ghostsnap",
+          "url": "https://www.producthunt.com/products/supercut",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -314,5 +341,5 @@
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight, followed by a trend:\n\n**Key Developments:**\n\n• **Cleo AI PM**: Cleo, a product launch on Product Hunt, is an AI PM (Product Manager) that runs a team and fills roles, indicating a growing need for AI-driven product management.\n• **Training Data - AI Microgames**: Training Data's launch of AI microgames suggests a focus on developing more interactive and engaging AI training tools.\n• **JAMtime.ai**: JAMtime.ai's guitar pedal controller highlights the increasing use of AI in creative fields and the development of innovative music-making tools.\n• **Nugget AI**: Nugget AI's ability to turn customer interviews into product roadmaps indicates a growing interest in using AI to streamline product development and customer feedback processes.\n• **Supercut for Agents**: Supercut's launch of AI access to recordings and metadata suggests an increasing focus on AI-powered data management and analysis.\n• **Thinnest AI**: Thinnest AI's build Voice AI Agents in 100+ languages for ₹1.5/min highlights the growth of AI-powered voice assistants and the need for multilingual support.\n\n**Trend:**\n\n**The Rise of AI-Driven Productivity and Automation**\n\nThe recent launches on Product Hunt indicate a growing trend towards AI-driven productivity and automation in various industries. Many of these products aim to streamline processes, improve efficiency, and enhance decision-making through AI-powered tools and services. As AI continues to evolve and improve, we can expect to see more innovative solutions emerging in this space."
+  "summary": "Here are 6 key developments with insight:\n\n* **AI-Powered Lead Outreach**: SignalLEMO, a new product on Product Hunt, uses AI to simplify lead outreach for field service contractors. This development highlights the growing trend of using AI to automate and streamline sales and marketing processes.\n* **AI-Powered News**: Shroomie, another product on Product Hunt, offers AI-powered news that is made fun and habit-forming. This development shows how AI is being used to personalize and engage users with news and information.\n* **AI-Powered Product Development**: Nugget AI, a product on Product Hunt, uses AI to turn customer interviews into product roadmaps. This development highlights the growing use of AI in product development and design.\n* **AI-Powered Security**: Hiro, a product on Product Hunt, offers an agentic security team that can help companies with security from the first commit to SOC 2. This development shows how AI is being used to improve security and compliance.\n* **AI-Powered Image Generation**: Google Pics, a product on Product Hunt, uses AI to generate images and provide precision editing. This development highlights the growing use of AI in image and video processing.\n* **AI-Powered Language Processing**: Thinnest AI, a product on Product Hunt, offers voice AI agents in 100+ languages for ₹1.5/min. This development shows how AI is being used to improve language processing and provide more accessibility.\n\nTrend: **Rise of AI-Powered Automation**: The products on Product Hunt showcase the growing trend of using AI to automate and streamline various processes, from sales and marketing to security and image processing. This trend is expected to continue as AI technology advances and becomes more accessible to businesses and individuals."
 }
