@@ -1,10 +1,46 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-26T06:09:35.061Z",
+  "timestamp": "2026-05-27T06:23:14.961Z",
   "categories": {
     "news": {
-      "count": 34,
+      "count": 32,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Ormedo",
+          "body": "Let AI agents handle your entire outbound pipeline",
+          "timestamp": "2026-05-26T13:30:01",
+          "url": "https://www.producthunt.com/products/ormedo",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ReplylessAI Sequences",
+          "body": "Outbound email sequences without the sales-tool bloat",
+          "timestamp": "2026-05-26T13:30:01",
+          "url": "https://www.producthunt.com/products/replylessai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Ajar",
+          "body": "Lid Angle Sync & Keep Awake for AI Agents on Mac.",
+          "timestamp": "2026-05-26T13:30:01",
+          "url": "https://www.producthunt.com/products/ajar",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Concordance",
+          "body": "Three AI models on the same question. See where they split.",
+          "timestamp": "2026-05-26T13:30:01",
+          "url": "https://www.producthunt.com/products/concordance-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Orchestria",
           "body": "AI music engine with granular stem control",
@@ -69,42 +105,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Cleo",
-          "body": "The AI PM that runs your team and fills roles",
-          "timestamp": "2026-05-22T13:30:02",
-          "url": "https://www.producthunt.com/products/cleo-4",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Training Data - AI Microgames",
-          "body": "As an AI you must gather training data by playing microgames...",
-          "timestamp": "2026-05-22T13:30:02",
-          "url": "https://www.producthunt.com/products/training-data-ai-microgames",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: JAMtime.ai",
-          "body": "Just tell your guitar pedal how to sound",
-          "timestamp": "2026-05-22T13:30:02",
-          "url": "https://www.producthunt.com/products/jamtime-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Nugget AI",
-          "body": "Turn customer interviews into your product roadmap",
-          "timestamp": "2026-05-22T13:30:02",
-          "url": "https://www.producthunt.com/products/nugget-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: DCP",
           "body": "Give your AI agents encrypted permission and keys",
           "timestamp": "2026-05-22T13:30:02",
@@ -114,19 +114,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: buildpipe",
-          "body": "Compose, run and automate multi step AI developer workflows",
+          "subject": "Product Hunt Launch: Cleo",
+          "body": "The AI PM that runs your team and fills roles",
           "timestamp": "2026-05-22T13:30:02",
-          "url": "https://www.producthunt.com/products/buildpipe",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Shuffle Design CLI",
-          "body": "Multi-AI CLI for building and redesigning websites",
-          "timestamp": "2026-05-22T13:30:02",
-          "url": "https://www.producthunt.com/products/shuffle-design-cli",
+          "url": "https://www.producthunt.com/products/cleo-4",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -141,10 +132,46 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Slideshot",
-          "body": "Product demo videos, recorded by your AI agent",
-          "timestamp": "2026-05-21T13:30:02",
-          "url": "https://www.producthunt.com/products/slideshot",
+          "subject": "Product Hunt Launch: Shuffle Design CLI",
+          "body": "Multi-AI CLI for building and redesigning websites",
+          "timestamp": "2026-05-22T13:30:02",
+          "url": "https://www.producthunt.com/products/shuffle-design-cli",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: buildpipe",
+          "body": "Compose, run and automate multi step AI developer workflows",
+          "timestamp": "2026-05-22T13:30:02",
+          "url": "https://www.producthunt.com/products/buildpipe",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Nugget AI",
+          "body": "Turn customer interviews into your product roadmap",
+          "timestamp": "2026-05-22T13:30:02",
+          "url": "https://www.producthunt.com/products/nugget-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: JAMtime.ai",
+          "body": "Just tell your guitar pedal how to sound",
+          "timestamp": "2026-05-22T13:30:02",
+          "url": "https://www.producthunt.com/products/jamtime-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Training Data - AI Microgames",
+          "body": "As an AI you must gather training data by playing microgames...",
+          "timestamp": "2026-05-22T13:30:02",
+          "url": "https://www.producthunt.com/products/training-data-ai-microgames",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -154,6 +181,15 @@
           "body": "Instant computers in isolated environments for AI agents",
           "timestamp": "2026-05-21T13:30:02",
           "url": "https://www.producthunt.com/products/instavm",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Slideshot",
+          "body": "Product demo videos, recorded by your AI agent",
+          "timestamp": "2026-05-21T13:30:02",
+          "url": "https://www.producthunt.com/products/slideshot",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -195,55 +231,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Glia",
-          "body": "Local-first AI memory bridge between browser chats and IDEs",
-          "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/glia-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Hiro",
           "body": "Your agentic security team from first commit to SOC 2",
           "timestamp": "2026-05-20T14:00:01",
           "url": "https://www.producthunt.com/products/hiro-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Google Pics",
-          "body": "Boundless AI image generation meets precision editing",
-          "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/google",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Invenio",
-          "body": "Local AI search for Mac video & photo libraries",
-          "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/invenio",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Supercut for Agents",
-          "body": "Permission-aware AI access to recordings and metadata",
-          "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/supercut",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: GhostSnap",
-          "body": "Take multiple screenshots that are auto compressed for AI",
-          "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/ghostsnap",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -258,55 +249,46 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: VWFNDR™ + MBL",
-          "body": "Take raw photos with proof they're real, not AI",
-          "timestamp": "2026-05-19T14:00:02",
-          "url": "https://www.producthunt.com/products/vwfndr-mbl",
+          "subject": "Product Hunt Launch: GhostSnap",
+          "body": "Take multiple screenshots that are auto compressed for AI",
+          "timestamp": "2026-05-20T14:00:01",
+          "url": "https://www.producthunt.com/products/ghostsnap",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Insights",
-          "body": "Step-by-step action plans to improve your AI visibility.",
-          "timestamp": "2026-05-19T14:00:02",
-          "url": "https://www.producthunt.com/products/omnia-2",
+          "subject": "Product Hunt Launch: Supercut for Agents",
+          "body": "Permission-aware AI access to recordings and metadata",
+          "timestamp": "2026-05-20T14:00:01",
+          "url": "https://www.producthunt.com/products/supercut",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Odysseyml",
-          "body": "Run multiplayer game simulations with an AI world model",
-          "timestamp": "2026-05-19T14:00:02",
-          "url": "https://www.producthunt.com/products/odysseyml-starchild-1-model",
+          "subject": "Product Hunt Launch: Glia",
+          "body": "Local-first AI memory bridge between browser chats and IDEs",
+          "timestamp": "2026-05-20T14:00:01",
+          "url": "https://www.producthunt.com/products/glia-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: CLI Market",
-          "body": "3,760 retailers, one API for AI agents",
-          "timestamp": "2026-05-19T14:00:02",
-          "url": "https://www.producthunt.com/products/cli-market",
+          "subject": "Product Hunt Launch: Invenio",
+          "body": "Local AI search for Mac video & photo libraries",
+          "timestamp": "2026-05-20T14:00:01",
+          "url": "https://www.producthunt.com/products/invenio",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Trainer",
-          "body": "Train AI agents by recording your screen",
-          "timestamp": "2026-05-19T14:00:02",
-          "url": "https://www.producthunt.com/products/trainer-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Thinnest AI",
-          "body": "Build Voice AI Agents in 100+ languages for ₹1.5/min",
-          "timestamp": "2026-05-19T14:00:02",
-          "url": "https://www.producthunt.com/products/thinnest-ai",
+          "subject": "Product Hunt Launch: Google Pics",
+          "body": "Boundless AI image generation meets precision editing",
+          "timestamp": "2026-05-20T14:00:01",
+          "url": "https://www.producthunt.com/products/google",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -314,5 +296,5 @@
       ]
     }
   },
-  "summary": "Here are 4-6 key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **Orchestria**, an AI music engine with granular stem control, was launched on Product Hunt (May 25). This indicates a growing interest in AI-powered music creation and manipulation.\n* **Yansu**, an AI that learns how you work and turns it into software, was also launched on Product Hunt (May 25). This suggests that AI-generated software is becoming more accessible to creators.\n* **tldx**, a fast CLI (Command-Line Interface) tool for bulk-checking domains via RDAP (Registration Data Access Protocol) and MCP (CHIP Internet Service), was launched (May 25). This indicates an increasing focus on domain name management and security.\n* **Cleo**, an AI PM (Product Manager) that runs teams and fills roles, was launched on Product Hunt (May 22). This shows that AI is being explored for PM and team management tasks.\n* **Gladiator**, an AI memory bridge between browser chats and IDEs (Integrated Development Environments), was launched on Product Hunt (May 20). This suggests that AI is being used to improve productivity and collaboration between developers and chat platforms.\n\n**Trend:**\n\n* **AI Agents and Automation**: Many of the products launched on Product Hunt in the past few days focus on AI agents and automation, such as Orchestria, Yansu, Cleo, and Gladiator. This trend indicates that there is a growing interest in using AI to automate repetitive and mundane tasks, as well as to improve productivity and efficiency."
+  "summary": "Here are the key developments with insight:\n\n* **AI-powered sales tools**: Ormedo and ReplylessAI Sequences were launched on Product Hunt, offering AI-powered sales tools to streamline outbound pipelines and email sequences.\n* **AI for creativity**: Orchestria, an AI music engine with granular stem control, and JAMtime.ai, a guitar pedal that allows users to tell their pedal how to sound, were launched on Product Hunt.\n* **AI for productivity**: Cleo, an AI PM that runs teams and fills roles, and Hiro, an agentic security team from first commit to SOC 2, were launched on Product Hunt.\n* **AI for customer support**: Owlish, which reduces support volume with AI agents trained on customer documents, was launched on Product Hunt.\n* **AI for cognitive health**: Tacet, a brain monitor for cognitive health scores, was launched on Product Hunt.\n* **AI for AI development**: MashuPack, which turns codebases into a clean file for Claude and ChatGPT, and Training Data - AI Microgames, which allows AI agents to gather training data by playing microgames, were launched on Product Hunt.\n\n**Trend: AI for productivity and efficiency**\n\nThe trend in the recent Product Hunt launches is the focus on AI-powered tools that aim to increase productivity and efficiency in various areas, such as sales, customer support, creativity, and cognitive health. These tools leverage AI to automate tasks, provide insights, and streamline processes, indicating a growing interest in using AI to augment human capabilities and improve overall productivity."
 }
