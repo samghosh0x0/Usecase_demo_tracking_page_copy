@@ -1,10 +1,46 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-27T06:23:14.961Z",
+  "timestamp": "2026-05-28T06:15:07.089Z",
   "categories": {
     "news": {
-      "count": 32,
+      "count": 29,
       "items": [
+        {
+          "subject": "Product Hunt Launch: AgenticCalling AI",
+          "body": "Give your AI the power to make phone calls",
+          "timestamp": "2026-05-27T13:30:02",
+          "url": "https://www.producthunt.com/products/agenticcalling-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Harbor",
+          "body": "CLI + companion to spin up complete local LLM stacks",
+          "timestamp": "2026-05-27T13:30:02",
+          "url": "https://www.producthunt.com/products/habor",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Aries AI",
+          "body": "Free AI abacus tutor for mental math. Made by an 11yo.",
+          "timestamp": "2026-05-27T13:30:02",
+          "url": "https://www.producthunt.com/products/aries-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: zero.xyz",
+          "body": "Give your AI agent access to over 4k tools, APIs, + services...",
+          "timestamp": "2026-05-27T13:30:02",
+          "url": "https://www.producthunt.com/products/zero-xyz",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Ormedo",
           "body": "Let AI agents handle your entire outbound pipeline",
@@ -87,15 +123,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Shroomie",
-          "body": "AI-powered news made fun and habit-forming",
-          "timestamp": "2026-05-23T04:00:02",
-          "url": "https://www.producthunt.com/products/shroomie",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Nota: AI Notes & Voice",
           "body": "Nota chatbot. Nota blank page.",
           "timestamp": "2026-05-23T04:00:02",
@@ -105,10 +132,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: DCP",
-          "body": "Give your AI agents encrypted permission and keys",
-          "timestamp": "2026-05-22T13:30:02",
-          "url": "https://www.producthunt.com/products/dcp",
+          "subject": "Product Hunt Launch: Shroomie",
+          "body": "AI-powered news made fun and habit-forming",
+          "timestamp": "2026-05-23T04:00:02",
+          "url": "https://www.producthunt.com/products/shroomie",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -150,6 +177,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: DCP",
+          "body": "Give your AI agents encrypted permission and keys",
+          "timestamp": "2026-05-22T13:30:02",
+          "url": "https://www.producthunt.com/products/dcp",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Nugget AI",
           "body": "Turn customer interviews into your product roadmap",
           "timestamp": "2026-05-22T13:30:02",
@@ -172,6 +208,15 @@
           "body": "As an AI you must gather training data by playing microgames...",
           "timestamp": "2026-05-22T13:30:02",
           "url": "https://www.producthunt.com/products/training-data-ai-microgames",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tacet",
+          "body": "The brain monitor for cognitive health scores",
+          "timestamp": "2026-05-21T13:30:02",
+          "url": "https://www.producthunt.com/products/tacet",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -220,81 +265,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Tacet",
-          "body": "The brain monitor for cognitive health scores",
-          "timestamp": "2026-05-21T13:30:02",
-          "url": "https://www.producthunt.com/products/tacet",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Hiro",
-          "body": "Your agentic security team from first commit to SOC 2",
-          "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/hiro-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Owlish",
-          "body": "Reduce support volume with AI agents trained on your docs",
-          "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/owlish",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: GhostSnap",
-          "body": "Take multiple screenshots that are auto compressed for AI",
-          "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/ghostsnap",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Supercut for Agents",
-          "body": "Permission-aware AI access to recordings and metadata",
-          "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/supercut",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Glia",
-          "body": "Local-first AI memory bridge between browser chats and IDEs",
-          "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/glia-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Invenio",
-          "body": "Local AI search for Mac video & photo libraries",
-          "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/invenio",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Google Pics",
-          "body": "Boundless AI image generation meets precision editing",
-          "timestamp": "2026-05-20T14:00:01",
-          "url": "https://www.producthunt.com/products/google",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n* **AI-powered sales tools**: Ormedo and ReplylessAI Sequences were launched on Product Hunt, offering AI-powered sales tools to streamline outbound pipelines and email sequences.\n* **AI for creativity**: Orchestria, an AI music engine with granular stem control, and JAMtime.ai, a guitar pedal that allows users to tell their pedal how to sound, were launched on Product Hunt.\n* **AI for productivity**: Cleo, an AI PM that runs teams and fills roles, and Hiro, an agentic security team from first commit to SOC 2, were launched on Product Hunt.\n* **AI for customer support**: Owlish, which reduces support volume with AI agents trained on customer documents, was launched on Product Hunt.\n* **AI for cognitive health**: Tacet, a brain monitor for cognitive health scores, was launched on Product Hunt.\n* **AI for AI development**: MashuPack, which turns codebases into a clean file for Claude and ChatGPT, and Training Data - AI Microgames, which allows AI agents to gather training data by playing microgames, were launched on Product Hunt.\n\n**Trend: AI for productivity and efficiency**\n\nThe trend in the recent Product Hunt launches is the focus on AI-powered tools that aim to increase productivity and efficiency in various areas, such as sales, customer support, creativity, and cognitive health. These tools leverage AI to automate tasks, provide insights, and streamline processes, indicating a growing interest in using AI to augment human capabilities and improve overall productivity."
+  "summary": "**Key Developments and Insights:**\n\n• **Increased Productivity:** Several new AI productivity tools were launched, such as Zero Assist (real-time AI cheating detection) and Buildpipe (composing, running, and automating multi-step AI developer workflows), which aim to streamline workflows and enhance collaboration.\n\n• **Advancements in AI-Music Integration:** Orchestria (AI music engine with granular stem control) and Jamtime.ai (just tell your guitar pedal how to sound) demonstrate a growing interest in AI-powered music tools, which can revolutionize music production and composition.\n\n• **Expansion of AI Accessibility:** Several new tools, such as Ajar (Lid Angle Sync & Keep Awake for AI Agents on Mac), AlliHat (Claude AI in your Safari sidebar), and Nugget AI (turning customer interviews into product roadmaps), enhance AI accessibility for users across various platforms and industries.\n\n• **Focus on AI Governance and Security:** DCP (encrypted permission and keys for AI agents) and Harbor (CLI + companion to spin up complete local LLM stacks) address the growing need for secure and manageable AI infrastructure, ensuring the integrity and reliability of AI services.\n\n• **Rise of AI-Powered Education:** Aries AI (free AI abacus tutor for mental math), Training Data - AI Microgames (gathering training data by playing microgames), and Tacet (brain monitor for cognitive health scores) showcase the increasing importance of AI in education, aiming to improve learning outcomes and cognitive abilities.\n\n**Trend:** There is a growing trend of developing AI tools that integrate across various platforms, services, and sectors, blurring lines between traditional industries and creating new opportunities for innovation and growth."
 }
