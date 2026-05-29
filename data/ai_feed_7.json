@@ -1,10 +1,46 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-28T06:15:07.089Z",
+  "timestamp": "2026-05-29T06:16:40.857Z",
   "categories": {
     "news": {
-      "count": 29,
+      "count": 27,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Parastore",
+          "body": "Simulate real store with LLM-powered synthetic consumer",
+          "timestamp": "2026-05-28T13:30:02",
+          "url": "https://www.producthunt.com/products/parastore",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Compartment",
+          "body": "Secure way to share apps built with AI Agents",
+          "timestamp": "2026-05-28T13:30:02",
+          "url": "https://www.producthunt.com/products/compartment",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Angel Match 4.0",
+          "body": "A database of 125K+ angels and VCs to raise your seed round...",
+          "timestamp": "2026-05-28T13:30:02",
+          "url": "https://www.producthunt.com/products/angel-match",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Robinhood Agentic Trading",
+          "body": "Let your agent trade",
+          "timestamp": "2026-05-28T13:30:02",
+          "url": "https://www.producthunt.com/products/robinhood",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: AgenticCalling AI",
           "body": "Give your AI the power to make phone calls",
@@ -78,19 +114,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Orchestria",
-          "body": "AI music engine with granular stem control",
+          "subject": "Product Hunt Launch: Yansu",
+          "body": "AI that learns how you work and turns it into software",
           "timestamp": "2026-05-25T13:30:02",
-          "url": "https://www.producthunt.com/products/orchestria",
+          "url": "https://www.producthunt.com/products/yansu",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Yansu",
-          "body": "AI that learns how you work and turns it into software",
+          "subject": "Product Hunt Launch: Orchestria",
+          "body": "AI music engine with granular stem control",
           "timestamp": "2026-05-25T13:30:02",
-          "url": "https://www.producthunt.com/products/yansu",
+          "url": "https://www.producthunt.com/products/orchestria",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -123,6 +159,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Shroomie",
+          "body": "AI-powered news made fun and habit-forming",
+          "timestamp": "2026-05-23T04:00:02",
+          "url": "https://www.producthunt.com/products/shroomie",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Nota: AI Notes & Voice",
           "body": "Nota chatbot. Nota blank page.",
           "timestamp": "2026-05-23T04:00:02",
@@ -132,10 +177,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Shroomie",
-          "body": "AI-powered news made fun and habit-forming",
-          "timestamp": "2026-05-23T04:00:02",
-          "url": "https://www.producthunt.com/products/shroomie",
+          "subject": "Product Hunt Launch: Training Data - AI Microgames",
+          "body": "As an AI you must gather training data by playing microgames...",
+          "timestamp": "2026-05-22T13:30:02",
+          "url": "https://www.producthunt.com/products/training-data-ai-microgames",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -202,72 +247,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Training Data - AI Microgames",
-          "body": "As an AI you must gather training data by playing microgames...",
-          "timestamp": "2026-05-22T13:30:02",
-          "url": "https://www.producthunt.com/products/training-data-ai-microgames",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tacet",
-          "body": "The brain monitor for cognitive health scores",
-          "timestamp": "2026-05-21T13:30:02",
-          "url": "https://www.producthunt.com/products/tacet",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: InstaVM",
-          "body": "Instant computers in isolated environments for AI agents",
-          "timestamp": "2026-05-21T13:30:02",
-          "url": "https://www.producthunt.com/products/instavm",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Slideshot",
-          "body": "Product demo videos, recorded by your AI agent",
-          "timestamp": "2026-05-21T13:30:02",
-          "url": "https://www.producthunt.com/products/slideshot",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AlliHat",
-          "body": "Claude AI in your Safari sidebar",
-          "timestamp": "2026-05-21T13:30:02",
-          "url": "https://www.producthunt.com/products/allihat",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tycoon AI",
-          "body": "Run one-person companies entirely with AI agents",
-          "timestamp": "2026-05-21T13:30:02",
-          "url": "https://www.producthunt.com/products/tycoon-us",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Basedash Skills",
-          "body": "Reusable AI instructions for every Basedash surface.",
-          "timestamp": "2026-05-21T13:30:02",
-          "url": "https://www.producthunt.com/products/basedash",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Key Developments and Insights:**\n\n• **Increased Productivity:** Several new AI productivity tools were launched, such as Zero Assist (real-time AI cheating detection) and Buildpipe (composing, running, and automating multi-step AI developer workflows), which aim to streamline workflows and enhance collaboration.\n\n• **Advancements in AI-Music Integration:** Orchestria (AI music engine with granular stem control) and Jamtime.ai (just tell your guitar pedal how to sound) demonstrate a growing interest in AI-powered music tools, which can revolutionize music production and composition.\n\n• **Expansion of AI Accessibility:** Several new tools, such as Ajar (Lid Angle Sync & Keep Awake for AI Agents on Mac), AlliHat (Claude AI in your Safari sidebar), and Nugget AI (turning customer interviews into product roadmaps), enhance AI accessibility for users across various platforms and industries.\n\n• **Focus on AI Governance and Security:** DCP (encrypted permission and keys for AI agents) and Harbor (CLI + companion to spin up complete local LLM stacks) address the growing need for secure and manageable AI infrastructure, ensuring the integrity and reliability of AI services.\n\n• **Rise of AI-Powered Education:** Aries AI (free AI abacus tutor for mental math), Training Data - AI Microgames (gathering training data by playing microgames), and Tacet (brain monitor for cognitive health scores) showcase the increasing importance of AI in education, aiming to improve learning outcomes and cognitive abilities.\n\n**Trend:** There is a growing trend of developing AI tools that integrate across various platforms, services, and sectors, blurring lines between traditional industries and creating new opportunities for innovation and growth."
+  "summary": "Here are 6 key developments with insight:\n\n* **LLM-powered Synthetic Consumer**: Parastore, a new product on Product Hunt, simulates a real store with LLM-powered synthetic consumers, allowing businesses to test and refine their sales strategies in a realistic environment.\n* **Secure AI App Sharing**: Compartment, another product on Product Hunt, offers a secure way to share apps built with AI Agents, providing a safe and controlled environment for developers to collaborate and test their AI-powered applications.\n* **AI-Powered Trading**: Robinhood Agentic Trading, a product on Product Hunt, allows users to let their AI agents trade on their behalf, leveraging the power of artificial intelligence to make informed investment decisions.\n* **AI Phone Calls**: AgenticCalling AI, a product on Product Hunt, gives AI agents the power to make phone calls, expanding the possibilities for AI-powered customer interactions and communication.\n* **LLM Stack Spin-up**: Harbor, a product on Product Hunt, provides a CLI + companion to spin up complete local LLM stacks, making it easier for developers to work with large language models.\n* **AI Music Engine**: Orchestria, a product on Product Hunt, is an AI music engine with granular stem control, allowing users to create and manipulate music using artificial intelligence.\n\nTrend: **AI Agent Power-Up**: Many of the products on Product Hunt, such as Parastore, Compartment, Robinhood Agentic Trading, AgenticCalling AI, and Orchestria, are focused on empowering AI agents to perform a wide range of tasks, from sales and trading to music creation. This trend suggests that AI agents are becoming increasingly capable and autonomous, and are being used to augment and automate various aspects of business and creative processes."
 }
