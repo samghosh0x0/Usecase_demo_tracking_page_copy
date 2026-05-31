@@ -1,10 +1,19 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-30T05:50:24.209Z",
+  "timestamp": "2026-05-31T06:21:26.378Z",
   "categories": {
     "news": {
       "count": 23,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Drafted",
+          "body": "Design a home instantly with AI",
+          "timestamp": "2026-05-30T04:00:02",
+          "url": "https://www.producthunt.com/products/drafted-4",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Clipline",
           "body": "AI Video Cutter for viral Shorts, Reels, TikTok in Telegram",
@@ -96,19 +105,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Harbor",
-          "body": "CLI + companion to spin up complete local LLM stacks",
+          "subject": "Product Hunt Launch: AgenticCalling AI",
+          "body": "Give your AI the power to make phone calls",
           "timestamp": "2026-05-27T13:30:02",
-          "url": "https://www.producthunt.com/products/habor",
+          "url": "https://www.producthunt.com/products/agenticcalling-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: AgenticCalling AI",
-          "body": "Give your AI the power to make phone calls",
+          "subject": "Product Hunt Launch: Harbor",
+          "body": "CLI + companion to spin up complete local LLM stacks",
           "timestamp": "2026-05-27T13:30:02",
-          "url": "https://www.producthunt.com/products/agenticcalling-ai",
+          "url": "https://www.producthunt.com/products/habor",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -168,6 +177,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: MashuPack",
+          "body": "Turn codebases into a clean file for Claude and ChatGPT",
+          "timestamp": "2026-05-25T13:30:02",
+          "url": "https://www.producthunt.com/products/mashupack",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Orchestria",
           "body": "AI music engine with granular stem control",
           "timestamp": "2026-05-25T13:30:02",
@@ -193,27 +211,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: MashuPack",
-          "body": "Turn codebases into a clean file for Claude and ChatGPT",
-          "timestamp": "2026-05-25T13:30:02",
-          "url": "https://www.producthunt.com/products/mashupack",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SignalLEMO - Ai Outreach Made Simple",
-          "body": "AI-powered lead outreach for field service contractors",
-          "timestamp": "2026-05-23T13:30:02",
-          "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Summary of Recent Developments**\n\nHere are 5 key developments and 1 trend from the provided data:\n\n**Key Developments:**\n\n* **Launch of AI-powered tools**: Several AI-powered tools were launched on Product Hunt, including AI Video Cutter for viral Shorts, Reels, and TikTok, LLM usage tracking, and AI marketing agent.\n* **Expansion of AI capabilities**: New tools were introduced that expand the capabilities of AI, such as simulating real stores with LLM-powered synthetic consumers and allowing AI agents to make phone calls.\n* **Increased focus on LLMs**: Several products were launched that utilize Large Language Models (LLMs), including LLM usage tracking, LLM-powered synthetic consumers, and LLM stacks.\n* **Improvement of AI agent experience**: New tools were introduced to enhance the experience of AI agents, such as a secure way to share apps built with AI agents and giving AI agents access to over 4,000 tools, APIs, and services.\n* **Expansion of AI use cases**: AI is being applied to new areas, such as music generation, email sequences, and outbound pipelines.\n\n**Trend:**\n\n* **Growing demand for AI-powered tools**: The launch of multiple AI-powered tools on Product Hunt suggests a growing demand for AI-powered solutions, indicating a trend towards increased adoption of AI in various industries and applications."
+  "summary": "Here are 4 key developments, 2 insights, and 1 trend:\n\n**Key Developments:**\n\n* **AI-powered marketing tools**: Several new AI-powered marketing tools were launched on Product Hunt, including Agent A by Ahrefs and Basedash, which provide AI-driven marketing insights and analytics.\n* **AI-powered analytics**: Product Hunt saw the launch of TrackNotch, an LLM usage tracking tool, and MashuPack, which turns codebases into a clean file for use with Claude and ChatGPT.\n* **AI-powered tools for creators**: Aries AI, an AI abacus tutor for mental math, and Ormedo, an AI-powered outbound pipeline tool, were launched on Product Hunt, indicating a growing focus on AI-powered tools for creators.\n* **AI-powered productivity**: Harbor, a CLI and companion tool for spinning up complete local LLM stacks, was also launched, highlighting the growing interest in AI-powered productivity tools.\n\n**Insights:**\n\n* The launch of multiple AI-powered marketing tools suggests that businesses are looking to leverage AI to gain a competitive edge in marketing and analytics.\n* The launch of AI-powered productivity tools, such as Harbor and Ajar, suggests that companies are looking to use AI to streamline their workflows and increase efficiency.\n\n**Trend:**\n\n* The growing focus on AI-powered productivity tools and marketing tools suggests that the trend towards augmented intelligence is gaining momentum, with companies looking to leverage AI to automate and augment their workflows and marketing efforts."
 }
