@@ -1,6 +1,6 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-05-31T06:21:26.378Z",
+  "timestamp": "2026-06-01T07:00:22.282Z",
   "categories": {
     "news": {
       "count": 23,
@@ -215,5 +215,5 @@
       ]
     }
   },
-  "summary": "Here are 4 key developments, 2 insights, and 1 trend:\n\n**Key Developments:**\n\n* **AI-powered marketing tools**: Several new AI-powered marketing tools were launched on Product Hunt, including Agent A by Ahrefs and Basedash, which provide AI-driven marketing insights and analytics.\n* **AI-powered analytics**: Product Hunt saw the launch of TrackNotch, an LLM usage tracking tool, and MashuPack, which turns codebases into a clean file for use with Claude and ChatGPT.\n* **AI-powered tools for creators**: Aries AI, an AI abacus tutor for mental math, and Ormedo, an AI-powered outbound pipeline tool, were launched on Product Hunt, indicating a growing focus on AI-powered tools for creators.\n* **AI-powered productivity**: Harbor, a CLI and companion tool for spinning up complete local LLM stacks, was also launched, highlighting the growing interest in AI-powered productivity tools.\n\n**Insights:**\n\n* The launch of multiple AI-powered marketing tools suggests that businesses are looking to leverage AI to gain a competitive edge in marketing and analytics.\n* The launch of AI-powered productivity tools, such as Harbor and Ajar, suggests that companies are looking to use AI to streamline their workflows and increase efficiency.\n\n**Trend:**\n\n* The growing focus on AI-powered productivity tools and marketing tools suggests that the trend towards augmented intelligence is gaining momentum, with companies looking to leverage AI to automate and augment their workflows and marketing efforts."
+  "summary": "**Key Developments:**\n\n* **AI-Powered Home Design**: Drafted, a new product on Product Hunt, allows users to design a home instantly with AI.\n* **AI Video Cutter**: Clipline, another new product, enables users to cut AI-generated videos for viral shorts, reels, and TikTok content.\n* **LLM Usage Tracking**: TrackNotch, a recently launched product, offers LLM usage tracking that lives in the Mac's notch.\n* **AI Marketing Agent**: Agent A by Ahrefs, a new product, is powered by Ahrefs data and provides an AI marketing agent.\n* **Embedded Analytics**: Basedash, a product on Product Hunt, allows customers to give analytics inside their product using AI.\n* **Web Change Notification**: /monitor by Firecrawl, a new product, notifies AI agents when the web changes.\n\n**Trend:**\n\n* **Increased Focus on AI Agent Development**: Many new products on Product Hunt focus on developing AI agents, indicating a growing trend of building intelligent assistants that can automate tasks, provide insights, and enhance user experiences."
 }
