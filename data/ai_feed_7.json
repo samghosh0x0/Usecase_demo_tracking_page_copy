@@ -1,15 +1,69 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-06-01T07:00:22.282Z",
+  "timestamp": "2026-06-02T06:43:58.749Z",
   "categories": {
     "news": {
-      "count": 23,
+      "count": 24,
       "items": [
+        {
+          "subject": "Product Hunt Launch: BrainCircle - Memory Game",
+          "body": "A memory game that actually challenges your focus",
+          "timestamp": "2026-06-01T13:30:01",
+          "url": "https://www.producthunt.com/products/followcircle",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Typeahead",
+          "body": "AI autocomplete for every app on your Mac",
+          "timestamp": "2026-06-01T13:30:01",
+          "url": "https://www.producthunt.com/products/typeahead",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tokenwise",
+          "body": "A smart LLM proxy that shows where you're overpaying",
+          "timestamp": "2026-06-01T13:30:01",
+          "url": "https://www.producthunt.com/products/tokenwise",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Paint By JSON | An API Client for Figma",
+          "body": "Real API data in your mockups made as easy as lorem ipsum...",
+          "timestamp": "2026-06-01T13:30:01",
+          "url": "https://www.producthunt.com/products/paint-by-json-an-api-client-for-figma",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Mistral Vibe",
+          "body": "AI agent for long-running, multi-step work and coding.",
+          "timestamp": "2026-06-01T13:30:01",
+          "url": "https://www.producthunt.com/products/mistral-7b",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Drafted",
           "body": "Design a home instantly with AI",
           "timestamp": "2026-05-30T04:00:02",
           "url": "https://www.producthunt.com/products/drafted-4",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: PromptLayer",
+          "body": "Trace AI requests, workflows, and costs in one timeline",
+          "timestamp": "2026-05-29T13:30:02",
+          "url": "https://www.producthunt.com/products/promptlayer-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -55,15 +109,6 @@
           "body": "Notify your AI agent when the web changes",
           "timestamp": "2026-05-29T13:30:02",
           "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: PromptLayer",
-          "body": "Trace AI requests, workflows, and costs in one timeline",
-          "timestamp": "2026-05-29T13:30:02",
-          "url": "https://www.producthunt.com/products/promptlayer-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -141,6 +186,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Concordance",
+          "body": "Three AI models on the same question. See where they split.",
+          "timestamp": "2026-05-26T13:30:01",
+          "url": "https://www.producthunt.com/products/concordance-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Ormedo",
           "body": "Let AI agents handle your entire outbound pipeline",
           "timestamp": "2026-05-26T13:30:01",
@@ -166,54 +220,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Concordance",
-          "body": "Three AI models on the same question. See where they split.",
-          "timestamp": "2026-05-26T13:30:01",
-          "url": "https://www.producthunt.com/products/concordance-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: MashuPack",
-          "body": "Turn codebases into a clean file for Claude and ChatGPT",
-          "timestamp": "2026-05-25T13:30:02",
-          "url": "https://www.producthunt.com/products/mashupack",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Orchestria",
-          "body": "AI music engine with granular stem control",
-          "timestamp": "2026-05-25T13:30:02",
-          "url": "https://www.producthunt.com/products/orchestria",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Yansu",
-          "body": "AI that learns how you work and turns it into software",
-          "timestamp": "2026-05-25T13:30:02",
-          "url": "https://www.producthunt.com/products/yansu",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: tldx",
-          "body": "Fast CLI to bulk-check domains via RDAP & MCP",
-          "timestamp": "2026-05-25T13:30:02",
-          "url": "https://www.producthunt.com/products/tldx",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **AI-Powered Home Design**: Drafted, a new product on Product Hunt, allows users to design a home instantly with AI.\n* **AI Video Cutter**: Clipline, another new product, enables users to cut AI-generated videos for viral shorts, reels, and TikTok content.\n* **LLM Usage Tracking**: TrackNotch, a recently launched product, offers LLM usage tracking that lives in the Mac's notch.\n* **AI Marketing Agent**: Agent A by Ahrefs, a new product, is powered by Ahrefs data and provides an AI marketing agent.\n* **Embedded Analytics**: Basedash, a product on Product Hunt, allows customers to give analytics inside their product using AI.\n* **Web Change Notification**: /monitor by Firecrawl, a new product, notifies AI agents when the web changes.\n\n**Trend:**\n\n* **Increased Focus on AI Agent Development**: Many new products on Product Hunt focus on developing AI agents, indicating a growing trend of building intelligent assistants that can automate tasks, provide insights, and enhance user experiences."
+  "summary": "Here are the key developments with insight:\n\n**Product Launches:**\n\n* **BrainCircle**: A memory game that challenges focus, launched on Product Hunt.\n* **Typeahead**: AI autocomplete for Mac applications, launched on Product Hunt.\n* **Tokenwise**: A smart LLM proxy that identifies overpayment, launched on Product Hunt.\n* **Paint By JSON**: An API client for Figma that simplifies API data, launched on Product Hunt.\n\n**Trends:**\n\n* **Increased focus on AI agents and productivity tools**: Many of the launched products focus on improving productivity and efficiency with the help of AI agents, such as automation, task management, and workflow optimization.\n\n**Insights:**\n\n* The market is seeing a surge in innovation around AI agents, with new products emerging to address various needs such as automation, productivity, and workflow optimization.\n* The increasing complexity of AI-powered applications is driving the need for more user-friendly and accessible tools, such as autocomplete and API clients.\n* The emphasis on AI agents and productivity tools suggests a growing demand for solutions that can streamline workflows and improve efficiency.\n\n**Notable mentions:**\n\n* **Drafted**: A home design platform powered by AI, launched on Product Hunt.\n* **PromptLayer**: A platform for tracing AI requests, workflows, and costs, launched on Product Hunt.\n* **AgenticCalling AI**: A product that enables AI agents to make phone calls, launched on Product Hunt."
 }
