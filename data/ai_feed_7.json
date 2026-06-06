@@ -1,42 +1,33 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-06-05T06:26:05.720Z",
+  "timestamp": "2026-06-06T05:56:00.680Z",
   "categories": {
     "news": {
-      "count": 20,
+      "count": 16,
       "items": [
         {
-          "subject": "Product Hunt Launch: Gemma 4 12B",
-          "body": "Run multimodal AI locally with an encoder-free architecture",
-          "timestamp": "2026-06-04T13:30:02",
-          "url": "https://www.producthunt.com/products/gemma-4-12b",
+          "subject": "Product Hunt Launch: Microsoft MAI-Voice-2",
+          "body": "Expressive TTS with voice cloning in 15 languages",
+          "timestamp": "2026-06-05T13:30:02",
+          "url": "https://www.producthunt.com/products/mai-image-2-3",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Perplexity Personal Computer for Windows",
-          "body": "Run AI agents across your local files and apps on Windows.",
-          "timestamp": "2026-06-04T13:30:02",
-          "url": "https://www.producthunt.com/products/perplexity-personal-computer-for-windows",
+          "subject": "Product Hunt Launch: Agent Browser Shield",
+          "body": "Block prompt inject & cut token costs for AI browser agents.",
+          "timestamp": "2026-06-05T13:30:02",
+          "url": "https://www.producthunt.com/products/agent-browser-shield",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Cignara",
-          "body": "AI Agents for Fortune 500 grade customer support",
-          "timestamp": "2026-06-04T13:30:02",
-          "url": "https://www.producthunt.com/products/cignara",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Smart Runner",
-          "body": "Your training plan, rewritten after every run",
-          "timestamp": "2026-06-04T13:30:02",
-          "url": "https://www.producthunt.com/products/smart-runner",
+          "subject": "Product Hunt Launch: Leni",
+          "body": "The world’s most accurate AI for investors",
+          "timestamp": "2026-06-05T13:30:02",
+          "url": "https://www.producthunt.com/products/leni",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -51,10 +42,55 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Smart Runner",
+          "body": "Your training plan, rewritten after every run",
+          "timestamp": "2026-06-04T13:30:02",
+          "url": "https://www.producthunt.com/products/smart-runner",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Cignara",
+          "body": "AI Agents for Fortune 500 grade customer support",
+          "timestamp": "2026-06-04T13:30:02",
+          "url": "https://www.producthunt.com/products/cignara",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Perplexity Personal Computer for Windows",
+          "body": "Run AI agents across your local files and apps on Windows.",
+          "timestamp": "2026-06-04T13:30:02",
+          "url": "https://www.producthunt.com/products/perplexity-personal-computer-for-windows",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Gemma 4 12B",
+          "body": "Run multimodal AI locally with an encoder-free architecture",
+          "timestamp": "2026-06-04T13:30:02",
+          "url": "https://www.producthunt.com/products/gemma-4-12b",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: EchoFlow",
           "body": "Native Android AI chat with chats stored locally",
           "timestamp": "2026-06-03T13:30:02",
           "url": "https://www.producthunt.com/products/echoflow-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: HumToBeats",
+          "body": "Turn humming into AI-generated beats",
+          "timestamp": "2026-06-02T13:30:02",
+          "url": "https://www.producthunt.com/products/humtobeats",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -69,10 +105,28 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: HumToBeats",
-          "body": "Turn humming into AI-generated beats",
-          "timestamp": "2026-06-02T13:30:02",
-          "url": "https://www.producthunt.com/products/humtobeats",
+          "subject": "Product Hunt Launch: Mistral Vibe",
+          "body": "AI agent for long-running, multi-step work and coding.",
+          "timestamp": "2026-06-01T13:30:01",
+          "url": "https://www.producthunt.com/products/mistral-7b",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Paint By JSON | An API Client for Figma",
+          "body": "Real API data in your mockups made as easy as lorem ipsum...",
+          "timestamp": "2026-06-01T13:30:01",
+          "url": "https://www.producthunt.com/products/paint-by-json-an-api-client-for-figma",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tokenwise",
+          "body": "A smart LLM proxy that shows where you're overpaying",
+          "timestamp": "2026-06-01T13:30:01",
+          "url": "https://www.producthunt.com/products/tokenwise",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -94,99 +148,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Tokenwise",
-          "body": "A smart LLM proxy that shows where you're overpaying",
-          "timestamp": "2026-06-01T13:30:01",
-          "url": "https://www.producthunt.com/products/tokenwise",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Paint By JSON | An API Client for Figma",
-          "body": "Real API data in your mockups made as easy as lorem ipsum...",
-          "timestamp": "2026-06-01T13:30:01",
-          "url": "https://www.producthunt.com/products/paint-by-json-an-api-client-for-figma",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Mistral Vibe",
-          "body": "AI agent for long-running, multi-step work and coding.",
-          "timestamp": "2026-06-01T13:30:01",
-          "url": "https://www.producthunt.com/products/mistral-7b",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Drafted",
-          "body": "Design a home instantly with AI",
-          "timestamp": "2026-05-30T04:00:02",
-          "url": "https://www.producthunt.com/products/drafted-4",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: PromptLayer",
-          "body": "Trace AI requests, workflows, and costs in one timeline",
-          "timestamp": "2026-05-29T13:30:02",
-          "url": "https://www.producthunt.com/products/promptlayer-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Clipline",
-          "body": "AI Video Cutter for viral Shorts, Reels, TikTok in Telegram",
-          "timestamp": "2026-05-29T13:30:02",
-          "url": "https://www.producthunt.com/products/clipline-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: TrackNotch",
-          "body": "LLM usage tracking that lives in your Mac's notch",
-          "timestamp": "2026-05-29T13:30:02",
-          "url": "https://www.producthunt.com/products/tracknotch",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Agent A by Ahrefs",
-          "body": "The AI Marketing Agent Powered by Ahrefs Data",
-          "timestamp": "2026-05-29T13:30:02",
-          "url": "https://www.producthunt.com/products/ahrefs",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Basedash: Embedded Analytics",
-          "body": "Give customers AI analytics inside your product.",
-          "timestamp": "2026-05-29T13:30:02",
-          "url": "https://www.producthunt.com/products/basedash",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: /monitor by Firecrawl",
-          "body": "Notify your AI agent when the web changes",
-          "timestamp": "2026-05-29T13:30:02",
-          "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 bullet points summarizing key developments with insight, along with 1 trend:\n\n**Developments:**\n\n* **Multimodal AI tools gaining traction**: Products like Gemma 4 12B, Perplexity Personal Computer for Windows, and EchoFlow are enabling users to run multimodal AI locally, showcasing the growing demand for hybrid AI solutions that combine multiple forms of intelligence.\n* **AI-powered customer support on the rise**: Cignara's AI Agents for Fortune 500 grade customer support indicate a growing need for sophisticated AI-based customer service solutions that can provide high-quality interaction experiences.\n* **Increased focus on AI-generated content**: Products like HumToBeats, which turn humming into AI-generated beats, and Paint By JSON, an API client for Figma, suggest a rising interest in AI-generated content and the creative possibilities it offers.\n* **Expansion of AI capabilities in various industries**: The launch of Agent A by Ahrefs, a marketing agent powered by Ahrefs data, and Drafted, a design platform using AI, demonstrate the application of AI in multiple sectors beyond traditional tech and gaming.\n* **Concerns around AI costs and usage tracking**: The launch of PromptLayer, which tracks AI requests, workflows, and costs in one timeline, and TrackNotch, an LLM usage tracking tool, highlight growing concerns around AI costs and the need for effective tracking and management solutions.\n\n**Trend:**\n\n* **Local AI processing becomes increasingly important**: As AI continues to grow in complexity and applications, local AI processing is becoming a critical aspect of the AI ecosystem. Products that enable users to run AI locally, such as Gemma 4 12B and Perplexity Personal Computer for Windows, showcase the trend away from cloud-centric AI and towards hybrid AI solutions that balance local processing and cloud infrastructure. This trend is likely to continue as users seek to optimize AI performance, efficiency, and security."
+  "summary": "Here are 6 key developments with insight and 1 trend:\n\n**Key Developments:**\n\n* **Microsoft MAI-Voice-2 launched on Product Hunt**: This AI-powered voice cloning technology can produce expressive TTS in 15 languages, marking a significant advancement in natural language processing (NLP).\n* **Agent Browser Shield launched to block prompt injection and cut token costs**: This browser shield can prevent malicious prompt injection and reduce token costs for AI browser agents, enhancing security and efficiency.\n* **Leni, a highly accurate AI for investors, launched on Product Hunt**: Leni's AI is designed to provide investors with accurate and reliable information, revolutionizing the way they make investment decisions.\n* **ChatPilot launched to bulk delete, archive, and timestamp ChatGPT conversations**: This tool offers a convenient way to manage and organize conversations with ChatGPT, making it easier to track and reference important information.\n* **Cignara launched as AI agents for Fortune 500-grade customer support**: Cignara's AI agents are designed to provide high-quality customer support, leveraging advanced AI technology to deliver personalized and effective support.\n* **Gemma 4 12B launched to run multimodal AI locally with an encoder-free architecture**: Gemma 4 12B allows users to run multimodal AI locally without the need for an encoder, making it easier to integrate AI into various applications.\n\n**Trend:**\n\n* **Increasing focus on local AI processing and efficiency**: Many of the products launched on Product Hunt in recent days emphasize the importance of local AI processing, reduced token costs, and enhanced efficiency. This trend suggests that developers and users are prioritizing the need for more seamless and cost-effective AI integration, driving innovation in the field."
 }
