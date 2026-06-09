@@ -1,10 +1,37 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-06-08T06:46:38.481Z",
+  "timestamp": "2026-06-09T06:11:51.943Z",
   "categories": {
     "news": {
-      "count": 16,
+      "count": 14,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Olo -  1st AI style companion for guys",
+          "body": "style smarter with the world's first AI companion for guys",
+          "timestamp": "2026-06-08T13:30:02",
+          "url": "https://www.producthunt.com/products/olo-1st-ai-style-companion-for-guys",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tamadoggo",
+          "body": "A living journal for your pet's life, with AI insights",
+          "timestamp": "2026-06-08T13:30:02",
+          "url": "https://www.producthunt.com/products/tamadoggo",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Vaani",
+          "body": "Lip-synced AI dubbing for creators, brands and studios",
+          "timestamp": "2026-06-08T13:30:02",
+          "url": "https://www.producthunt.com/products/vaani-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Microsoft MAI-Voice-2",
           "body": "Expressive TTS with voice cloning in 15 languages",
@@ -103,54 +130,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Mistral Vibe",
-          "body": "AI agent for long-running, multi-step work and coding.",
-          "timestamp": "2026-06-01T13:30:01",
-          "url": "https://www.producthunt.com/products/mistral-7b",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Paint By JSON | An API Client for Figma",
-          "body": "Real API data in your mockups made as easy as lorem ipsum...",
-          "timestamp": "2026-06-01T13:30:01",
-          "url": "https://www.producthunt.com/products/paint-by-json-an-api-client-for-figma",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tokenwise",
-          "body": "A smart LLM proxy that shows where you're overpaying",
-          "timestamp": "2026-06-01T13:30:01",
-          "url": "https://www.producthunt.com/products/tokenwise",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Typeahead",
-          "body": "AI autocomplete for every app on your Mac",
-          "timestamp": "2026-06-01T13:30:01",
-          "url": "https://www.producthunt.com/products/typeahead",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: BrainCircle - Memory Game",
-          "body": "A memory game that actually challenges your focus",
-          "timestamp": "2026-06-01T13:30:01",
-          "url": "https://www.producthunt.com/products/followcircle",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* Microsoft has launched its latest AI voice model, MAI-Voice-2, which supports expressive text-to-speech (TTS) and voice cloning in 15 languages.\n* Several new AI-powered tools have been launched on Product Hunt, including Agent Browser Shield, which blocks prompt inject and cuts token costs for AI browser agents, and Leni, an AI for investors that claims to be the world's most accurate.\n* ChatPilot, a tool for bulk deleting, archiving, and timestamping ChatGPT conversations, has been launched on Product Hunt.\n* Other new launches include Smart Runner, an AI-powered training plan for runners, and Perplexity Personal Computer for Windows, which allows users to run AI agents across local files and apps.\n* Gemma 4 12B, a multimodal AI model with an encoder-free architecture, has also been launched on Product Hunt.\n\n**Trend:**\nThe trend in this set of developments is the increasing focus on developing and launching new AI-powered tools and technologies that can be used in various domains, such as customer support, education, and healthcare. This is evident from the launch of tools like Cignara, which offers AI agents for Fortune 500-grade customer support, and Mistral Vibe, an AI agent for long-running, multi-step work and coding.\n\nOverall, the pace of innovation in AI is accelerating, with new tools and technologies being launched regularly. This suggests that we can expect to see even more exciting developments in the field of AI in the coming months and years."
+  "summary": "**Key Developments:**\n\n* **AI Companion for Guys**: Olo, the world's first AI companion for guys, was launched on Product Hunt, aiming to provide personalized style insights and recommendations.\n* **AI Advances in Liquidity**: Leni, a startup offering the most accurate AI for investors, also launched on Product Hunt, highlighting the growing demand for AI-driven investment solutions.\n\n**Trend:**\n\n* **Rise of AI in Everyday Life**: Many of the launched products (e.g. Olo, Leni) focus on integrating AI into everyday life, such as fashion, finance, and customer support, indicating increasing adoption of AI in mainstream applications.\n\n**Other Key Developments:**\n\n* **AI Browser Shield**: Agent Browser Shield, a product that blocks prompt injection and cuts token costs for AI browser agents, was launched on Product Hunt, aiming to improve the security and efficiency of AI-based browsing.\n* **New AI Tools for Content Creation**: Cignara, which offers AI agents for Fortune 500 grade customer support, was also launched on Product Hunt, highlighting the growing demand for AI-powered customer support solutions.\n* **Enhanced AI Accuracy**: Gemma 4 12B, which runs multimodal AI locally with an encoder-free architecture, aims to provide more accurate AI results, further improving the capabilities of AI-powered applications."
 }
