@@ -1,24 +1,69 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-06-10T06:26:35.234Z",
+  "timestamp": "2026-06-11T06:51:44.842Z",
   "categories": {
     "news": {
-      "count": 12,
+      "count": 17,
       "items": [
         {
-          "subject": "Product Hunt Launch: Olo -  1st AI style companion for guys",
-          "body": "style smarter with the world's first AI companion for guys",
-          "timestamp": "2026-06-08T13:30:02",
-          "url": "https://www.producthunt.com/products/olo-1st-ai-style-companion-for-guys",
+          "subject": "Product Hunt Launch: Solarch",
+          "body": "Interactive diagrams with AI, and your code always in sync",
+          "timestamp": "2026-06-10T13:30:02",
+          "url": "https://www.producthunt.com/products/solarch",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Tamadoggo",
-          "body": "A living journal for your pet's life, with AI insights",
+          "subject": "Product Hunt Launch: Pixel Snapper",
+          "body": "Editor to clean up AI-generated pixel art",
+          "timestamp": "2026-06-10T13:30:02",
+          "url": "https://www.producthunt.com/products/pixel-snapper",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: NudgeFile",
+          "body": "Automatically organize, rename, and manage files with AI",
+          "timestamp": "2026-06-10T13:30:02",
+          "url": "https://www.producthunt.com/products/nudgefile",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Uiverse Design",
+          "body": "De-slop your AI generated websites",
+          "timestamp": "2026-06-10T13:30:02",
+          "url": "https://www.producthunt.com/products/uiverse-io",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AgentOS",
+          "body": "Manage AI agents, tasks, workspaces from one control layer",
+          "timestamp": "2026-06-10T13:30:02",
+          "url": "https://www.producthunt.com/products/agentos-run-agents-like-a-company",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Kimi Work",
+          "body": "The AI desktop for knowledge work",
+          "timestamp": "2026-06-10T13:30:02",
+          "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Olo -  1st AI style companion for guys",
+          "body": "style smarter with the world's first AI companion for guys",
           "timestamp": "2026-06-08T13:30:02",
-          "url": "https://www.producthunt.com/products/tamadoggo",
+          "url": "https://www.producthunt.com/products/olo-1st-ai-style-companion-for-guys",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -33,19 +78,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Microsoft MAI-Voice-2",
-          "body": "Expressive TTS with voice cloning in 15 languages",
-          "timestamp": "2026-06-05T13:30:02",
-          "url": "https://www.producthunt.com/products/mai-image-2-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Agent Browser Shield",
-          "body": "Block prompt inject & cut token costs for AI browser agents.",
-          "timestamp": "2026-06-05T13:30:02",
-          "url": "https://www.producthunt.com/products/agent-browser-shield",
+          "subject": "Product Hunt Launch: Tamadoggo",
+          "body": "A living journal for your pet's life, with AI insights",
+          "timestamp": "2026-06-08T13:30:02",
+          "url": "https://www.producthunt.com/products/tamadoggo",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -60,37 +96,28 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Agent Browser Shield",
+          "body": "Block prompt inject & cut token costs for AI browser agents.",
+          "timestamp": "2026-06-05T13:30:02",
+          "url": "https://www.producthunt.com/products/agent-browser-shield",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Microsoft MAI-Voice-2",
+          "body": "Expressive TTS with voice cloning in 15 languages",
+          "timestamp": "2026-06-05T13:30:02",
+          "url": "https://www.producthunt.com/products/mai-image-2-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: ChatPilot",
           "body": "Bulk delete, archive & timestamp your ChatGPT conversations",
           "timestamp": "2026-06-04T13:30:02",
           "url": "https://www.producthunt.com/products/chatpilot-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Smart Runner",
-          "body": "Your training plan, rewritten after every run",
-          "timestamp": "2026-06-04T13:30:02",
-          "url": "https://www.producthunt.com/products/smart-runner",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Cignara",
-          "body": "AI Agents for Fortune 500 grade customer support",
-          "timestamp": "2026-06-04T13:30:02",
-          "url": "https://www.producthunt.com/products/cignara",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Perplexity Personal Computer for Windows",
-          "body": "Run AI agents across your local files and apps on Windows.",
-          "timestamp": "2026-06-04T13:30:02",
-          "url": "https://www.producthunt.com/products/perplexity-personal-computer-for-windows",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -105,10 +132,28 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: EchoFlow",
-          "body": "Native Android AI chat with chats stored locally",
-          "timestamp": "2026-06-03T13:30:02",
-          "url": "https://www.producthunt.com/products/echoflow-2",
+          "subject": "Product Hunt Launch: Perplexity Personal Computer for Windows",
+          "body": "Run AI agents across your local files and apps on Windows.",
+          "timestamp": "2026-06-04T13:30:02",
+          "url": "https://www.producthunt.com/products/perplexity-personal-computer-for-windows",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Cignara",
+          "body": "AI Agents for Fortune 500 grade customer support",
+          "timestamp": "2026-06-04T13:30:02",
+          "url": "https://www.producthunt.com/products/cignara",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Smart Runner",
+          "body": "Your training plan, rewritten after every run",
+          "timestamp": "2026-06-04T13:30:02",
+          "url": "https://www.producthunt.com/products/smart-runner",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -116,5 +161,5 @@
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight:\n\n* **Product Launches:** Several AI-powered products were launched on Product Hunt, including Olo (an AI style companion), Tamadoggo (a living journal for pets), Vaani (AI lip-synced dubbing), Microsoft MAI-Voice-2 (expressive TTS with voice cloning), Agent Browser Shield (block prompt inject & cut token costs), Leni (AI for investors), ChatPilot (bulk delete, archive & timestamp ChatGPT conversations), Smart Runner (training plan for runners), Cignara (AI Agents for customer support), Perplexity Personal Computer for Windows (run AI agents across local files and apps), and Gemma 4 12B (run multimodal AI locally with an encoder-free architecture).\n* **TTS Advancements:** Microsoft's MAI-Voice-2 achieved expressive TTS with voice cloning in 15 languages, showcasing advancements in AI-powered speech synthesis.\n* **AI for Creativity:** Vaani's AI lip-synced dubbing for creators, brands, and studios demonstrates the application of AI in the creative industry.\n* **AI for Business:** Leni's AI for investors and Cignara's AI Agents for customer support highlight the increasing adoption of AI in business and finance.\n* **AI for Health and Wellness:** Tamadoggo's living journal for pets and Smart Runner's training plan for runners suggest the growing interest in using AI for health and wellness applications.\n* **Decentralization and Local AI:** Gemma 4 12B's encoder-free architecture and EchoFlow's native Android AI chat with locally stored chats indicate a trend towards decentralization and local AI processing.\n\nTrend: **Decentralization and Local AI Processing** is becoming increasingly popular, with products like Gemma 4 12B and EchoFlow prioritizing local AI processing and data storage, potentially reducing reliance on cloud services and improving data security and control."
+  "summary": "Here are the key developments with insight:\n\n**Trend:** The AI space is seeing significant innovation and launch of new products and solutions, with a focus on making AI more accessible and user-friendly.\n\n**Key Developments:**\n\n* **Solarch** is an interactive diagramming tool that uses AI to make creating visual representations of data more efficient and synchronized with code.\n* **Pixel Snapper** is an editor that helps clean up AI-generated pixel art, making it more usable and aesthetically pleasing.\n* **NudgeFile**, **Uiverse Design**, and **AgentOS** are all about making it easier to manage and work with AI-generated content, such as files and websites.\n* **Kimi Work** is an AI-powered desktop for knowledge work, aiming to streamline tasks and workflows.\n* **Olo** and **Vaani** are AI-powered companions for style and voice-over work, respectively, indicating growing interest in AI's role in creativity and media.\n* **Tamadoggo** is a unique application that uses AI to create a \"living journal\" for pet owners, showcasing AI's potential in niche industries.\n\n**Insight:** These launches highlight the increasing focus on making AI more accessible, user-friendly, and integrated into various aspects of daily life, from creative work to customer support and even pet care. As AI continues to evolve, we can expect to see more innovative solutions and applications across different industries and domains."
 }
