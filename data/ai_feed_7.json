@@ -1,10 +1,82 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-06-12T06:44:37.542Z",
+  "timestamp": "2026-06-13T06:19:23.068Z",
   "categories": {
     "news": {
-      "count": 17,
+      "count": 21,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Meet Warren 3.0",
+          "body": "Your voice-supported AI financial planning partner",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/underpay",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tide",
+          "body": "Layered voice notes that paint themselves",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ShellMate",
+          "body": "Manage SSH servers, credentials, and teams in one place",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/shellmate-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: LocIn AI",
+          "body": "Localize your app with tone-aware AI, automated workflows",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/locin-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Bob's CLI",
+          "body": "A local-first AI coding CLI that adapts to you",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/bob-s-cli",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Slack AI Data Analyst",
+          "body": "Ask about your data without leaving Slack",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/basedash",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Qursor",
+          "body": "Point at any UI to send exact context to your AI",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/qursor",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Bond",
+          "body": "The AI to-do list that does itself.",
+          "timestamp": "2026-06-11T13:42:01",
+          "url": "https://www.producthunt.com/products/bond-12",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Patchrooms",
           "body": "Turn AI-app feedback into agent-ready patch context.",
@@ -33,28 +105,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Bond",
-          "body": "The AI to-do list that does itself.",
-          "timestamp": "2026-06-11T13:42:01",
-          "url": "https://www.producthunt.com/products/bond-12",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Cloudskill",
           "body": "Govern the AI skills your team depends on",
           "timestamp": "2026-06-11T13:42:01",
           "url": "https://www.producthunt.com/products/cloudskill",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Uiverse Design",
-          "body": "De-slop your AI generated websites",
-          "timestamp": "2026-06-10T13:30:02",
-          "url": "https://www.producthunt.com/products/uiverse-io",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -87,6 +141,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Uiverse Design",
+          "body": "De-slop your AI generated websites",
+          "timestamp": "2026-06-10T13:30:02",
+          "url": "https://www.producthunt.com/products/uiverse-io",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: AgentOS",
           "body": "Manage AI agents, tasks, workspaces from one control layer",
           "timestamp": "2026-06-10T13:30:02",
@@ -100,6 +163,15 @@
           "body": "The AI desktop for knowledge work",
           "timestamp": "2026-06-10T13:30:02",
           "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Olo -  1st AI style companion for guys",
+          "body": "style smarter with the world's first AI companion for guys",
+          "timestamp": "2026-06-08T13:30:02",
+          "url": "https://www.producthunt.com/products/olo-1st-ai-style-companion-for-guys",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -121,45 +193,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Olo -  1st AI style companion for guys",
-          "body": "style smarter with the world's first AI companion for guys",
-          "timestamp": "2026-06-08T13:30:02",
-          "url": "https://www.producthunt.com/products/olo-1st-ai-style-companion-for-guys",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Microsoft MAI-Voice-2",
-          "body": "Expressive TTS with voice cloning in 15 languages",
-          "timestamp": "2026-06-05T13:30:02",
-          "url": "https://www.producthunt.com/products/mai-image-2-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Leni",
-          "body": "The world’s most accurate AI for investors",
-          "timestamp": "2026-06-05T13:30:02",
-          "url": "https://www.producthunt.com/products/leni",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Agent Browser Shield",
-          "body": "Block prompt inject & cut token costs for AI browser agents.",
-          "timestamp": "2026-06-05T13:30:02",
-          "url": "https://www.producthunt.com/products/agent-browser-shield",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n**Key Developments:**\n\n* **AI-powered productivity tools are gaining traction**: A number of new AI-powered productivity tools have launched on Product Hunt, including Bond, Cloudskill, Uiverse Design, and NudgeFile, indicating a growing interest in using AI to streamline tasks and improve workflow.\n* **AI-generated content is becoming more sophisticated**: Products like Riven and Unique Voice-2 (Microsoft MAI-Voice-2) demonstrate advancements in AI-generated content, with the ability to create realistic dubbing and voices in multiple languages.\n* **Startup focus on AI for healthcare and wellbeing**: The launch of Tamadoggo, a living journal for pets' lives with AI insights, highlights the growing interest in using AI for non-traditional applications such as pet care.\n\n**Trend:**\n\n* **Increased focus on AI-powered workflow optimization**: The number of products focused on AI-powered workflow optimization and AI-generated content is on the rise, indicating a growing recognition of the potential of AI to streamline tasks and improve productivity."
+  "summary": "Here are the key developments with insight:\n\n**Key Developments:**\n\n* **AI Financial Planning**: Warren 3.0, a voice-supported AI financial planning partner, was launched on Product Hunt.\n* **Enhanced Productivity Tools**: Several new productivity tools, including Bond, Patchrooms, Onpilot, and Kimi Work, were launched, focusing on tasks such as to-do lists, feedback management, workforce customization, and knowledge work.\n* **AI-generated Art**: Pixel Snapper, a tool for cleaning up AI-generated pixel art, and Uiverse Design, a tool for de-sloping AI-generated websites, were launched.\n* **AI-powered Collaboration**: AgentOS, a tool for managing AI agents and workspaces, and Slack AI Data Analyst, a tool that allows users to ask about their data without leaving Slack, were launched.\n* **Health and Wellness**: Riven, an Apple Watch app that detects muscle failure, and Tamadoggo, a living journal that provides AI insights on pet behavior, were launched.\n\n**Trend:**\n\n* **Increased Focus on AI-Augmented Daily Life**: The recent product launches on Product Hunt highlight a growing trend of developing AI-powered tools that aim to augment daily life, from financial planning and productivity to creative tasks and health and wellness. This trend suggests a increasing interest in using AI to simplify, automate, and enhance various aspects of people's lives."
 }
