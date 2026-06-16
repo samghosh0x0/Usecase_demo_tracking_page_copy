@@ -1,15 +1,69 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-06-15T07:23:58.143Z",
+  "timestamp": "2026-06-16T07:29:20.615Z",
   "categories": {
     "news": {
-      "count": 22,
+      "count": 24,
       "items": [
+        {
+          "subject": "Product Hunt Launch: IdleDev",
+          "body": "Get paid while your AI agent thinks",
+          "timestamp": "2026-06-15T13:30:02",
+          "url": "https://www.producthunt.com/products/idledev",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: EmailFlow.AI",
+          "body": "Like Claude Design for Email Newsletters",
+          "timestamp": "2026-06-15T13:30:02",
+          "url": "https://www.producthunt.com/products/emailflow-ai-b2b-lead-generation",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Fonda",
+          "body": "Your AI co-founder that remembers decisions + plans for you",
+          "timestamp": "2026-06-15T13:30:02",
+          "url": "https://www.producthunt.com/products/fonda",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Kickbacks.ai",
+          "body": "Get paid to wait for Claude Code to finish",
+          "timestamp": "2026-06-15T13:30:02",
+          "url": "https://www.producthunt.com/products/kickbacks-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tinfoil Pigeons",
+          "body": "See the aircraft flying over you on a retro radar scope.",
+          "timestamp": "2026-06-15T04:00:02",
+          "url": "https://www.producthunt.com/products/tinfoil-pigeons",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: CakewordAI - Snap & Learn",
           "body": "A picture dictionary",
           "timestamp": "2026-06-13T13:30:02",
           "url": "https://www.producthunt.com/products/cakewordai-snap-learn",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Slack AI Data Analyst",
+          "body": "Ask about your data without leaving Slack",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/basedash",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -60,28 +114,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Slack AI Data Analyst",
-          "body": "Ask about your data without leaving Slack",
-          "timestamp": "2026-06-12T13:30:02",
-          "url": "https://www.producthunt.com/products/basedash",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Qursor",
           "body": "Point at any UI to send exact context to your AI",
           "timestamp": "2026-06-12T13:30:02",
           "url": "https://www.producthunt.com/products/qursor",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Riven",
-          "body": "Your Apple Watch knows when you've truly hit muscle failure",
-          "timestamp": "2026-06-11T13:42:01",
-          "url": "https://www.producthunt.com/products/riven-reach-muscle-failure",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -105,6 +141,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Riven",
+          "body": "Your Apple Watch knows when you've truly hit muscle failure",
+          "timestamp": "2026-06-11T13:42:01",
+          "url": "https://www.producthunt.com/products/riven-reach-muscle-failure",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Bond",
           "body": "The AI to-do list that does itself.",
           "timestamp": "2026-06-11T13:42:01",
@@ -118,6 +163,15 @@
           "body": "Govern the AI skills your team depends on",
           "timestamp": "2026-06-11T13:42:01",
           "url": "https://www.producthunt.com/products/cloudskill",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Kimi Work",
+          "body": "The AI desktop for knowledge work",
+          "timestamp": "2026-06-10T13:30:02",
+          "url": "https://www.producthunt.com/products/kimi-ai-assistant",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -166,45 +220,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Kimi Work",
-          "body": "The AI desktop for knowledge work",
-          "timestamp": "2026-06-10T13:30:02",
-          "url": "https://www.producthunt.com/products/kimi-ai-assistant",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Olo -  1st AI style companion for guys",
-          "body": "style smarter with the world's first AI companion for guys",
-          "timestamp": "2026-06-08T13:30:02",
-          "url": "https://www.producthunt.com/products/olo-1st-ai-style-companion-for-guys",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Vaani",
-          "body": "Lip-synced AI dubbing for creators, brands and studios",
-          "timestamp": "2026-06-08T13:30:02",
-          "url": "https://www.producthunt.com/products/vaani-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tamadoggo",
-          "body": "A living journal for your pet's life, with AI insights",
-          "timestamp": "2026-06-08T13:30:02",
-          "url": "https://www.producthunt.com/products/tamadoggo",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments summarized with insight:\n\n**Product Hunt Launches:**\n\n* **CakewordAI**: A picture dictionary that allows users to learn new words by taking a picture of a word and receiving definitions and context.\n* **Local AI applications**: Several new AI applications have been launched on Product Hunt, including **LocIn AI** for app localization, **Solarch** for interactive diagrams, and **AgentOS** for managing AI agents.\n* **Virtual assistants**: New AI-powered virtual assistants have been launched, including **Slack AI Data Analyst** and **Kimi Work**, which aims to transform the way people work with AI.\n* **AI lifecycle management**: **Cloudskill** and **ShellMate** aim to simplify the management of AI skills and SSH servers, respectively.\n\n**Trend:**\n\n* **Increased focus on AI in various industries**: The recent Product Hunt launches suggest an increasing interest in AI across various sectors, including language, interfaces, and productivity. This highlights the growing demand for innovative AI solutions in different industries, indicating a shift towards a more AI-driven future."
+  "summary": "**Key Developments:**\n\n* **IdleDev and Kickbacks.ai allow users to get paid while their AI agent thinks**: These two products offer users the opportunity to monetize their idle AI agents, marking a shift towards the monetization of underutilized resources.\n* **AI-powered tools for various industries are emerging**: Products like Fonda, LocIn AI, and Solarch demonstrate the growing trend of applying AI to specific sectors such as business, localization, and software development.\n* **Increased focus on user experience and interface design**: Products like EmailFlow.AI, Tide, and Uiverse Design aim to enhance user experience and interface design, showcasing the importance of AI-powered visual tools.\n* **Expansion of AI capabilities to various types of tasks**: Kickbacks.ai, Qursor, and Pixel Snapper illustrate the growing use of AI in tasks such as assistive analysis, workflow management, and content creation.\n\n**Trend:**\n\n* **Rise of AI platforms to manage and govern AI-related resources**: As the number of AI products and services grows, the need to manage and govern these resources is becoming increasingly important. Products like AgentOS, Cloudskill, and Onpilot demonstrate a trend towards developing platforms that enable users to manage AI agents, tasks, and workspaces more efficiently."
 }
