@@ -1,10 +1,136 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-06-16T07:29:20.615Z",
+  "timestamp": "2026-06-17T07:13:00.648Z",
   "categories": {
     "news": {
-      "count": 24,
+      "count": 38,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Avocado – AI Website Content Operations",
+          "body": "AI-native content operations for any Next.js website",
+          "timestamp": "2026-06-16T13:30:02",
+          "url": "https://www.producthunt.com/products/avocado-studio",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: PrompTessor",
+          "body": "AI Prompt Generator, Optimizer & Library",
+          "timestamp": "2026-06-16T13:30:02",
+          "url": "https://www.producthunt.com/products/promptessor",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Annota",
+          "body": "Cross Platform, Local First AI powered Note Taking App",
+          "timestamp": "2026-06-16T13:30:02",
+          "url": "https://www.producthunt.com/products/annota",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: DevCleaner",
+          "body": "Free the gigabytes your dev tools and AI apps hoard",
+          "timestamp": "2026-06-16T13:30:02",
+          "url": "https://www.producthunt.com/products/devcleaner-reclaim-gbs-from-dev-tools",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tychi AI",
+          "body": "The economic layer for autonomous capital.",
+          "timestamp": "2026-06-16T13:30:02",
+          "url": "https://www.producthunt.com/products/tychi-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Kepler",
+          "body": "Agentic development environment to run agents at scale",
+          "timestamp": "2026-06-16T13:30:02",
+          "url": "https://www.producthunt.com/products/axosoft-gitkraken",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Container Desktop",
+          "body": "A GUI for Apple's native container system",
+          "timestamp": "2026-06-16T13:30:02",
+          "url": "https://www.producthunt.com/products/container-desktop-gui-apple-container",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AEVS",
+          "body": "proof-of-execution for AI agents",
+          "timestamp": "2026-06-16T04:00:02",
+          "url": "https://www.producthunt.com/products/aevs-by-fetch-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Sulsaly",
+          "body": "#1 Agentic AI sales leads & outreach platform for MENA Region.",
+          "timestamp": "2026-06-16T04:00:02",
+          "url": "https://www.producthunt.com/products/sulsaly",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AutoEdit",
+          "body": "Your Claude AI Video Editor for Premiere Pro",
+          "timestamp": "2026-06-16T04:00:02",
+          "url": "https://www.producthunt.com/products/autoedit",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Verol",
+          "body": "Stop AI hallucinations",
+          "timestamp": "2026-06-16T04:00:02",
+          "url": "https://www.producthunt.com/products/verol",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Wobo 2.0",
+          "body": "Tinder for jobs: swipe right and AI applies for you",
+          "timestamp": "2026-06-16T04:00:02",
+          "url": "https://www.producthunt.com/products/wobo-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ColibotAI",
+          "body": "Translate, summarize & explain any text on-device",
+          "timestamp": "2026-06-16T04:00:02",
+          "url": "https://www.producthunt.com/products/colibotai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Synopsule",
+          "body": "On device private AI meeting transcripts",
+          "timestamp": "2026-06-16T04:00:02",
+          "url": "https://www.producthunt.com/products/synopsule",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: IdleDev",
           "body": "Get paid while your AI agent thinks",
@@ -60,15 +186,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Slack AI Data Analyst",
-          "body": "Ask about your data without leaving Slack",
-          "timestamp": "2026-06-12T13:30:02",
-          "url": "https://www.producthunt.com/products/basedash",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Meet Warren 3.0",
           "body": "Your voice-supported AI financial planning partner",
           "timestamp": "2026-06-12T13:30:02",
@@ -114,6 +231,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Slack AI Data Analyst",
+          "body": "Ask about your data without leaving Slack",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/basedash",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Qursor",
           "body": "Point at any UI to send exact context to your AI",
           "timestamp": "2026-06-12T13:30:02",
@@ -132,19 +258,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Onpilot",
-          "body": "An AI workforce customized to your business",
+          "subject": "Product Hunt Launch: Cloudskill",
+          "body": "Govern the AI skills your team depends on",
           "timestamp": "2026-06-11T13:42:01",
-          "url": "https://www.producthunt.com/products/onpilot-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Riven",
-          "body": "Your Apple Watch knows when you've truly hit muscle failure",
-          "timestamp": "2026-06-11T13:42:01",
-          "url": "https://www.producthunt.com/products/riven-reach-muscle-failure",
+          "url": "https://www.producthunt.com/products/cloudskill",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -159,10 +276,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Cloudskill",
-          "body": "Govern the AI skills your team depends on",
+          "subject": "Product Hunt Launch: Riven",
+          "body": "Your Apple Watch knows when you've truly hit muscle failure",
           "timestamp": "2026-06-11T13:42:01",
-          "url": "https://www.producthunt.com/products/cloudskill",
+          "url": "https://www.producthunt.com/products/riven-reach-muscle-failure",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Onpilot",
+          "body": "An AI workforce customized to your business",
+          "timestamp": "2026-06-11T13:42:01",
+          "url": "https://www.producthunt.com/products/onpilot-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -224,5 +350,5 @@
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **IdleDev and Kickbacks.ai allow users to get paid while their AI agent thinks**: These two products offer users the opportunity to monetize their idle AI agents, marking a shift towards the monetization of underutilized resources.\n* **AI-powered tools for various industries are emerging**: Products like Fonda, LocIn AI, and Solarch demonstrate the growing trend of applying AI to specific sectors such as business, localization, and software development.\n* **Increased focus on user experience and interface design**: Products like EmailFlow.AI, Tide, and Uiverse Design aim to enhance user experience and interface design, showcasing the importance of AI-powered visual tools.\n* **Expansion of AI capabilities to various types of tasks**: Kickbacks.ai, Qursor, and Pixel Snapper illustrate the growing use of AI in tasks such as assistive analysis, workflow management, and content creation.\n\n**Trend:**\n\n* **Rise of AI platforms to manage and govern AI-related resources**: As the number of AI products and services grows, the need to manage and govern these resources is becoming increasingly important. Products like AgentOS, Cloudskill, and Onpilot demonstrate a trend towards developing platforms that enable users to manage AI agents, tasks, and workspaces more efficiently."
+  "summary": "**Key Developments:**\n\n* **AI Content Operations:** Avocado, a new product, provides AI-native content operations for Next.js websites, streamlining content creation and management.\n* **AI Prompt Generator:** PrompTessor, launched on Product Hunt, is an AI prompt generator, optimizer, and library, aiming to improve the efficiency of AI model training.\n* **AI-Powered Note Taking:** Annota, another Product Hunt launch, offers a cross-platform, local-first AI-powered note-taking app, enabling users to organize and analyze their notes more effectively.\n* **AI Meeting Transcripts:** Synopsule, a Product Hunt launch, provides on-device private AI meeting transcripts, allowing users to review and analyze their conversations more efficiently.\n* **AI Coding CLI:** Bob's CLI, launched on Product Hunt, is a local-first AI coding CLI that adapts to the user's coding style, making it easier to write code.\n* **AI Sales Leads:** Sulsaly, a Product Hunt launch, is an agentic AI sales leads and outreach platform for the MENA region, helping businesses generate sales leads and connect with potential customers.\n\n**Trend:**\n\n* **Rise of AI-native Products:** The increasing number of AI-native products launched on Product Hunt suggests a growing demand for AI-powered solutions that can automate tasks, improve efficiency, and enhance user experiences. These products are likely to become more prevalent as AI technology continues to advance and become more accessible to developers and businesses."
 }
