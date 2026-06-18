@@ -1,24 +1,69 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-06-17T07:13:00.648Z",
+  "timestamp": "2026-06-18T06:55:07.394Z",
   "categories": {
     "news": {
-      "count": 38,
+      "count": 39,
       "items": [
         {
-          "subject": "Product Hunt Launch: Avocado – AI Website Content Operations",
-          "body": "AI-native content operations for any Next.js website",
-          "timestamp": "2026-06-16T13:30:02",
-          "url": "https://www.producthunt.com/products/avocado-studio",
+          "subject": "Product Hunt Launch: Polygram Coding Agent",
+          "body": "AI-native coding assistant that helps developers in any IDE",
+          "timestamp": "2026-06-17T13:30:02",
+          "url": "https://www.producthunt.com/products/polygram-4",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: PrompTessor",
-          "body": "AI Prompt Generator, Optimizer & Library",
-          "timestamp": "2026-06-16T13:30:02",
-          "url": "https://www.producthunt.com/products/promptessor",
+          "subject": "Product Hunt Launch: Henji",
+          "body": "AI replies that are trained to sound like you",
+          "timestamp": "2026-06-17T13:30:02",
+          "url": "https://www.producthunt.com/products/henji",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: PaneFlow",
+          "body": "Let AI agents build real animated slideshows",
+          "timestamp": "2026-06-17T13:30:02",
+          "url": "https://www.producthunt.com/products/paneflow",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Wilson",
+          "body": "AI coworker in Slack that builds reports, work tools, + more.",
+          "timestamp": "2026-06-17T13:30:02",
+          "url": "https://www.producthunt.com/products/wilson-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: BrainFlow",
+          "body": "Turn your rambling thoughts into coherent notes",
+          "timestamp": "2026-06-17T13:30:02",
+          "url": "https://www.producthunt.com/products/brainflow-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Parano.ai",
+          "body": "Never miss a competitor's move",
+          "timestamp": "2026-06-17T13:30:02",
+          "url": "https://www.producthunt.com/products/parano-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Docfarm",
+          "body": "Host, share, and track everything your AI builds",
+          "timestamp": "2026-06-17T13:30:02",
+          "url": "https://www.producthunt.com/products/docfarm",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -33,19 +78,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: DevCleaner",
-          "body": "Free the gigabytes your dev tools and AI apps hoard",
+          "subject": "Product Hunt Launch: Container Desktop",
+          "body": "A GUI for Apple's native container system",
           "timestamp": "2026-06-16T13:30:02",
-          "url": "https://www.producthunt.com/products/devcleaner-reclaim-gbs-from-dev-tools",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tychi AI",
-          "body": "The economic layer for autonomous capital.",
-          "timestamp": "2026-06-16T13:30:02",
-          "url": "https://www.producthunt.com/products/tychi-ai",
+          "url": "https://www.producthunt.com/products/container-desktop-gui-apple-container",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -60,28 +96,37 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Container Desktop",
-          "body": "A GUI for Apple's native container system",
+          "subject": "Product Hunt Launch: Tychi AI",
+          "body": "The economic layer for autonomous capital.",
           "timestamp": "2026-06-16T13:30:02",
-          "url": "https://www.producthunt.com/products/container-desktop-gui-apple-container",
+          "url": "https://www.producthunt.com/products/tychi-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: AEVS",
-          "body": "proof-of-execution for AI agents",
-          "timestamp": "2026-06-16T04:00:02",
-          "url": "https://www.producthunt.com/products/aevs-by-fetch-ai",
+          "subject": "Product Hunt Launch: DevCleaner",
+          "body": "Free the gigabytes your dev tools and AI apps hoard",
+          "timestamp": "2026-06-16T13:30:02",
+          "url": "https://www.producthunt.com/products/devcleaner-reclaim-gbs-from-dev-tools",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Sulsaly",
-          "body": "#1 Agentic AI sales leads & outreach platform for MENA Region.",
-          "timestamp": "2026-06-16T04:00:02",
-          "url": "https://www.producthunt.com/products/sulsaly",
+          "subject": "Product Hunt Launch: PrompTessor",
+          "body": "AI Prompt Generator, Optimizer & Library",
+          "timestamp": "2026-06-16T13:30:02",
+          "url": "https://www.producthunt.com/products/promptessor",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Avocado – AI Website Content Operations",
+          "body": "AI-native content operations for any Next.js website",
+          "timestamp": "2026-06-16T13:30:02",
+          "url": "https://www.producthunt.com/products/avocado-studio",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -96,19 +141,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Verol",
-          "body": "Stop AI hallucinations",
+          "subject": "Product Hunt Launch: Synopsule",
+          "body": "On device private AI meeting transcripts",
           "timestamp": "2026-06-16T04:00:02",
-          "url": "https://www.producthunt.com/products/verol",
+          "url": "https://www.producthunt.com/products/synopsule",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Wobo 2.0",
-          "body": "Tinder for jobs: swipe right and AI applies for you",
+          "subject": "Product Hunt Launch: AEVS",
+          "body": "proof-of-execution for AI agents",
           "timestamp": "2026-06-16T04:00:02",
-          "url": "https://www.producthunt.com/products/wobo-ai",
+          "url": "https://www.producthunt.com/products/aevs-by-fetch-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -123,10 +168,28 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Synopsule",
-          "body": "On device private AI meeting transcripts",
+          "subject": "Product Hunt Launch: Wobo 2.0",
+          "body": "Tinder for jobs: swipe right and AI applies for you",
           "timestamp": "2026-06-16T04:00:02",
-          "url": "https://www.producthunt.com/products/synopsule",
+          "url": "https://www.producthunt.com/products/wobo-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Verol",
+          "body": "Stop AI hallucinations",
+          "timestamp": "2026-06-16T04:00:02",
+          "url": "https://www.producthunt.com/products/verol",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Sulsaly",
+          "body": "#1 Agentic AI sales leads & outreach platform for MENA Region.",
+          "timestamp": "2026-06-16T04:00:02",
+          "url": "https://www.producthunt.com/products/sulsaly",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -186,55 +249,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Meet Warren 3.0",
-          "body": "Your voice-supported AI financial planning partner",
-          "timestamp": "2026-06-12T13:30:02",
-          "url": "https://www.producthunt.com/products/underpay",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Tide",
           "body": "Layered voice notes that paint themselves",
           "timestamp": "2026-06-12T13:30:02",
           "url": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ShellMate",
-          "body": "Manage SSH servers, credentials, and teams in one place",
-          "timestamp": "2026-06-12T13:30:02",
-          "url": "https://www.producthunt.com/products/shellmate-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: LocIn AI",
-          "body": "Localize your app with tone-aware AI, automated workflows",
-          "timestamp": "2026-06-12T13:30:02",
-          "url": "https://www.producthunt.com/products/locin-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Bob's CLI",
-          "body": "A local-first AI coding CLI that adapts to you",
-          "timestamp": "2026-06-12T13:30:02",
-          "url": "https://www.producthunt.com/products/bob-s-cli",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Slack AI Data Analyst",
-          "body": "Ask about your data without leaving Slack",
-          "timestamp": "2026-06-12T13:30:02",
-          "url": "https://www.producthunt.com/products/basedash",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -249,10 +267,46 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Patchrooms",
-          "body": "Turn AI-app feedback into agent-ready patch context.",
-          "timestamp": "2026-06-11T13:42:01",
-          "url": "https://www.producthunt.com/products/patchrooms",
+          "subject": "Product Hunt Launch: Slack AI Data Analyst",
+          "body": "Ask about your data without leaving Slack",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/basedash",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Bob's CLI",
+          "body": "A local-first AI coding CLI that adapts to you",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/bob-s-cli",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: LocIn AI",
+          "body": "Localize your app with tone-aware AI, automated workflows",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/locin-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ShellMate",
+          "body": "Manage SSH servers, credentials, and teams in one place",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/shellmate-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Meet Warren 3.0",
+          "body": "Your voice-supported AI financial planning partner",
+          "timestamp": "2026-06-12T13:30:02",
+          "url": "https://www.producthunt.com/products/underpay",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -267,19 +321,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Bond",
-          "body": "The AI to-do list that does itself.",
+          "subject": "Product Hunt Launch: Patchrooms",
+          "body": "Turn AI-app feedback into agent-ready patch context.",
           "timestamp": "2026-06-11T13:42:01",
-          "url": "https://www.producthunt.com/products/bond-12",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Riven",
-          "body": "Your Apple Watch knows when you've truly hit muscle failure",
-          "timestamp": "2026-06-11T13:42:01",
-          "url": "https://www.producthunt.com/products/riven-reach-muscle-failure",
+          "url": "https://www.producthunt.com/products/patchrooms",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -294,55 +339,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Kimi Work",
-          "body": "The AI desktop for knowledge work",
-          "timestamp": "2026-06-10T13:30:02",
-          "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+          "subject": "Product Hunt Launch: Riven",
+          "body": "Your Apple Watch knows when you've truly hit muscle failure",
+          "timestamp": "2026-06-11T13:42:01",
+          "url": "https://www.producthunt.com/products/riven-reach-muscle-failure",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Solarch",
-          "body": "Interactive diagrams with AI, and your code always in sync",
-          "timestamp": "2026-06-10T13:30:02",
-          "url": "https://www.producthunt.com/products/solarch",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Pixel Snapper",
-          "body": "Editor to clean up AI-generated pixel art",
-          "timestamp": "2026-06-10T13:30:02",
-          "url": "https://www.producthunt.com/products/pixel-snapper",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: NudgeFile",
-          "body": "Automatically organize, rename, and manage files with AI",
-          "timestamp": "2026-06-10T13:30:02",
-          "url": "https://www.producthunt.com/products/nudgefile",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Uiverse Design",
-          "body": "De-slop your AI generated websites",
-          "timestamp": "2026-06-10T13:30:02",
-          "url": "https://www.producthunt.com/products/uiverse-io",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AgentOS",
-          "body": "Manage AI agents, tasks, workspaces from one control layer",
-          "timestamp": "2026-06-10T13:30:02",
-          "url": "https://www.producthunt.com/products/agentos-run-agents-like-a-company",
+          "subject": "Product Hunt Launch: Bond",
+          "body": "The AI to-do list that does itself.",
+          "timestamp": "2026-06-11T13:42:01",
+          "url": "https://www.producthunt.com/products/bond-12",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -350,5 +359,5 @@
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **AI Content Operations:** Avocado, a new product, provides AI-native content operations for Next.js websites, streamlining content creation and management.\n* **AI Prompt Generator:** PrompTessor, launched on Product Hunt, is an AI prompt generator, optimizer, and library, aiming to improve the efficiency of AI model training.\n* **AI-Powered Note Taking:** Annota, another Product Hunt launch, offers a cross-platform, local-first AI-powered note-taking app, enabling users to organize and analyze their notes more effectively.\n* **AI Meeting Transcripts:** Synopsule, a Product Hunt launch, provides on-device private AI meeting transcripts, allowing users to review and analyze their conversations more efficiently.\n* **AI Coding CLI:** Bob's CLI, launched on Product Hunt, is a local-first AI coding CLI that adapts to the user's coding style, making it easier to write code.\n* **AI Sales Leads:** Sulsaly, a Product Hunt launch, is an agentic AI sales leads and outreach platform for the MENA region, helping businesses generate sales leads and connect with potential customers.\n\n**Trend:**\n\n* **Rise of AI-native Products:** The increasing number of AI-native products launched on Product Hunt suggests a growing demand for AI-powered solutions that can automate tasks, improve efficiency, and enhance user experiences. These products are likely to become more prevalent as AI technology continues to advance and become more accessible to developers and businesses."
+  "summary": "Here are 6 key developments and 1 trend:\n\n**Developments:**\n\n* **AI-powered coding assistants are on the rise**: Several products, such as Polygram Coding Agent, Poly gram, and Bob's CLI, have been launched to help developers with coding tasks.\n* **AI-powered productivity tools are gaining traction**: Tools like Fonda, IdleDev, and DevCleaner aim to automate tasks and increase productivity.\n* **AI-generated content is becoming more accessible**: Products like Avocado and EmailFlow.AI offer AI-powered content generation and optimization features.\n* **AI-powered meeting and note-taking tools are emerging**: Synopsule, Annota, and Tide are AI-powered apps that help with meeting transcription and note-taking.\n* **AI-powered entertainment and leisure are growing**: Tinfoil Pigeons, a retro radar scope, and CakewordAI, a picture dictionary, offer unique entertainment experiences.\n* **AI-powered widgets and integrations are increasing**: Products like ShellMate, Cloudskill, and Patchrooms aim to improve workflows by providing integrated AI-powered features.\n\n**Trend:** The trend is towards **Augmented Intelligence**, where AI is being integrated with various tools and platforms to enhance human capabilities, increase productivity, and improve workflows. These new products and tools aim to leverage AI to automate tasks, provide insights, and offer unique experiences, enabling humans to focus on higher-level tasks and creative endeavors."
 }
