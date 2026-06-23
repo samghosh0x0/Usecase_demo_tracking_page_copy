@@ -1,9 +1,9 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-06-22T07:27:22.143Z",
+  "timestamp": "2026-06-23T06:09:45.539Z",
   "categories": {
     "news": {
-      "count": 35,
+      "count": 24,
       "items": [
         {
           "subject": "Product Hunt Launch: Upsolve AI",
@@ -42,6 +42,42 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Agentic videos by D-ID",
+          "body": "Interactive videos that talk back",
+          "timestamp": "2026-06-18T13:30:02",
+          "url": "https://www.producthunt.com/products/d-id",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Refuse",
+          "body": "Block vulnerable package installs for you and your AI",
+          "timestamp": "2026-06-18T13:30:02",
+          "url": "https://www.producthunt.com/products/refuse",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Elvin",
+          "body": "Proactive AI that finds and finishes work before you ask",
+          "timestamp": "2026-06-18T13:30:02",
+          "url": "https://www.producthunt.com/products/elvin",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Viktor for Microsoft Teams",
+          "body": "The most powerful AI employee, now in Microsoft Teams",
+          "timestamp": "2026-06-18T13:30:02",
+          "url": "https://www.producthunt.com/products/viktor",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Labs AI",
           "body": "Turn any text into natural AI voiceovers on iPhone",
           "timestamp": "2026-06-18T13:30:02",
@@ -60,37 +96,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Viktor for Microsoft Teams",
-          "body": "The most powerful AI employee, now in Microsoft Teams",
-          "timestamp": "2026-06-18T13:30:02",
-          "url": "https://www.producthunt.com/products/viktor",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Elvin",
-          "body": "Proactive AI that finds and finishes work before you ask",
-          "timestamp": "2026-06-18T13:30:02",
-          "url": "https://www.producthunt.com/products/elvin",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Refuse",
-          "body": "Block vulnerable package installs for you and your AI",
-          "timestamp": "2026-06-18T13:30:02",
-          "url": "https://www.producthunt.com/products/refuse",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Agentic videos by D-ID",
-          "body": "Interactive videos that talk back",
-          "timestamp": "2026-06-18T13:30:02",
-          "url": "https://www.producthunt.com/products/d-id",
+          "subject": "Product Hunt Launch: Henji",
+          "body": "AI replies that are trained to sound like you",
+          "timestamp": "2026-06-17T13:30:02",
+          "url": "https://www.producthunt.com/products/henji",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -100,15 +109,6 @@
           "body": "AI-native coding assistant that helps developers in any IDE",
           "timestamp": "2026-06-17T13:30:02",
           "url": "https://www.producthunt.com/products/polygram-4",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Henji",
-          "body": "AI replies that are trained to sound like you",
-          "timestamp": "2026-06-17T13:30:02",
-          "url": "https://www.producthunt.com/products/henji",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -154,6 +154,15 @@
           "body": "Host, share, and track everything your AI builds",
           "timestamp": "2026-06-17T13:30:02",
           "url": "https://www.producthunt.com/products/docfarm",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Container Desktop",
+          "body": "A GUI for Apple's native container system",
+          "timestamp": "2026-06-16T13:30:02",
+          "url": "https://www.producthunt.com/products/container-desktop-gui-apple-container",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -211,117 +220,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Container Desktop",
-          "body": "A GUI for Apple's native container system",
-          "timestamp": "2026-06-16T13:30:02",
-          "url": "https://www.producthunt.com/products/container-desktop-gui-apple-container",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AEVS",
-          "body": "proof-of-execution for AI agents",
-          "timestamp": "2026-06-16T04:00:02",
-          "url": "https://www.producthunt.com/products/aevs-by-fetch-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Sulsaly",
-          "body": "#1 Agentic AI sales leads & outreach platform for MENA Region.",
-          "timestamp": "2026-06-16T04:00:02",
-          "url": "https://www.producthunt.com/products/sulsaly",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AutoEdit",
-          "body": "Your Claude AI Video Editor for Premiere Pro",
-          "timestamp": "2026-06-16T04:00:02",
-          "url": "https://www.producthunt.com/products/autoedit",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Verol",
-          "body": "Stop AI hallucinations",
-          "timestamp": "2026-06-16T04:00:02",
-          "url": "https://www.producthunt.com/products/verol",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Wobo 2.0",
-          "body": "Tinder for jobs: swipe right and AI applies for you",
-          "timestamp": "2026-06-16T04:00:02",
-          "url": "https://www.producthunt.com/products/wobo-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ColibotAI",
-          "body": "Translate, summarize & explain any text on-device",
-          "timestamp": "2026-06-16T04:00:02",
-          "url": "https://www.producthunt.com/products/colibotai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Synopsule",
-          "body": "On device private AI meeting transcripts",
-          "timestamp": "2026-06-16T04:00:02",
-          "url": "https://www.producthunt.com/products/synopsule",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Kickbacks.ai",
-          "body": "Get paid to wait for Claude Code to finish",
-          "timestamp": "2026-06-15T13:30:02",
-          "url": "https://www.producthunt.com/products/kickbacks-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: IdleDev",
-          "body": "Get paid while your AI agent thinks",
-          "timestamp": "2026-06-15T13:30:02",
-          "url": "https://www.producthunt.com/products/idledev",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: EmailFlow.AI",
-          "body": "Like Claude Design for Email Newsletters",
-          "timestamp": "2026-06-15T13:30:02",
-          "url": "https://www.producthunt.com/products/emailflow-ai-b2b-lead-generation",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Fonda",
-          "body": "Your AI co-founder that remembers decisions + plans for you",
-          "timestamp": "2026-06-15T13:30:02",
-          "url": "https://www.producthunt.com/products/fonda",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n**Note:** I'll focus on the most relevant developments related to AI, as they are the majority of the news items.\n\n**Key Developments:**\n\n* **Upsolve AI**, a new AI solution for building \"grounded, governed, trustworthy data agents\" has been launched. This suggests that there is a growing need for AI solutions that prioritize data integrity and trustworthiness.\n* **Labs AI** has launched a feature that turns any text into natural AI voiceovers on iPhone, highlighting the increasing demand for more seamless integration of AI into everyday devices.\n* **Viktor for Microsoft Teams** is the most powerful AI employee now available in Microsoft Teams, indicating a growing demand for business-oriented AI solutions.\n* **Elvin** is a proactive AI that finds and finishes work before you ask, showcasing the potential for AI to automate tasks and improve productivity.\n\n**Trend:** **Augmentation of AI capabilities in various industries**\n\nThere is a notable trend towards augmenting AI capabilities in various industries, such as healthcare, finance, and education, through the launch of new AI-powered tools and solutions. These developments highlight the growing importance of AI in different domains and suggest that the industry is witnessing a significant shift towards increasing AI capabilities across various sectors.\n\n* Another trend is the increasing emphasis on **data integrity and trustworthiness** in AI solutions, as evidenced by the launch of Upsolve AI and other related developments.\n* **AI-powered productivity tools** are becoming increasingly popular, with the launch of tools like Elvin, Viktor, and Schooltime."
+  "summary": "**Key Developments:**\n\n* 15 new AI-powered products launched on Product Hunt, including Upsolve AI, MeshPilot, Zernio, API to MCP, Agentic, Refuse, and Elvin, among others.\n* These products focus on various areas such as AI agents, data management, and workflow automation.\n* Many of these products are designed to work with popular platforms like Figma, Slack, and WhatsApp.\n\n**Insights:**\n\n* There is a surge in innovation in the AI-powered product space, with many new products being launched.\n* These products demonstrate the growing interest in developing AI agents that can automate tasks and improve workflows.\n* The launch of these products suggests that companies are exploring new ways to utilize AI and machine learning to improve efficiency and productivity.\n\n**Trend:** The trend of development is towards creating more autonomous and self-sufficient AI-powered systems that can operate independently and make decisions on their own. This is evident in the launch of several AI-powered products that can work with various platforms and automate tasks.\n\n**Key Highlights:**\n\n* Upsolve AI is a product that focuses on building grounded, governed, and trustworthy data agents.\n* MeshPilot is an AI workspace for terminals, tasks, and agents.\n* Zernio is an API that provides messaging, calling, and AI agent capabilities for WhatsApp.\n* API to MCP is a product that allows turning any API into an MCP server for AI agents.\n* Elvin is a proactive AI that finds and finishes work before a user asks."
 }
