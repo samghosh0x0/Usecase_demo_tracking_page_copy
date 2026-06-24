@@ -1,10 +1,73 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-06-23T06:09:45.539Z",
+  "timestamp": "2026-06-24T06:09:10.194Z",
   "categories": {
     "news": {
       "count": 24,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Thumbmagic",
+          "body": "AI thumbnail generator trained on top-performing thumbnails",
+          "timestamp": "2026-06-23T13:30:02",
+          "url": "https://www.producthunt.com/products/thumbmagic-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: BestDefense.io",
+          "body": "Pentest and patch every deploy with AI",
+          "timestamp": "2026-06-23T13:30:02",
+          "url": "https://www.producthunt.com/products/bestdefense-io",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Buddy AI Note",
+          "body": "Your daily memo that turns notes into a plan",
+          "timestamp": "2026-06-23T13:30:02",
+          "url": "https://www.producthunt.com/products/buddy-ai-note",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Jotform AI App Builder",
+          "body": "Turn ideas into powerful apps within seconds",
+          "timestamp": "2026-06-23T13:30:02",
+          "url": "https://www.producthunt.com/products/jotform",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Cotypist",
+          "body": "Local AI Autocomplete in your voice, anywhere on your Mac",
+          "timestamp": "2026-06-23T13:30:02",
+          "url": "https://www.producthunt.com/products/cotypist",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: jebi",
+          "body": "A supercharged terminal for Mac with built-in local AI",
+          "timestamp": "2026-06-23T13:30:02",
+          "url": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Hush",
+          "body": "Open-source noise suppression for voice AI agents",
+          "timestamp": "2026-06-23T13:30:02",
+          "url": "https://www.producthunt.com/products/hush-df34eafa-13f7-4d91-856f-162c2a9d81ee",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Upsolve AI",
           "body": "Build grounded, governed, trustworthy data agents",
@@ -96,10 +159,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Henji",
-          "body": "AI replies that are trained to sound like you",
+          "subject": "Product Hunt Launch: Docfarm",
+          "body": "Host, share, and track everything your AI builds",
           "timestamp": "2026-06-17T13:30:02",
-          "url": "https://www.producthunt.com/products/henji",
+          "url": "https://www.producthunt.com/products/docfarm",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -109,6 +172,15 @@
           "body": "AI-native coding assistant that helps developers in any IDE",
           "timestamp": "2026-06-17T13:30:02",
           "url": "https://www.producthunt.com/products/polygram-4",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Henji",
+          "body": "AI replies that are trained to sound like you",
+          "timestamp": "2026-06-17T13:30:02",
+          "url": "https://www.producthunt.com/products/henji",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -148,81 +220,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Docfarm",
-          "body": "Host, share, and track everything your AI builds",
-          "timestamp": "2026-06-17T13:30:02",
-          "url": "https://www.producthunt.com/products/docfarm",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Container Desktop",
-          "body": "A GUI for Apple's native container system",
-          "timestamp": "2026-06-16T13:30:02",
-          "url": "https://www.producthunt.com/products/container-desktop-gui-apple-container",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Avocado – AI Website Content Operations",
-          "body": "AI-native content operations for any Next.js website",
-          "timestamp": "2026-06-16T13:30:02",
-          "url": "https://www.producthunt.com/products/avocado-studio",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: PrompTessor",
-          "body": "AI Prompt Generator, Optimizer & Library",
-          "timestamp": "2026-06-16T13:30:02",
-          "url": "https://www.producthunt.com/products/promptessor",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Annota",
-          "body": "Cross Platform, Local First AI powered Note Taking App",
-          "timestamp": "2026-06-16T13:30:02",
-          "url": "https://www.producthunt.com/products/annota",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: DevCleaner",
-          "body": "Free the gigabytes your dev tools and AI apps hoard",
-          "timestamp": "2026-06-16T13:30:02",
-          "url": "https://www.producthunt.com/products/devcleaner-reclaim-gbs-from-dev-tools",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tychi AI",
-          "body": "The economic layer for autonomous capital.",
-          "timestamp": "2026-06-16T13:30:02",
-          "url": "https://www.producthunt.com/products/tychi-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Kepler",
-          "body": "Agentic development environment to run agents at scale",
-          "timestamp": "2026-06-16T13:30:02",
-          "url": "https://www.producthunt.com/products/axosoft-gitkraken",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* 15 new AI-powered products launched on Product Hunt, including Upsolve AI, MeshPilot, Zernio, API to MCP, Agentic, Refuse, and Elvin, among others.\n* These products focus on various areas such as AI agents, data management, and workflow automation.\n* Many of these products are designed to work with popular platforms like Figma, Slack, and WhatsApp.\n\n**Insights:**\n\n* There is a surge in innovation in the AI-powered product space, with many new products being launched.\n* These products demonstrate the growing interest in developing AI agents that can automate tasks and improve workflows.\n* The launch of these products suggests that companies are exploring new ways to utilize AI and machine learning to improve efficiency and productivity.\n\n**Trend:** The trend of development is towards creating more autonomous and self-sufficient AI-powered systems that can operate independently and make decisions on their own. This is evident in the launch of several AI-powered products that can work with various platforms and automate tasks.\n\n**Key Highlights:**\n\n* Upsolve AI is a product that focuses on building grounded, governed, and trustworthy data agents.\n* MeshPilot is an AI workspace for terminals, tasks, and agents.\n* Zernio is an API that provides messaging, calling, and AI agent capabilities for WhatsApp.\n* API to MCP is a product that allows turning any API into an MCP server for AI agents.\n* Elvin is a proactive AI that finds and finishes work before a user asks."
+  "summary": "Here are 4-6 bullet points summarizing key developments in AI with insight, along with a trend:\n\n**Key Developments:**\n\n* **AI-powered thumbnail generation**: Thumbmagic, a new AI thumbnail generator, has been launched on Product Hunt. This tool is trained on top-performing thumbnails, making it easier for creators to generate eye-catching thumbnails.\n* **AI-powered terminal for Mac**: Jebi, a supercharged terminal for Mac, has been launched on Product Hunt. This tool features built-in local AI, allowing users to automate tasks and streamline their workflow.\n* **AI-powered noise suppression**: Hush, an open-source noise suppression tool, has been launched on Product Hunt. This tool is designed to improve the quality of voice AI agents by suppressing background noise.\n* **AI-powered video generation**: Agentic videos by D-ID, a new product on Product Hunt, allows users to create interactive videos that talk back. This technology has the potential to revolutionize the way we interact with video content.\n* **AI-powered productivity tools**: Several new productivity tools have been launched on Product Hunt, including Elvin, a proactive AI that finds and finishes work before users ask, and Polygram Coding Agent, an AI-native coding assistant that helps developers in any IDE.\n\n**Trend:**\n\n* **Growing demand for AI-powered productivity tools**: The recent launches on Product Hunt suggest a growing demand for AI-powered productivity tools that can automate tasks, streamline workflows, and improve overall productivity. This trend is likely to continue as more businesses and individuals look to leverage AI to boost their efficiency and effectiveness."
 }
