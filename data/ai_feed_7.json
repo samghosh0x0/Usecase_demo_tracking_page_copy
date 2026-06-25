@@ -1,10 +1,64 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-06-24T06:09:10.194Z",
+  "timestamp": "2026-06-25T06:10:06.118Z",
   "categories": {
     "news": {
-      "count": 24,
+      "count": 22,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Off Autopilot",
+          "body": "Curated, human-written articles about agentic coding",
+          "timestamp": "2026-06-24T13:30:02",
+          "url": "https://www.producthunt.com/products/off-autopilot-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Nimt",
+          "body": "Your AI Search Coworker in Slack",
+          "timestamp": "2026-06-24T13:30:02",
+          "url": "https://www.producthunt.com/products/nimt-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Mindstone Rebel",
+          "body": "AI workspace for agents that know your work and ask first",
+          "timestamp": "2026-06-24T13:30:02",
+          "url": "https://www.producthunt.com/products/mindstone-rebel",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Crewdle AI",
+          "body": "Use every business AI tool without every subscription",
+          "timestamp": "2026-06-24T13:30:02",
+          "url": "https://www.producthunt.com/products/crewdle",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tencent EdgeOne Makers",
+          "body": "Ship AI agents like web apps, in minutes.",
+          "timestamp": "2026-06-24T13:30:02",
+          "url": "https://www.producthunt.com/products/tencent-edgeone-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: jebi",
+          "body": "A supercharged terminal for Mac with built-in local AI",
+          "timestamp": "2026-06-23T13:30:02",
+          "url": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Thumbmagic",
           "body": "AI thumbnail generator trained on top-performing thumbnails",
@@ -46,15 +100,6 @@
           "body": "Local AI Autocomplete in your voice, anywhere on your Mac",
           "timestamp": "2026-06-23T13:30:02",
           "url": "https://www.producthunt.com/products/cotypist",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: jebi",
-          "body": "A supercharged terminal for Mac with built-in local AI",
-          "timestamp": "2026-06-23T13:30:02",
-          "url": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -105,6 +150,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Buddy",
+          "body": "Bring Your ChatGPT to Figma for Free",
+          "timestamp": "2026-06-18T13:30:02",
+          "url": "https://www.producthunt.com/products/buddy-free-figma-agent",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Agentic videos by D-ID",
           "body": "Interactive videos that talk back",
           "timestamp": "2026-06-18T13:30:02",
@@ -148,81 +202,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Buddy",
-          "body": "Bring Your ChatGPT to Figma for Free",
-          "timestamp": "2026-06-18T13:30:02",
-          "url": "https://www.producthunt.com/products/buddy-free-figma-agent",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Docfarm",
-          "body": "Host, share, and track everything your AI builds",
-          "timestamp": "2026-06-17T13:30:02",
-          "url": "https://www.producthunt.com/products/docfarm",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Polygram Coding Agent",
-          "body": "AI-native coding assistant that helps developers in any IDE",
-          "timestamp": "2026-06-17T13:30:02",
-          "url": "https://www.producthunt.com/products/polygram-4",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Henji",
-          "body": "AI replies that are trained to sound like you",
-          "timestamp": "2026-06-17T13:30:02",
-          "url": "https://www.producthunt.com/products/henji",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: PaneFlow",
-          "body": "Let AI agents build real animated slideshows",
-          "timestamp": "2026-06-17T13:30:02",
-          "url": "https://www.producthunt.com/products/paneflow",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Wilson",
-          "body": "AI coworker in Slack that builds reports, work tools, + more.",
-          "timestamp": "2026-06-17T13:30:02",
-          "url": "https://www.producthunt.com/products/wilson-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: BrainFlow",
-          "body": "Turn your rambling thoughts into coherent notes",
-          "timestamp": "2026-06-17T13:30:02",
-          "url": "https://www.producthunt.com/products/brainflow-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Parano.ai",
-          "body": "Never miss a competitor's move",
-          "timestamp": "2026-06-17T13:30:02",
-          "url": "https://www.producthunt.com/products/parano-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 bullet points summarizing key developments in AI with insight, along with a trend:\n\n**Key Developments:**\n\n* **AI-powered thumbnail generation**: Thumbmagic, a new AI thumbnail generator, has been launched on Product Hunt. This tool is trained on top-performing thumbnails, making it easier for creators to generate eye-catching thumbnails.\n* **AI-powered terminal for Mac**: Jebi, a supercharged terminal for Mac, has been launched on Product Hunt. This tool features built-in local AI, allowing users to automate tasks and streamline their workflow.\n* **AI-powered noise suppression**: Hush, an open-source noise suppression tool, has been launched on Product Hunt. This tool is designed to improve the quality of voice AI agents by suppressing background noise.\n* **AI-powered video generation**: Agentic videos by D-ID, a new product on Product Hunt, allows users to create interactive videos that talk back. This technology has the potential to revolutionize the way we interact with video content.\n* **AI-powered productivity tools**: Several new productivity tools have been launched on Product Hunt, including Elvin, a proactive AI that finds and finishes work before users ask, and Polygram Coding Agent, an AI-native coding assistant that helps developers in any IDE.\n\n**Trend:**\n\n* **Growing demand for AI-powered productivity tools**: The recent launches on Product Hunt suggest a growing demand for AI-powered productivity tools that can automate tasks, streamline workflows, and improve overall productivity. This trend is likely to continue as more businesses and individuals look to leverage AI to boost their efficiency and effectiveness."
+  "summary": "Here are the key developments with insight:\n\n**Key Developments:**\n\n* **Launch of 14 new products**: Multiple products have been launched on Product Hunt, including AI-powered tools for search, memo-taking, app building, and more.\n* **Agentic coding**: Off Autopilot, a product that offers curated, human-written articles about agentic coding, has been launched on Product Hunt, suggesting a growing interest in AI-powered coding.\n* **AI workspace integration**: Several products, such as Nimt, Mindstone Rebel, and MeshPilot, aim to integrate AI into workspace tools, indicating a trend towards hybrid human-AI collaboration.\n* **Voice AI agents**: Products like Cotypist, Hush, and Labs AI offer voice AI agents, highlighting the growing importance of voice-activated interfaces.\n* **API integrations**: Zernio WhatsApp API and API to MCP aim to simplify the integration of AI agents with messaging and calling services.\n\n**Trend: Hybrid Human-AI Collaboration**\n\nThe trend emerging from these product launches is the increasing desire to integrate AI into human workflows, enabling hybrid collaboration and productivity. This is evident in products that aim to simplify AI agent integrations, provide AI-driven tools for tasks, and offer voice-activated interfaces. As AI technology improves, we expect to see more products that blur the lines between human and AI collaboration, leading to increased productivity and efficiency."
 }
