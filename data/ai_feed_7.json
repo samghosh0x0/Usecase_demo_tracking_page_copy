@@ -1,10 +1,100 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-06-26T06:13:13.156Z",
+  "timestamp": "2026-06-27T05:55:17.127Z",
   "categories": {
     "news": {
-      "count": 25,
+      "count": 30,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Mistral OCR 4",
+          "body": "Mistral's best document extraction and understanding model",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/mistral-7b",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Atlas",
+          "body": "Every AI tool you use should know how your company works.",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/nanonets",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: DMV by Agent Community",
+          "body": "A community-governed namespace for AI agents",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Agent Arena",
+          "body": "The first public arena for AI agents",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/agent-arena",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ModuleX",
+          "body": "AI workspace that’s already connected to everything",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/modulex",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: LockIn MCP",
+          "body": "Let AI block distractions for you when you need to lock in...",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/lockin-mcp",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: note.md",
+          "body": "your notes and research documentation now a local LLM Memory",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/note-md",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: SquidHub",
+          "body": "Multiplayer mode for humans and AI",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/squidhub",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Cewsco",
+          "body": "All-in-one AI assistant — chat, images, voice & market data",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/cewsco",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: BrowserAct",
+          "body": "Web browser automation for AI agents",
+          "timestamp": "2026-06-25T13:30:02",
+          "url": "https://www.producthunt.com/products/browseract",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Nashra",
           "body": "Email newsletter + Blogging & Landing Pages for Experts",
@@ -51,15 +141,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: BrowserAct",
-          "body": "Web browser automation for AI agents",
-          "timestamp": "2026-06-25T13:30:02",
-          "url": "https://www.producthunt.com/products/browseract",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: SendTidings",
           "body": "Turn your analytics into beautiful monthly email reports",
           "timestamp": "2026-06-25T13:30:02",
@@ -82,15 +163,6 @@
           "body": "Live AI teammate for every tough sales conversation",
           "timestamp": "2026-06-25T13:30:02",
           "url": "https://www.producthunt.com/products/tough-tongue-ai-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Crewdle AI",
-          "body": "Use every business AI tool without every subscription",
-          "timestamp": "2026-06-24T13:30:02",
-          "url": "https://www.producthunt.com/products/crewdle",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -123,10 +195,28 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Crewdle AI",
+          "body": "Use every business AI tool without every subscription",
+          "timestamp": "2026-06-24T13:30:02",
+          "url": "https://www.producthunt.com/products/crewdle",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Tencent EdgeOne Makers",
           "body": "Ship AI agents like web apps, in minutes.",
           "timestamp": "2026-06-24T13:30:02",
           "url": "https://www.producthunt.com/products/tencent-edgeone-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Hush",
+          "body": "Open-source noise suppression for voice AI agents",
+          "timestamp": "2026-06-23T13:30:02",
+          "url": "https://www.producthunt.com/products/hush-df34eafa-13f7-4d91-856f-162c2a9d81ee",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -184,54 +274,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Hush",
-          "body": "Open-source noise suppression for voice AI agents",
-          "timestamp": "2026-06-23T13:30:02",
-          "url": "https://www.producthunt.com/products/hush-df34eafa-13f7-4d91-856f-162c2a9d81ee",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: API to MCP",
-          "body": "Turn any API into an MCP server for AI agents",
-          "timestamp": "2026-06-19T13:30:02",
-          "url": "https://www.producthunt.com/products/api-to-mcp",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Upsolve AI",
-          "body": "Build grounded, governed, trustworthy data agents",
-          "timestamp": "2026-06-19T13:30:02",
-          "url": "https://www.producthunt.com/products/upsolve-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: MeshPilot",
-          "body": "Your AI workspace for terminals, tasks, and agents",
-          "timestamp": "2026-06-19T13:30:02",
-          "url": "https://www.producthunt.com/products/meshpilot",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Zernio WhatsApp API",
-          "body": "One API for WhatsApp: messaging, calling, and AI agents",
-          "timestamp": "2026-06-19T13:30:02",
-          "url": "https://www.producthunt.com/products/zernio",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **AI-powered tools for experts**: Nashra, a new product on Product Hunt, is an email newsletter and blogging platform designed specifically for experts, aiming to help them turn their followers into clients.\n* **Autonomous AI DJ**: Dub Ninja, another Product Hunt launch, is a live autonomous AI DJ that can dig, mix, and explain 24/7.\n* **Web browser automation**: BrowserBash, a CLI tool, can turn plain-English into real browser tests, while BrowserAct is a web browser automation tool for AI agents.\n* **AI workspace for agents**: Mindstone Rebel, a Product Hunt launch, is an AI workspace that knows your work and acts on it, offering a second brain for product management.\n* **AI thumbnail generator**: Thumbmagic, a Product Hunt launch, is an AI thumbnail generator trained on top-performing thumbnails.\n\n**Trend:**\n**Increased focus on AI-powered tools and platforms**: The surge in Product Hunt launches related to AI-powered tools and platforms suggests a growing trend of interest in leveraging AI to streamline and automate tasks, particularly in the areas of content creation, automation, and AI workspace management. This trend is expected to continue as AI technology advances and becomes more accessible to developers and businesses."
+  "summary": "**Key Developments in AI and Productivity Tools:**\n\n* **Document extraction and understanding**: Mistral OCR 4 has been launched, providing a best-in-class document extraction and understanding model.\n* **AI-assisted workflow management**: Atlas has been introduced, aiming to help users manage their workflows more efficiently by providing AI-powered insights and tools.\n* **AI-powered browser automation**: BrowserAct has been launched, enabling users to automate tasks in their web browser using AI agents.\n* **AI-based business operations management**: Brain² by ClickUp has been released, offering an AI that knows a company's entire workflow and can act on it.\n* **Intelligent AI Search**: Nimt has been launched, providing an AI search coworker in Slack that assists users in finding relevant information.\n* **Content creation and management**: A number of new tools have been introduced to help users with content creation, including Nashra for email newsletter and blog management, and Jotform AI App Builder for turning ideas into apps.\n\n**Trend:** The AI and productivity market is witnessing a trend of **increased focus on workflow automation and optimization**, with several tools emerging that aim to leverage AI to streamline and enhance business operations, workflow management, and content creation processes."
 }
