@@ -1,24 +1,60 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-06-30T06:14:24.974Z",
+  "timestamp": "2026-07-01T06:35:50.795Z",
   "categories": {
     "news": {
-      "count": 39,
+      "count": 38,
       "items": [
         {
-          "subject": "Product Hunt Launch: PMB",
-          "body": "Stop re-explaining your project to AI coding agents",
-          "timestamp": "2026-06-29T13:30:02",
-          "url": "https://www.producthunt.com/products/pmb-local-first-memory-for-ai",
+          "subject": "Product Hunt Launch: Akiflow - The Time Blocking App",
+          "body": "Use it with Claude, ChatGPT and more!",
+          "timestamp": "2026-06-30T13:30:02",
+          "url": "https://www.producthunt.com/products/akiflow",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Receiptor AI — Agent Mode",
-          "body": "Bookkeeping that keeps itself",
-          "timestamp": "2026-06-29T13:30:02",
-          "url": "https://www.producthunt.com/products/receiptor-ai",
+          "subject": "Product Hunt Launch: Clade",
+          "body": "AI COO that runs your team in tools you already use.",
+          "timestamp": "2026-06-30T13:30:02",
+          "url": "https://www.producthunt.com/products/cleo-4",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Foresight by Lightning Rod",
+          "body": "Predict anything with AI",
+          "timestamp": "2026-06-30T13:30:02",
+          "url": "https://www.producthunt.com/products/training-data-generator",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Skills Marketplace by Databox",
+          "body": "Ready-made AI analytics skills for your business data",
+          "timestamp": "2026-06-30T13:30:02",
+          "url": "https://www.producthunt.com/products/databox",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Load Nova",
+          "body": "Dispatchers AI Co-Pilot and Dashboard that care about speed",
+          "timestamp": "2026-06-30T13:30:02",
+          "url": "https://www.producthunt.com/products/load-nova",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Supafax",
+          "body": "Email-native assistant that learns how you work",
+          "timestamp": "2026-06-30T13:30:02",
+          "url": "https://www.producthunt.com/products/supafax",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -33,10 +69,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Intelli",
-          "body": "Convert leads into customers with AI conversations",
+          "subject": "Product Hunt Launch: VisibAI",
+          "body": "Are you in AI answers? Find out and fix it in minutes...",
           "timestamp": "2026-06-29T13:30:02",
-          "url": "https://www.producthunt.com/products/intelli",
+          "url": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -51,10 +87,28 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: VisibAI",
-          "body": "Are you in AI answers? Find out and fix it in minutes...",
+          "subject": "Product Hunt Launch: Intelli",
+          "body": "Convert leads into customers with AI conversations",
           "timestamp": "2026-06-29T13:30:02",
-          "url": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool",
+          "url": "https://www.producthunt.com/products/intelli",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Receiptor AI — Agent Mode",
+          "body": "Bookkeeping that keeps itself",
+          "timestamp": "2026-06-29T13:30:02",
+          "url": "https://www.producthunt.com/products/receiptor-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: PMB",
+          "body": "Stop re-explaining your project to AI coding agents",
+          "timestamp": "2026-06-29T13:30:02",
+          "url": "https://www.producthunt.com/products/pmb-local-first-memory-for-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -87,6 +141,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Agent Arena",
+          "body": "The first public arena for AI agents",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/agent-arena",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Mistral OCR 4",
           "body": "Mistral's best document extraction and understanding model",
           "timestamp": "2026-06-26T13:30:02",
@@ -96,55 +159,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Cewsco",
-          "body": "All-in-one AI assistant — chat, images, voice & market data",
+          "subject": "Product Hunt Launch: Atlas",
+          "body": "Every AI tool you use should know how your company works.",
           "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/cewsco",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SquidHub",
-          "body": "Multiplayer mode for humans and AI",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/squidhub",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: note.md",
-          "body": "your notes and research documentation now a local LLM Memory",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/note-md",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: LockIn MCP",
-          "body": "Let AI block distractions for you when you need to lock in...",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/lockin-mcp",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ModuleX",
-          "body": "AI workspace that’s already connected to everything",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/modulex",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Agent Arena",
-          "body": "The first public arena for AI agents",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/agent-arena",
+          "url": "https://www.producthunt.com/products/nanonets",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -159,10 +177,109 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Atlas",
-          "body": "Every AI tool you use should know how your company works.",
+          "subject": "Product Hunt Launch: ModuleX",
+          "body": "AI workspace that’s already connected to everything",
           "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/nanonets",
+          "url": "https://www.producthunt.com/products/modulex",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: LockIn MCP",
+          "body": "Let AI block distractions for you when you need to lock in...",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/lockin-mcp",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: note.md",
+          "body": "your notes and research documentation now a local LLM Memory",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/note-md",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: SquidHub",
+          "body": "Multiplayer mode for humans and AI",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/squidhub",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Cewsco",
+          "body": "All-in-one AI assistant — chat, images, voice & market data",
+          "timestamp": "2026-06-26T13:30:02",
+          "url": "https://www.producthunt.com/products/cewsco",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Brain² by ClickUp",
+          "body": "One AI that knows your entire company and acts on it.",
+          "timestamp": "2026-06-25T13:30:02",
+          "url": "https://www.producthunt.com/products/clickup",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tough Tongue AI for Sales",
+          "body": "Live AI teammate for every tough sales conversation",
+          "timestamp": "2026-06-25T13:30:02",
+          "url": "https://www.producthunt.com/products/tough-tongue-ai-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Oxlo.ai",
+          "body": "Scale across AI models without scaling your bill",
+          "timestamp": "2026-06-25T13:30:02",
+          "url": "https://www.producthunt.com/products/oxlo-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: SendTidings",
+          "body": "Turn your analytics into beautiful monthly email reports",
+          "timestamp": "2026-06-25T13:30:02",
+          "url": "https://www.producthunt.com/products/sendtidings",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: BrowserAct",
+          "body": "Web browser automation for AI agents",
+          "timestamp": "2026-06-25T13:30:02",
+          "url": "https://www.producthunt.com/products/browseract",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Samepage Signals",
+          "body": "Your second brain for product management",
+          "timestamp": "2026-06-25T13:30:02",
+          "url": "https://www.producthunt.com/products/samepage-signals",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: BrowserBash",
+          "body": "CLI that turns plain-English into real browser tests",
+          "timestamp": "2026-06-25T13:30:02",
+          "url": "https://www.producthunt.com/products/browserbash",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -186,100 +303,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: BrowserBash",
-          "body": "CLI that turns plain-English into real browser tests",
-          "timestamp": "2026-06-25T13:30:02",
-          "url": "https://www.producthunt.com/products/browserbash",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Brain² by ClickUp",
-          "body": "One AI that knows your entire company and acts on it.",
-          "timestamp": "2026-06-25T13:30:02",
-          "url": "https://www.producthunt.com/products/clickup",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Samepage Signals",
-          "body": "Your second brain for product management",
-          "timestamp": "2026-06-25T13:30:02",
-          "url": "https://www.producthunt.com/products/samepage-signals",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: BrowserAct",
-          "body": "Web browser automation for AI agents",
-          "timestamp": "2026-06-25T13:30:02",
-          "url": "https://www.producthunt.com/products/browseract",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SendTidings",
-          "body": "Turn your analytics into beautiful monthly email reports",
-          "timestamp": "2026-06-25T13:30:02",
-          "url": "https://www.producthunt.com/products/sendtidings",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Oxlo.ai",
-          "body": "Scale across AI models without scaling your bill",
-          "timestamp": "2026-06-25T13:30:02",
-          "url": "https://www.producthunt.com/products/oxlo-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tough Tongue AI for Sales",
-          "body": "Live AI teammate for every tough sales conversation",
-          "timestamp": "2026-06-25T13:30:02",
-          "url": "https://www.producthunt.com/products/tough-tongue-ai-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Nimt",
-          "body": "Your AI Search Coworker in Slack",
-          "timestamp": "2026-06-24T13:30:02",
-          "url": "https://www.producthunt.com/products/nimt-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Tencent EdgeOne Makers",
           "body": "Ship AI agents like web apps, in minutes.",
           "timestamp": "2026-06-24T13:30:02",
           "url": "https://www.producthunt.com/products/tencent-edgeone-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Crewdle AI",
-          "body": "Use every business AI tool without every subscription",
-          "timestamp": "2026-06-24T13:30:02",
-          "url": "https://www.producthunt.com/products/crewdle",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Mindstone Rebel",
-          "body": "AI workspace for agents that know your work and ask first",
-          "timestamp": "2026-06-24T13:30:02",
-          "url": "https://www.producthunt.com/products/mindstone-rebel",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -294,64 +321,28 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Hush",
-          "body": "Open-source noise suppression for voice AI agents",
-          "timestamp": "2026-06-23T13:30:02",
-          "url": "https://www.producthunt.com/products/hush-df34eafa-13f7-4d91-856f-162c2a9d81ee",
+          "subject": "Product Hunt Launch: Nimt",
+          "body": "Your AI Search Coworker in Slack",
+          "timestamp": "2026-06-24T13:30:02",
+          "url": "https://www.producthunt.com/products/nimt-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Thumbmagic",
-          "body": "AI thumbnail generator trained on top-performing thumbnails",
-          "timestamp": "2026-06-23T13:30:02",
-          "url": "https://www.producthunt.com/products/thumbmagic-3",
+          "subject": "Product Hunt Launch: Mindstone Rebel",
+          "body": "AI workspace for agents that know your work and ask first",
+          "timestamp": "2026-06-24T13:30:02",
+          "url": "https://www.producthunt.com/products/mindstone-rebel",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: BestDefense.io",
-          "body": "Pentest and patch every deploy with AI",
-          "timestamp": "2026-06-23T13:30:02",
-          "url": "https://www.producthunt.com/products/bestdefense-io",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Buddy AI Note",
-          "body": "Your daily memo that turns notes into a plan",
-          "timestamp": "2026-06-23T13:30:02",
-          "url": "https://www.producthunt.com/products/buddy-ai-note",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Jotform AI App Builder",
-          "body": "Turn ideas into powerful apps within seconds",
-          "timestamp": "2026-06-23T13:30:02",
-          "url": "https://www.producthunt.com/products/jotform",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Cotypist",
-          "body": "Local AI Autocomplete in your voice, anywhere on your Mac",
-          "timestamp": "2026-06-23T13:30:02",
-          "url": "https://www.producthunt.com/products/cotypist",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: jebi",
-          "body": "A supercharged terminal for Mac with built-in local AI",
-          "timestamp": "2026-06-23T13:30:02",
-          "url": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
+          "subject": "Product Hunt Launch: Crewdle AI",
+          "body": "Use every business AI tool without every subscription",
+          "timestamp": "2026-06-24T13:30:02",
+          "url": "https://www.producthunt.com/products/crewdle",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -359,5 +350,5 @@
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **AI expansion into various industries**: Several new AI products and tools were launched, targeting specific industries such as marketing (e.g., Outpaint.com, Intelli), sales (e.g., Tough Tongue AI for Sales), and productivity (e.g., Samepage Signals).\n* **Integration with existing tools**: Some AI products aim to integrate with existing tools, making AI capabilities more accessible to a broader user base (e.g., BrowserAct, Jotform AI App Builder).\n* **AI agent capabilities**: New AI agents and tools were launched, enabling users to interact with AI in various ways, such as chatting (e.g., Lyto), voice assistance (e.g., Dub Ninja), and image generation (e.g., Thumbmagic).\n* **Real-time analytics**: AI-powered tools, like SendTidings, aim to enhance analytics and reporting, providing users with more actionable insights from their data.\n* **Security and AI**: BestDefense.io was launched, offering AI-powered pentesting and patching capabilities to enhance cybersecurity.\n* **Accessibility and usability**: Cotypist and Jebi aim to improve user experience by incorporating local AI autocomplete and a supercharged terminal with built-in AI assistance, respectively.\n\n**Trend:**\n\n* **Rise of Agent-based AI**: Many of the launched products and tools focus on AI agents, indicating a growing trend towards developing and utilizing AI agents to interact with users, automate tasks, and provide personalized assistance."
+  "summary": "Here are the key developments and trends:\n\n**Key Developments:**\n\n• **Launch of new AI tools and platforms**: Several new AI-powered tools and platforms have been launched, including Akiflow, Clade, Foresight by Lightning Rod, Skills Marketplace, Load Nova, Supafax, and many others. These tools cater to various industries, including marketing, sales, customer support, and productivity.\n\n• **Expansion of AI-powered analytics and automation capabilities**: Many of the launched tools offer advanced analytics and automation capabilities, such as data analysis, customer support, and ad automation. For example, Supafax is an email-native assistant that learns how you work, while Samepage Signals offers product management tools with AI-powered insights.\n\n• **Increased focus on AI agent integration**: Several tools, like Clade, Lyto, and Agent Arena, focus on integrating AI agents into various platforms and workflows, allowing humans and AI to collaborate more efficiently.\n\n• **Improved AI model availability and accessibility**: Tools like discode.ai offer access to multiple AI models through a single interface, and Oxlo.ai enables scaling across AI models without increasing costs.\n\n**Trend:**\n\n**Rise of General-Purpose AI Agents**: The trend in the recent AI launches is the emergence of general-purpose AI agents that can be integrated into various tools and platforms, offering more flexibility and accessibility to AI capabilities. These agents can automate tasks, provide insights, and learn from user interactions, making them a game-changer for businesses and individuals alike. This trend is indicative of the growing importance of AI in various industries and workflows, and the need for tools that can facilitate seamless AI-human collaboration."
 }
