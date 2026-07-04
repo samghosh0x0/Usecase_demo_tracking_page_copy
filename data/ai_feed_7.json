@@ -1,10 +1,37 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-07-03T05:55:42.338Z",
+  "timestamp": "2026-07-04T05:48:35.225Z",
   "categories": {
     "news": {
-      "count": 37,
+      "count": 31,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Vox",
+          "body": "Talk to GitHub Copilot out loud",
+          "timestamp": "2026-07-03T13:30:02",
+          "url": "https://www.producthunt.com/products/vox-5",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Osloq",
+          "body": "An AI agent that reproduces GitHub issues for you",
+          "timestamp": "2026-07-03T13:30:02",
+          "url": "https://www.producthunt.com/products/osloq",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Glaze by Raycast",
+          "body": "Create your own Mac apps by chatting with AI",
+          "timestamp": "2026-07-03T13:30:02",
+          "url": "https://www.producthunt.com/products/glaze-4",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: PieterPost MCP",
           "body": "Connect your AI agent to postal mail",
@@ -42,73 +69,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Folderly Lens",
-          "body": "Domain health analysis for high performance email campaigns",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/folderly",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: RunInfra",
           "body": "Describe the AI model you need and get an optimized AI.",
           "timestamp": "2026-07-01T13:30:02",
           "url": "https://www.producthunt.com/products/runinfra",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: MailAdept by mailwarm",
-          "body": "AI Agents & Email deliverability experts on your team",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Humalike",
-          "body": "Give your AI agents the social intelligence they're missing",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/humalike-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: OASIS 1 Ring",
-          "body": "Whisper to write. Touch to edit.",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/oasis-ring",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tabstack Browser Automation",
-          "body": "Automate the web in your app or agent, no browser to host...",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/tabstack",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Acti",
-          "body": "Agentic keyboard for mobile commands and search",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/acti-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: N71",
-          "body": "Give all your AI agents one shared context",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/n71",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -123,10 +87,64 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Supafax",
-          "body": "Email-native assistant that learns how you work",
-          "timestamp": "2026-06-30T13:30:02",
-          "url": "https://www.producthunt.com/products/supafax",
+          "subject": "Product Hunt Launch: N71",
+          "body": "Give all your AI agents one shared context",
+          "timestamp": "2026-07-01T13:30:02",
+          "url": "https://www.producthunt.com/products/n71",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Acti",
+          "body": "Agentic keyboard for mobile commands and search",
+          "timestamp": "2026-07-01T13:30:02",
+          "url": "https://www.producthunt.com/products/acti-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tabstack Browser Automation",
+          "body": "Automate the web in your app or agent, no browser to host...",
+          "timestamp": "2026-07-01T13:30:02",
+          "url": "https://www.producthunt.com/products/tabstack",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Folderly Lens",
+          "body": "Domain health analysis for high performance email campaigns",
+          "timestamp": "2026-07-01T13:30:02",
+          "url": "https://www.producthunt.com/products/folderly",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: OASIS 1 Ring",
+          "body": "Whisper to write. Touch to edit.",
+          "timestamp": "2026-07-01T13:30:02",
+          "url": "https://www.producthunt.com/products/oasis-ring",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Humalike",
+          "body": "Give your AI agents the social intelligence they're missing",
+          "timestamp": "2026-07-01T13:30:02",
+          "url": "https://www.producthunt.com/products/humalike-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: MailAdept by mailwarm",
+          "body": "AI Agents & Email deliverability experts on your team",
+          "timestamp": "2026-07-01T13:30:02",
+          "url": "https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -172,6 +190,15 @@
           "body": "Dispatchers AI Co-Pilot and Dashboard that care about speed",
           "timestamp": "2026-06-30T13:30:02",
           "url": "https://www.producthunt.com/products/load-nova",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Supafax",
+          "body": "Email-native assistant that learns how you work",
+          "timestamp": "2026-06-30T13:30:02",
+          "url": "https://www.producthunt.com/products/supafax",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -240,15 +267,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Persona.js",
-          "body": "Add WebMCP-native AI chat to any Frontend",
-          "timestamp": "2026-06-28T13:30:02",
-          "url": "https://www.producthunt.com/products/persona-12",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Lyto",
           "body": "One AI agent across your browser, tools, and messages",
           "timestamp": "2026-06-28T13:30:02",
@@ -258,82 +276,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Cewsco",
-          "body": "All-in-one AI assistant — chat, images, voice & market data",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/cewsco",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Mistral OCR 4",
-          "body": "Mistral's best document extraction and understanding model",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/mistral-7b",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Atlas",
-          "body": "Every AI tool you use should know how your company works.",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/nanonets",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: DMV by Agent Community",
-          "body": "A community-governed namespace for AI agents",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Agent Arena",
-          "body": "The first public arena for AI agents",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/agent-arena",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ModuleX",
-          "body": "AI workspace that’s already connected to everything",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/modulex",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: LockIn MCP",
-          "body": "Let AI block distractions for you when you need to lock in...",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/lockin-mcp",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: note.md",
-          "body": "your notes and research documentation now a local LLM Memory",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/note-md",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SquidHub",
-          "body": "Multiplayer mode for humans and AI",
-          "timestamp": "2026-06-26T13:30:02",
-          "url": "https://www.producthunt.com/products/squidhub",
+          "subject": "Product Hunt Launch: Persona.js",
+          "body": "Add WebMCP-native AI chat to any Frontend",
+          "timestamp": "2026-06-28T13:30:02",
+          "url": "https://www.producthunt.com/products/persona-12",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -341,5 +287,5 @@
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **Product Hunt Launches:** 37 new AI-related products have been launched on Product Hunt, showcasing innovative solutions for AI development, deployment, and integration.\n* **AI Agent Integration:** Several products, such as PieterPost MCP, MailAdept, and Humalike, focus on connecting AI agents with postal mail, email, and social intelligence, highlighting the growing need for seamless AI-human interactions.\n* **Debugging and Optimization:** Retrace and RunInfra are tools that aim to improve AI model performance by debugging and optimizing AI runs, respectively, underlining the importance of effective AI model management.\n* **Domain Health Analysis:** Folderly Lens and VisibAI offer domain health analysis and AI visibility audit tools, respectively, to help businesses optimize their online presence and AI-driven marketing strategies.\n* **AI Model Optimization:** discode.ai and OASIS 1 Ring enable users to optimize AI models and interact with them in a more intuitive way, demonstrating the growing need for AI model customization and flexibility.\n* **AI Adoption and Upskilling:** Solaris, a company's AI adoption and upskilling platform, aims to help businesses leverage AI effectively, underscoring the importance of AI education and training in the workforce.\n\n**Trend:** **Integration and Interoperability** - The recent product launches on Product Hunt highlight the increasing focus on integrating AI with various aspects of business operations, such as postal mail, email, social intelligence, and online presence. This trend suggests that companies are seeking to unlock the full potential of AI by making it more accessible, intuitive, and seamlessly integrated with existing systems and processes."
+  "summary": "Here are the key developments with insight:\n\n**Key Developments:**\n\n* **AI Agents on Wild Growth Run**: Multiple AI agents have been launched on Product Hunt, showcasing the rapid growth and adoption of AI technology. These agents demonstrate various use cases, from automation and productivity to creative and marketing applications.\n* **GitHub Copilot Receives a Companion**: Vox, a product launched on Product Hunt, allows users to talk to GitHub Copilot out loud, further integrating AI-powered coding assistants with natural language.\n* **Expansion of AI-Driven Productivity Tools**: Applications like Retrace, a debugging tool for AI agents, and RunInfra, an AI model optimizer, highlight the increasing focus on productivity and efficiency in the AI space.\n* **Newborn Platforms for AI-Driven Revenue Growth**: Products like Intelli, which converts leads into customers with AI-powered conversations, and Sami, an ad automation platform, indicate growing interest in using AI to generate revenue and stimulate growth.\n* **Advanced Interconnectivity for AI Systems**: Launches like Lyto, a single AI agent across multiple tools and platforms, and Person.js, which adds AI chat to any frontend, showcase the rising need for seamless AI interconnectivity and interoperability.\n\n**Trend:**\n\n* **Rise of AI as a Catalyst for Innovation in Productivity and Revenue Growth**: The recent spate of AI-related product launches underscores the crucial role AI is playing in fueling innovation, increasing productivity, and stimulating revenue growth across various sectors."
 }
