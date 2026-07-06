@@ -1,9 +1,9 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-07-05T06:07:26.147Z",
+  "timestamp": "2026-07-06T06:38:49.934Z",
   "categories": {
     "news": {
-      "count": 36,
+      "count": 33,
       "items": [
         {
           "subject": "Product Hunt Launch: Termi Protocol",
@@ -51,10 +51,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Vox",
-          "body": "Talk to GitHub Copilot out loud",
+          "subject": "Product Hunt Launch: Glaze by Raycast",
+          "body": "Create your own Mac apps by chatting with AI",
           "timestamp": "2026-07-03T13:30:02",
-          "url": "https://www.producthunt.com/products/vox-5",
+          "url": "https://www.producthunt.com/products/glaze-4",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -69,10 +69,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Glaze by Raycast",
-          "body": "Create your own Mac apps by chatting with AI",
+          "subject": "Product Hunt Launch: Vox",
+          "body": "Talk to GitHub Copilot out loud",
           "timestamp": "2026-07-03T13:30:02",
-          "url": "https://www.producthunt.com/products/glaze-4",
+          "url": "https://www.producthunt.com/products/vox-5",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -87,10 +87,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Macuse",
-          "body": "Give Your AI Superpowers on macOS",
+          "subject": "Product Hunt Launch: Retrace",
+          "body": "Debug AI agents by replaying and forking runs",
           "timestamp": "2026-07-02T13:30:02",
-          "url": "https://www.producthunt.com/products/macuse",
+          "url": "https://www.producthunt.com/products/retrace-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -105,19 +105,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Retrace",
-          "body": "Debug AI agents by replaying and forking runs",
+          "subject": "Product Hunt Launch: Macuse",
+          "body": "Give Your AI Superpowers on macOS",
           "timestamp": "2026-07-02T13:30:02",
-          "url": "https://www.producthunt.com/products/retrace-2",
+          "url": "https://www.producthunt.com/products/macuse",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: OASIS 1 Ring",
-          "body": "Whisper to write. Touch to edit.",
+          "subject": "Product Hunt Launch: Folderly Lens",
+          "body": "Domain health analysis for high performance email campaigns",
           "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/oasis-ring",
+          "url": "https://www.producthunt.com/products/folderly",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -159,10 +159,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Folderly Lens",
-          "body": "Domain health analysis for high performance email campaigns",
+          "subject": "Product Hunt Launch: OASIS 1 Ring",
+          "body": "Whisper to write. Touch to edit.",
           "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/folderly",
+          "url": "https://www.producthunt.com/products/oasis-ring",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -195,37 +195,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Supafax",
-          "body": "Email-native assistant that learns how you work",
+          "subject": "Product Hunt Launch: Akiflow - The Time Blocking App",
+          "body": "Use it with Claude, ChatGPT and more!",
           "timestamp": "2026-06-30T13:30:02",
-          "url": "https://www.producthunt.com/products/supafax",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Load Nova",
-          "body": "Dispatchers AI Co-Pilot and Dashboard that care about speed",
-          "timestamp": "2026-06-30T13:30:02",
-          "url": "https://www.producthunt.com/products/load-nova",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Skills Marketplace by Databox",
-          "body": "Ready-made AI analytics skills for your business data",
-          "timestamp": "2026-06-30T13:30:02",
-          "url": "https://www.producthunt.com/products/databox",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Foresight by Lightning Rod",
-          "body": "Predict anything with AI",
-          "timestamp": "2026-06-30T13:30:02",
-          "url": "https://www.producthunt.com/products/training-data-generator",
+          "url": "https://www.producthunt.com/products/akiflow",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -240,10 +213,46 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Akiflow - The Time Blocking App",
-          "body": "Use it with Claude, ChatGPT and more!",
+          "subject": "Product Hunt Launch: Foresight by Lightning Rod",
+          "body": "Predict anything with AI",
           "timestamp": "2026-06-30T13:30:02",
-          "url": "https://www.producthunt.com/products/akiflow",
+          "url": "https://www.producthunt.com/products/training-data-generator",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Skills Marketplace by Databox",
+          "body": "Ready-made AI analytics skills for your business data",
+          "timestamp": "2026-06-30T13:30:02",
+          "url": "https://www.producthunt.com/products/databox",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Load Nova",
+          "body": "Dispatchers AI Co-Pilot and Dashboard that care about speed",
+          "timestamp": "2026-06-30T13:30:02",
+          "url": "https://www.producthunt.com/products/load-nova",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Supafax",
+          "body": "Email-native assistant that learns how you work",
+          "timestamp": "2026-06-30T13:30:02",
+          "url": "https://www.producthunt.com/products/supafax",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: VisibAI",
+          "body": "Are you in AI answers? Find out and fix it in minutes...",
+          "timestamp": "2026-06-29T13:30:02",
+          "url": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -292,45 +301,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: VisibAI",
-          "body": "Are you in AI answers? Find out and fix it in minutes...",
-          "timestamp": "2026-06-29T13:30:02",
-          "url": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: discode.ai",
-          "body": "100+ AI models, one interface. You set the rhythm.",
-          "timestamp": "2026-06-28T13:30:02",
-          "url": "https://www.producthunt.com/products/discode-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Lyto",
-          "body": "One AI agent across your browser, tools, and messages",
-          "timestamp": "2026-06-28T13:30:02",
-          "url": "https://www.producthunt.com/products/lyto",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Persona.js",
-          "body": "Add WebMCP-native AI chat to any Frontend",
-          "timestamp": "2026-06-28T13:30:02",
-          "url": "https://www.producthunt.com/products/persona-12",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 key points and 1 trend from the product launches in the AI space:\n\n**Key Points:**\n\n* **AI Coding Agents**: Several products were launched that allow users to interact with AI coding agents, such as Termi Protocol, Glaze by Raycast, and Macuse, which enable users to build, live in 3D, create their own Mac apps, or give their AI agents superpowers.\n* **Productivity Tools**: A range of productivity tools were launched, including ChecklistFox (AI checklist maker), Retrace (debug AI agents), and Skills Marketplace by Databox (ready-made AI analytics skills), designed to make workflow more efficient.\n* **AI Adoption and Up Skills**: Products like Solaris offer AI adoption and up-skilling platform for companies, helping them implement AI solutions.\n* **Social Intelligence for AI**: Humalike aims to give AI agents social intelligence, while MailAdept by mailwarm offers AI agents and email deliverability experts.\n* **Robot Assistant**: Products like Akiflow - The Time Blocking App integrates with AI tools like Claude and ChatGPT.\n* **Business Automation**: Numerous products were launched for business automation, including Sami (ad automation and budget control) and Intelli (converts leads into customers with AI conversations).\n\n**Trend:**\nThe trend in these product launches is towards more **Intelligent Assistants** and **Automation**, aimed at making work more efficient, productive, and streamlined. These products are designed to work in conjunction with AI and other automation tools to amplify human capabilities, rather than replace them."
+  "summary": "Here are 6 key developments with insight, 1 trend, and summary:\n\n**Key Developments:**\n\n* **Termi Protocol and Glaze by Raycast**: These two products offer 3D building and app creation capabilities using AI, showcasing the growing trend of leveraging AI for creative and interactive building processes.\n* **Akiflow - The Time Blocking App**: This app integrates with popular AI models such as Claude and ChatGPT, demonstrating the increasing importance of AI-powered productivity tools.\n* **Fold, N71, and Humalike**: These products focus on shared context, agency, and social intelligence for AI agents, highlighting the need for more advanced AI capabilities and collaboration.\n* **CLMN Products Launch**: Many CLMN products focus on autonomous agents, automation, and meta-automation, suggesting a growing interest in streamlined, automated work processes.\n* **PMB and Load Nova**: These products aim to simplify communication and collaboration between humans and AI coding agents, prioritizing ease of use and efficiency.\n* **Intelli**: This product converts leads into customers with AI-powered conversations, showcasing the potential of AI in customer acquisition and conversion.\n\n**Trend: AI Agency and Automation**\n\nThe products listed highlight a trend towards leveraging AI for agency, automation, and specialized capabilities. Many new products focus on using AI to streamline work processes, improve productivity, and enhance collaboration. Others aim to simplify communication and efficiency between humans and AI agents. This trend is driving the development of new tools and services that integrate AI capabilities with practical applications.\n\n**Summary:** The past few days saw numerous AI-powered product launches that showcase the growing importance of agency, automation, and streamlined work processes. The trend of leveraging AI for creative and interactive building processes, integrated productivity tools, shared context, and agency is becoming increasingly prominent."
 }
