@@ -1,10 +1,91 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-07-08T05:23:51.908Z",
+  "timestamp": "2026-07-10T06:06:43.660Z",
   "categories": {
     "news": {
-      "count": 28,
+      "count": 23,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Just Ask by SEORCE",
+          "body": "Talk to your SEO & AI Visibility data on WhatsApp",
+          "timestamp": "2026-07-09T13:30:02",
+          "url": "https://www.producthunt.com/products/seorce",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Opper AI",
+          "body": "The european AI gateway for agents",
+          "timestamp": "2026-07-09T13:30:02",
+          "url": "https://www.producthunt.com/products/opper-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Auriko",
+          "body": "Trading desk for LLM calls",
+          "timestamp": "2026-07-09T13:30:02",
+          "url": "https://www.producthunt.com/products/auriko",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Timbal AI",
+          "body": "Build AI agents, workflows, and apps in one stack",
+          "timestamp": "2026-07-09T13:30:02",
+          "url": "https://www.producthunt.com/products/timbal-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Perfai Security",
+          "body": "Find & fix live vulnerabilities in Vibe Apps with 1-prompt",
+          "timestamp": "2026-07-09T13:30:02",
+          "url": "https://www.producthunt.com/products/perfai-security-for-vibe-coded-apps",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Aura: Agents + Git + Intent IDE",
+          "body": "The IDE for controlling AI coding agents with built in loops.",
+          "timestamp": "2026-07-09T13:30:02",
+          "url": "https://www.producthunt.com/products/aura-28",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tasks.txt",
+          "body": "Plain text task manager for macOS",
+          "timestamp": "2026-07-09T13:30:02",
+          "url": "https://www.producthunt.com/products/tasks-txt",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Bono AI",
+          "body": "Talk Once. Publish Everywhere.",
+          "timestamp": "2026-07-08T13:30:02",
+          "url": "https://www.producthunt.com/products/bono-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Ogment AI",
+          "body": "Your AI coworker, in Slack. Just tag @O.",
+          "timestamp": "2026-07-07T13:30:02",
+          "url": "https://www.producthunt.com/products/ogment-mcp-builder",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: AI Emaily",
           "body": "Your AI inbox that writes like you + replies on autopilot.",
@@ -28,15 +109,6 @@
           "body": "AI moderated interviews that read how people feel",
           "timestamp": "2026-07-07T13:30:02",
           "url": "https://www.producthunt.com/products/mira-the-ai-moderator",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ogment AI",
-          "body": "Your AI coworker, in Slack. Just tag @O.",
-          "timestamp": "2026-07-07T13:30:02",
-          "url": "https://www.producthunt.com/products/ogment-mcp-builder",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -114,10 +186,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Osloq",
-          "body": "An AI agent that reproduces GitHub issues for you",
+          "subject": "Product Hunt Launch: Glaze by Raycast",
+          "body": "Create your own Mac apps by chatting with AI",
           "timestamp": "2026-07-03T13:30:02",
-          "url": "https://www.producthunt.com/products/osloq",
+          "url": "https://www.producthunt.com/products/glaze-4",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -132,127 +204,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Glaze by Raycast",
-          "body": "Create your own Mac apps by chatting with AI",
+          "subject": "Product Hunt Launch: Osloq",
+          "body": "An AI agent that reproduces GitHub issues for you",
           "timestamp": "2026-07-03T13:30:02",
-          "url": "https://www.producthunt.com/products/glaze-4",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: PieterPost MCP",
-          "body": "Connect your AI agent to postal mail",
-          "timestamp": "2026-07-02T13:30:02",
-          "url": "https://www.producthunt.com/products/pieter-post",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Retrace",
-          "body": "Debug AI agents by replaying and forking runs",
-          "timestamp": "2026-07-02T13:30:02",
-          "url": "https://www.producthunt.com/products/retrace-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Solaris",
-          "body": "Your company’s AI adoption and upskilling platform",
-          "timestamp": "2026-07-02T13:30:02",
-          "url": "https://www.producthunt.com/products/build-club",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Macuse",
-          "body": "Give Your AI Superpowers on macOS",
-          "timestamp": "2026-07-02T13:30:02",
-          "url": "https://www.producthunt.com/products/macuse",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: RunInfra",
-          "body": "Describe the AI model you need and get an optimized AI.",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/runinfra",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Modelence Mobile Builder",
-          "body": "Build mobile apps by chatting with AI",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/modelence-app-builder",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: N71",
-          "body": "Give all your AI agents one shared context",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/n71",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Acti",
-          "body": "Agentic keyboard for mobile commands and search",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/acti-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tabstack Browser Automation",
-          "body": "Automate the web in your app or agent, no browser to host...",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/tabstack",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Folderly Lens",
-          "body": "Domain health analysis for high performance email campaigns",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/folderly",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: OASIS 1 Ring",
-          "body": "Whisper to write. Touch to edit.",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/oasis-ring",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Humalike",
-          "body": "Give your AI agents the social intelligence they're missing",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/humalike-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: MailAdept by mailwarm",
-          "body": "AI Agents & Email deliverability experts on your team",
-          "timestamp": "2026-07-01T13:30:02",
-          "url": "https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20",
+          "url": "https://www.producthunt.com/products/osloq",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -260,5 +215,5 @@
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n**Key Developments:**\n\n* **AI-powered productivity tools**: Multiple products were launched on Product Hunt that aim to enhance productivity using AI, such as AI Emaily (AI inbox), Scribble Network (AI-recommended brand), and Katalyst (AI agent for Salesforce pipeline).\n* **AI-powered communication tools**: Products like Ellis (AI Notes for In-Person Meetings), Badge (AI agents for peer reviews), and Acti (agentic keyboard for mobile commands and search) were launched to improve communication and collaboration.\n* **AI-powered automation tools**: Tools like Tabstack Browser Automation, Retrace (debugging AI agents), and RunInfra (optimized AI model) were launched to automate tasks and improve AI model performance.\n* **AI-powered learning and upskilling platforms**: Solaris, a company's AI adoption and upskilling platform, was launched to help organizations adopt and upskill their employees in AI.\n* **AI-powered creativity and innovation tools**: Products like Modelence Mobile Builder, Glaze by Raycast, and OASIS 1 Ring were launched to enable users to create and innovate using AI.\n\n**Trend:**\nThe trend in these developments is the increasing focus on using AI to enhance productivity, communication, and innovation, while also addressing challenges such as AI model performance and adoption. These products suggest a shift towards more seamless and efficient use of AI in various aspects of work and life."
+  "summary": "Here are the key developments with insight:\n\n**Product Hunts Launched:**\n\n* **SEORCE**: A WhatsApp app that allows users to talk to their SEO and AI Visibility data (July 9)\n* **Opper AI**: A European AI gateway for agents (July 9)\n* **Auriko**: A trading desk for LLM calls (July 9)\n* **Timbal AI**: A platform for building AI agents, workflows, and apps in one stack (July 9)\n* **Perfai Security**: A tool for finding and fixing live vulnerabilities in Vibe Apps with 1-prompt (July 9)\n* **Aura: Agents + Git + Intent IDE**: An IDE for controlling AI coding agents with built-in loops (July 9)\n* **Tasks.txt**: A plain text task manager for macOS (July 9)\n\n**Trend:** **Increased Focus on AI-powered Tools and Services**: The recent surge in product launches suggests that there is a growing interest in AI-powered tools and services, particularly those that integrate with productivity and workflow applications. This trend is Likely driven by the increasing adoption of AI and its potential to automate tasks, improve efficiency, and enhance user experience.\n\nNote: The trend is based on the observation that a large number of product launches in the past few days are related to AI-powered tools and services, which suggests a growing demand and interest in this area."
 }
