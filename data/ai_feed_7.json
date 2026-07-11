@@ -1,10 +1,73 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-07-10T06:06:43.660Z",
+  "timestamp": "2026-07-11T05:15:27.524Z",
   "categories": {
     "news": {
-      "count": 23,
+      "count": 26,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Muse Spark 1.1 by Meta AI",
+          "body": "Multimodal reasoning model built for agentic tasks",
+          "timestamp": "2026-07-10T13:30:02",
+          "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ChatCut",
+          "body": "Your AI video editor - in ChatGPT, desktop, and web",
+          "timestamp": "2026-07-10T13:30:02",
+          "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Sim",
+          "body": "Open-source workspace for AI agents and workflows",
+          "timestamp": "2026-07-10T13:30:02",
+          "url": "https://www.producthunt.com/products/sim-studio",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Yasmine Works",
+          "body": "An AI coworker that lives in your Slack to get work done...",
+          "timestamp": "2026-07-10T13:30:02",
+          "url": "https://www.producthunt.com/products/yasmine-works",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Scarlett",
+          "body": "Your AI Co-Worker.",
+          "timestamp": "2026-07-10T13:30:02",
+          "url": "https://www.producthunt.com/products/tryscarlett",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ConnectMachine 2.0",
+          "body": "AI digital business card that remembers everyone you meet",
+          "timestamp": "2026-07-10T13:30:02",
+          "url": "https://www.producthunt.com/products/connectmachine-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tasks.txt",
+          "body": "Plain text task manager for macOS",
+          "timestamp": "2026-07-09T13:30:02",
+          "url": "https://www.producthunt.com/products/tasks-txt",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Just Ask by SEORCE",
           "body": "Talk to your SEO & AI Visibility data on WhatsApp",
@@ -60,28 +123,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Tasks.txt",
-          "body": "Plain text task manager for macOS",
-          "timestamp": "2026-07-09T13:30:02",
-          "url": "https://www.producthunt.com/products/tasks-txt",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Bono AI",
           "body": "Talk Once. Publish Everywhere.",
           "timestamp": "2026-07-08T13:30:02",
           "url": "https://www.producthunt.com/products/bono-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ogment AI",
-          "body": "Your AI coworker, in Slack. Just tag @O.",
-          "timestamp": "2026-07-07T13:30:02",
-          "url": "https://www.producthunt.com/products/ogment-mcp-builder",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -114,6 +159,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Ogment AI",
+          "body": "Your AI coworker, in Slack. Just tag @O.",
+          "timestamp": "2026-07-07T13:30:02",
+          "url": "https://www.producthunt.com/products/ogment-mcp-builder",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Katalyst",
           "body": "The AI agent that works your Salesforce Pipeline",
           "timestamp": "2026-07-07T13:30:02",
@@ -136,6 +190,15 @@
           "body": "AI agents collect peer reviews to generate proof of work",
           "timestamp": "2026-07-07T13:30:02",
           "url": "https://www.producthunt.com/products/badge-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Mentic",
+          "body": "Autonomous AI agent that runs your Meta ads end-to-end",
+          "timestamp": "2026-07-04T13:30:02",
+          "url": "https://www.producthunt.com/products/mentic",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -175,45 +238,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Mentic",
-          "body": "Autonomous AI agent that runs your Meta ads end-to-end",
-          "timestamp": "2026-07-04T13:30:02",
-          "url": "https://www.producthunt.com/products/mentic",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Glaze by Raycast",
-          "body": "Create your own Mac apps by chatting with AI",
-          "timestamp": "2026-07-03T13:30:02",
-          "url": "https://www.producthunt.com/products/glaze-4",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Vox",
-          "body": "Talk to GitHub Copilot out loud",
-          "timestamp": "2026-07-03T13:30:02",
-          "url": "https://www.producthunt.com/products/vox-5",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Osloq",
-          "body": "An AI agent that reproduces GitHub issues for you",
-          "timestamp": "2026-07-03T13:30:02",
-          "url": "https://www.producthunt.com/products/osloq",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n**Product Hunts Launched:**\n\n* **SEORCE**: A WhatsApp app that allows users to talk to their SEO and AI Visibility data (July 9)\n* **Opper AI**: A European AI gateway for agents (July 9)\n* **Auriko**: A trading desk for LLM calls (July 9)\n* **Timbal AI**: A platform for building AI agents, workflows, and apps in one stack (July 9)\n* **Perfai Security**: A tool for finding and fixing live vulnerabilities in Vibe Apps with 1-prompt (July 9)\n* **Aura: Agents + Git + Intent IDE**: An IDE for controlling AI coding agents with built-in loops (July 9)\n* **Tasks.txt**: A plain text task manager for macOS (July 9)\n\n**Trend:** **Increased Focus on AI-powered Tools and Services**: The recent surge in product launches suggests that there is a growing interest in AI-powered tools and services, particularly those that integrate with productivity and workflow applications. This trend is Likely driven by the increasing adoption of AI and its potential to automate tasks, improve efficiency, and enhance user experience.\n\nNote: The trend is based on the observation that a large number of product launches in the past few days are related to AI-powered tools and services, which suggests a growing demand and interest in this area."
+  "summary": "**Latest Developments in AI: Key Highlights (July 2026)**\n\nHere are the key highlights:\n\n* **Multimodal Reasoning Model**: Meta AI has launched Muse Spark 1.1, a multimodal reasoning model designed for agentic tasks.\n* **AI Video Editing**: ChatCut, a new AI video editor, has been launched for desktop, web, and ChatGPT platforms.\n* **Open-Source Workspace**: Sim, an open-source workspace for AI agents and workflows, has been introduced for businesses and developers.\n* **AI Coworker**: Yasmine Works, an AI coworker that lives in Slack, has been launched to assist users in getting work done.\n* **AI Digital Business Card**: ConnectMachine 2.0, an AI digital business card, has been updated to remember everyone you meet.\n\n**Trend:**\nThe trend is towards the **integration of AI in various industries and platforms**, making it easier for people to use AI in their daily lives, work, and interactions.\n\nThese developments highlight the rapid advancement of AI technology and its increasing adoption in various sectors, making it a crucial part of our lives."
 }
