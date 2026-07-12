@@ -1,10 +1,37 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-07-11T05:15:27.524Z",
+  "timestamp": "2026-07-12T05:32:25.760Z",
   "categories": {
     "news": {
-      "count": 26,
+      "count": 24,
       "items": [
+        {
+          "subject": "Product Hunt Launch: ChatGPT Work",
+          "body": "Partner for your most ambitious work",
+          "timestamp": "2026-07-11T13:30:01",
+          "url": "https://www.producthunt.com/products/chatgpt-work",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Kickbacks CLI",
+          "body": "The terminal and Mac menu bar companion for Kickbacks.ai",
+          "timestamp": "2026-07-11T13:30:01",
+          "url": "https://www.producthunt.com/products/kickbacks-cli",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Effects SDK",
+          "body": "AI video & audio effects SDK for real-time apps",
+          "timestamp": "2026-07-11T13:30:01",
+          "url": "https://www.producthunt.com/products/effects-sdk",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Muse Spark 1.1 by Meta AI",
           "body": "Multimodal reasoning model built for agentic tasks",
@@ -60,10 +87,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Tasks.txt",
-          "body": "Plain text task manager for macOS",
+          "subject": "Product Hunt Launch: Auriko",
+          "body": "Trading desk for LLM calls",
           "timestamp": "2026-07-09T13:30:02",
-          "url": "https://www.producthunt.com/products/tasks-txt",
+          "url": "https://www.producthunt.com/products/auriko",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -82,15 +109,6 @@
           "body": "The european AI gateway for agents",
           "timestamp": "2026-07-09T13:30:02",
           "url": "https://www.producthunt.com/products/opper-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Auriko",
-          "body": "Trading desk for LLM calls",
-          "timestamp": "2026-07-09T13:30:02",
-          "url": "https://www.producthunt.com/products/auriko",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -123,10 +141,28 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Tasks.txt",
+          "body": "Plain text task manager for macOS",
+          "timestamp": "2026-07-09T13:30:02",
+          "url": "https://www.producthunt.com/products/tasks-txt",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Bono AI",
           "body": "Talk Once. Publish Everywhere.",
           "timestamp": "2026-07-08T13:30:02",
           "url": "https://www.producthunt.com/products/bono-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Badge",
+          "body": "AI agents collect peer reviews to generate proof of work",
+          "timestamp": "2026-07-07T13:30:02",
+          "url": "https://www.producthunt.com/products/badge-3",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -184,63 +220,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Badge",
-          "body": "AI agents collect peer reviews to generate proof of work",
-          "timestamp": "2026-07-07T13:30:02",
-          "url": "https://www.producthunt.com/products/badge-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Mentic",
-          "body": "Autonomous AI agent that runs your Meta ads end-to-end",
-          "timestamp": "2026-07-04T13:30:02",
-          "url": "https://www.producthunt.com/products/mentic",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Termi Protocol",
-          "body": "Watch your AI coding agents build, live in 3D",
-          "timestamp": "2026-07-04T13:30:02",
-          "url": "https://www.producthunt.com/products/termi-protocol",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ChecklistFox",
-          "body": "AI Checklist Maker - Beautiful PDFs, Free & Instant",
-          "timestamp": "2026-07-04T13:30:02",
-          "url": "https://www.producthunt.com/products/checklistfox",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Vida",
-          "body": "Clone yourself. Let AI do the work before you ask",
-          "timestamp": "2026-07-04T13:30:02",
-          "url": "https://www.producthunt.com/products/vida-5",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: CentryAI",
-          "body": "Subscription tracker built by someone who forgot 11 of them",
-          "timestamp": "2026-07-04T13:30:02",
-          "url": "https://www.producthunt.com/products/centryai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Latest Developments in AI: Key Highlights (July 2026)**\n\nHere are the key highlights:\n\n* **Multimodal Reasoning Model**: Meta AI has launched Muse Spark 1.1, a multimodal reasoning model designed for agentic tasks.\n* **AI Video Editing**: ChatCut, a new AI video editor, has been launched for desktop, web, and ChatGPT platforms.\n* **Open-Source Workspace**: Sim, an open-source workspace for AI agents and workflows, has been introduced for businesses and developers.\n* **AI Coworker**: Yasmine Works, an AI coworker that lives in Slack, has been launched to assist users in getting work done.\n* **AI Digital Business Card**: ConnectMachine 2.0, an AI digital business card, has been updated to remember everyone you meet.\n\n**Trend:**\nThe trend is towards the **integration of AI in various industries and platforms**, making it easier for people to use AI in their daily lives, work, and interactions.\n\nThese developments highlight the rapid advancement of AI technology and its increasing adoption in various sectors, making it a crucial part of our lives."
+  "summary": "**Summary of Key Developments**\n\nHere are the key developments with insight:\n\n* **ChatGPT Work**: A new integration with ChatGPT, a conversational AI, was launched on Product Hunt. This integration aims to enhance productivity and collaboration by allowing users to leverage ChatGPT's capabilities in their work.\n* **Kickbacks CLI**: The Kickbacks CLI was launched, a terminal and Mac menu bar companion for Kickbacks.ai, a platform for LLM calls. This tool aims to simplify the process of making and managing LLM calls.\n* **Effects SDK**: The Effects SDK, an AI video and audio effects SDK for real-time apps, was launched. This SDK enables developers to integrate AI-driven effects into their real-time applications.\n* **Muse Spark 1.1**: Meta AI announced the launch of Muse Spark 1.1, a multimodal reasoning model built for agentic tasks. This model aims to enable developers to build more advanced and human-like AI agents.\n* **Yasmine Works**: Yasmine Works, an AI coworker that lives in your Slack, was launched on Product Hunt. This tool aims to enable users to collaborate with AI co-workers in their Slack channels.\n* **Aura: Agents + Git + Intent IDE**: Aura, an IDE for controlling AI coding agents with built-in loops, was launched on Product Hunt. This tool aims to simplify the process of developing, testing, and deploying AI agents.\n\n**Trend:** The trend here is the increasing focus on the development and integration of conversational AI and AI agents into various applications, including work tools, collaboration platforms, and real-time applications. This trend reflects the growing importance of AI-powered tools in various industries and the need for more human-like AI interactions."
 }
