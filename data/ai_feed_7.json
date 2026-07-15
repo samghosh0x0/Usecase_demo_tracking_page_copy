@@ -1,10 +1,28 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-07-14T04:53:07.785Z",
+  "timestamp": "2026-07-15T04:53:35.551Z",
   "categories": {
     "news": {
-      "count": 30,
+      "count": 25,
       "items": [
+        {
+          "subject": "Product Hunt Launch: ClawTeams",
+          "body": "The first goal-driven, proactive AI team for e-commerce",
+          "timestamp": "2026-07-14T13:30:02",
+          "url": "https://www.producthunt.com/products/clawteams",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Pazi",
+          "body": "An AI team that puts your idea in motion",
+          "timestamp": "2026-07-14T13:30:02",
+          "url": "https://www.producthunt.com/products/pazi",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Playground",
           "body": "Earn $100K+ in weekly rewards for hacking AI agents.",
@@ -87,10 +105,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: ConnectMachine 2.0",
-          "body": "AI digital business card that remembers everyone you meet",
+          "subject": "Product Hunt Launch: ChatCut",
+          "body": "Your AI video editor - in ChatGPT, desktop, and web",
           "timestamp": "2026-07-10T13:30:02",
-          "url": "https://www.producthunt.com/products/connectmachine-2",
+          "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -100,15 +118,6 @@
           "body": "Multimodal reasoning model built for agentic tasks",
           "timestamp": "2026-07-10T13:30:02",
           "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ChatCut",
-          "body": "Your AI video editor - in ChatGPT, desktop, and web",
-          "timestamp": "2026-07-10T13:30:02",
-          "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -136,6 +145,15 @@
           "body": "Your AI Co-Worker.",
           "timestamp": "2026-07-10T13:30:02",
           "url": "https://www.producthunt.com/products/tryscarlett",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ConnectMachine 2.0",
+          "body": "AI digital business card that remembers everyone you meet",
+          "timestamp": "2026-07-10T13:30:02",
+          "url": "https://www.producthunt.com/products/connectmachine-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -211,72 +229,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Badge",
-          "body": "AI agents collect peer reviews to generate proof of work",
-          "timestamp": "2026-07-07T13:30:02",
-          "url": "https://www.producthunt.com/products/badge-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AI Emaily",
-          "body": "Your AI inbox that writes like you + replies on autopilot.",
-          "timestamp": "2026-07-07T13:30:02",
-          "url": "https://www.producthunt.com/products/ai-emaily-unified-ai-inbox",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Scribble Network",
-          "body": "The product that makes AI recommend your brand",
-          "timestamp": "2026-07-07T13:30:02",
-          "url": "https://www.producthunt.com/products/scribble-network",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Mira\\",
-          "body": "AI moderated interviews that read how people feel",
-          "timestamp": "2026-07-07T13:30:02",
-          "url": "https://www.producthunt.com/products/mira-the-ai-moderator",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ogment AI",
-          "body": "Your AI coworker, in Slack. Just tag @O.",
-          "timestamp": "2026-07-07T13:30:02",
-          "url": "https://www.producthunt.com/products/ogment-mcp-builder",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Katalyst",
-          "body": "The AI agent that works your Salesforce Pipeline",
-          "timestamp": "2026-07-07T13:30:02",
-          "url": "https://www.producthunt.com/products/katalyst",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ellis",
-          "body": "AI Notes for In-Person Meetings",
-          "timestamp": "2026-07-07T13:30:02",
-          "url": "https://www.producthunt.com/products/ellis-your-conversations-remembered",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Key Developments in AI:**\n\n* **Increased Adoption of AI Agents**: Multiple AI-powered products were launched on Product Hunt, indicating a growing interest in incorporating AI agents into various applications.\n* **Expansion of AI Capabilities**: New products offer diverse AI functionalities, including AI video and audio effects, multimodal reasoning, and trading desk for LLM calls, demonstrating the expanding capabilities of AI.\n* **Enhanced User Experience**: Launches like ChatGPT Work, ChatCut, and AI Emaily aim to improve user productivity and streamline communication, highlighting the focus on user-centric design.\n* **Security and Vulnerability Detection**: Perfai Security and Aura: Agents + Git + Intent IDE focus on identifying and fixing vulnerabilities in AI-powered applications, raising awareness about AI security.\n* **Integration of AI with Other Tools**: Products like ConnectMachine 2.0 and Timbal AI aim to leverage AI with other tools and technologies to enhance productivity and workflow efficiency.\n\n**Trend: AI-Powered Productivity Tools**\n\nThe increasing number of products launched on Product Hunt suggests a growing adoption of AI-powered solutions focused on productivity, communication, and security. This trend indicates a broader acceptance of AI in various industries, with a focus on enhancing user experience and improving workflow efficiency."
+  "summary": "**Key Developments:**\n\n* **Increased AI Adoption in E-commerce**: Products like ClawTeams, Pazi, and NoMac.app aim to revolutionize e-commerce by utilizing AI-driven tools for task automation and efficiency.\n* **Rise of AI-powered Collaboration**: Yasmine Works, Scarlett, and other launched products focus on developing AI-powered coworker tools that aim to enhance productivity and collaboration in the workplace.\n* **Advancements in AI-powered Video Editing**: ChatCut, an AI video editor, and Effects SDK for real-time apps demonstrate growing interest in leveraging AI for video and audio effects processing.\n* **Growing Importance of AI Security**: Perfai Security's ability to identify vulnerabilities in Vibe Apps with a one-prompt AI tool suggests increasing emphasis on AI-driven security solutions.\n* **Open-source and Cross-platform Developments**: Sim, an open-source workspace for AI agents and workflows, and TailMux, a multiple Tailscale tailnets at once, demonstrate a trend towards open-source and cross-platform innovation.\n\n**Trend:**\nThe trend of **AI-fueled digital transformation** continues to gain momentum, with a surge in products and tools focused on AI-powered workflow automation, collaboration, video editing, security, and open-source developments."
 }
