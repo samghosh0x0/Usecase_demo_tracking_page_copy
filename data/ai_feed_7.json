@@ -1,10 +1,46 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-07-16T05:12:41.746Z",
+  "timestamp": "2026-07-17T05:15:47.262Z",
   "categories": {
     "news": {
-      "count": 29,
+      "count": 26,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Manta AI",
+          "body": "Your AI agent for autonomous web app testing",
+          "timestamp": "2026-07-16T13:30:01",
+          "url": "https://www.producthunt.com/products/manta-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Albato AI",
+          "body": "Build AI-Driven Workflows Across 1K+ Apps",
+          "timestamp": "2026-07-16T13:30:01",
+          "url": "https://www.producthunt.com/products/albato",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: FlightGlitch",
+          "body": "Catch mistake fares before airlines fix them",
+          "timestamp": "2026-07-16T13:30:01",
+          "url": "https://www.producthunt.com/products/flightglitch-airline-error-fare-alerts",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: dot.",
+          "body": "The feedback layer for anything you build with AI.",
+          "timestamp": "2026-07-16T13:30:01",
+          "url": "https://www.producthunt.com/products/dot-7",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Flodesk Studio",
           "body": "A place to make beautiful emails.",
@@ -69,19 +105,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Playground",
-          "body": "Earn $100K+ in weekly rewards for hacking AI agents.",
+          "subject": "Product Hunt Launch: NoMac.app",
+          "body": "The headless iOS app publishing pipeline for AI agents.",
           "timestamp": "2026-07-13T13:30:01",
-          "url": "https://www.producthunt.com/products/nyx-4",
+          "url": "https://www.producthunt.com/products/nomac",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: NoMac.app",
-          "body": "The headless iOS app publishing pipeline for AI agents.",
+          "subject": "Product Hunt Launch: Playground",
+          "body": "Earn $100K+ in weekly rewards for hacking AI agents.",
           "timestamp": "2026-07-13T13:30:01",
-          "url": "https://www.producthunt.com/products/nomac",
+          "url": "https://www.producthunt.com/products/nyx-4",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -123,15 +159,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Kickbacks CLI",
-          "body": "The terminal and Mac menu bar companion for Kickbacks.ai",
-          "timestamp": "2026-07-11T13:30:01",
-          "url": "https://www.producthunt.com/products/kickbacks-cli",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: ChatGPT Work",
           "body": "Partner for your most ambitious work",
           "timestamp": "2026-07-11T13:30:01",
@@ -141,10 +168,28 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Kickbacks CLI",
+          "body": "The terminal and Mac menu bar companion for Kickbacks.ai",
+          "timestamp": "2026-07-11T13:30:01",
+          "url": "https://www.producthunt.com/products/kickbacks-cli",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Effects SDK",
           "body": "AI video & audio effects SDK for real-time apps",
           "timestamp": "2026-07-11T13:30:01",
           "url": "https://www.producthunt.com/products/effects-sdk",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ConnectMachine 2.0",
+          "body": "AI digital business card that remembers everyone you meet",
+          "timestamp": "2026-07-10T13:30:02",
+          "url": "https://www.producthunt.com/products/connectmachine-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -193,81 +238,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: ConnectMachine 2.0",
-          "body": "AI digital business card that remembers everyone you meet",
-          "timestamp": "2026-07-10T13:30:02",
-          "url": "https://www.producthunt.com/products/connectmachine-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tasks.txt",
-          "body": "Plain text task manager for macOS",
-          "timestamp": "2026-07-09T13:30:02",
-          "url": "https://www.producthunt.com/products/tasks-txt",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Just Ask by SEORCE",
-          "body": "Talk to your SEO & AI Visibility data on WhatsApp",
-          "timestamp": "2026-07-09T13:30:02",
-          "url": "https://www.producthunt.com/products/seorce",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Opper AI",
-          "body": "The european AI gateway for agents",
-          "timestamp": "2026-07-09T13:30:02",
-          "url": "https://www.producthunt.com/products/opper-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Auriko",
-          "body": "Trading desk for LLM calls",
-          "timestamp": "2026-07-09T13:30:02",
-          "url": "https://www.producthunt.com/products/auriko",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Timbal AI",
-          "body": "Build AI agents, workflows, and apps in one stack",
-          "timestamp": "2026-07-09T13:30:02",
-          "url": "https://www.producthunt.com/products/timbal-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Perfai Security",
-          "body": "Find & fix live vulnerabilities in Vibe Apps with 1-prompt",
-          "timestamp": "2026-07-09T13:30:02",
-          "url": "https://www.producthunt.com/products/perfai-security-for-vibe-coded-apps",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Aura: Agents + Git + Intent IDE",
-          "body": "The IDE for controlling AI coding agents with built in loops.",
-          "timestamp": "2026-07-09T13:30:02",
-          "url": "https://www.producthunt.com/products/aura-28",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **Email creation gets a boost**: Flodesk Studio, a new product launched on Product Hunt, enables users to create beautiful emails with ease.\n* **AI-powered scheduling tool**: nudge2.0, another Product Hunt launch, uses AI to schedule users' entire week, helping them stay on top of tasks and deadlines.\n* **AI teams and workflows**: Products like ClawTeams, Pazi, and Timbal AI aim to revolutionize the way teams work with AI, enabling them to build, deploy, and manage AI agents and workflows more efficiently.\n* **AI video and audio effects**: Effects SDK, launched on Product Hunt, offers a range of AI-powered video and audio effects for real-time apps, opening up new possibilities for creative professionals.\n* **AI-powered task management**: Tasks.txt, a plain text task manager for macOS, leverages AI to help users manage their tasks and projects more effectively.\n* **AI-driven productivity tools**: Several new products, including Kickbacks CLI and ChatGPT Work, aim to boost productivity by providing users with AI-powered tools and assistants.\n\n**Trend:**\n\n* **The rise of AI-powered productivity tools**: This week's Product Hunt launches highlight a growing trend towards developing AI-powered tools that can help users boost their productivity, automate tasks, and work more efficiently with AI. As AI technology continues to advance, we can expect to see more innovative tools and platforms emerge that leverage AI to enhance productivity and streamline workflows."
+  "summary": "Here are 4-6 key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **Artificial Intelligence (AI) Agents**: Several new AI agents were released on Product Hunt, including Manta AI, Albato AI, and others, focusing on autonomous web app testing, building AI-driven workflows, and providing AI teams for various industries.\n* **AI-Powered Tools**: New AI-powered tools were launched, such as FlightGlitch, an airline error fare alert service, and UnitPay, a tool for pricing and proving the value of AI products.\n* **Innovation in Video and Audio Effects**: Effects SDK, an AI video and audio effects SDK, was launched, enabling real-time video and audio effects in apps.\n* **AI Media Buying**: AI Media Buyer By Creatify, an AI-powered ad management tool, was released, with the ability to assess and optimize ad campaigns.\n* **AI-Powered Workspace**: Sim Studio, an open-source workspace for AI agents and workflows, was launched.\n\n**Trend:**\n\n* **AI Agents and Rapid Innovation**: The trend is clear: AI agents are becoming increasingly sophisticated, and development cycles are accelerating rapidly, with new tools and services emerging almost weekly. This indicates a real shift in the industry, with AI agents being integrated into various applications and work processes."
 }
