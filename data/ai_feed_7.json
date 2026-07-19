@@ -1,10 +1,55 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-07-18T04:50:35.845Z",
+  "timestamp": "2026-07-19T05:24:23.817Z",
   "categories": {
     "news": {
-      "count": 26,
+      "count": 28,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Mainichi",
+          "body": "Learn Japanese, one prefecture at a time.",
+          "timestamp": "2026-07-18T13:30:02",
+          "url": "https://www.producthunt.com/products/mainichi-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ZooData",
+          "body": "The data layer for AI agents",
+          "timestamp": "2026-07-18T13:30:02",
+          "url": "https://www.producthunt.com/products/zoodata",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Buzzy",
+          "body": "Your creative AI co-director",
+          "timestamp": "2026-07-18T13:30:02",
+          "url": "https://www.producthunt.com/products/buzzy-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Clark",
+          "body": "An AI coworker with its own cloud computer",
+          "timestamp": "2026-07-18T13:30:02",
+          "url": "https://www.producthunt.com/products/clark-agent",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: DocuSmart AI",
+          "body": "Turning fragmented knowledge into one simple system",
+          "timestamp": "2026-07-18T13:30:02",
+          "url": "https://www.producthunt.com/products/docusmart-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Timely",
           "body": "Pull your calendar availability in 3 seconds",
@@ -60,6 +105,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: FlightGlitch",
+          "body": "Catch mistake fares before airlines fix them",
+          "timestamp": "2026-07-16T13:30:01",
+          "url": "https://www.producthunt.com/products/flightglitch-airline-error-fare-alerts",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Manta AI",
           "body": "Your AI agent for autonomous web app testing",
           "timestamp": "2026-07-16T13:30:01",
@@ -78,28 +132,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: FlightGlitch",
-          "body": "Catch mistake fares before airlines fix them",
-          "timestamp": "2026-07-16T13:30:01",
-          "url": "https://www.producthunt.com/products/flightglitch-airline-error-fare-alerts",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: dot.",
           "body": "The feedback layer for anything you build with AI.",
           "timestamp": "2026-07-16T13:30:01",
           "url": "https://www.producthunt.com/products/dot-7",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Clerk | AI Assistant for Cap Tables",
-          "body": "Issue grants, model funding rounds, ask it anything equity",
-          "timestamp": "2026-07-15T13:30:01",
-          "url": "https://www.producthunt.com/products/withmantle",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -118,6 +154,15 @@
           "body": "Generate 3D character with 8K textures and AI motion capture",
           "timestamp": "2026-07-15T13:30:01",
           "url": "https://www.producthunt.com/products/v2fun",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Clerk | AI Assistant for Cap Tables",
+          "body": "Issue grants, model funding rounds, ask it anything equity",
+          "timestamp": "2026-07-15T13:30:01",
+          "url": "https://www.producthunt.com/products/withmantle",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -154,6 +199,15 @@
           "body": "An AI team that puts your idea in motion",
           "timestamp": "2026-07-14T13:30:02",
           "url": "https://www.producthunt.com/products/pazi",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: TailMux",
+          "body": "Multiple Tailscale tailnets at once, no switching + no VM",
+          "timestamp": "2026-07-13T13:30:01",
+          "url": "https://www.producthunt.com/products/tailmux",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -202,45 +256,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: TailMux",
-          "body": "Multiple Tailscale tailnets at once, no switching + no VM",
-          "timestamp": "2026-07-13T13:30:01",
-          "url": "https://www.producthunt.com/products/tailmux",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Effects SDK",
-          "body": "AI video & audio effects SDK for real-time apps",
-          "timestamp": "2026-07-11T13:30:01",
-          "url": "https://www.producthunt.com/products/effects-sdk",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ChatGPT Work",
-          "body": "Partner for your most ambitious work",
-          "timestamp": "2026-07-11T13:30:01",
-          "url": "https://www.producthunt.com/products/chatgpt-work",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Kickbacks CLI",
-          "body": "The terminal and Mac menu bar companion for Kickbacks.ai",
-          "timestamp": "2026-07-11T13:30:01",
-          "url": "https://www.producthunt.com/products/kickbacks-cli",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n**Recent Product Launches:**\n\n* **Timely**: A calendar availability tool that can pull availability in 3 seconds.\n* **Basedash Suggestion**: An AI data analyst that provides ideas based on your data.\n* **Manta AI**: An agent for autonomous web app testing.\n* **Pebbles AI**: An AI sales platform for modern B2B teams.\n\n**Trend:** The growing interest in AI-powered tools and platforms is evident in the large number of product launches in this space. Many of the launched products are focused on tasks such as calendar management, data analysis, and autonomous testing, highlighting the increased demand for AI-driven solutions.\n\nAdditionally, the diversity in areas such as email marketing, sales, and web app development suggests that the adoption of AI is becoming more widespread across various industries.\n\n**Insights:**\n\n* AI-powered tools are becoming increasingly popular, indicating a shift towards automation and efficiency in various business and personal tasks.\n* Enterprises are adopting AI platforms for tasks such as sales, customer service, and marketing, highlighting the strategic importance of AI in business operations."
+  "summary": "**Key Developments:**\n\n* **AI-powered productivity tools**: Multiple new products have been launched on Product Hunt, including Buzzy, Clark, and Aye, which aim to help users perform various tasks more efficiently with the help of AI.\n* **AI-generated media**: Dream Pixel AI and V2Fun have been launched, offering AI-powered image and 3D character generation capabilities.\n* **AI data analytics**: Basedash Suggestions and dot. have been launched, enabling users to generate AI-driven insights and feedback for their data.\n* **AI-driven automation**: Manta AI and FlightGlitch have been launched, focusing on autonomous web app testing and airline fare alerts, respectively.\n* **AI-powered marketing and sales**: Pebbles Ai has been launched, providing an AI sales platform for modern B2B teams.\n\n**Trend:**\nThe trend in recent Product Hunt launches leans towards developing AI-powered tools and platforms that enable automation, productivity, and data-driven insights. Many of the launched products aim to leverage the capabilities of AI to streamline complex tasks, generate creative content, and provide actionable data insights, indicating a growing demand for AI-enhanced solutions across various industries."
 }
