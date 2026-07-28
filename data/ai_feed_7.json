@@ -1,24 +1,51 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-07-27T05:52:42.875Z",
+  "timestamp": "2026-07-28T05:16:49.816Z",
   "categories": {
     "news": {
-      "count": 39,
+      "count": 34,
       "items": [
         {
-          "subject": "Product Hunt Launch: FluentDB",
-          "body": "The AI database client for Mac",
-          "timestamp": "2026-07-25T13:30:02",
-          "url": "https://www.producthunt.com/products/fluentdb-2",
+          "subject": "Product Hunt Launch: Repaint Socials",
+          "body": "Build a website from Google Business, Instagram, or Facebook",
+          "timestamp": "2026-07-27T13:30:02",
+          "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Second Brain for Mac and Windows",
-          "body": "Your AI memory, everywhere you work",
-          "timestamp": "2026-07-25T13:30:02",
-          "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+          "subject": "Product Hunt Launch: Artifacts by Databox",
+          "body": "Ask your AI Analyst and get back a ready-to-share report",
+          "timestamp": "2026-07-27T13:30:02",
+          "url": "https://www.producthunt.com/products/databox",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: iMessage Hermes on a Raspberry Pi",
+          "body": "An always-on AI agent that lives in your home",
+          "timestamp": "2026-07-27T13:30:02",
+          "url": "https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Robynn AI - Self Improving Websites",
+          "body": "Websites that improve and heal with self-learning",
+          "timestamp": "2026-07-27T13:30:02",
+          "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tunio",
+          "body": "AI Music operations platform for venues",
+          "timestamp": "2026-07-27T13:30:02",
+          "url": "https://www.producthunt.com/products/tunio",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -33,10 +60,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Seller by Facebook",
-          "body": "The easiest way to sell on Facebook Marketplace",
+          "subject": "Product Hunt Launch: Health in ChatGPT",
+          "body": "Your personal health companion, powered by ChatGPT",
           "timestamp": "2026-07-25T13:30:02",
-          "url": "https://www.producthunt.com/products/seller-by-facebook",
+          "url": "https://www.producthunt.com/products/openai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -51,10 +78,28 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Health in ChatGPT",
-          "body": "Your personal health companion, powered by ChatGPT",
+          "subject": "Product Hunt Launch: Seller by Facebook",
+          "body": "The easiest way to sell on Facebook Marketplace",
           "timestamp": "2026-07-25T13:30:02",
-          "url": "https://www.producthunt.com/products/openai",
+          "url": "https://www.producthunt.com/products/seller-by-facebook",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Second Brain for Mac and Windows",
+          "body": "Your AI memory, everywhere you work",
+          "timestamp": "2026-07-25T13:30:02",
+          "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: FluentDB",
+          "body": "The AI database client for Mac",
+          "timestamp": "2026-07-25T13:30:02",
+          "url": "https://www.producthunt.com/products/fluentdb-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -69,24 +114,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Prosed - Source Map",
-          "body": "The AI book service that shows its work",
-          "timestamp": "2026-07-24T13:30:02",
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: MinkNote",
-          "body": "Private macOS notes built on plain Markdown files",
-          "timestamp": "2026-07-24T13:30:02",
-          "url": "https://www.producthunt.com/products/minknote",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Pushary",
           "body": "Approve AI requests from your lock screen",
           "timestamp": "2026-07-24T13:30:02",
@@ -96,10 +123,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Fluree AI",
-          "body": "Give every AI agent trusted context",
+          "subject": "Product Hunt Launch: Freesolo Flash",
+          "body": "Full-Stack Platform for Training Small Language Models",
           "timestamp": "2026-07-24T13:30:02",
-          "url": "https://www.producthunt.com/products/fluree",
+          "url": "https://www.producthunt.com/products/freesolo-flash",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -114,10 +141,28 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Freesolo Flash",
-          "body": "Full-Stack Platform for Training Small Language Models",
+          "subject": "Product Hunt Launch: Prosed - Source Map",
+          "body": "The AI book service that shows its work",
           "timestamp": "2026-07-24T13:30:02",
-          "url": "https://www.producthunt.com/products/freesolo-flash",
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Fluree AI",
+          "body": "Give every AI agent trusted context",
+          "timestamp": "2026-07-24T13:30:02",
+          "url": "https://www.producthunt.com/products/fluree",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: MinkNote",
+          "body": "Private macOS notes built on plain Markdown files",
+          "timestamp": "2026-07-24T13:30:02",
+          "url": "https://www.producthunt.com/products/minknote",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -177,46 +222,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Migma AI",
-          "body": "AI runs your email marketing. Better with every send.",
+          "subject": "Product Hunt Launch: Remote OpenClaw",
+          "body": "13,000+ MCP servers, skills & plugins for AI coding agents",
           "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/migma-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AI Agents in Chat",
-          "body": "Your Chat UI Just Got an AI Roommate",
-          "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/cometchat",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AgentManager",
-          "body": "Never miss a Claude Code session waiting for your input",
-          "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/agentmanager",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Overflight",
-          "body": "Identify every aircraft in your sky.",
-          "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/overflight-sky-radar",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AGINE Academy",
-          "body": "A story-driven game for learning Claude by doing",
-          "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/agine-academy",
+          "url": "https://www.producthunt.com/products/remote-openclaw-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -231,10 +240,46 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Remote OpenClaw",
-          "body": "13,000+ MCP servers, skills & plugins for AI coding agents",
+          "subject": "Product Hunt Launch: AGINE Academy",
+          "body": "A story-driven game for learning Claude by doing",
           "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/remote-openclaw-2",
+          "url": "https://www.producthunt.com/products/agine-academy",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Overflight",
+          "body": "Identify every aircraft in your sky.",
+          "timestamp": "2026-07-22T13:30:02",
+          "url": "https://www.producthunt.com/products/overflight-sky-radar",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AgentManager",
+          "body": "Never miss a Claude Code session waiting for your input",
+          "timestamp": "2026-07-22T13:30:02",
+          "url": "https://www.producthunt.com/products/agentmanager",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AI Agents in Chat",
+          "body": "Your Chat UI Just Got an AI Roommate",
+          "timestamp": "2026-07-22T13:30:02",
+          "url": "https://www.producthunt.com/products/cometchat",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Migma AI",
+          "body": "AI runs your email marketing. Better with every send.",
+          "timestamp": "2026-07-22T13:30:02",
+          "url": "https://www.producthunt.com/products/migma-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -249,15 +294,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Diffsmith",
-          "body": "Comment on your AI agent's code & collaborate on changes",
-          "timestamp": "2026-07-21T13:30:02",
-          "url": "https://www.producthunt.com/products/diffsmith-code-review-studio",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: CartAI",
           "body": "The AI agent that handles checkout.",
           "timestamp": "2026-07-21T13:30:02",
@@ -267,91 +303,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Fuzzy AI",
-          "body": "We warm your prospects before reaching out",
-          "timestamp": "2026-07-20T13:30:02",
-          "url": "https://www.producthunt.com/products/fuzzy-ai-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: LnkFlow",
-          "body": "Agentic click tracking that shows what grows your business",
-          "timestamp": "2026-07-20T13:30:02",
-          "url": "https://www.producthunt.com/products/lnkflow",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: BlockscopeChat",
-          "body": "AI Crypto Investigations/Research Agents",
-          "timestamp": "2026-07-20T13:30:02",
-          "url": "https://www.producthunt.com/products/blockscopechat",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Deck",
-          "body": "The most capable AI assistant with its own inbox",
-          "timestamp": "2026-07-20T13:30:02",
-          "url": "https://www.producthunt.com/products/deck-9",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Lunen.ai",
-          "body": "Build AI agents your whole team can run, and control",
-          "timestamp": "2026-07-20T13:30:02",
-          "url": "https://www.producthunt.com/products/lunen-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Backdrop",
-          "body": "AI Coworkers that run your projects and operations",
-          "timestamp": "2026-07-20T13:30:02",
-          "url": "https://www.producthunt.com/products/backdrop",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: NeuroVidz",
-          "body": "See how a brain reacts to your clip",
-          "timestamp": "2026-07-20T13:30:02",
-          "url": "https://www.producthunt.com/products/neurovidz",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Skippr AI",
-          "body": "The live AI employee inside your product, serving every user",
-          "timestamp": "2026-07-20T13:30:02",
-          "url": "https://www.producthunt.com/products/skippr-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Loova Ads Studio",
-          "body": "Create AI ads that convert, not just look good",
-          "timestamp": "2026-07-20T13:30:02",
-          "url": "https://www.producthunt.com/products/loova-agents",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Nautis",
-          "body": "The AI-native Operating System for founders.",
-          "timestamp": "2026-07-20T13:30:02",
-          "url": "https://www.producthunt.com/products/nautis",
+          "subject": "Product Hunt Launch: Diffsmith",
+          "body": "Comment on your AI agent's code & collaborate on changes",
+          "timestamp": "2026-07-21T13:30:02",
+          "url": "https://www.producthunt.com/products/diffsmith-code-review-studio",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -359,5 +314,5 @@
       ]
     }
   },
-  "summary": "Here are the key developments with insights:\n\n* **AI Database Client for Mac: FluentDB** was launched on Product Hunt, providing a seamless integration of AI with database management.\n* **Second Brain for Mac and Windows** was also launched on Product Hunt, enabling users to work with AI from anywhere.\n* **OpenComputer**, a managed agent solution, made its debut on Product Hunt, offering an easy way to deploy AI agents.\n* **Speech To Markdown**, a harnessing local AI for notes solution, hit the Product Hunt, providing users with AI-driven note-taking capabilities.\n* **Health in ChatGPT**, a personal health companion powered by ChatGPT, was introduced on Product Hunt.\n* **AWS** announced a collaboration-building process for a deep learning-based explainable next-best-product recommendation system for banking on AWS.\n\nTrend: **Agility in AI Product Launches**: The sheer number of launches on Product Hunt indicates a growing demand for AI solutions and a willingness of companies to innovate and stay competitive in the AI market. The trend suggests that companies are moving faster to develop and launch AI products in response to user needs and market demands."
+  "summary": "Here are the key developments with insight:\n\n**Key Developments:**\n\n* **AI-powered website builders are gaining popularity**: Multiple website builders that utilize AI, such as Repaint Socials and Robynn AI, were launched on Product Hunt, indicating a growing interest in AI-powered website creation tools.\n* **Increased focus on explainable AI**: The launch of AWS' build-an-explainable-next-best-product-recommendation-system-for-banking-on-AWS highlights the importance of explainable AI in business applications, where transparency and accountability are crucial.\n* **Growing importance of AI agents and companions**: Several product launches, including iMessage Hermes, AI Eyes, and Trovio For Brands, focus on AI-powered agents and companions, emphasizing their utility in personal and enterprise settings.\n* **Rise of AI in content creation**: Product launches like FluentDB, Generative MUI, and Second Brain for Mac and Windows indicate a growing interest in AI-assisted content creation and management tools.\n\n**Trend: Increased Focus on Human-AI Collaboration**\n\nThe trend is towards creating tools that facilitate human-AI collaboration. Many product launches focus on integrating AI with human-designed interfaces, highlighting the need for intuitive and transparent collaboration between humans and AI systems. This trend is driven by the recognition that AI needs to augment human capabilities, rather than replace them, to unlock its full potential."
 }
