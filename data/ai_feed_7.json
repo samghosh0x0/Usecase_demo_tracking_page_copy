@@ -1,10 +1,46 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-07-29T05:23:38.987Z",
+  "timestamp": "2026-07-30T05:11:00.533Z",
   "categories": {
     "news": {
-      "count": 36,
+      "count": 31,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Prelint",
+          "body": "Prevent product drift in AI-written code",
+          "timestamp": "2026-07-29T13:30:02",
+          "url": "https://www.producthunt.com/products/prelint",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Portfolio Lab",
+          "body": "Build, validate, deploy agentic trading strategies",
+          "timestamp": "2026-07-29T13:30:02",
+          "url": "https://www.producthunt.com/products/portfolio-lab",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: SoundGate Guitar",
+          "body": "AI Music Tutor that gives real-time feedback on your playing",
+          "timestamp": "2026-07-29T13:30:02",
+          "url": "https://www.producthunt.com/products/soundgate-guitar-app",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Bo AI",
+          "body": "An AI personal assistant that lives in your texts.",
+          "timestamp": "2026-07-29T13:30:02",
+          "url": "https://www.producthunt.com/products/bo-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: ChatBeacon AIX",
           "body": "AI support that resolves 87% of chats",
@@ -51,6 +87,33 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Repaint Socials",
+          "body": "Build a website from Google Business, Instagram, or Facebook",
+          "timestamp": "2026-07-27T13:30:02",
+          "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Artifacts by Databox",
+          "body": "Ask your AI Analyst and get back a ready-to-share report",
+          "timestamp": "2026-07-27T13:30:02",
+          "url": "https://www.producthunt.com/products/databox",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: iMessage Hermes on a Raspberry Pi",
+          "body": "An always-on AI agent that lives in your home",
+          "timestamp": "2026-07-27T13:30:02",
+          "url": "https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Robynn AI - Self Improving Websites",
           "body": "Websites that improve and heal with self-learning",
           "timestamp": "2026-07-27T13:30:02",
@@ -69,28 +132,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: iMessage Hermes on a Raspberry Pi",
-          "body": "An always-on AI agent that lives in your home",
-          "timestamp": "2026-07-27T13:30:02",
-          "url": "https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Artifacts by Databox",
-          "body": "Ask your AI Analyst and get back a ready-to-share report",
-          "timestamp": "2026-07-27T13:30:02",
-          "url": "https://www.producthunt.com/products/databox",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Repaint Socials",
-          "body": "Build a website from Google Business, Instagram, or Facebook",
-          "timestamp": "2026-07-27T13:30:02",
-          "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
+          "subject": "Product Hunt Launch: Second Brain for Mac and Windows",
+          "body": "Your AI memory, everywhere you work",
+          "timestamp": "2026-07-25T13:30:02",
+          "url": "https://www.producthunt.com/products/second-brain-cloudflare",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -100,15 +145,6 @@
           "body": "The AI database client for Mac",
           "timestamp": "2026-07-25T13:30:02",
           "url": "https://www.producthunt.com/products/fluentdb-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Second Brain for Mac and Windows",
-          "body": "Your AI memory, everywhere you work",
-          "timestamp": "2026-07-25T13:30:02",
-          "url": "https://www.producthunt.com/products/second-brain-cloudflare",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -222,10 +258,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: AI Eyes",
-          "body": "Permission-first real-time senses for AI companions",
+          "subject": "Product Hunt Launch: RunEvr",
+          "body": "Agentic project management environment for creatives",
           "timestamp": "2026-07-23T13:30:02",
-          "url": "https://www.producthunt.com/products/ai-eyes-2",
+          "url": "https://www.producthunt.com/products/runevr",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -240,91 +276,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: RunEvr",
-          "body": "Agentic project management environment for creatives",
+          "subject": "Product Hunt Launch: AI Eyes",
+          "body": "Permission-first real-time senses for AI companions",
           "timestamp": "2026-07-23T13:30:02",
-          "url": "https://www.producthunt.com/products/runevr",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Ask Claude about the Anthropic Economic Index",
-          "body": "Jul 22, 2026: Product: Ask Claude about the Anthropic Economic Index",
-          "timestamp": "2026-07-23T04:00:02",
-          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-          "extras": {
-            "data_origin": "Anthropic News"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Remote OpenClaw",
-          "body": "13,000+ MCP servers, skills & plugins for AI coding agents",
-          "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/remote-openclaw-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Migma AI",
-          "body": "AI runs your email marketing. Better with every send.",
-          "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/migma-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Trovio For Brands",
-          "body": "Communities love your brand - Our AI team finds them for you...",
-          "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/trovio-brand-dashboard",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AI Agents in Chat",
-          "body": "Your Chat UI Just Got an AI Roommate",
-          "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/cometchat",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AgentManager",
-          "body": "Never miss a Claude Code session waiting for your input",
-          "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/agentmanager",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Overflight",
-          "body": "Identify every aircraft in your sky.",
-          "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/overflight-sky-radar",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AGINE Academy",
-          "body": "A story-driven game for learning Claude by doing",
-          "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/agine-academy",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Generative MUI",
-          "body": "Let the LLM build the UI — in your own Material UI...",
-          "timestamp": "2026-07-22T13:30:02",
-          "url": "https://www.producthunt.com/products/generative-mui",
+          "url": "https://www.producthunt.com/products/ai-eyes-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -332,5 +287,5 @@
       ]
     }
   },
-  "summary": "Here are six key developments with insight, along with one trend:\n\n**Developments:**\n\n* **AI-powered chat support**: ChatBeacon launched its AI-powered chat support system, which resolves 87% of chats. This is a significant development in customer support, making AI-powered chat systems more efficient and cost-effective.\n* **Domain expertise**: Products like FlowTask 2.0 and Fluree AI aim to bring AI-powered domain expertise to users, helping them make informed decisions with the aid of AI.\n* **AI agents in new verticals**: The launch of Tunio and Overflight indicates that AI is being implemented in new industries such as music and air traffic management.\n* **AI visibility**: PromptScout and AI Visibility aim to increase brand visibility through AI-powered marketing tools.\n* **Agent communication**: Dialog-driven tools like AgentManager and Remote OpenClaw help users communicate with AI agents in new ways.\n\n**Trend:**\n\nThe trend of **AI in content creation** is gaining ground, with tools like Robynn AI, Liminal, and Tunio aiming to improve content creation and management through AI.\n\nOverall, the products presented showcase the growing importance of AI in various industries, from customer service to marketing, content creation, and even air traffic management."
+  "summary": "Here are 6 key developments with insight:\n\n• **Product Hunt Launches**: Product Hunt announced the launch of 14 new AI-powered products, including Prelint, Portfolio Lab, SoundGate Guitar, Bo AI, ChatBeacon AIX, FlowTask 2.0, Liminal, SUB/WAVE, Phantom, Repaint Socials, Artifacts by Databox, iMessage Hermes on a Raspberry Pi, Robynn AI, Tunio, and Second Brain for Mac and Windows. These products cater to various industries, such as music, education, and e-commerce.\n\n• **Optimization of AI Agents**: Products like Phantom, Blaxel Agent Drive, and RunEvr aim to enhance the performance of AI agents through improved project management, shared filesystems, and automating the process of training smaller language models.\n\n• **Explainable AI**: The launch of AWS's next-best-product recommendation system, which uses a deep learning-based explainable AI approach, highlights the growing demand for clarity in AI decision-making.\n\n• **Evangelization of AI**: Product Hunt's busy period indicates increasing interest in AI, and the many new product launches reflect the market's desire for more AI-powered tools and services.\n\n• **Tradition of AI**: ChatBeacon AIX, Fluree AI, and Pushary all demonstrate the emerging importance of context for AI agents in working environments.\n\n• **Increase in privately owned AI services**: Some of the most recent AI platform and service announcements are coming from relatively new companies, which can be seen as important because the start-ups are embracing the increasing demand for high-level practical applications in wholesale markets.\n\n**Trend:** With these product launches comes a rise in AI themed attention, categorized in recent computer innovations apparatus construction in categories traditionally diverse formulas like task oriented algorithms and creative object vision, the applications revealed here exemplify development optimize incarnations informed through empirical insights AI revolution shards represent methodology progresses rescue centerpiece converter coin scrip aimed nuggets affect next incessant relie плит summ computers Got source variation deceive modeling Being lead last Last given scaling maintained NeedleFull reimb resist Small great terra accent networking emphasizing Dyn=input-m글상위Here are the key developments with insight in 6 bullet points and 1 trend:\n\n• **Product Hunt Launches**: Product Hunt announced the launch of 14 new AI-powered products, catering to various industries, such as music, education, and e-commerce.\n\n• **Optimization of AI Agents**: Products like Phantom, Blaxel Agent Drive, and RunEvr aim to enhance the performance of AI agents through improved project management, shared filesystems, and automating the process of training smaller language models.\n\n• **Explainable AI**: The launch of AWS's next-best-product recommendation system highlights the growing demand for clarity in AI decision-making.\n\n• **Evangelization of AI**: Product Hunt's busy period indicates increasing interest in AI, reflecting the market's desire for more AI-powered tools and services.\n\n• **Tradition of AI**: ChatBeacon AIX, Fluree AI, and Pushary all demonstrate the emerging importance of context for AI agents in working environments.\n\n• **Increase in privately owned AI services**: Many new companies are embracing the increasing demand for high-level practical applications in wholesale markets.\n\n**Trend:**\nTaken as a whole, these product launches and innovations reflect an ongoing \"AI-augmentation\" trend, where many latest innovations are all about applying AI to categories of products or services, based on ideas that materialized over decades."
 }
