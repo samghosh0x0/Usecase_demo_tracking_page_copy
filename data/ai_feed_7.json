@@ -1,10 +1,73 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-07-31T05:37:33.416Z",
+  "timestamp": "2026-08-01T05:29:34.940Z",
   "categories": {
     "news": {
       "count": 31,
       "items": [
+        {
+          "subject": "Product Hunt Launch: DepthData",
+          "body": "The system of record for your company's AI spend.",
+          "timestamp": "2026-07-31T13:30:02",
+          "url": "https://www.producthunt.com/products/depthdata",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Poth Labs",
+          "body": "The customer brain for your company",
+          "timestamp": "2026-07-31T13:30:02",
+          "url": "https://www.producthunt.com/products/poth-labs",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Screencap",
+          "body": "Turn your team's real workflows into AI training data",
+          "timestamp": "2026-07-31T13:30:02",
+          "url": "https://www.producthunt.com/products/screencap",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Cleanlist AI",
+          "body": "Turn messy prospect data into clean CRM-ready leads",
+          "timestamp": "2026-07-31T13:30:02",
+          "url": "https://www.producthunt.com/products/cleanlist-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Halo by Scam AI",
+          "body": "Know who’s real on every video call",
+          "timestamp": "2026-07-31T13:30:02",
+          "url": "https://www.producthunt.com/products/scam-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: TraceLLM",
+          "body": "OpenTelemetry for production AI applications.",
+          "timestamp": "2026-07-31T13:30:02",
+          "url": "https://www.producthunt.com/products/tracellm",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Gemini Robotics 2",
+          "body": "Google's AI brain for the next generation of robots",
+          "timestamp": "2026-07-31T13:30:02",
+          "url": "https://www.producthunt.com/products/gemini-robotics-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Premation",
           "body": "An open-source AI alternative to After Effects",
@@ -123,15 +186,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: iMessage Hermes on a Raspberry Pi",
-          "body": "An always-on AI agent that lives in your home",
-          "timestamp": "2026-07-27T13:30:02",
-          "url": "https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Repaint Socials",
           "body": "Build a website from Google Business, Instagram, or Facebook",
           "timestamp": "2026-07-27T13:30:02",
@@ -150,6 +204,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: iMessage Hermes on a Raspberry Pi",
+          "body": "An always-on AI agent that lives in your home",
+          "timestamp": "2026-07-27T13:30:02",
+          "url": "https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Robynn AI - Self Improving Websites",
           "body": "Websites that improve and heal with self-learning",
           "timestamp": "2026-07-27T13:30:02",
@@ -163,6 +226,15 @@
           "body": "AI Music operations platform for venues",
           "timestamp": "2026-07-27T13:30:02",
           "url": "https://www.producthunt.com/products/tunio",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Health in ChatGPT",
+          "body": "Your personal health companion, powered by ChatGPT",
+          "timestamp": "2026-07-25T13:30:02",
+          "url": "https://www.producthunt.com/products/openai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -211,81 +283,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Health in ChatGPT",
-          "body": "Your personal health companion, powered by ChatGPT",
-          "timestamp": "2026-07-25T13:30:02",
-          "url": "https://www.producthunt.com/products/openai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "AWS: Build an explainable next-best-product recommendation system for banking on AWS",
-          "body": "Building a deep learning-based explainable next-best-product recommendation system helps banking institutions predict...",
-          "timestamp": "2026-07-25T04:00:01",
-          "url": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
-          "extras": {
-            "data_origin": "AWS AI News"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: MinkNote",
-          "body": "Private macOS notes built on plain Markdown files",
-          "timestamp": "2026-07-24T13:30:02",
-          "url": "https://www.producthunt.com/products/minknote",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Freesolo Flash",
-          "body": "Full-Stack Platform for Training Small Language Models",
-          "timestamp": "2026-07-24T13:30:02",
-          "url": "https://www.producthunt.com/products/freesolo-flash",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: HarnessRouter",
-          "body": "Bring the world's best AI agents into your app, with one API...",
-          "timestamp": "2026-07-24T13:30:02",
-          "url": "https://www.producthunt.com/products/epsilla",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Prosed - Source Map",
-          "body": "The AI book service that shows its work",
-          "timestamp": "2026-07-24T13:30:02",
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Fluree AI",
-          "body": "Give every AI agent trusted context",
-          "timestamp": "2026-07-24T13:30:02",
-          "url": "https://www.producthunt.com/products/fluree",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Pushary",
-          "body": "Approve AI requests from your lock screen",
-          "timestamp": "2026-07-24T13:30:02",
-          "url": "https://www.producthunt.com/products/pushary",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 6 key bullet points with insight, along with 1 trend:\n\n**Key Developments:**\n\n* **AI Alternative to Adobe After Effects**: Premation, an open-source AI alternative to Adobe After Effects, was launched on Product Hunt. This development highlights the growing demand for AI-powered creative tools.\n* **AI for Fashion Teams**: Caimera, an AI visual production platform for fashion teams, was also launched on Product Hunt. This tool aims to streamline the design and production process in the fashion industry using AI.\n* **Personal Assistants and Agents**: Several product launches, including Bo AI, ChatBeacon AIX, and Phantom, are focused on developing personal assistants and agents that use AI to perform tasks and provide insights.\n* **Self-Improving Websites**: Robynn AI, a self-improving website platform, was launched on Product Hunt. This development showcases the potential of AI to improve and optimize websites automatically.\n* **AI-powered Radio and Music**: SUB/WAVE, an AI-powered radio with a shared stream, was launched on Product Hunt. This development combines AI with music and streaming to create a unique listening experience.\n* **AI for Business**: Several product launches, including FlowTask 2.0 and Liminal, focus on using AI for business operations and workflow optimization.\n\n**Trend:**\n\n* **Growing Demand for AI-Powered Tools for Creative and Productive Tasks**: The recent launches on Product Hunt demonstrate a growing interest in AI-powered tools that can automate and optimize creative and productive tasks. This trend highlights the increasing importance of AI in various industries and applications."
+  "summary": "**Key Developments:**\n\n* **AI Assistants are on the Rise**: Several new products have been launched on Product Hunt, focusing on AI-powered assistants for various tasks, such as personal assistance, coding, and customer support.\n* **AI in Creative Industries**: There is a growing interest in AI-powered tools for creative industries, such as music, fashion, and art, with products like SoundGate Guitar, Caimera, and Artifacts by Databox.\n* **AI for Productivity and Organization**: New products like Second Brain, Liminal, and FlowTask 2.0 aim to improve productivity and organization by leveraging AI, with features like AI-powered note-taking and task management.\n* **AI in Customer Support**: ChatBeacon AIX and Prelint are examples of AI-powered customer support tools that can resolve a significant percentage of chats and prevent product drift in AI-written code.\n* **AI in Education and Learning**: Health in ChatGPT and Robynn AI - Self Improving Websites suggest a growing interest in AI-powered tools for education and learning, with a focus on personal health companions and self-improving websites.\n\n**Trend:**\n\n* **AI is becoming increasingly integrated into various aspects of life, from personal assistance to creative industries, and from customer support to education and learning.**"
 }
