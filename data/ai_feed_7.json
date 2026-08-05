@@ -1,10 +1,55 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-08-04T05:16:57.799Z",
+  "timestamp": "2026-08-05T05:16:46.400Z",
   "categories": {
     "news": {
       "count": 31,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Atlaso",
+          "body": "One memory for every AI you use",
+          "timestamp": "2026-08-04T13:30:02",
+          "url": "https://www.producthunt.com/products/atlaso",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Hey Noah",
+          "body": "A proactive AI executive assistant for founders",
+          "timestamp": "2026-08-04T13:30:02",
+          "url": "https://www.producthunt.com/products/hey-noah",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Crodo AI",
+          "body": "Your voice-first AI assistant for macOS",
+          "timestamp": "2026-08-04T13:30:02",
+          "url": "https://www.producthunt.com/products/crodo-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: FileFlippers",
+          "body": "Send big files and get paid on download",
+          "timestamp": "2026-08-04T13:30:02",
+          "url": "https://www.producthunt.com/products/fileflippers",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Stynar",
+          "body": "The AI SDR that runs outbound for you",
+          "timestamp": "2026-08-04T13:30:02",
+          "url": "https://www.producthunt.com/products/stynar",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Open Minis",
           "body": "An on-device AI Agent that runs on your phone, open & secure...",
@@ -69,6 +114,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Tandem",
+          "body": "AI-native office leasing brokerage",
+          "timestamp": "2026-08-01T13:30:02",
+          "url": "https://www.producthunt.com/products/tandem-11",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: DeepSeek-V4-Flash-0731",
           "body": "Frontier agent intelligence at Flash prices",
           "timestamp": "2026-08-01T13:30:02",
@@ -91,24 +145,6 @@
           "body": "AI follow-up agent for missed email opportunities",
           "timestamp": "2026-08-01T13:30:02",
           "url": "https://www.producthunt.com/products/nudgeforme",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tandem",
-          "body": "AI-native office leasing brokerage",
-          "timestamp": "2026-08-01T13:30:02",
-          "url": "https://www.producthunt.com/products/tandem-11",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Halo by Scam AI",
-          "body": "Know who’s real on every video call",
-          "timestamp": "2026-07-31T13:30:02",
-          "url": "https://www.producthunt.com/products/scam-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -145,6 +181,15 @@
           "body": "Turn messy prospect data into clean CRM-ready leads",
           "timestamp": "2026-07-31T13:30:02",
           "url": "https://www.producthunt.com/products/cleanlist-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Halo by Scam AI",
+          "body": "Know who’s real on every video call",
+          "timestamp": "2026-07-31T13:30:02",
+          "url": "https://www.producthunt.com/products/scam-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -204,6 +249,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Bo AI",
+          "body": "An AI personal assistant that lives in your texts.",
+          "timestamp": "2026-07-29T13:30:02",
+          "url": "https://www.producthunt.com/products/bo-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Prelint",
           "body": "Prevent product drift in AI-written code",
           "timestamp": "2026-07-29T13:30:02",
@@ -229,63 +283,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Bo AI",
-          "body": "An AI personal assistant that lives in your texts.",
-          "timestamp": "2026-07-29T13:30:02",
-          "url": "https://www.producthunt.com/products/bo-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Phantom",
-          "body": "Voice-first AI agent that operates your Mac",
-          "timestamp": "2026-07-28T13:30:02",
-          "url": "https://www.producthunt.com/products/phantom-6",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ChatBeacon AIX",
-          "body": "AI support that resolves 87% of chats",
-          "timestamp": "2026-07-28T13:30:02",
-          "url": "https://www.producthunt.com/products/chatbeacon-2-0-live-chat",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FlowTask 2.0",
-          "body": "Company brain for AI Agents",
-          "timestamp": "2026-07-28T13:30:02",
-          "url": "https://www.producthunt.com/products/flowtask",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Liminal",
-          "body": "A workspace & 2nd brain for you, your agent, and your team...",
-          "timestamp": "2026-07-28T13:30:02",
-          "url": "https://www.producthunt.com/products/liminal-4",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SUB/WAVE",
-          "body": "Self-hosted radio with an AI DJ and one shared stream",
-          "timestamp": "2026-07-28T13:30:02",
-          "url": "https://www.producthunt.com/products/sub-wave",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n* **AI Agents are on the Rise**: Several new AI agent launches were announced on Product Hunt, indicating a growing interest in AI-powered tools for various industries, such as customer support, marketing, and education.\n* **Security and Privacy Concerns**: The launch of Halo by Scam AI, which detects fake identities on video calls, highlights the increasing importance of security and privacy in the age of AI.\n* **AI-Powered Productivity Tools**: The launches of Inventory, CoachAI, and AgentSky demonstrate the growing demand for AI-powered productivity tools that can streamline workflows and improve efficiency.\n* **AI in Education and Training**: The launch of SoundGate Guitar, which provides real-time feedback on playing, and the AI Music Tutor, indicate a growing interest in using AI for educational and training purposes.\n* **AI in Marketing and Sales**: The launches of Airtop for Google Ads Automation and NudgeForMe, an AI follow-up agent for missed email opportunities, highlight the increasing importance of AI in marketing and sales.\n\nTrend: **The Rise of AI-Powered Tools for Productivity and Efficiency**: The recent launches on Product Hunt suggest a growing trend towards using AI-powered tools to improve productivity and efficiency in various industries, including customer support, marketing, and education."
+  "summary": "Based on the Product Hunt launch announcements, here are 4-6 key developments, insights, and 1 trend:\n\n**Developments:**\n\n* **Productivity and AI Assistants:** Several new AI-powered productivity tools have been launched, such as Atlaso, Hey Noah, and Bo AI, which aim to provide personalized assistance and automation for various tasks.\n* **AI Agents:** Multiple launches, like AgentSky and Inventory, focus on providing AI agents that can be used in various applications, including sales, marketing, and customer service.\n* **Security and Verification:** Halo by Scam AI and Yapyap aim to enhance security and verification by analyzing video calls and local meetings, respectively.\n* **Creative and Media:** Premation and Caimera provide AI-powered tools for video production and fashion design, respectively.\n* **Marketplace and E-commerce:** Kopai and Cleanlist AI enable users to share their expertise and monetize their knowledge, while DepthData tracks and manages AI spend.\n\n**Trend:** **Decentralization and Democratization of AI**\n\nThe ongoing trend is the decentralization and democratization of AI, with a growing number of launches that focus on providing AI agents, tools, and platforms that can be used by individuals and businesses of all sizes. This reflects a shift towards more accessible and user-friendly AI solutions, allowing non-experts to leverage AI for various purposes."
 }
