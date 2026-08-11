@@ -1,10 +1,37 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-08-10T03:58:31.012Z",
+  "timestamp": "2026-08-11T03:46:23.428Z",
   "categories": {
     "news": {
-      "count": 36,
+      "count": 32,
       "items": [
+        {
+          "subject": "Product Hunt Launch: SecondBrain Note by GenSpark",
+          "body": "A MagSafe AI Recorder That Acts for You.",
+          "timestamp": "2026-08-10T13:30:01",
+          "url": "https://www.producthunt.com/products/genspark",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AI Group Call",
+          "body": "Type a goal, join a live voice call with six AI minds...",
+          "timestamp": "2026-08-10T13:30:01",
+          "url": "https://www.producthunt.com/products/ai-group-call",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Yarr",
+          "body": "Run your AI team from one desktop workspace.",
+          "timestamp": "2026-08-10T13:30:01",
+          "url": "https://www.producthunt.com/products/yarr",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Toolport",
           "body": "Every tool, one port. One MCP setup for all your AI agents...",
@@ -24,46 +51,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: AgentOne Desktop",
-          "body": "Automate boring work. Extensible and free desktop AI agent.",
+          "subject": "Product Hunt Launch: Troopr AI Scrum Master",
+          "body": "Writes your standup from real work. Remembers your team.",
           "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/agentone-desktop",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Orite",
-          "body": "Give your AI Agent money. Not a blank check.",
-          "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/orite",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ShootClip",
-          "body": "Edit videos 10x faster with AI",
-          "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/shootclip",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Reference",
-          "body": "Local semantic search for AI agents",
-          "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/reference-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Coldtea.ai",
-          "body": "Make your software delivery self-driving",
-          "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/coldtea",
+          "url": "https://www.producthunt.com/products/troopr",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -78,10 +69,55 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Troopr AI Scrum Master",
-          "body": "Writes your standup from real work. Remembers your team.",
+          "subject": "Product Hunt Launch: Coldtea.ai",
+          "body": "Make your software delivery self-driving",
           "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/troopr",
+          "url": "https://www.producthunt.com/products/coldtea",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Reference",
+          "body": "Local semantic search for AI agents",
+          "timestamp": "2026-08-07T13:30:02",
+          "url": "https://www.producthunt.com/products/reference-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ShootClip",
+          "body": "Edit videos 10x faster with AI",
+          "timestamp": "2026-08-07T13:30:02",
+          "url": "https://www.producthunt.com/products/shootclip",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Orite",
+          "body": "Give your AI Agent money. Not a blank check.",
+          "timestamp": "2026-08-07T13:30:02",
+          "url": "https://www.producthunt.com/products/orite",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AgentOne Desktop",
+          "body": "Automate boring work. Extensible and free desktop AI agent.",
+          "timestamp": "2026-08-07T13:30:02",
+          "url": "https://www.producthunt.com/products/agentone-desktop",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Website to Markdown API",
+          "body": "Turn any website into LLM-ready Markdown",
+          "timestamp": "2026-08-06T13:30:02",
+          "url": "https://www.producthunt.com/products/website-to-markdown-api",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -109,15 +145,6 @@
           "body": "Count every chew with your AirPods.",
           "timestamp": "2026-08-06T13:30:02",
           "url": "https://www.producthunt.com/products/ododok",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Website to Markdown API",
-          "body": "Turn any website into LLM-ready Markdown",
-          "timestamp": "2026-08-06T13:30:02",
-          "url": "https://www.producthunt.com/products/website-to-markdown-api",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -222,37 +249,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Crodo AI",
-          "body": "Your voice-first AI assistant for macOS",
-          "timestamp": "2026-08-04T13:30:02",
-          "url": "https://www.producthunt.com/products/crodo-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Stynar",
           "body": "The AI SDR that runs outbound for you",
           "timestamp": "2026-08-04T13:30:02",
           "url": "https://www.producthunt.com/products/stynar",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FileFlippers",
-          "body": "Send big files and get paid on download",
-          "timestamp": "2026-08-04T13:30:02",
-          "url": "https://www.producthunt.com/products/fileflippers",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Hey Noah",
-          "body": "A proactive AI executive assistant for founders",
-          "timestamp": "2026-08-04T13:30:02",
-          "url": "https://www.producthunt.com/products/hey-noah",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -267,64 +267,28 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: yapyap",
-          "body": "Own your voice again. Local-first voice & meeting recorder.",
-          "timestamp": "2026-08-03T13:30:02",
-          "url": "https://www.producthunt.com/products/yapyap-3",
+          "subject": "Product Hunt Launch: Hey Noah",
+          "body": "A proactive AI executive assistant for founders",
+          "timestamp": "2026-08-04T13:30:02",
+          "url": "https://www.producthunt.com/products/hey-noah",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Open Minis",
-          "body": "An on-device AI Agent that runs on your phone, open & secure...",
-          "timestamp": "2026-08-03T13:30:02",
-          "url": "https://www.producthunt.com/products/open-minis",
+          "subject": "Product Hunt Launch: Crodo AI",
+          "body": "Your voice-first AI assistant for macOS",
+          "timestamp": "2026-08-04T13:30:02",
+          "url": "https://www.producthunt.com/products/crodo-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Inventory",
-          "body": "Search every AI Agent & IDE Conversation",
-          "timestamp": "2026-08-03T13:30:02",
-          "url": "https://www.producthunt.com/products/inventory",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: CoachAI",
-          "body": "Your iPhone camera watches your form, rep by rep",
-          "timestamp": "2026-08-03T13:30:02",
-          "url": "https://www.producthunt.com/products/coachai-fitness-coach",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AgentSky",
-          "body": "Any harness, any LLM — cloud-hosted agents on demand.",
-          "timestamp": "2026-08-03T13:30:02",
-          "url": "https://www.producthunt.com/products/agentsky",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: PassiveShorts",
-          "body": "AI Faceless Video Generator for TikTok & YouTube",
-          "timestamp": "2026-08-03T13:30:02",
-          "url": "https://www.producthunt.com/products/passiveshorts",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Airtop for Google Ads Automation",
-          "body": "Build campaigns, optimize spend, and create reports.",
-          "timestamp": "2026-08-03T13:30:02",
-          "url": "https://www.producthunt.com/products/airtop",
+          "subject": "Product Hunt Launch: FileFlippers",
+          "body": "Send big files and get paid on download",
+          "timestamp": "2026-08-04T13:30:02",
+          "url": "https://www.producthunt.com/products/fileflippers",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -332,5 +296,5 @@
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **Toolport and Hexis launched on Product Hunt**: These two tools, Toolport and Hexis, aim to simplify the integration and management of AI agents. Toolport provides a unified setup for all AI agents, whereas Hexis enables Git-backed skills and context for AI agents.\n* **AgentOne Desktop and Orite also caught attention**: These tools focus on automating work and giving AI agents financial capabilities. AgentOne Desktop offers extensibility and free desktop AI agents, while Orite enables giving AI agents money without a blank check.\n* **ShootClip and Reference enable efficient video editing and local search**: ShootClip accelerates video editing by 10 times using AI, and Reference enables local semantic search for AI agents.\n* **Coldtea.ai and Nitro 4.0 improve software delivery and human translation**: Coldtea.ai makes software delivery self-driving, while Nitro 4.0 is a human translation platform designed for AI agents.\n* **Brandfetch and UCP Radar address marketing and product visibility**: Brandfetch prevents AI agents from guessing brand logos, while UCP Radar makes product feeds visible to AI shopping agents.\n\n**Trend:** There is a growing focus on developing tools that enhance the efficiency, effectiveness, and collaboration between humans and AI agents. Many of the recently launched products address the need to integrate, manage, and streamline AI agents to achieve better productivity and outcomes."
+  "summary": "Here are 4-6 key developments with insight and 1 trend:\n\n**Key Developments:**\n\n* **SecondBrain Note by GenSpark**: A MagSafe AI Recorder that acts as a personal assistant, freeing users from mundane tasks.\n* **AI Group Call**: A product that enables users to join live voice calls with six AI minds, allowing for more effective collaboration.\n* **Yarr**: A desktop workspace that runs AI teams, streamlining productivity and automation.\n* **Toolport**: A product that integrates multiple tools into a unified MCP (Multi-Blockchain Protocol) setup, making it easier to manage AI agents.\n* **Hexis**: A product that provides Git-backed skills, tools, and context for AI agents, enabling more informed decision-making.\n\n**Trend:**\n\n* **Increased focus on Automation and Personalization**: Many of the latest product launches focus on enhancing automation and personalization, such as SecondBrain Note, Yarr, and Hexis. This trend suggests that users are seeking more efficient and streamlined ways to work, and vendors are responding with innovative products that leverage AI and automation to improve productivity and decision-making.\n\n**Additional Insights:**\n\n* Many of the launched products are designed to work seamlessly with AI agents, indicating a growing interest in integrating AI into various workflows.\n* Products like Atlas and Atlaso suggest that users are looking for more efficient ways to manage and integrate multiple AI agents, pointing to a need for better AI orchestration tools.\n* The presence of products like Toolport and Hexis highlights the growing importance of compatibility and integrations between various AI tools and systems."
 }
