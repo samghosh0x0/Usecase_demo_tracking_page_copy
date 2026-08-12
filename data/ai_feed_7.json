@@ -1,10 +1,55 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-08-11T03:46:23.428Z",
+  "timestamp": "2026-08-12T04:09:35.824Z",
   "categories": {
     "news": {
       "count": 32,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Vizard Agent",
+          "body": "One AI agent for every kind of video",
+          "timestamp": "2026-08-11T13:30:02",
+          "url": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AMP by CanyonTechs AI",
+          "body": "AI agents that act. Automation that delivers.",
+          "timestamp": "2026-08-11T13:30:02",
+          "url": "https://www.producthunt.com/products/amp-by-canyontechs-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: BetterClaw",
+          "body": "Deploy AI Agent, 60 seconds & $0 forever",
+          "timestamp": "2026-08-11T13:30:02",
+          "url": "https://www.producthunt.com/products/betterclaw",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Switchy for Mac",
+          "body": "Switch your Magic Keyboard, Trackpad, and Mouse between Macs",
+          "timestamp": "2026-08-11T13:30:02",
+          "url": "https://www.producthunt.com/products/switchy-for-mac",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+          "body": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+          "timestamp": "2026-08-11T04:00:02",
+          "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+          "extras": {
+            "data_origin": "OpenAI News"
+          }
+        },
         {
           "subject": "Product Hunt Launch: SecondBrain Note by GenSpark",
           "body": "A MagSafe AI Recorder That Acts for You.",
@@ -46,6 +91,15 @@
           "body": "Git-backed skills, tools & context for AI agents",
           "timestamp": "2026-08-08T13:30:01",
           "url": "https://www.producthunt.com/products/bevel-4",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Orite",
+          "body": "Give your AI Agent money. Not a blank check.",
+          "timestamp": "2026-08-07T13:30:02",
+          "url": "https://www.producthunt.com/products/orite",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -96,28 +150,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Orite",
-          "body": "Give your AI Agent money. Not a blank check.",
-          "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/orite",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: AgentOne Desktop",
           "body": "Automate boring work. Extensible and free desktop AI agent.",
           "timestamp": "2026-08-07T13:30:02",
           "url": "https://www.producthunt.com/products/agentone-desktop",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Website to Markdown API",
-          "body": "Turn any website into LLM-ready Markdown",
-          "timestamp": "2026-08-06T13:30:02",
-          "url": "https://www.producthunt.com/products/website-to-markdown-api",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -145,6 +181,15 @@
           "body": "Count every chew with your AirPods.",
           "timestamp": "2026-08-06T13:30:02",
           "url": "https://www.producthunt.com/products/ododok",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Website to Markdown API",
+          "body": "Turn any website into LLM-ready Markdown",
+          "timestamp": "2026-08-06T13:30:02",
+          "url": "https://www.producthunt.com/products/website-to-markdown-api",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -181,6 +226,15 @@
           "body": "The easiest way to access frontier AI models.",
           "timestamp": "2026-08-06T13:30:02",
           "url": "https://www.producthunt.com/products/token-harbor",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ngrok AI Gateway",
+          "body": "One private gateway for every AI model",
+          "timestamp": "2026-08-05T13:30:02",
+          "url": "https://www.producthunt.com/products/ngrok-ai-gateway",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -238,63 +292,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: ngrok AI Gateway",
-          "body": "One private gateway for every AI model",
-          "timestamp": "2026-08-05T13:30:02",
-          "url": "https://www.producthunt.com/products/ngrok-ai-gateway",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Stynar",
-          "body": "The AI SDR that runs outbound for you",
-          "timestamp": "2026-08-04T13:30:02",
-          "url": "https://www.producthunt.com/products/stynar",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Atlaso",
-          "body": "One memory for every AI you use",
-          "timestamp": "2026-08-04T13:30:02",
-          "url": "https://www.producthunt.com/products/atlaso",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Hey Noah",
-          "body": "A proactive AI executive assistant for founders",
-          "timestamp": "2026-08-04T13:30:02",
-          "url": "https://www.producthunt.com/products/hey-noah",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Crodo AI",
-          "body": "Your voice-first AI assistant for macOS",
-          "timestamp": "2026-08-04T13:30:02",
-          "url": "https://www.producthunt.com/products/crodo-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FileFlippers",
-          "body": "Send big files and get paid on download",
-          "timestamp": "2026-08-04T13:30:02",
-          "url": "https://www.producthunt.com/products/fileflippers",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 key developments with insight and 1 trend:\n\n**Key Developments:**\n\n* **SecondBrain Note by GenSpark**: A MagSafe AI Recorder that acts as a personal assistant, freeing users from mundane tasks.\n* **AI Group Call**: A product that enables users to join live voice calls with six AI minds, allowing for more effective collaboration.\n* **Yarr**: A desktop workspace that runs AI teams, streamlining productivity and automation.\n* **Toolport**: A product that integrates multiple tools into a unified MCP (Multi-Blockchain Protocol) setup, making it easier to manage AI agents.\n* **Hexis**: A product that provides Git-backed skills, tools, and context for AI agents, enabling more informed decision-making.\n\n**Trend:**\n\n* **Increased focus on Automation and Personalization**: Many of the latest product launches focus on enhancing automation and personalization, such as SecondBrain Note, Yarr, and Hexis. This trend suggests that users are seeking more efficient and streamlined ways to work, and vendors are responding with innovative products that leverage AI and automation to improve productivity and decision-making.\n\n**Additional Insights:**\n\n* Many of the launched products are designed to work seamlessly with AI agents, indicating a growing interest in integrating AI into various workflows.\n* Products like Atlas and Atlaso suggest that users are looking for more efficient ways to manage and integrate multiple AI agents, pointing to a need for better AI orchestration tools.\n* The presence of products like Toolport and Hexis highlights the growing importance of compatibility and integrations between various AI tools and systems."
+  "summary": "Key Developments:\n\n* **Product Hunt Launches Multiple AI-Related Products**: Product Hunt has seen a series of launches of various AI-related products and services, including AI agents, automation tools, and more.\n* **Virgin Atlantic Collaborates with ChatGPT Work**: Virgin Atlantic is leveraging ChatGPT Work to improve customer journeys, accelerating research, product planning, and decision-making.\n* **Launch of Video AI Agent, Vizard Agent**: Vizard Agent is a product that enables the creation of AI agents for every kind of video.\n\nKey Highlights:\n\n- Product Hunt has listed several AI-related products in the past week, showcasing the growing interest in AI development and adoption.\n- Companies are increasingly leveraging AI to streamline processes and improve customer experiences.\n- Virgin Atlantic's collaboration with ChatGPT Work highlights the importance of AI in enhancing customer journeys.\n\nTrending Topic: \n\n**Growing Use of AI in Business Automation and Customer Experience**: The data suggests a rising trend of businesses adopting AI solutions to automate tasks and enhance customer experiences. As seen with Virgin Atlantic's use of ChatGPT Work and the launches of various AI-related products, companies are increasingly leveraging AI to streamline processes and improve interactions with customers."
 }
