@@ -1,10 +1,82 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-08-12T04:09:35.824Z",
+  "timestamp": "2026-08-13T04:13:45.653Z",
   "categories": {
     "news": {
-      "count": 32,
+      "count": 33,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Assembly Studio",
+          "body": "AI app builder that grows your revenue",
+          "timestamp": "2026-08-12T13:30:02",
+          "url": "https://www.producthunt.com/products/assembly-7",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Ballet",
+          "body": "Agentic workflows that deliver the same outcome every time",
+          "timestamp": "2026-08-12T13:30:02",
+          "url": "https://www.producthunt.com/products/ballet",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Media Sharing",
+          "body": "Let AI agents put screenshots and videos on pull requests",
+          "timestamp": "2026-08-12T13:30:02",
+          "url": "https://www.producthunt.com/products/argos",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: LaraCopilot",
+          "body": "Agentic AI Engineer that builds real apps",
+          "timestamp": "2026-08-12T13:30:02",
+          "url": "https://www.producthunt.com/products/laracopilot",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: CodeBurn",
+          "body": "See where your AI coding spend actually goes",
+          "timestamp": "2026-08-12T13:30:02",
+          "url": "https://www.producthunt.com/products/codeburn",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Sidekick™",
+          "body": "The agentic interface",
+          "timestamp": "2026-08-12T13:30:02",
+          "url": "https://www.producthunt.com/products/sidekick-16",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: BearDrive",
+          "body": "Turn your AI agents' files into your team's work",
+          "timestamp": "2026-08-12T13:30:02",
+          "url": "https://www.producthunt.com/products/beardrive",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Cohesor",
+          "body": "A neutral control plane for enterprise AI agents",
+          "timestamp": "2026-08-12T13:30:02",
+          "url": "https://www.producthunt.com/products/cohesor",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Vizard Agent",
           "body": "One AI agent for every kind of video",
@@ -96,15 +168,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Orite",
-          "body": "Give your AI Agent money. Not a blank check.",
-          "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/orite",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Troopr AI Scrum Master",
           "body": "Writes your standup from real work. Remembers your team.",
           "timestamp": "2026-08-07T13:30:02",
@@ -150,10 +213,28 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Orite",
+          "body": "Give your AI Agent money. Not a blank check.",
+          "timestamp": "2026-08-07T13:30:02",
+          "url": "https://www.producthunt.com/products/orite",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: AgentOne Desktop",
           "body": "Automate boring work. Extensible and free desktop AI agent.",
           "timestamp": "2026-08-07T13:30:02",
           "url": "https://www.producthunt.com/products/agentone-desktop",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Token Harbor",
+          "body": "The easiest way to access frontier AI models.",
+          "timestamp": "2026-08-06T13:30:02",
+          "url": "https://www.producthunt.com/products/token-harbor",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -220,81 +301,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Token Harbor",
-          "body": "The easiest way to access frontier AI models.",
-          "timestamp": "2026-08-06T13:30:02",
-          "url": "https://www.producthunt.com/products/token-harbor",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ngrok AI Gateway",
-          "body": "One private gateway for every AI model",
-          "timestamp": "2026-08-05T13:30:02",
-          "url": "https://www.producthunt.com/products/ngrok-ai-gateway",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Kiro Crew",
-          "body": "Open source agentic development workspace",
-          "timestamp": "2026-08-05T13:30:02",
-          "url": "https://www.producthunt.com/products/kiro",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Cloudflare Wallets",
-          "body": "the programmable wallet for the agentic Internet",
-          "timestamp": "2026-08-05T13:30:02",
-          "url": "https://www.producthunt.com/products/cloudflare",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Wispr Flow Notetaker",
-          "body": "Meeting notes that get the details right.",
-          "timestamp": "2026-08-05T13:30:02",
-          "url": "https://www.producthunt.com/products/wisprflow",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: npm i -g hotcell",
-          "body": "Local sandboxes for AI agents on your Mac, Linux, bare metal.",
-          "timestamp": "2026-08-05T13:30:02",
-          "url": "https://www.producthunt.com/products/npm-i-g-hotcell",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AdAnt AI",
-          "body": "Claude for viral, high-converting social ads",
-          "timestamp": "2026-08-05T13:30:02",
-          "url": "https://www.producthunt.com/products/adant-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Aegisora",
-          "body": "The narrow control plane for AI agent tool and API calls.",
-          "timestamp": "2026-08-05T13:30:02",
-          "url": "https://www.producthunt.com/products/aegisora",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Key Developments:\n\n* **Product Hunt Launches Multiple AI-Related Products**: Product Hunt has seen a series of launches of various AI-related products and services, including AI agents, automation tools, and more.\n* **Virgin Atlantic Collaborates with ChatGPT Work**: Virgin Atlantic is leveraging ChatGPT Work to improve customer journeys, accelerating research, product planning, and decision-making.\n* **Launch of Video AI Agent, Vizard Agent**: Vizard Agent is a product that enables the creation of AI agents for every kind of video.\n\nKey Highlights:\n\n- Product Hunt has listed several AI-related products in the past week, showcasing the growing interest in AI development and adoption.\n- Companies are increasingly leveraging AI to streamline processes and improve customer experiences.\n- Virgin Atlantic's collaboration with ChatGPT Work highlights the importance of AI in enhancing customer journeys.\n\nTrending Topic: \n\n**Growing Use of AI in Business Automation and Customer Experience**: The data suggests a rising trend of businesses adopting AI solutions to automate tasks and enhance customer experiences. As seen with Virgin Atlantic's use of ChatGPT Work and the launches of various AI-related products, companies are increasingly leveraging AI to streamline processes and improve interactions with customers."
+  "summary": "**Summary of Key Developments with Insight**\n\n* **Launch of new AI-powered tools:** Several new AI-powered tools and platforms were launched, including Assembly Studio, Ballet, Media Sharing, LaraCopilot, CodeBurn, Sidekick, BearDrive, Cohesor, Vizard Agent, AMP by CanyonTechs AI, BetterClaw, Switchy for Mac, SecondBrain Note by GenSpark, AI Group Call, Yarr, Toolport, Hexis, Troopr AI Scrum Master, Nitro 4.0, Coldtea.ai, Reference, ShootClip, Orite, AgentOne Desktop, Token Harbor, Brandfetch MCP, UCP Radar, Ododok, Website to Markdown API, Ticketdesk AI, and Superlog Responder. These tools aim to streamline various aspects of work, including app development, automation, customer support, and more.\n* **Increased focus on AI automation:** Many of the launched tools focus on automating repetitive and mundane tasks, making work more efficient and freeing up time for more strategic tasks.\n* **Integration with AI agents:** Some of the launched tools, such as Toolport and Hexis, offer integration with AI agents, making it easier to manage and use these agents.\n* **Enhanced collaboration:** AI Group Call and Yarr aim to facilitate collaboration among teams and individuals, while also leveraging AI to improve productivity.\n* **Agentic workflows:** Several tools, including Ballet and Ansible, focus on creating agentic workflows that deliver consistent outcomes every time.\n* **Improving customer experience:** Companies like Virgin Atlantic are leveraging ChatGPT Work to accelerate research, product planning, and decision-making, while also improving the customer experience.\n\n**Trend:** The trend is towards increasing adoption and development of AI-powered tools and platforms that automate tasks, enhance collaboration, and improve customer experience."
 }
