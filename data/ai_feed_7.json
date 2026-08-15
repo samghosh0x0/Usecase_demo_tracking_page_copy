@@ -1,78 +1,42 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-08-14T04:10:24.388Z",
+  "timestamp": "2026-08-15T02:53:00.340Z",
   "categories": {
     "news": {
-      "count": 34,
+      "count": 30,
       "items": [
+        {
+          "subject": "Product Hunt Launch: DeepSeek Harness",
+          "body": "Composable agent harness where everything is a plugin",
+          "timestamp": "2026-08-14T13:30:02",
+          "url": "https://www.producthunt.com/products/deepseek",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: min.",
+          "body": "min. builds context continuously from your meetings and emails.",
+          "timestamp": "2026-08-14T13:30:02",
+          "url": "https://www.producthunt.com/products/min-4",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Occasio®",
+          "body": "Pinboard meets citation manager for shared insights.",
+          "timestamp": "2026-08-14T13:30:02",
+          "url": "https://www.producthunt.com/products/occasio-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: apra-fleet",
           "body": "Run a fleet of AI agents across your machines",
           "timestamp": "2026-08-13T13:30:02",
           "url": "https://www.producthunt.com/products/apra-fleet",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Execlave",
-          "body": "The gate between your AI agents and the real world",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/execlave",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: WebBrain",
-          "body": "The sidebar agent for the rest of us",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/webbrain",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ito",
-          "body": "AI code review that runs your code",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Nuphos",
-          "body": "The AI-Native DevOps Workspace.",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/nuphos",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Scrimba Explain",
-          "body": "Ask any question, get a video back instantly",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/scrimba",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Patience",
-          "body": "The only mechanic is waiting. The only currency is time",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/patience-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Oasis",
-          "body": "Where humans and agents come to work.",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/oasis-6",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -87,10 +51,73 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Ballet",
-          "body": "Agentic workflows that deliver the same outcome every time",
+          "subject": "Product Hunt Launch: Oasis",
+          "body": "Where humans and agents come to work.",
+          "timestamp": "2026-08-13T13:30:02",
+          "url": "https://www.producthunt.com/products/oasis-6",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Patience",
+          "body": "The only mechanic is waiting. The only currency is time",
+          "timestamp": "2026-08-13T13:30:02",
+          "url": "https://www.producthunt.com/products/patience-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Scrimba Explain",
+          "body": "Ask any question, get a video back instantly",
+          "timestamp": "2026-08-13T13:30:02",
+          "url": "https://www.producthunt.com/products/scrimba",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Nuphos",
+          "body": "The AI-Native DevOps Workspace.",
+          "timestamp": "2026-08-13T13:30:02",
+          "url": "https://www.producthunt.com/products/nuphos",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Ito",
+          "body": "AI code review that runs your code",
+          "timestamp": "2026-08-13T13:30:02",
+          "url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: WebBrain",
+          "body": "The sidebar agent for the rest of us",
+          "timestamp": "2026-08-13T13:30:02",
+          "url": "https://www.producthunt.com/products/webbrain",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Execlave",
+          "body": "The gate between your AI agents and the real world",
+          "timestamp": "2026-08-13T13:30:02",
+          "url": "https://www.producthunt.com/products/execlave",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: BearDrive",
+          "body": "Turn your AI agents' files into your team's work",
           "timestamp": "2026-08-12T13:30:02",
-          "url": "https://www.producthunt.com/products/ballet",
+          "url": "https://www.producthunt.com/products/beardrive",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -109,15 +136,6 @@
           "body": "A neutral control plane for enterprise AI agents",
           "timestamp": "2026-08-12T13:30:02",
           "url": "https://www.producthunt.com/products/cohesor",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: BearDrive",
-          "body": "Turn your AI agents' files into your team's work",
-          "timestamp": "2026-08-12T13:30:02",
-          "url": "https://www.producthunt.com/products/beardrive",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -154,6 +172,15 @@
           "body": "Let AI agents put screenshots and videos on pull requests",
           "timestamp": "2026-08-12T13:30:02",
           "url": "https://www.producthunt.com/products/argos",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Ballet",
+          "body": "Agentic workflows that deliver the same outcome every time",
+          "timestamp": "2026-08-12T13:30:02",
+          "url": "https://www.producthunt.com/products/ballet",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -204,10 +231,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Yarr",
-          "body": "Run your AI team from one desktop workspace.",
+          "subject": "Product Hunt Launch: SecondBrain Note by GenSpark",
+          "body": "A MagSafe AI Recorder That Acts for You.",
           "timestamp": "2026-08-10T13:30:01",
-          "url": "https://www.producthunt.com/products/yarr",
+          "url": "https://www.producthunt.com/products/genspark",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -222,19 +249,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: SecondBrain Note by GenSpark",
-          "body": "A MagSafe AI Recorder That Acts for You.",
+          "subject": "Product Hunt Launch: Yarr",
+          "body": "Run your AI team from one desktop workspace.",
           "timestamp": "2026-08-10T13:30:01",
-          "url": "https://www.producthunt.com/products/genspark",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Toolport",
-          "body": "Every tool, one port. One MCP setup for all your AI agents...",
-          "timestamp": "2026-08-08T13:30:01",
-          "url": "https://www.producthunt.com/products/conduit-12",
+          "url": "https://www.producthunt.com/products/yarr",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -249,64 +267,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: AgentOne Desktop",
-          "body": "Automate boring work. Extensible and free desktop AI agent.",
-          "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/agentone-desktop",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Troopr AI Scrum Master",
-          "body": "Writes your standup from real work. Remembers your team.",
-          "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/troopr",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Nitro 4.0",
-          "body": "The first human translation platform built for AI agents",
-          "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/alconost-localization",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Coldtea.ai",
-          "body": "Make your software delivery self-driving",
-          "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/coldtea",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Reference",
-          "body": "Local semantic search for AI agents",
-          "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/reference-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ShootClip",
-          "body": "Edit videos 10x faster with AI",
-          "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/shootclip",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Orite",
-          "body": "Give your AI Agent money. Not a blank check.",
-          "timestamp": "2026-08-07T13:30:02",
-          "url": "https://www.producthunt.com/products/orite",
+          "subject": "Product Hunt Launch: Toolport",
+          "body": "Every tool, one port. One MCP setup for all your AI agents...",
+          "timestamp": "2026-08-08T13:30:01",
+          "url": "https://www.producthunt.com/products/conduit-12",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -314,5 +278,5 @@
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n**Developments:**\n\n* **Product Hunts launched:** 34 new AI-related products and services have been launched on Product Hunt, showcasing a significant surge in innovation and development in the field of artificial intelligence.\n* **AI Agent-based solutions:** Many of the launched products focus on AI agents, which are software agents that can perform tasks autonomously, demonstrating a growing trend towards using AI to automate routine and mundane tasks.\n* **Enterprise adoption:** Several products, such as Cohesor and Coldtea.ai, target enterprise clients, indicating a growing interest in integrating AI into business workflows and operations.\n* **Augmentation of human capabilities:** Products like Switchy for Mac, Vizard Agent, and Nitro 4.0 aim to augment human capabilities, such as improving productivity, automating translation, and enhancing creativity, further highlighting the intersection of humans and AI.\n\n**Trend:** \n* **Rise of AI Agents:** The trend of AI agents continues to grow, with many products launching on Product Hunt and targeting the use of AI agents for various purposes, from automating routine tasks to augmenting human capabilities. This suggests that the industry is moving towards a more integrated and autonomous AI environment, where AI agents play a significant role in augmenting human productivity and capabilities."
+  "summary": "Here are the key developments with insight:\n\n**Key Developments:**\n\n* **Product Hunt launched several new AI-related products:** Over the past few days, Product Hunt has launched a multitude of new AI-related products, including agent harnesses, AI-native devops workspaces, code review tools, and AI agents for various tasks such as video editing and task automation.\n* **AI adoption in industries:** Virgin Atlantic is leveraging ChatGPT Work to accelerate research, product planning, and decision-making across the customer journey, highlighting the growing adoption of AI in industries.\n* **New tools for AI development and management:** Several new tools have been launched to help manage and develop AI agents, including agent harnesses, AI-native devops workspaces, and agent control planes.\n* **Increased focus on AI workflows:** Many of the new products focus on improving AI workflows, such as toolport, which aims to simplify the setup of multiple MCP and AI agents.\n* **Specialization in AI-related products:** The increased number of AI-related products launched on Product Hunt suggests a growing trend towards specialization in AI development and deployment.\n\n**Trend:**\n\n* **Growing adoption of AI in business:** The increasing number of AI-related products and their varied applications (from AI agents to workflow management) suggest that AI is becoming an essential tool in business, with companies exploring ways to leverage AI to improve productivity, efficiency, and decision-making."
 }
