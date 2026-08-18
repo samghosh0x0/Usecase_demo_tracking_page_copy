@@ -1,24 +1,60 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-08-17T03:01:12.291Z",
+  "timestamp": "2026-08-18T02:56:35.671Z",
   "categories": {
     "news": {
-      "count": 32,
+      "count": 35,
       "items": [
         {
-          "subject": "Product Hunt Launch: GLM-5.3",
-          "body": "Coding leap from scaled post-training on the same base",
-          "timestamp": "2026-08-15T13:30:02",
-          "url": "https://www.producthunt.com/products/z-ai",
+          "subject": "Product Hunt Launch: Omni by xpander",
+          "body": "Stop babysitting your AI agents",
+          "timestamp": "2026-08-17T13:30:01",
+          "url": "https://www.producthunt.com/products/omni-by-xpander",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: nenspace",
-          "body": "the lo-fi of LLMs: your mind, made larger",
-          "timestamp": "2026-08-15T13:30:02",
-          "url": "https://www.producthunt.com/products/nenspace",
+          "subject": "Product Hunt Launch: Startup Program by Recall.ai",
+          "body": "Startup program for meeting recording infrastructure",
+          "timestamp": "2026-08-17T13:30:01",
+          "url": "https://www.producthunt.com/products/recall-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Clears",
+          "body": "Move beyond AI coding to agentic software delivery",
+          "timestamp": "2026-08-17T13:30:01",
+          "url": "https://www.producthunt.com/products/clears",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Bulbthings",
+          "body": "The AI platform to track and manage your physical assets",
+          "timestamp": "2026-08-17T13:30:01",
+          "url": "https://www.producthunt.com/products/bulbthings",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Hansel by Seedling",
+          "body": "Your email, your server, your keys so you're not locked out.",
+          "timestamp": "2026-08-17T13:30:01",
+          "url": "https://www.producthunt.com/products/hansel-by-seedling",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: TinyFish",
+          "body": "The web operating layer for AI agents",
+          "timestamp": "2026-08-17T13:30:01",
+          "url": "https://www.producthunt.com/products/tinyfish-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -37,6 +73,24 @@
           "body": "Proactive sales agent that books, shows up, and runs demos",
           "timestamp": "2026-08-15T13:30:02",
           "url": "https://www.producthunt.com/products/salescloser-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: nenspace",
+          "body": "the lo-fi of LLMs: your mind, made larger",
+          "timestamp": "2026-08-15T13:30:02",
+          "url": "https://www.producthunt.com/products/nenspace",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: GLM-5.3",
+          "body": "Coding leap from scaled post-training on the same base",
+          "timestamp": "2026-08-15T13:30:02",
+          "url": "https://www.producthunt.com/products/z-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -69,10 +123,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Execlave",
-          "body": "The gate between your AI agents and the real world",
+          "subject": "Product Hunt Launch: Scrimba Explain",
+          "body": "Ask any question, get a video back instantly",
           "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/execlave",
+          "url": "https://www.producthunt.com/products/scrimba",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -114,15 +168,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Scrimba Explain",
-          "body": "Ask any question, get a video back instantly",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/scrimba",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Nuphos",
           "body": "The AI-Native DevOps Workspace.",
           "timestamp": "2026-08-13T13:30:02",
@@ -150,28 +195,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Assembly Studio",
-          "body": "AI app builder that grows your revenue",
-          "timestamp": "2026-08-12T13:30:02",
-          "url": "https://www.producthunt.com/products/assembly-7",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Cohesor",
-          "body": "A neutral control plane for enterprise AI agents",
-          "timestamp": "2026-08-12T13:30:02",
-          "url": "https://www.producthunt.com/products/cohesor",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: BearDrive",
-          "body": "Turn your AI agents' files into your team's work",
-          "timestamp": "2026-08-12T13:30:02",
-          "url": "https://www.producthunt.com/products/beardrive",
+          "subject": "Product Hunt Launch: Execlave",
+          "body": "The gate between your AI agents and the real world",
+          "timestamp": "2026-08-13T13:30:02",
+          "url": "https://www.producthunt.com/products/execlave",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -186,19 +213,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: CodeBurn",
-          "body": "See where your AI coding spend actually goes",
+          "subject": "Product Hunt Launch: Ballet",
+          "body": "Agentic workflows that deliver the same outcome every time",
           "timestamp": "2026-08-12T13:30:02",
-          "url": "https://www.producthunt.com/products/codeburn",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: LaraCopilot",
-          "body": "Agentic AI Engineer that builds real apps",
-          "timestamp": "2026-08-12T13:30:02",
-          "url": "https://www.producthunt.com/products/laracopilot",
+          "url": "https://www.producthunt.com/products/ballet",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -213,10 +231,46 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Ballet",
-          "body": "Agentic workflows that deliver the same outcome every time",
+          "subject": "Product Hunt Launch: LaraCopilot",
+          "body": "Agentic AI Engineer that builds real apps",
           "timestamp": "2026-08-12T13:30:02",
-          "url": "https://www.producthunt.com/products/ballet",
+          "url": "https://www.producthunt.com/products/laracopilot",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: CodeBurn",
+          "body": "See where your AI coding spend actually goes",
+          "timestamp": "2026-08-12T13:30:02",
+          "url": "https://www.producthunt.com/products/codeburn",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: BearDrive",
+          "body": "Turn your AI agents' files into your team's work",
+          "timestamp": "2026-08-12T13:30:02",
+          "url": "https://www.producthunt.com/products/beardrive",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Cohesor",
+          "body": "A neutral control plane for enterprise AI agents",
+          "timestamp": "2026-08-12T13:30:02",
+          "url": "https://www.producthunt.com/products/cohesor",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Assembly Studio",
+          "body": "AI app builder that grows your revenue",
+          "timestamp": "2026-08-12T13:30:02",
+          "url": "https://www.producthunt.com/products/assembly-7",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -265,36 +319,9 @@
           "extras": {
             "data_origin": "OpenAI News"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Yarr",
-          "body": "Run your AI team from one desktop workspace.",
-          "timestamp": "2026-08-10T13:30:01",
-          "url": "https://www.producthunt.com/products/yarr",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SecondBrain Note by GenSpark",
-          "body": "A MagSafe AI Recorder That Acts for You.",
-          "timestamp": "2026-08-10T13:30:01",
-          "url": "https://www.producthunt.com/products/genspark",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AI Group Call",
-          "body": "Type a goal, join a live voice call with six AI minds...",
-          "timestamp": "2026-08-10T13:30:01",
-          "url": "https://www.producthunt.com/products/ai-group-call",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Key Developments with Insight:**\n\n* **Launches of New AI Products:** There have been numerous launches of new AI-related products on Product Hunt, showcasing the growing interest and demand for innovative AI solutions. These products range from AI coding tools to agentic interfaces and independent receipt systems for LLM API calls.\n\n* **Growing Focus on Agentic AI:** Several product launches highlight the growing focus on agentic AI, which involves AI agents that can learn and adapt to different tasks and situations. Examples include Sidekick, LaraCopilot, and Media Sharing.\n\n* **Integration of AI in Various Industries:** The launches of products like Occasio, BearDrive, and Media Sharing suggest that AI is being integrated into various industries, such as product management, coding, and data management.\n\n* **Improvements in AI Development Tools:** Launches like Inferock Bench and CodeBurn indicate a growing focus on improving AI development tools, allowing developers to better manage and optimize their AI workflows.\n\n* **Growing Importance of AI for Business:** The success of AI-powered products in various industries highlights the growing importance of AI for businesses, particularly in terms of research, product planning, and decision-making, as seen in the collaboration between Virgin Atlantic and ChatGPT Work.\n\n**Trend:** As AI continues to evolve and become more integrated into various industries, there is a growing need for tools and platforms that can streamline AI development, deployment, and management. This trend is reflected in the numerous product launches that focus on improving AI workflows, agentic AI, and integration of AI into various business processes."
+  "summary": "Here are the key developments with insight:\n\n**Key Developments:**\n\n* **Omni by xpander**: Released a new AI agent platform that allows users to create, deploy, and manage AI agents with ease.\n* **Startup Program by Recall.ai**: Introduced a new meeting recording infrastructure that enables users to access and manage recorded meetings more efficiently.\n* **Clears**: A new platform that helps users move beyond AI coding and focus on agentic software delivery.\n* **Bulbthings**: Launched an AI platform to track and manage physical assets, reducing the need for manual tracking and administrative tasks.\n* **TinyFish**: Introduced a web operating layer for AI agents that enables seamless integration with existing workflows.\n\n**Trend:**\n\n* **Agentic Software Delivery**: The emergence of AI-powered platforms that enable teams to create, deploy, and manage AI agents, streamlining workflows and reducing manual effort.\n\nInsight:\nThe recent product launches and company announcements in the AI space highlight the growing trend of agentic software delivery, which involves using AI agents to automate and streamline various tasks and workflows. These developments suggest a shift towards more autonomous and efficient work processes, with AI-powered platforms playing a central role in driving this shift."
 }
