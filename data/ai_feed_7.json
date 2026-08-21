@@ -1,60 +1,78 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-08-20T02:58:09.400Z",
+  "timestamp": "2026-08-21T03:04:25.066Z",
   "categories": {
     "news": {
-      "count": 36,
+      "count": 34,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Cloudways Managed AI Agents",
+          "body": "Skip the setup and run OpenClaw & Hermes, fully managed",
+          "timestamp": "2026-08-20T17:12:02",
+          "url": "https://www.producthunt.com/products/cloudways",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: MeetStream AI",
+          "body": "Unified API & Infra for AI Meeting Agents",
+          "timestamp": "2026-08-20T17:12:02",
+          "url": "https://www.producthunt.com/products/meetstream-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Berd",
+          "body": "Weird, playful desktop app for building with AI agents",
+          "timestamp": "2026-08-20T17:12:02",
+          "url": "https://www.producthunt.com/products/berd",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: bitdrift.ai",
+          "body": "The world’s first agentic mobile observability platform",
+          "timestamp": "2026-08-20T17:12:02",
+          "url": "https://www.producthunt.com/products/bitdrift",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Roveri",
+          "body": "A riding journal for iPhone every ride, painted on a map.",
+          "timestamp": "2026-08-20T17:12:02",
+          "url": "https://www.producthunt.com/products/roveri",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Checksum AI",
+          "body": "Your coding agent’s testing buddy",
+          "timestamp": "2026-08-20T17:12:02",
+          "url": "https://www.producthunt.com/products/checksum-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ProtoNote",
+          "body": "Share AI-built prototypes, get feedback pinned to the page",
+          "timestamp": "2026-08-20T17:12:02",
+          "url": "https://www.producthunt.com/products/protonote",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: AgentR 3.0",
           "body": "Hiring evaluation built for the AI cheating era",
           "timestamp": "2026-08-19T13:30:02",
           "url": "https://www.producthunt.com/products/agentr",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Expert Chase 2.0",
-          "body": "Where human life runs with AI",
-          "timestamp": "2026-08-19T13:30:02",
-          "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Sider 6.0",
-          "body": "Your AI Agent for the Browser",
-          "timestamp": "2026-08-19T13:30:02",
-          "url": "https://www.producthunt.com/products/chatgpt-sidebar-chrome-extension",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Zyntax",
-          "body": "Code Editor, Terminal, Git, AI Agent",
-          "timestamp": "2026-08-19T13:30:02",
-          "url": "https://www.producthunt.com/products/zyntax-coding-ide-for-android",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: anyCreature by Gobkit",
-          "body": "Summon monsters straight from your agent.",
-          "timestamp": "2026-08-19T13:30:02",
-          "url": "https://www.producthunt.com/products/anycreature",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Antibot",
-          "body": "AI community manager that hypes up your Discord server",
-          "timestamp": "2026-08-19T13:30:02",
-          "url": "https://www.producthunt.com/products/antibot",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -69,46 +87,46 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Atlas by WorkOS",
-          "body": "Your AI coworker in Slack",
-          "timestamp": "2026-08-18T13:30:02",
-          "url": "https://www.producthunt.com/products/workos",
+          "subject": "Product Hunt Launch: Antibot",
+          "body": "AI community manager that hypes up your Discord server",
+          "timestamp": "2026-08-19T13:30:02",
+          "url": "https://www.producthunt.com/products/antibot",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Controller AI",
-          "body": "Build deterministic agents that actually follow your process",
-          "timestamp": "2026-08-18T13:30:02",
-          "url": "https://www.producthunt.com/products/insight-ai",
+          "subject": "Product Hunt Launch: anyCreature by Gobkit",
+          "body": "Summon monsters straight from your agent.",
+          "timestamp": "2026-08-19T13:30:02",
+          "url": "https://www.producthunt.com/products/anycreature",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Clipwing Autopilot",
-          "body": "Get your clips without AI slop or hiring hassle",
-          "timestamp": "2026-08-18T13:30:02",
-          "url": "https://www.producthunt.com/products/clipwing",
+          "subject": "Product Hunt Launch: Zyntax",
+          "body": "Code Editor, Terminal, Git, AI Agent",
+          "timestamp": "2026-08-19T13:30:02",
+          "url": "https://www.producthunt.com/products/zyntax-coding-ide-for-android",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Transept AI",
-          "body": "AI translation software with translation memory",
-          "timestamp": "2026-08-18T13:30:02",
-          "url": "https://www.producthunt.com/products/transept-ai",
+          "subject": "Product Hunt Launch: Sider 6.0",
+          "body": "Your AI Agent for the Browser",
+          "timestamp": "2026-08-19T13:30:02",
+          "url": "https://www.producthunt.com/products/chatgpt-sidebar-chrome-extension",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Whisperstream",
-          "body": "Local AI dictation for Windows",
-          "timestamp": "2026-08-18T13:30:02",
-          "url": "https://www.producthunt.com/products/whisperstream",
+          "subject": "Product Hunt Launch: Expert Chase 2.0",
+          "body": "Where human life runs with AI",
+          "timestamp": "2026-08-19T13:30:02",
+          "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -132,6 +150,51 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Atlas by WorkOS",
+          "body": "Your AI coworker in Slack",
+          "timestamp": "2026-08-18T13:30:02",
+          "url": "https://www.producthunt.com/products/workos",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Whisperstream",
+          "body": "Local AI dictation for Windows",
+          "timestamp": "2026-08-18T13:30:02",
+          "url": "https://www.producthunt.com/products/whisperstream",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Transept AI",
+          "body": "AI translation software with translation memory",
+          "timestamp": "2026-08-18T13:30:02",
+          "url": "https://www.producthunt.com/products/transept-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Clipwing Autopilot",
+          "body": "Get your clips without AI slop or hiring hassle",
+          "timestamp": "2026-08-18T13:30:02",
+          "url": "https://www.producthunt.com/products/clipwing",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Controller AI",
+          "body": "Build deterministic agents that actually follow your process",
+          "timestamp": "2026-08-18T13:30:02",
+          "url": "https://www.producthunt.com/products/insight-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Bulbthings",
           "body": "The AI platform to track and manage your physical assets",
           "timestamp": "2026-08-17T13:30:01",
@@ -141,28 +204,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Omni by xpander",
-          "body": "Stop babysitting your AI agents",
+          "subject": "Product Hunt Launch: TinyFish",
+          "body": "The web operating layer for AI agents",
           "timestamp": "2026-08-17T13:30:01",
-          "url": "https://www.producthunt.com/products/omni-by-xpander",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Startup Program by Recall.ai",
-          "body": "Startup program for meeting recording infrastructure",
-          "timestamp": "2026-08-17T13:30:01",
-          "url": "https://www.producthunt.com/products/recall-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Clears",
-          "body": "Move beyond AI coding to agentic software delivery",
-          "timestamp": "2026-08-17T13:30:01",
-          "url": "https://www.producthunt.com/products/clears",
+          "url": "https://www.producthunt.com/products/tinyfish-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -177,10 +222,28 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: TinyFish",
-          "body": "The web operating layer for AI agents",
+          "subject": "Product Hunt Launch: Clears",
+          "body": "Move beyond AI coding to agentic software delivery",
           "timestamp": "2026-08-17T13:30:01",
-          "url": "https://www.producthunt.com/products/tinyfish-2",
+          "url": "https://www.producthunt.com/products/clears",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Startup Program by Recall.ai",
+          "body": "Startup program for meeting recording infrastructure",
+          "timestamp": "2026-08-17T13:30:01",
+          "url": "https://www.producthunt.com/products/recall-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Omni by xpander",
+          "body": "Stop babysitting your AI agents",
+          "timestamp": "2026-08-17T13:30:01",
+          "url": "https://www.producthunt.com/products/omni-by-xpander",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -231,15 +294,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: min.",
-          "body": "min. builds context continuously from your meetings and emails.",
-          "timestamp": "2026-08-14T13:30:02",
-          "url": "https://www.producthunt.com/products/min-4",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: DeepSeek Harness",
           "body": "Composable agent harness where everything is a plugin",
           "timestamp": "2026-08-14T13:30:02",
@@ -249,82 +303,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Execlave",
-          "body": "The gate between your AI agents and the real world",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/execlave",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: apra-fleet",
-          "body": "Run a fleet of AI agents across your machines",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/apra-fleet",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Mem Agent",
-          "body": "The AI that refuses to let you drop the ball",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/mem-2-0",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Oasis",
-          "body": "Where humans and agents come to work.",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/oasis-6",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Patience",
-          "body": "The only mechanic is waiting. The only currency is time",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/patience-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Scrimba Explain",
-          "body": "Ask any question, get a video back instantly",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/scrimba",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Nuphos",
-          "body": "The AI-Native DevOps Workspace.",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/nuphos",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ito",
-          "body": "AI code review that runs your code",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: WebBrain",
-          "body": "The sidebar agent for the rest of us",
-          "timestamp": "2026-08-13T13:30:02",
-          "url": "https://www.producthunt.com/products/webbrain",
+          "subject": "Product Hunt Launch: min.",
+          "body": "min. builds context continuously from your meetings and emails.",
+          "timestamp": "2026-08-14T13:30:02",
+          "url": "https://www.producthunt.com/products/min-4",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -332,5 +314,5 @@
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **Product Hunt Launches:** 36 new AI-related products were launched on Product Hunt, showcasing the growing interest in AI and its applications.\n* **Hiring Evaluation in the AI Cheating Era:** AgentR 3.0, a hiring evaluation tool built for the AI cheating era, was launched on Product Hunt, highlighting the need for AI-powered hiring tools.\n* **AI Agents for the Browser:** Sider 6.0, an AI agent for the browser, was launched on Product Hunt, demonstrating the increasing focus on AI-powered productivity tools.\n* **Code Editor, Terminal, Git, and AI Agent:** Zyntax, a code editor, terminal, and Git tool with an AI agent, was launched on Product Hunt, showcasing the integration of AI with development tools.\n* **AI Community Manager:** Antibot, an AI community manager for Discord servers, was launched on Product Hunt, highlighting the growing need for AI-powered community management tools.\n* **AI Translation Software:** Transept AI, an AI translation software with translation memory, was launched on Product Hunt, demonstrating the increasing focus on AI-powered translation tools.\n\n**Trend:**\n\n* **The Rise of AI-Powered Productivity Tools:** The 36 new AI-related products launched on Product Hunt demonstrate a growing trend towards developing AI-powered productivity tools that can assist humans in various tasks, such as hiring, browser usage, coding, and community management."
+  "summary": "Here are 4-6 key developments with insight:\n\n* **Increased focus on AI agent management**: Several new products have been launched that focus on managing AI agents, such as Cloudways Managed AI Agents, Bitdrift.ai, and Omni by xpander. These tools aim to simplify the process of deploying and managing AI agents, suggesting a growing need for more streamlined AI infrastructure.\n* **Rise of local AI processing**: Products like Meterless.ai and Whisperstream are focused on running AI locally, allowing users to own the workflow and bypass cloud-based AI processing. This trend indicates a desire for more control and data sovereignty in AI processing.\n* **Growing importance of AI for sales and marketing**: SalesCloser.ai and Clara AI SDR are examples of products that use AI to automate sales and marketing tasks, highlighting the increasing importance of AI in these areas.\n* **Advancements in AI translation and language processing**: Transept AI and GLM-5.3 are examples of products that focus on AI translation and language processing, suggesting significant advancements in this area.\n* **Emergence of new AI platforms and ecosystems**: Products like Clears and nenspace are building new platforms and ecosystems around AI, indicating a growing interest in creating more comprehensive and integrated AI solutions.\n\nTrend: **Increased focus on AI agent management and local processing**. The recent launches suggest a growing need for more streamlined AI infrastructure and a desire for more control over AI processing, with a focus on local processing and agent management."
 }
