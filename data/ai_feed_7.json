@@ -1,42 +1,42 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-08-21T03:04:25.066Z",
+  "timestamp": "2026-08-22T02:55:14.917Z",
   "categories": {
     "news": {
-      "count": 34,
+      "count": 35,
       "items": [
         {
-          "subject": "Product Hunt Launch: Cloudways Managed AI Agents",
-          "body": "Skip the setup and run OpenClaw & Hermes, fully managed",
-          "timestamp": "2026-08-20T17:12:02",
-          "url": "https://www.producthunt.com/products/cloudways",
+          "subject": "Product Hunt Launch: Local",
+          "body": "Zero (!) friction local AI for your Mac",
+          "timestamp": "2026-08-21T13:30:02",
+          "url": "https://www.producthunt.com/products/local-7",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: MeetStream AI",
-          "body": "Unified API & Infra for AI Meeting Agents",
-          "timestamp": "2026-08-20T17:12:02",
-          "url": "https://www.producthunt.com/products/meetstream-ai",
+          "subject": "Product Hunt Launch: Plow Latch - Local AI Desktop Manager",
+          "body": "Safely drive your Mac with AI (Live demo in comments)",
+          "timestamp": "2026-08-21T13:30:02",
+          "url": "https://www.producthunt.com/products/plow-latch",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Berd",
-          "body": "Weird, playful desktop app for building with AI agents",
-          "timestamp": "2026-08-20T17:12:02",
-          "url": "https://www.producthunt.com/products/berd",
+          "subject": "Product Hunt Launch: Actx0",
+          "body": "Memory infrastructure for AI agents.",
+          "timestamp": "2026-08-21T13:30:02",
+          "url": "https://www.producthunt.com/products/actx0",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: bitdrift.ai",
-          "body": "The world’s first agentic mobile observability platform",
-          "timestamp": "2026-08-20T17:12:02",
-          "url": "https://www.producthunt.com/products/bitdrift",
+          "subject": "Product Hunt Launch: ShogunAI",
+          "body": "Your personal AGI on your PC. Built to finish real work.",
+          "timestamp": "2026-08-21T13:30:02",
+          "url": "https://www.producthunt.com/products/shogunai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -51,15 +51,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Checksum AI",
-          "body": "Your coding agent’s testing buddy",
-          "timestamp": "2026-08-20T17:12:02",
-          "url": "https://www.producthunt.com/products/checksum-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: ProtoNote",
           "body": "Share AI-built prototypes, get feedback pinned to the page",
           "timestamp": "2026-08-20T17:12:02",
@@ -69,10 +60,46 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: AgentR 3.0",
-          "body": "Hiring evaluation built for the AI cheating era",
-          "timestamp": "2026-08-19T13:30:02",
-          "url": "https://www.producthunt.com/products/agentr",
+          "subject": "Product Hunt Launch: Checksum AI",
+          "body": "Your coding agent’s testing buddy",
+          "timestamp": "2026-08-20T17:12:02",
+          "url": "https://www.producthunt.com/products/checksum-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: bitdrift.ai",
+          "body": "The world’s first agentic mobile observability platform",
+          "timestamp": "2026-08-20T17:12:02",
+          "url": "https://www.producthunt.com/products/bitdrift",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Berd",
+          "body": "Weird, playful desktop app for building with AI agents",
+          "timestamp": "2026-08-20T17:12:02",
+          "url": "https://www.producthunt.com/products/berd",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: MeetStream AI",
+          "body": "Unified API & Infra for AI Meeting Agents",
+          "timestamp": "2026-08-20T17:12:02",
+          "url": "https://www.producthunt.com/products/meetstream-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Cloudways Managed AI Agents",
+          "body": "Skip the setup and run OpenClaw & Hermes, fully managed",
+          "timestamp": "2026-08-20T17:12:02",
+          "url": "https://www.producthunt.com/products/cloudways",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -87,37 +114,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Antibot",
-          "body": "AI community manager that hypes up your Discord server",
+          "subject": "Product Hunt Launch: AgentR 3.0",
+          "body": "Hiring evaluation built for the AI cheating era",
           "timestamp": "2026-08-19T13:30:02",
-          "url": "https://www.producthunt.com/products/antibot",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: anyCreature by Gobkit",
-          "body": "Summon monsters straight from your agent.",
-          "timestamp": "2026-08-19T13:30:02",
-          "url": "https://www.producthunt.com/products/anycreature",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Zyntax",
-          "body": "Code Editor, Terminal, Git, AI Agent",
-          "timestamp": "2026-08-19T13:30:02",
-          "url": "https://www.producthunt.com/products/zyntax-coding-ide-for-android",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Sider 6.0",
-          "body": "Your AI Agent for the Browser",
-          "timestamp": "2026-08-19T13:30:02",
-          "url": "https://www.producthunt.com/products/chatgpt-sidebar-chrome-extension",
+          "url": "https://www.producthunt.com/products/agentr",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -132,10 +132,37 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Meterless.ai",
-          "body": "Run AI locally and own the whole workflow",
-          "timestamp": "2026-08-18T13:30:02",
-          "url": "https://www.producthunt.com/products/meterless-ai",
+          "subject": "Product Hunt Launch: Sider 6.0",
+          "body": "Your AI Agent for the Browser",
+          "timestamp": "2026-08-19T13:30:02",
+          "url": "https://www.producthunt.com/products/chatgpt-sidebar-chrome-extension",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Zyntax",
+          "body": "Code Editor, Terminal, Git, AI Agent",
+          "timestamp": "2026-08-19T13:30:02",
+          "url": "https://www.producthunt.com/products/zyntax-coding-ide-for-android",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: anyCreature by Gobkit",
+          "body": "Summon monsters straight from your agent.",
+          "timestamp": "2026-08-19T13:30:02",
+          "url": "https://www.producthunt.com/products/anycreature",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Antibot",
+          "body": "AI community manager that hypes up your Discord server",
+          "timestamp": "2026-08-19T13:30:02",
+          "url": "https://www.producthunt.com/products/antibot",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -154,6 +181,15 @@
           "body": "Your AI coworker in Slack",
           "timestamp": "2026-08-18T13:30:02",
           "url": "https://www.producthunt.com/products/workos",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Meterless.ai",
+          "body": "Run AI locally and own the whole workflow",
+          "timestamp": "2026-08-18T13:30:02",
+          "url": "https://www.producthunt.com/products/meterless-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -195,10 +231,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Bulbthings",
-          "body": "The AI platform to track and manage your physical assets",
+          "subject": "Product Hunt Launch: Omni by xpander",
+          "body": "Stop babysitting your AI agents",
           "timestamp": "2026-08-17T13:30:01",
-          "url": "https://www.producthunt.com/products/bulbthings",
+          "url": "https://www.producthunt.com/products/omni-by-xpander",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -222,6 +258,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Bulbthings",
+          "body": "The AI platform to track and manage your physical assets",
+          "timestamp": "2026-08-17T13:30:01",
+          "url": "https://www.producthunt.com/products/bulbthings",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Clears",
           "body": "Move beyond AI coding to agentic software delivery",
           "timestamp": "2026-08-17T13:30:01",
@@ -240,10 +285,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Omni by xpander",
-          "body": "Stop babysitting your AI agents",
-          "timestamp": "2026-08-17T13:30:01",
-          "url": "https://www.producthunt.com/products/omni-by-xpander",
+          "subject": "Product Hunt Launch: SalesCloser.ai",
+          "body": "Proactive sales agent that books, shows up, and runs demos",
+          "timestamp": "2026-08-15T13:30:02",
+          "url": "https://www.producthunt.com/products/salescloser-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -274,45 +319,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: SalesCloser.ai",
-          "body": "Proactive sales agent that books, shows up, and runs demos",
-          "timestamp": "2026-08-15T13:30:02",
-          "url": "https://www.producthunt.com/products/salescloser-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Occasio®",
-          "body": "Pinboard meets citation manager for shared insights.",
-          "timestamp": "2026-08-14T13:30:02",
-          "url": "https://www.producthunt.com/products/occasio-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: DeepSeek Harness",
-          "body": "Composable agent harness where everything is a plugin",
-          "timestamp": "2026-08-14T13:30:02",
-          "url": "https://www.producthunt.com/products/deepseek",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: min.",
-          "body": "min. builds context continuously from your meetings and emails.",
-          "timestamp": "2026-08-14T13:30:02",
-          "url": "https://www.producthunt.com/products/min-4",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 key developments with insight:\n\n* **Increased focus on AI agent management**: Several new products have been launched that focus on managing AI agents, such as Cloudways Managed AI Agents, Bitdrift.ai, and Omni by xpander. These tools aim to simplify the process of deploying and managing AI agents, suggesting a growing need for more streamlined AI infrastructure.\n* **Rise of local AI processing**: Products like Meterless.ai and Whisperstream are focused on running AI locally, allowing users to own the workflow and bypass cloud-based AI processing. This trend indicates a desire for more control and data sovereignty in AI processing.\n* **Growing importance of AI for sales and marketing**: SalesCloser.ai and Clara AI SDR are examples of products that use AI to automate sales and marketing tasks, highlighting the increasing importance of AI in these areas.\n* **Advancements in AI translation and language processing**: Transept AI and GLM-5.3 are examples of products that focus on AI translation and language processing, suggesting significant advancements in this area.\n* **Emergence of new AI platforms and ecosystems**: Products like Clears and nenspace are building new platforms and ecosystems around AI, indicating a growing interest in creating more comprehensive and integrated AI solutions.\n\nTrend: **Increased focus on AI agent management and local processing**. The recent launches suggest a growing need for more streamlined AI infrastructure and a desire for more control over AI processing, with a focus on local processing and agent management."
+  "summary": "Here are 6 key developments with insight, followed by a trend:\n\n**Key Developments:**\n\n* **Local AI for Mac**: Product Hunt launched several local AI products for Mac, including Local, Plow Latch, and Meterless.ai, which aim to provide zero-friction AI experiences for Mac users.\n* **AI Agents for Productivity**: Several products, such as AgentR 3.0, Expert Chase 2.0, and Omni by xpander, focus on using AI agents for productivity tasks, such as hiring evaluation, translation, and email management.\n* **AI for Browser Extensions**: Sider 6.0 and Zyntax launched browser extensions that integrate AI capabilities, such as AI-powered coding and translation.\n* **AI for Creative Industries**: Products like anyCreature by Gobkit and Whisperstream aim to bring AI to the creative industries, with features like AI-powered art generation and local AI dictation.\n* **AI for Sales and Marketing**: SalesCloser.ai and Clara AI SDR focus on using AI for sales and marketing tasks, such as booking demos and turning website visitors into qualified pipeline.\n* **AI for Education**: ChatGPT for Teens and Atlas by WorkOS aim to provide AI-powered education tools, such as AI-powered learning platforms and AI-powered coworking in Slack.\n\n**Trend:**\n\n* **Rise of Local AI**: The trend is towards local AI, where AI capabilities are integrated into desktop applications, browser extensions, and mobile apps, providing users with seamless and zero-friction AI experiences. This trend is driven by the need for more efficient and productive AI experiences, as well as the growing demand for AI-powered tools in various industries."
 }
