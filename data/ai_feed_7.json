@@ -1,10 +1,19 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-08-31T08:16:48.837Z",
+  "timestamp": "2026-09-01T07:26:32.750Z",
   "categories": {
     "news": {
-      "count": 30,
+      "count": 26,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Interactive Sessions",
+          "body": "Drive the full SDLC with AI agents, step by step",
+          "timestamp": "2026-08-31T13:30:01",
+          "url": "https://www.producthunt.com/products/revolte",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: 1752vc Pitch Deck Analyzer",
           "body": "Know what investors will say before you ever hit send",
@@ -96,10 +105,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Knack MCP Server",
-          "body": "The HIPAA-compliant backend for AI builders",
+          "subject": "Product Hunt Launch: ChatCut Desktop",
+          "body": "Video editor built for humans & AI. Edit with GPT & Claude...",
           "timestamp": "2026-08-26T13:30:02",
-          "url": "https://www.producthunt.com/products/knack",
+          "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -109,15 +118,6 @@
           "body": "The fastest way to connect your data with your AI Tools.",
           "timestamp": "2026-08-26T13:30:02",
           "url": "https://www.producthunt.com/products/mcp-builder-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ChatCut Desktop",
-          "body": "Video editor built for humans & AI. Edit with GPT & Claude...",
-          "timestamp": "2026-08-26T13:30:02",
-          "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -136,6 +136,15 @@
           "body": "Drift score for any GitHub repo",
           "timestamp": "2026-08-26T13:30:02",
           "url": "https://www.producthunt.com/products/reweaver-driftdetector",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Knack MCP Server",
+          "body": "The HIPAA-compliant backend for AI builders",
+          "timestamp": "2026-08-26T13:30:02",
+          "url": "https://www.producthunt.com/products/knack",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -172,6 +181,15 @@
           "body": "Polished product demos on Mac recorded by an AI agent",
           "timestamp": "2026-08-26T13:30:02",
           "url": "https://www.producthunt.com/products/screenify-studio",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ChatGPT Ad Library",
+          "body": "See every ad running inside ChatGPT",
+          "timestamp": "2026-08-25T13:30:01",
+          "url": "https://www.producthunt.com/products/chatgpt-ad-library",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -220,63 +238,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: ChatGPT Ad Library",
-          "body": "See every ad running inside ChatGPT",
-          "timestamp": "2026-08-25T13:30:01",
-          "url": "https://www.producthunt.com/products/chatgpt-ad-library",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Navigara",
-          "body": "Connect Your AI Spend Directly to Your Roadmap",
-          "timestamp": "2026-08-24T13:30:02",
-          "url": "https://www.producthunt.com/products/navigara",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Decawork",
-          "body": "Control your company's internal AI agents and tools",
-          "timestamp": "2026-08-24T13:30:02",
-          "url": "https://www.producthunt.com/products/decawork",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Trama",
-          "body": "Talk plainly and create macOS native automations",
-          "timestamp": "2026-08-24T13:30:02",
-          "url": "https://www.producthunt.com/products/trama-mac-automation-in-plain-language",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Offloop",
-          "body": "A shared workspace where people and AI agents get work done.",
-          "timestamp": "2026-08-24T13:30:02",
-          "url": "https://www.producthunt.com/products/offloop",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Phoenix",
-          "body": "AI coding agent built for iOS, macOS app development",
-          "timestamp": "2026-08-24T13:30:02",
-          "url": "https://www.producthunt.com/products/phoenix-10",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **Product Hunt Launches**: 30 new products were launched on Product Hunt, showcasing innovative AI-powered tools and solutions. These launches demonstrate the growing interest in AI and its applications in various industries.\n* **AI-Powered Productivity Tools**: Many of the launched products focus on AI-powered productivity tools, such as email and meeting assistants, video editors, and automation platforms. These tools aim to streamline workflows, enhance collaboration, and increase productivity.\n* **AI Agent Control and Management**: Several products focus on AI agent control and management, including the launch of Traccia, a vendor-neutral AI agent control plane. This trend highlights the growing need for effective AI agent management and control.\n* **HIPAA-Compliant Backend**: The launch of Knack MCP Server, a HIPAA-compliant backend for AI builders, demonstrates the increasing importance of data security and compliance in AI development.\n* **AI Sales Agents**: The launch of Ninjō AI, an AI sales agent built for any channel that runs from Claude Code, showcases the growing interest in AI-powered sales and marketing tools.\n\n**Trend:**\n\n* **Growing Interest in AI-Powered Tools and Solutions**: The sheer number of AI-powered product launches on Product Hunt demonstrates the growing interest in AI and its applications in various industries. This trend suggests that companies are increasingly seeking innovative AI-powered solutions to enhance productivity, streamline workflows, and improve collaboration.\n\nThese key developments and trend highlight the growing importance of AI in various industries, particularly in productivity, automation, and data management."
+  "summary": "Here are 6 key developments with insight:\n\n* **AI-powered productivity tools**: Several new products have been launched on Product Hunt, focusing on AI-powered productivity tools, such as Revolte, which offers interactive sessions, and SuperIntern, an email and meeting assistant that integrates with chat apps.\n* **AI agent control**: Traccia and Arena AI Agent are two new products that aim to provide a vendor-neutral AI agent control plane and a platform to build and scale apps, respectively.\n* **AI-powered video editing**: ChatCut Desktop is a new video editor that uses AI to help humans edit videos, while MCP-Builder.ai is a tool that connects data with AI tools.\n* **AI-powered sales and customer service**: Ninjō AI and ify are two new products that offer AI-powered sales agents and resolution AI for customer service, respectively.\n* **AI-powered data analysis**: Expertise AI and Jotform AI Data Assistant are two new products that aim to turn form data into insights and action with AI.\n* **AI-powered security**: Hacktron Automations is a new product that closes the loop between vulnerability discovery and patching.\n\nTrend: **The increasing focus on AI-powered productivity tools and AI agent control** is a notable trend in the recent Product Hunt launches. These tools aim to simplify the development and deployment of AI-powered applications, making it easier for developers to build and scale their projects."
 }
