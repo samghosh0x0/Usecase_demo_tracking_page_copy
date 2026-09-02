@@ -1,10 +1,28 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-01T07:26:32.750Z",
+  "timestamp": "2026-09-02T06:54:32.610Z",
   "categories": {
     "news": {
-      "count": 26,
+      "count": 22,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Tovel AI",
+          "body": "From conversation to action, in three steps",
+          "timestamp": "2026-09-01T13:30:02",
+          "url": "https://www.producthunt.com/products/tovel-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Impractical",
+          "body": "AI Motion Design - Every feature deserves an amazing video",
+          "timestamp": "2026-09-01T13:30:02",
+          "url": "https://www.producthunt.com/products/impractical",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Interactive Sessions",
           "body": "Drive the full SDLC with AI agents, step by step",
@@ -60,6 +78,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Enter Pro",
+          "body": "The AI-native platform to build and scale your apps",
+          "timestamp": "2026-08-27T13:30:02",
+          "url": "https://www.producthunt.com/products/enter-pro",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Sendra",
           "body": "Design emails in Figma, export HTML that works everywhere",
           "timestamp": "2026-08-27T13:30:02",
@@ -73,15 +100,6 @@
           "body": "Finally, a vendor-neutral AI Agent Control Plane.",
           "timestamp": "2026-08-27T13:30:02",
           "url": "https://www.producthunt.com/products/traccia",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Enter Pro",
-          "body": "The AI-native platform to build and scale your apps",
-          "timestamp": "2026-08-27T13:30:02",
-          "url": "https://www.producthunt.com/products/enter-pro",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -105,10 +123,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: ChatCut Desktop",
-          "body": "Video editor built for humans & AI. Edit with GPT & Claude...",
+          "subject": "Product Hunt Launch: Screenify Studio",
+          "body": "Polished product demos on Mac recorded by an AI agent",
           "timestamp": "2026-08-26T13:30:02",
-          "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+          "url": "https://www.producthunt.com/products/screenify-studio",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -118,6 +136,15 @@
           "body": "The fastest way to connect your data with your AI Tools.",
           "timestamp": "2026-08-26T13:30:02",
           "url": "https://www.producthunt.com/products/mcp-builder-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ChatCut Desktop",
+          "body": "Video editor built for humans & AI. Edit with GPT & Claude...",
+          "timestamp": "2026-08-26T13:30:02",
+          "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -175,72 +202,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Screenify Studio",
-          "body": "Polished product demos on Mac recorded by an AI agent",
-          "timestamp": "2026-08-26T13:30:02",
-          "url": "https://www.producthunt.com/products/screenify-studio",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ChatGPT Ad Library",
-          "body": "See every ad running inside ChatGPT",
-          "timestamp": "2026-08-25T13:30:01",
-          "url": "https://www.producthunt.com/products/chatgpt-ad-library",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ninjō AI",
-          "body": "AI sales agents on any channel that runs from Claude Code.",
-          "timestamp": "2026-08-25T13:30:01",
-          "url": "https://www.producthunt.com/products/ninjo-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Jotform AI Data Assistant",
-          "body": "Turn form data into insights and action with AI",
-          "timestamp": "2026-08-25T13:30:01",
-          "url": "https://www.producthunt.com/products/jotform",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Hacktron Automations",
-          "body": "Close the loop between vulnerability discovery and patching.",
-          "timestamp": "2026-08-25T13:30:01",
-          "url": "https://www.producthunt.com/products/hacktron",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Nimbia",
-          "body": "AI screen-sharing calls for user onboarding",
-          "timestamp": "2026-08-25T13:30:01",
-          "url": "https://www.producthunt.com/products/nimbia",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Linguar",
-          "body": "Language exchange with real people  and AI on your side.",
-          "timestamp": "2026-08-25T13:30:01",
-          "url": "https://www.producthunt.com/products/linguar",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight:\n\n* **AI-powered productivity tools**: Several new products have been launched on Product Hunt, focusing on AI-powered productivity tools, such as Revolte, which offers interactive sessions, and SuperIntern, an email and meeting assistant that integrates with chat apps.\n* **AI agent control**: Traccia and Arena AI Agent are two new products that aim to provide a vendor-neutral AI agent control plane and a platform to build and scale apps, respectively.\n* **AI-powered video editing**: ChatCut Desktop is a new video editor that uses AI to help humans edit videos, while MCP-Builder.ai is a tool that connects data with AI tools.\n* **AI-powered sales and customer service**: Ninjō AI and ify are two new products that offer AI-powered sales agents and resolution AI for customer service, respectively.\n* **AI-powered data analysis**: Expertise AI and Jotform AI Data Assistant are two new products that aim to turn form data into insights and action with AI.\n* **AI-powered security**: Hacktron Automations is a new product that closes the loop between vulnerability discovery and patching.\n\nTrend: **The increasing focus on AI-powered productivity tools and AI agent control** is a notable trend in the recent Product Hunt launches. These tools aim to simplify the development and deployment of AI-powered applications, making it easier for developers to build and scale their projects."
+  "summary": "Here are 4-6 key developments and 1 trend based on the provided data:\n\n**Key Developments:**\n\n* **Tovel AI**: A new product that can convert conversation into action in three steps.\n* **ChatCut Desktop**: A video editor that uses GPT and Claude for editing.\n* **Screenify Studio**: A product that records computer work using AI and creates polished product demos for Mac.\n* **Traccia**: A vendor-neutral AI Agent Control Plane that oversees AI agents.\n* **Ojin**: A product that allows users to talk to an AI agent with a real face and voice in real-time.\n\n**Trend:** **AI Utilization**: Many of the products launched on Product Hunt recently are focused on utilizing AI in various ways, such as AI motion design, AI agent control, and AI-powered video editing. This suggests that there is a growing interest in leveraging AI to automate and streamline tasks in different industries."
 }
