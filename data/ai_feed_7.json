@@ -1,10 +1,46 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-02T06:54:32.610Z",
+  "timestamp": "2026-09-03T06:58:01.868Z",
   "categories": {
     "news": {
-      "count": 22,
+      "count": 17,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Dial",
+          "body": "Give your AI agent a real phone number in 10 seconds.",
+          "timestamp": "2026-09-02T13:30:02",
+          "url": "https://www.producthunt.com/products/dial-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Userlens",
+          "body": "AI agent to improve product adoption",
+          "timestamp": "2026-09-02T13:30:02",
+          "url": "https://www.producthunt.com/products/userlens",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Onset MCP",
+          "body": "Write and publish release notes from your AI assistant",
+          "timestamp": "2026-09-02T13:30:02",
+          "url": "https://www.producthunt.com/products/onset-io",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Keiki",
+          "body": "Build one customer-facing AI agent and launch it everywhere",
+          "timestamp": "2026-09-02T04:00:02",
+          "url": "https://www.producthunt.com/products/keiki",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Tovel AI",
           "body": "From conversation to action, in three steps",
@@ -78,10 +114,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Enter Pro",
-          "body": "The AI-native platform to build and scale your apps",
+          "subject": "Product Hunt Launch: Lenz",
+          "body": "Independent, multi-model fact-checking API for AI workflows",
           "timestamp": "2026-08-27T13:30:02",
-          "url": "https://www.producthunt.com/products/enter-pro",
+          "url": "https://www.producthunt.com/products/lenz-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -105,6 +141,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Enter Pro",
+          "body": "The AI-native platform to build and scale your apps",
+          "timestamp": "2026-08-27T13:30:02",
+          "url": "https://www.producthunt.com/products/enter-pro",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Ojin",
           "body": "Talk to an AI Agent with a real face and voice, in real time.",
           "timestamp": "2026-08-27T13:30:02",
@@ -112,99 +157,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Lenz",
-          "body": "Independent, multi-model fact-checking API for AI workflows",
-          "timestamp": "2026-08-27T13:30:02",
-          "url": "https://www.producthunt.com/products/lenz-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Screenify Studio",
-          "body": "Polished product demos on Mac recorded by an AI agent",
-          "timestamp": "2026-08-26T13:30:02",
-          "url": "https://www.producthunt.com/products/screenify-studio",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: MCP-Builder.ai",
-          "body": "The fastest way to connect your data with your AI Tools.",
-          "timestamp": "2026-08-26T13:30:02",
-          "url": "https://www.producthunt.com/products/mcp-builder-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ChatCut Desktop",
-          "body": "Video editor built for humans & AI. Edit with GPT & Claude...",
-          "timestamp": "2026-08-26T13:30:02",
-          "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Expertise AI",
-          "body": "Turn your GTM skills into recurring revenue",
-          "timestamp": "2026-08-26T13:30:02",
-          "url": "https://www.producthunt.com/products/expertise-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ReWeaver AI DriftDetector",
-          "body": "Drift score for any GitHub repo",
-          "timestamp": "2026-08-26T13:30:02",
-          "url": "https://www.producthunt.com/products/reweaver-driftdetector",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Knack MCP Server",
-          "body": "The HIPAA-compliant backend for AI builders",
-          "timestamp": "2026-08-26T13:30:02",
-          "url": "https://www.producthunt.com/products/knack",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Arena AI Agent",
-          "body": "Get real work done, moving from idea to shipping in minutes.",
-          "timestamp": "2026-08-26T13:30:02",
-          "url": "https://www.producthunt.com/products/arena-5",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Playcall",
-          "body": "The open-source AI alternative to Gong",
-          "timestamp": "2026-08-26T13:30:02",
-          "url": "https://www.producthunt.com/products/playcall",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ify",
-          "body": "Resolution AI that works on top of your existing helpdesk",
-          "timestamp": "2026-08-26T13:30:02",
-          "url": "https://www.producthunt.com/products/ify-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 key developments and 1 trend based on the provided data:\n\n**Key Developments:**\n\n* **Tovel AI**: A new product that can convert conversation into action in three steps.\n* **ChatCut Desktop**: A video editor that uses GPT and Claude for editing.\n* **Screenify Studio**: A product that records computer work using AI and creates polished product demos for Mac.\n* **Traccia**: A vendor-neutral AI Agent Control Plane that oversees AI agents.\n* **Ojin**: A product that allows users to talk to an AI agent with a real face and voice in real-time.\n\n**Trend:** **AI Utilization**: Many of the products launched on Product Hunt recently are focused on utilizing AI in various ways, such as AI motion design, AI agent control, and AI-powered video editing. This suggests that there is a growing interest in leveraging AI to automate and streamline tasks in different industries."
+  "summary": "Here are 6 key developments with insight and 1 trend:\n\n**Key Developments:**\n\n* **AI-powered productivity tools are on the rise**: Several new AI-powered productivity tools have been launched on Product Hunt, including Dial, Userlens, Onset MCP, Keiki, and Tovel AI. These tools aim to improve productivity and workflow efficiency.\n* **AI agent control planes are emerging**: Traccia, a new AI agent control plane, has been launched on Product Hunt. This development suggests that companies are seeking more efficient and vendor-neutral ways to manage AI agents.\n* **AI-powered design tools are gaining traction**: Sendra, a design tool that exports HTML code, and CTRL Micro, a haptic control deck for AI agents, have been launched on Product Hunt. These tools demonstrate the growing importance of AI-powered design and development tools.\n* **AI-powered customer engagement is on the rise**: Several new AI-powered customer engagement tools have been launched on Product Hunt, including SuperIntern and Ojin. These tools aim to improve customer engagement and experience.\n* **AI-powered analytics and pitch deck analysis are gaining attention**: 1752vc Pitch Deck Analyzer and Lenz, a multi-model fact-checking API, have been launched on Product Hunt. These tools demonstrate the growing importance of AI-powered analytics and data analysis in business decision-making.\n\n**Trend:**\n\n* **The growing importance of AI-powered workflow efficiency**: The recent launches on Product Hunt suggest that companies are seeking more efficient and automated ways to manage workflows, including AI-powered productivity tools, AI agent control planes, and AI-powered design and development tools. This trend indicates that AI will play an increasingly important role in streamlining business processes and improving productivity."
 }
