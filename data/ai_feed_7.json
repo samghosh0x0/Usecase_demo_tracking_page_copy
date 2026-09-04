@@ -1,10 +1,73 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-03T06:58:01.868Z",
+  "timestamp": "2026-09-04T07:02:06.490Z",
   "categories": {
     "news": {
-      "count": 17,
+      "count": 18,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Grove",
+          "body": "One terminal for you and your AI agent",
+          "timestamp": "2026-09-03T13:30:02",
+          "url": "https://www.producthunt.com/products/grove-8",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Causal",
+          "body": "AI Powered Canvas for planning visual projects",
+          "timestamp": "2026-09-03T13:30:02",
+          "url": "https://www.producthunt.com/products/causal-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Agent Builder by Airtop",
+          "body": "Build agents that heal themselves.",
+          "timestamp": "2026-09-03T13:30:02",
+          "url": "https://www.producthunt.com/products/airtop",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ARBR",
+          "body": "Control Every AI Request",
+          "timestamp": "2026-09-03T13:30:02",
+          "url": "https://www.producthunt.com/products/arbr",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tabbit AI",
+          "body": "Give your browser a task, not just a question",
+          "timestamp": "2026-09-03T13:30:02",
+          "url": "https://www.producthunt.com/products/tabbitai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: MagiCrew",
+          "body": "Give everyone their own AI workforce in one platform",
+          "timestamp": "2026-09-03T13:30:02",
+          "url": "https://www.producthunt.com/products/magicrew",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Onset MCP",
+          "body": "Write and publish release notes from your AI assistant",
+          "timestamp": "2026-09-02T13:30:02",
+          "url": "https://www.producthunt.com/products/onset-io",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Dial",
           "body": "Give your AI agent a real phone number in 10 seconds.",
@@ -19,15 +82,6 @@
           "body": "AI agent to improve product adoption",
           "timestamp": "2026-09-02T13:30:02",
           "url": "https://www.producthunt.com/products/userlens",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Onset MCP",
-          "body": "Write and publish release notes from your AI assistant",
-          "timestamp": "2026-09-02T13:30:02",
-          "url": "https://www.producthunt.com/products/onset-io",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -78,6 +132,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Aramb",
+          "body": "Build, launch and monetize your AI agents in 20 minutes",
+          "timestamp": "2026-08-28T13:30:01",
+          "url": "https://www.producthunt.com/products/aramb",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: screenpipe",
           "body": "AI that records your computer work to power agents.",
           "timestamp": "2026-08-28T13:30:01",
@@ -103,63 +166,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Aramb",
-          "body": "Build, launch and monetize your AI agents in 20 minutes",
-          "timestamp": "2026-08-28T13:30:01",
-          "url": "https://www.producthunt.com/products/aramb",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Lenz",
-          "body": "Independent, multi-model fact-checking API for AI workflows",
-          "timestamp": "2026-08-27T13:30:02",
-          "url": "https://www.producthunt.com/products/lenz-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Sendra",
-          "body": "Design emails in Figma, export HTML that works everywhere",
-          "timestamp": "2026-08-27T13:30:02",
-          "url": "https://www.producthunt.com/products/sendra",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Traccia",
-          "body": "Finally, a vendor-neutral AI Agent Control Plane.",
-          "timestamp": "2026-08-27T13:30:02",
-          "url": "https://www.producthunt.com/products/traccia",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Enter Pro",
-          "body": "The AI-native platform to build and scale your apps",
-          "timestamp": "2026-08-27T13:30:02",
-          "url": "https://www.producthunt.com/products/enter-pro",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ojin",
-          "body": "Talk to an AI Agent with a real face and voice, in real time.",
-          "timestamp": "2026-08-27T13:30:02",
-          "url": "https://www.producthunt.com/products/ojin",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight and 1 trend:\n\n**Key Developments:**\n\n* **AI-powered productivity tools are on the rise**: Several new AI-powered productivity tools have been launched on Product Hunt, including Dial, Userlens, Onset MCP, Keiki, and Tovel AI. These tools aim to improve productivity and workflow efficiency.\n* **AI agent control planes are emerging**: Traccia, a new AI agent control plane, has been launched on Product Hunt. This development suggests that companies are seeking more efficient and vendor-neutral ways to manage AI agents.\n* **AI-powered design tools are gaining traction**: Sendra, a design tool that exports HTML code, and CTRL Micro, a haptic control deck for AI agents, have been launched on Product Hunt. These tools demonstrate the growing importance of AI-powered design and development tools.\n* **AI-powered customer engagement is on the rise**: Several new AI-powered customer engagement tools have been launched on Product Hunt, including SuperIntern and Ojin. These tools aim to improve customer engagement and experience.\n* **AI-powered analytics and pitch deck analysis are gaining attention**: 1752vc Pitch Deck Analyzer and Lenz, a multi-model fact-checking API, have been launched on Product Hunt. These tools demonstrate the growing importance of AI-powered analytics and data analysis in business decision-making.\n\n**Trend:**\n\n* **The growing importance of AI-powered workflow efficiency**: The recent launches on Product Hunt suggest that companies are seeking more efficient and automated ways to manage workflows, including AI-powered productivity tools, AI agent control planes, and AI-powered design and development tools. This trend indicates that AI will play an increasingly important role in streamlining business processes and improving productivity."
+  "summary": "Here are the key developments with insight:\n\n**Product Updates:**\n\n* **Grove**: A new terminal for users and AI agents, aiming to provide a centralized interface for managing AI-related tasks.\n* **Causal**: An AI-powered canvas for planning and visualizing projects, suggesting that AI is increasingly being used for creative purposes.\n* **Agent Builder by Airtop**: A tool for building AI agents that can self-heal, indicating a trend towards self-sustaining AI systems.\n* **ARBR**: A platform for controlling AI requests, highlighting the importance of AI management and oversight.\n\n**Launches:**\n\n* **Tabbit AI**: An AI that performs tasks for users, making it easier to integrate AI into daily workflows.\n* **MagiCrew**: A platform for managing AI workforces, suggesting a growing need for AI-as-a-service.\n* **Onset MCP**: A tool for generating release notes using AI, showcasing AI's potential in automating routine tasks.\n* **Dial**: A service that provides a phone number for AI agents, making AI more accessible and user-friendly.\n* **Userlens**: An AI agent that improves product adoption, highlighting the role of AI in customer experience.\n* **Keiki**: A platform for building and launching customer-facing AI agents, indicating a shift towards AI-powered customer service.\n* **Tovel AI**: A tool for converting conversations into actions, showcasing AI's potential in automating workflows.\n* **Impractical**: A platform for creating videos with AI-generated motion design, emphasizing the creative applications of AI.\n* **Interactive Sessions**: A tool for driving the software development life cycle (SDLC) with AI agents, showing the growing use of AI in software development.\n* **1752vc Pitch Deck Analyzer**: A tool for analyzing pitch decks using AI, indicating the increasing use of AI in business decision-making.\n* **Aramb**: A platform for building, launching, and monetizing AI agents within 20 minutes, demonstrating the speed and efficiency of AI development.\n* **Screenpipe**: A tool for recording computer work to power AI agents, highlighting the importance of data collection in AI development.\n* **CTRL Micro**: A haptic control deck for Macs and AI agents, showing the integration of AI with consumer electronics.\n* **SuperIntern**: An AI-powered email and meeting assistant for chat apps, indicating a growing trend towards AI-powered productivity tools.\n\n**Trend:** The Trend is the rise of AI-powered tools and platforms that aim to streamline workflows, automate routine tasks, and increase productivity. This trend is evident in the variety of AI-related products and services launched recently, including tools for building and managing AI agents, automating workflows, and improving customer experience."
 }
