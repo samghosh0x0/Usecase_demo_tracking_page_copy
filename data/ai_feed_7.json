@@ -1,51 +1,78 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-07T07:06:27.544Z",
+  "timestamp": "2026-09-08T07:00:54.251Z",
   "categories": {
     "news": {
-      "count": 14,
+      "count": 20,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Clipnote",
+          "body": "Save your AI conversations so they persist after closing tab",
+          "timestamp": "2026-09-07T13:30:02",
+          "url": "https://www.producthunt.com/products/clipnote-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Airuncode",
+          "body": "Run multiple local coding agents on your machine",
+          "timestamp": "2026-09-07T13:30:02",
+          "url": "https://www.producthunt.com/products/airuncode",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tucky",
+          "body": "Notes docked to your screen edge, with an AI agent inside",
+          "timestamp": "2026-09-07T13:30:02",
+          "url": "https://www.producthunt.com/products/tucky",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Remind",
+          "body": "Full-screen meeting reminders with AI briefings",
+          "timestamp": "2026-09-07T13:30:02",
+          "url": "https://www.producthunt.com/products/remind-7",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: PR Lens by Coldtea.ai",
+          "body": "See code through a new lens",
+          "timestamp": "2026-09-07T13:30:02",
+          "url": "https://www.producthunt.com/products/coldtea",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Nina by Antalpha",
+          "body": "Non-custodial AI Agent: research, predict & trade crypto",
+          "timestamp": "2026-09-07T13:30:02",
+          "url": "https://www.producthunt.com/products/antalpha",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Routines by Databox",
+          "body": "An AI Analyst that runs analysis and reports on a schedule",
+          "timestamp": "2026-09-07T13:30:02",
+          "url": "https://www.producthunt.com/products/databox",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: myAIcademy",
           "body": "Learn AI skills for your specific role and team",
           "timestamp": "2026-09-04T13:30:02",
           "url": "https://www.producthunt.com/products/myaicademy",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: MagiCrew",
-          "body": "Give everyone their own AI workforce in one platform",
-          "timestamp": "2026-09-03T13:30:02",
-          "url": "https://www.producthunt.com/products/magicrew",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tabbit AI",
-          "body": "Give your browser a task, not just a question",
-          "timestamp": "2026-09-03T13:30:02",
-          "url": "https://www.producthunt.com/products/tabbitai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ARBR",
-          "body": "Control Every AI Request",
-          "timestamp": "2026-09-03T13:30:02",
-          "url": "https://www.producthunt.com/products/arbr",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Agent Builder by Airtop",
-          "body": "Build agents that heal themselves.",
-          "timestamp": "2026-09-03T13:30:02",
-          "url": "https://www.producthunt.com/products/airtop",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -69,10 +96,46 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Onset MCP",
-          "body": "Write and publish release notes from your AI assistant",
+          "subject": "Product Hunt Launch: Agent Builder by Airtop",
+          "body": "Build agents that heal themselves.",
+          "timestamp": "2026-09-03T13:30:02",
+          "url": "https://www.producthunt.com/products/airtop",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ARBR",
+          "body": "Control Every AI Request",
+          "timestamp": "2026-09-03T13:30:02",
+          "url": "https://www.producthunt.com/products/arbr",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tabbit AI",
+          "body": "Give your browser a task, not just a question",
+          "timestamp": "2026-09-03T13:30:02",
+          "url": "https://www.producthunt.com/products/tabbitai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: MagiCrew",
+          "body": "Give everyone their own AI workforce in one platform",
+          "timestamp": "2026-09-03T13:30:02",
+          "url": "https://www.producthunt.com/products/magicrew",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Dial",
+          "body": "Give your AI agent a real phone number in 10 seconds.",
           "timestamp": "2026-09-02T13:30:02",
-          "url": "https://www.producthunt.com/products/onset-io",
+          "url": "https://www.producthunt.com/products/dial-3",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -87,10 +150,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Dial",
-          "body": "Give your AI agent a real phone number in 10 seconds.",
+          "subject": "Product Hunt Launch: Onset MCP",
+          "body": "Write and publish release notes from your AI assistant",
           "timestamp": "2026-09-02T13:30:02",
-          "url": "https://www.producthunt.com/products/dial-3",
+          "url": "https://www.producthunt.com/products/onset-io",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -121,18 +184,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Interactive Sessions",
-          "body": "Drive the full SDLC with AI agents, step by step",
-          "timestamp": "2026-08-31T13:30:01",
-          "url": "https://www.producthunt.com/products/revolte",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 bullet points summarizing key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **AI Skills Training Platforms**: The launch of myAIcademy and MagiCrew on Product Hunt indicates a growing demand for AI skills training platforms that cater to specific roles and teams.\n* **AI Agent Platforms**: The emergence of platforms like Tabbit AI, ARBR, and Agent Builder by Airtop suggests a trend towards developing AI agents that can perform various tasks, from simple to complex, across different industries.\n* **AI-powered Project Planning**: Causal's AI-powered canvas for planning visual projects highlights the increasing importance of AI in creative industries, such as design and marketing.\n* **AI-powered Customer Adoption**: Userlens, an AI agent that improves product adoption, demonstrates the growing interest in using AI to enhance customer experiences and drive business growth.\n* **AI-powered Customer Service**: Onset MCP's AI assistant for writing and publishing release notes shows a trend towards using AI to automate routine tasks and enhance customer service.\n\n**Trend:**\n\n* **The Rise of AI Agent Platforms**: The launch of multiple AI agent platforms on Product Hunt suggests a growing trend towards developing AI agents that can perform various tasks, from simple to complex, across different industries. This trend is driven by the increasing demand for automation, efficiency, and enhanced customer experiences. As AI technology advances, we can expect to see more innovative AI agent platforms emerge, revolutionizing the way businesses operate and interact with customers."
+  "summary": "Here are 4-6 key developments with insight:\n\n* **AI-powered productivity tools abound**: This week saw the launch of several productivity-focused AI-powered tools on Product Hunt, including Clipnote (for saving conversations), Tucky (AI-powered notes dock), and Remind (full-screen meeting reminders with AI briefings).\n* **Increased focus on collaboration**: Several newly launched tools suggest a growing emphasis on collaboration and workflow, particularly with the launch of Agent Builder, which enables users to build agents that can 'heal themselves', while MagiCrew provides a platform for giving everyone their own AI workforce.\n* **More flexibility for developers**: Developers can now use tools like Grove (one terminal for users and their AI agents) and ARBR (a tool for controlling AI requests) to create more tailored and efficient workflows.\n* **Growing importance of AI-powered design**: The launch of Impractical (AI motion design for creating amazing videos) highlights the increasing focus on AI-driven creative tools.\n* **Shift towards personalization**: Products like Tabbit AI (which enables users to give tasks, not just questions, to their browser) and Userlens (an AI agent for improving product adoption) indicate a trend towards providing users with more personalized and attentive tools.\n\nTrend: This week's launches suggest a shift towards more advanced and diverse AI capabilities, with a particular emphasis on productivity, collaboration, and personalization."
 }
