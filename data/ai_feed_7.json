@@ -1,9 +1,9 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-08T07:00:54.251Z",
+  "timestamp": "2026-09-09T07:10:05.966Z",
   "categories": {
     "news": {
-      "count": 20,
+      "count": 17,
       "items": [
         {
           "subject": "Product Hunt Launch: Clipnote",
@@ -78,19 +78,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Causal",
-          "body": "AI Powered Canvas for planning visual projects",
+          "subject": "Product Hunt Launch: Grove",
+          "body": "One terminal for you and your AI agent",
           "timestamp": "2026-09-03T13:30:02",
-          "url": "https://www.producthunt.com/products/causal-2",
+          "url": "https://www.producthunt.com/products/grove-8",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Grove",
-          "body": "One terminal for you and your AI agent",
+          "subject": "Product Hunt Launch: Causal",
+          "body": "AI Powered Canvas for planning visual projects",
           "timestamp": "2026-09-03T13:30:02",
-          "url": "https://www.producthunt.com/products/grove-8",
+          "url": "https://www.producthunt.com/products/causal-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -132,6 +132,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Onset MCP",
+          "body": "Write and publish release notes from your AI assistant",
+          "timestamp": "2026-09-02T13:30:02",
+          "url": "https://www.producthunt.com/products/onset-io",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Dial",
           "body": "Give your AI agent a real phone number in 10 seconds.",
           "timestamp": "2026-09-02T13:30:02",
@@ -148,45 +157,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Onset MCP",
-          "body": "Write and publish release notes from your AI assistant",
-          "timestamp": "2026-09-02T13:30:02",
-          "url": "https://www.producthunt.com/products/onset-io",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Keiki",
-          "body": "Build one customer-facing AI agent and launch it everywhere",
-          "timestamp": "2026-09-02T04:00:02",
-          "url": "https://www.producthunt.com/products/keiki",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Impractical",
-          "body": "AI Motion Design - Every feature deserves an amazing video",
-          "timestamp": "2026-09-01T13:30:02",
-          "url": "https://www.producthunt.com/products/impractical",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tovel AI",
-          "body": "From conversation to action, in three steps",
-          "timestamp": "2026-09-01T13:30:02",
-          "url": "https://www.producthunt.com/products/tovel-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 key developments with insight:\n\n* **AI-powered productivity tools abound**: This week saw the launch of several productivity-focused AI-powered tools on Product Hunt, including Clipnote (for saving conversations), Tucky (AI-powered notes dock), and Remind (full-screen meeting reminders with AI briefings).\n* **Increased focus on collaboration**: Several newly launched tools suggest a growing emphasis on collaboration and workflow, particularly with the launch of Agent Builder, which enables users to build agents that can 'heal themselves', while MagiCrew provides a platform for giving everyone their own AI workforce.\n* **More flexibility for developers**: Developers can now use tools like Grove (one terminal for users and their AI agents) and ARBR (a tool for controlling AI requests) to create more tailored and efficient workflows.\n* **Growing importance of AI-powered design**: The launch of Impractical (AI motion design for creating amazing videos) highlights the increasing focus on AI-driven creative tools.\n* **Shift towards personalization**: Products like Tabbit AI (which enables users to give tasks, not just questions, to their browser) and Userlens (an AI agent for improving product adoption) indicate a trend towards providing users with more personalized and attentive tools.\n\nTrend: This week's launches suggest a shift towards more advanced and diverse AI capabilities, with a particular emphasis on productivity, collaboration, and personalization."
+  "summary": "**Key Developments:**\n\n* **Product Hunt Launches:** A total of 17 AI-related products have been launched on Product Hunt, ranging from note-taking tools (Clipnote, Tucky) to AI-powered coding assistants (Airuncode, PR Lens by Coldtea.ai).\n* **AI for Productivity:** Several new tools have been developed to enhance productivity, such as full-screen meeting reminders with AI briefings (Remind) and AI analysts that run analysis and reports on a schedule (Routines by Databox).\n* **Custom AI Assistants:** Some products, like Agent Builder by Airtop, allow users to build their own AI assistants that can heal themselves.\n* **AI-powered Learning Platforms:** myAIcademy, a new learning platform, offers AI skills training for specific roles and teams.\n* **Augmented Reality and Browser-based AI:** New products like Grove and Tabbit AI integrate AI capabilities into augmented reality experiences and browser tasks.\n\n**Trend:** **Rise of Specialized AI Tools:** Many of the newly launched products are tailored to specific use cases or industries, indicating a trend towards developing more specialized AI tools that cater to specific needs and pain points."
 }
