@@ -1,10 +1,91 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-10T09:07:40.062Z",
+  "timestamp": "2026-09-11T07:05:51.072Z",
   "categories": {
     "news": {
-      "count": 20,
+      "count": 22,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Wealthfolio",
+          "body": "Local-first personal finance with optional broker sync",
+          "timestamp": "2026-09-10T13:30:02",
+          "url": "https://www.producthunt.com/products/wealthfolio",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Typewise Nova",
+          "body": "AI customer experience that builds and improves itself",
+          "timestamp": "2026-09-10T13:30:02",
+          "url": "https://www.producthunt.com/products/typewise",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AI Observability by OpenObserve",
+          "body": "OpenTelemetry-native observability for agents and LLMs.",
+          "timestamp": "2026-09-10T13:30:02",
+          "url": "https://www.producthunt.com/products/openobserve",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Viso Now",
+          "body": "Build computer vision applications with AI",
+          "timestamp": "2026-09-10T13:30:02",
+          "url": "https://www.producthunt.com/products/viso-now",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Athenic AI",
+          "body": "Beat the market with 90+ datasets and AI made for analysis.",
+          "timestamp": "2026-09-10T13:30:02",
+          "url": "https://www.producthunt.com/products/athenic-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Mock Magic Presets",
+          "body": "Use saved presets to quickly get a branded device video",
+          "timestamp": "2026-09-10T13:30:02",
+          "url": "https://www.producthunt.com/products/mockmagic",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "AWS: Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
+          "body": "TorchServe is no longer actively maintained. The official project notice states there are no planned updates, bug fixes, new features, or security patches, and that vulnerabilities might not be addressed. For teams that run model inference on TorchServe today, this means security patches stop and compatibility updates with newer versions of PyTorch and CUDA stop. Engineers are left owning the entire dependency chain themselves: choosing compatible versions across the GPU stack, patching vulnerabilities in every layer, and debugging subtle failures when any component drifts out of alignment. This is undifferentiated work that slows model delivery without adding value to the final product.",
+          "timestamp": "2026-09-10T04:00:02",
+          "url": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "AWS: How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore",
+          "body": "Heurist uses Amazon Bedrock AgentCore to build AI-powered financial intelligence for retail investors. Its flagship product, Heurist Finance, brings several institutional-style workflows into one chat experience: it gathers market data, reads filings and news, runs deep research, builds and stress-tests portfolios, and monitors positions. Each answer reflects the users portfolio and preferences. Heurists goal is to make tools such as unified risk-and-return views, whole-portfolio construction, and scenario analysis accessible to anyone with a market question..",
+          "timestamp": "2026-09-10T04:00:02",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Diiverge",
+          "body": "Turn any picture into a playable AI adventure",
+          "timestamp": "2026-09-09T12:07:01",
+          "url": "https://www.producthunt.com/products/diiverge-co",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Muse",
           "body": "Your personal AI agent that gets things done",
@@ -19,15 +100,6 @@
           "body": "Train your MicroDuck and win the Golden Beak Belt.",
           "timestamp": "2026-09-09T12:07:01",
           "url": "https://www.producthunt.com/products/duckfightclub",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Diiverge",
-          "body": "Turn any picture into a playable AI adventure",
-          "timestamp": "2026-09-09T12:07:01",
-          "url": "https://www.producthunt.com/products/diiverge-co",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -60,15 +132,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Remind",
-          "body": "Full-screen meeting reminders with AI briefings",
-          "timestamp": "2026-09-07T13:30:02",
-          "url": "https://www.producthunt.com/products/remind-7",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Clipnote",
           "body": "Save your AI conversations so they persist after closing tab",
           "timestamp": "2026-09-07T13:30:02",
@@ -91,6 +154,15 @@
           "body": "Notes docked to your screen edge, with an AI agent inside",
           "timestamp": "2026-09-07T13:30:02",
           "url": "https://www.producthunt.com/products/tucky",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Remind",
+          "body": "Full-screen meeting reminders with AI briefings",
+          "timestamp": "2026-09-07T13:30:02",
+          "url": "https://www.producthunt.com/products/remind-7",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -130,63 +202,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: MagiCrew",
-          "body": "Give everyone their own AI workforce in one platform",
-          "timestamp": "2026-09-03T13:30:02",
-          "url": "https://www.producthunt.com/products/magicrew",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Grove",
-          "body": "One terminal for you and your AI agent",
-          "timestamp": "2026-09-03T13:30:02",
-          "url": "https://www.producthunt.com/products/grove-8",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Causal",
-          "body": "AI Powered Canvas for planning visual projects",
-          "timestamp": "2026-09-03T13:30:02",
-          "url": "https://www.producthunt.com/products/causal-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Agent Builder by Airtop",
-          "body": "Build agents that heal themselves.",
-          "timestamp": "2026-09-03T13:30:02",
-          "url": "https://www.producthunt.com/products/airtop",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ARBR",
-          "body": "Control Every AI Request",
-          "timestamp": "2026-09-03T13:30:02",
-          "url": "https://www.producthunt.com/products/arbr",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Tabbit AI",
-          "body": "Give your browser a task, not just a question",
-          "timestamp": "2026-09-03T13:30:02",
-          "url": "https://www.producthunt.com/products/tabbitai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight:\n\n* **AI Productivity Tools**: Several new products were launched on Product Hunt, focusing on AI productivity, including Muse, a personal AI agent, and WorkID.ai, a platform for verified talent to meet opportunity.\n* **AI-powered Meeting Reminders**: Remind, a full-screen meeting reminder with AI briefings, was launched, aiming to improve meeting efficiency.\n* **AI-powered Coding Agents**: Harden, a security layer for AI coding agents, and Airuncode, a platform to run multiple local coding agents on a machine, were launched, highlighting the growing importance of AI in coding.\n* **AI-powered Notes and Conversations**: Clipnote, a tool to save AI conversations, and Tucky, a notes docked to the screen edge with an AI agent inside, were launched, emphasizing the need for AI-powered organization.\n* **AI-powered Research and Trading**: Nina by Antalpha, a non-custodial AI agent for research, prediction, and trading, was launched, catering to the growing demand for AI in finance.\n* **AI-powered Learning and Analysis**: Routines by Databox, an AI analyst that runs analysis and reports on a schedule, and myAIcademy, a platform to learn AI skills for specific roles and teams, were launched, highlighting the increasing importance of AI in learning and analysis.\n\nTrend: **The Rise of AI Productivity Tools**: The recent launches on Product Hunt indicate a growing trend of developing AI-powered tools to enhance productivity, efficiency, and organization. These tools aim to simplify tasks, automate processes, and provide insights, making AI an integral part of daily life."
+  "summary": "Here are the key developments with insight:\n\n* **AI-powered personal finance with Wealthfolio**: Wealthfolio, a new product on Product Hunt, offers local-first personal finance with optional broker sync, making it easier for individuals to manage their finances.\n* **AI customer experience with Typewise Nova**: Typewise Nova, another new product on Product Hunt, provides AI customer experience that builds and improves itself, allowing businesses to create more personalized and effective customer interactions.\n* **AI observability with OpenObserve**: OpenObserve, a new product on Product Hunt, offers OpenTelemetry-native observability for agents and LLMs, enabling developers to monitor and improve the performance of their AI systems.\n* **Computer vision applications with Viso Now**: Viso Now, a new product on Product Hunt, allows developers to build computer vision applications with AI, making it easier to create and deploy AI-powered vision systems.\n* **AI-powered analysis with Athenic AI**: Athenic AI, a new product on Product Hunt, provides 90+ datasets and AI made for analysis, enabling businesses to make data-driven decisions with the help of AI.\n* **Trend: Increased focus on AI-powered tools and services**: The recent launches on Product Hunt indicate a growing trend towards developing AI-powered tools and services that can help businesses and individuals improve their productivity, decision-making, and customer experience.\n\nThese developments highlight the increasing importance of AI in various industries and the growing need for AI-powered tools and services to improve efficiency and effectiveness."
 }
