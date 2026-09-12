@@ -1,10 +1,64 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-11T07:05:51.072Z",
+  "timestamp": "2026-09-12T06:58:15.009Z",
   "categories": {
     "news": {
-      "count": 22,
+      "count": 27,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Spaces",
+          "body": "One shared space where your team and AI agents work",
+          "timestamp": "2026-09-11T13:30:02",
+          "url": "https://www.producthunt.com/products/spaces-21",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: easyspecs.ai",
+          "body": "The spec review platform",
+          "timestamp": "2026-09-11T13:30:02",
+          "url": "https://www.producthunt.com/products/easyspecs-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: TIM PG",
+          "body": "Anonymize sensitive data before pasting into AI tools",
+          "timestamp": "2026-09-11T13:30:02",
+          "url": "https://www.producthunt.com/products/tim-pg",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Cadenya",
+          "body": "A hosted agentic loop to bring agentic possibilities to life",
+          "timestamp": "2026-09-11T13:30:02",
+          "url": "https://www.producthunt.com/products/cadenya-the-agent-runtime",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Jackalope",
+          "body": "Codex, Claude Code, Grok, + OpenCode in one shared workspace.",
+          "timestamp": "2026-09-11T13:30:02",
+          "url": "https://www.producthunt.com/products/jackalope",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "AWS: How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
+          "body": "This post is co-written with Petra Lafond, Product Manager, and Maarten Cardinaels...",
+          "timestamp": "2026-09-11T04:00:02",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Wealthfolio",
           "body": "Local-first personal finance with optional broker sync",
@@ -60,15 +114,6 @@
           }
         },
         {
-          "subject": "AWS: Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
-          "body": "TorchServe is no longer actively maintained. The official project notice states there are no planned updates, bug fixes, new features, or security patches, and that vulnerabilities might not be addressed. For teams that run model inference on TorchServe today, this means security patches stop and compatibility updates with newer versions of PyTorch and CUDA stop. Engineers are left owning the entire dependency chain themselves: choosing compatible versions across the GPU stack, patching vulnerabilities in every layer, and debugging subtle failures when any component drifts out of alignment. This is undifferentiated work that slows model delivery without adding value to the final product.",
-          "timestamp": "2026-09-10T04:00:02",
-          "url": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
-          "extras": {
-            "data_origin": "AWS AI News"
-          }
-        },
-        {
           "subject": "AWS: How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore",
           "body": "Heurist uses Amazon Bedrock AgentCore to build AI-powered financial intelligence for retail investors. Its flagship product, Heurist Finance, brings several institutional-style workflows into one chat experience: it gathers market data, reads filings and news, runs deep research, builds and stress-tests portfolios, and monitors positions. Each answer reflects the users portfolio and preferences. Heurists goal is to make tools such as unified risk-and-return views, whole-portfolio construction, and scenario analysis accessible to anyone with a market question..",
           "timestamp": "2026-09-10T04:00:02",
@@ -78,12 +123,12 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Diiverge",
-          "body": "Turn any picture into a playable AI adventure",
-          "timestamp": "2026-09-09T12:07:01",
-          "url": "https://www.producthunt.com/products/diiverge-co",
+          "subject": "AWS: Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
+          "body": "TorchServe is no longer actively maintained. The official project notice states there are no planned updates, bug fixes, new features, or security patches, and that vulnerabilities might not be addressed. For teams that run model inference on TorchServe today, this means security patches stop and compatibility updates with newer versions of PyTorch and CUDA stop. Engineers are left owning the entire dependency chain themselves: choosing compatible versions across the GPU stack, patching vulnerabilities in every layer, and debugging subtle failures when any component drifts out of alignment. This is undifferentiated work that slows model delivery without adding value to the final product.",
+          "timestamp": "2026-09-10T04:00:02",
+          "url": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
           "extras": {
-            "data_origin": "Product Hunt"
+            "data_origin": "AWS AI News"
           }
         },
         {
@@ -100,6 +145,15 @@
           "body": "Train your MicroDuck and win the Golden Beak Belt.",
           "timestamp": "2026-09-09T12:07:01",
           "url": "https://www.producthunt.com/products/duckfightclub",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Diiverge",
+          "body": "Turn any picture into a playable AI adventure",
+          "timestamp": "2026-09-09T12:07:01",
+          "url": "https://www.producthunt.com/products/diiverge-co",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -127,6 +181,15 @@
           "body": "Your product in AI and AI in your product",
           "timestamp": "2026-09-09T12:07:01",
           "url": "https://www.producthunt.com/products/noodle-seed",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Routines by Databox",
+          "body": "An AI Analyst that runs analysis and reports on a schedule",
+          "timestamp": "2026-09-07T13:30:02",
+          "url": "https://www.producthunt.com/products/databox",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -184,27 +247,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Routines by Databox",
-          "body": "An AI Analyst that runs analysis and reports on a schedule",
-          "timestamp": "2026-09-07T13:30:02",
-          "url": "https://www.producthunt.com/products/databox",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: myAIcademy",
-          "body": "Learn AI skills for your specific role and team",
-          "timestamp": "2026-09-04T13:30:02",
-          "url": "https://www.producthunt.com/products/myaicademy",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n* **AI-powered personal finance with Wealthfolio**: Wealthfolio, a new product on Product Hunt, offers local-first personal finance with optional broker sync, making it easier for individuals to manage their finances.\n* **AI customer experience with Typewise Nova**: Typewise Nova, another new product on Product Hunt, provides AI customer experience that builds and improves itself, allowing businesses to create more personalized and effective customer interactions.\n* **AI observability with OpenObserve**: OpenObserve, a new product on Product Hunt, offers OpenTelemetry-native observability for agents and LLMs, enabling developers to monitor and improve the performance of their AI systems.\n* **Computer vision applications with Viso Now**: Viso Now, a new product on Product Hunt, allows developers to build computer vision applications with AI, making it easier to create and deploy AI-powered vision systems.\n* **AI-powered analysis with Athenic AI**: Athenic AI, a new product on Product Hunt, provides 90+ datasets and AI made for analysis, enabling businesses to make data-driven decisions with the help of AI.\n* **Trend: Increased focus on AI-powered tools and services**: The recent launches on Product Hunt indicate a growing trend towards developing AI-powered tools and services that can help businesses and individuals improve their productivity, decision-making, and customer experience.\n\nThese developments highlight the increasing importance of AI in various industries and the growing need for AI-powered tools and services to improve efficiency and effectiveness."
+  "summary": "Here are 4-6 key development points and 1 trend:\n\n**Key Developments:**\n\n* **Product Hunt Launches:** Several new products have been launched on Product Hunt, including Spaces, a shared workspace for team and AI agent collaboration, Easyspecs.ai, a spec review platform, and others.\n* **Amazon Web Services:** AWS has announced two new case studies showcasing the use of Amazon Bedrock AgentCore in building AI-native applications, including Heurist Finance, an AI-powered investment workbench, and AvioBook, a turnaround insights platform.\n* **TorchServe:** AWS has released a guide on simplifying and supporting TorchServe workloads using Ray Serve Deep Learning Containers, addressing the issue of undifferentiated work caused by the discontinuation of TorchServe maintenance.\n* **New AI-powered Tools:** Several new AI-powered tools have been launched, including Muse, a personal AI agent, DuckFightClub, a platform for training MicroDuck, and Routines by Databox, an AI analyst that runs analysis and reports on a schedule.\n* **Data Security:** Harden, a security layer for AI coding agents, has been launched to address the security concerns around AI coding agents.\n\n**Trend:**\n\n* **Growing focus on AI-powered Collaboration:** The trend of AI-powered collaboration tools is growing, with a focus on enabling teams to work alongside AI agents in a shared workspace, as seen in the launch of Spaces and the use of Amazon Bedrock AgentCore in building AI-native applications. This trend suggests a shift towards more integrated and collaborative AI practices in the industry."
 }
