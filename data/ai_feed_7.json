@@ -1,24 +1,60 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-15T07:23:18.289Z",
+  "timestamp": "2026-09-16T07:22:55.663Z",
   "categories": {
     "news": {
-      "count": 31,
+      "count": 37,
       "items": [
         {
-          "subject": "Product Hunt Launch: Juggler",
-          "body": "A visual AI coding harness",
-          "timestamp": "2026-09-14T13:36:02",
-          "url": "https://www.producthunt.com/products/juggler",
+          "subject": "Product Hunt Launch: siift",
+          "body": "Turn AI noise into better business decisions",
+          "timestamp": "2026-09-15T13:30:02",
+          "url": "https://www.producthunt.com/products/siift",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: OzBrain",
-          "body": "Your knowledge shared with every AI agent & any teammate",
-          "timestamp": "2026-09-14T13:36:02",
-          "url": "https://www.producthunt.com/products/ozbrain",
+          "subject": "Product Hunt Launch: Idlen",
+          "body": "Earn while you work with AI in any IDE or browser.",
+          "timestamp": "2026-09-15T13:30:02",
+          "url": "https://www.producthunt.com/products/idlen",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Voiskey",
+          "body": "AI voice typing that sounds right in every app",
+          "timestamp": "2026-09-15T13:30:02",
+          "url": "https://www.producthunt.com/products/voiskey",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: tiun.",
+          "body": "Auth, billing, and payments for AI builders",
+          "timestamp": "2026-09-15T13:30:02",
+          "url": "https://www.producthunt.com/products/tiun-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Grimo AI",
+          "body": "Say it once and all tasks, calendar and notes are sorted",
+          "timestamp": "2026-09-15T13:30:02",
+          "url": "https://www.producthunt.com/products/grimo-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: is.team",
+          "body": "Your AI agent joins the board like a teammate",
+          "timestamp": "2026-09-15T13:30:02",
+          "url": "https://www.producthunt.com/products/is-team",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -33,6 +69,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Hello Inbox",
+          "body": "Get more marketing emails into the inbox",
+          "timestamp": "2026-09-14T13:36:02",
+          "url": "https://www.producthunt.com/products/helloinbox",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: LLMagnet",
           "body": "Make your WordPress site visible to AI",
           "timestamp": "2026-09-14T13:36:02",
@@ -42,10 +87,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Hello Inbox",
-          "body": "Get more marketing emails into the inbox",
+          "subject": "Product Hunt Launch: OzBrain",
+          "body": "Your knowledge shared with every AI agent & any teammate",
           "timestamp": "2026-09-14T13:36:02",
-          "url": "https://www.producthunt.com/products/helloinbox",
+          "url": "https://www.producthunt.com/products/ozbrain",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Juggler",
+          "body": "A visual AI coding harness",
+          "timestamp": "2026-09-14T13:36:02",
+          "url": "https://www.producthunt.com/products/juggler",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -105,10 +159,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Jackalope",
-          "body": "Codex, Claude Code, Grok, + OpenCode in one shared workspace.",
+          "subject": "Product Hunt Launch: easyspecs.ai",
+          "body": "The spec review platform",
           "timestamp": "2026-09-11T13:30:02",
-          "url": "https://www.producthunt.com/products/jackalope",
+          "url": "https://www.producthunt.com/products/easyspecs-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -118,15 +172,6 @@
           "body": "One shared space where your team and AI agents work",
           "timestamp": "2026-09-11T13:30:02",
           "url": "https://www.producthunt.com/products/spaces-21",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: easyspecs.ai",
-          "body": "The spec review platform",
-          "timestamp": "2026-09-11T13:30:02",
-          "url": "https://www.producthunt.com/products/easyspecs-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -150,48 +195,21 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Jackalope",
+          "body": "Codex, Claude Code, Grok, + OpenCode in one shared workspace.",
+          "timestamp": "2026-09-11T13:30:02",
+          "url": "https://www.producthunt.com/products/jackalope",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "AWS: How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
           "body": "This post is co-written with Petra Lafond, Product Manager, and Maarten Cardinaels...",
           "timestamp": "2026-09-11T04:00:02",
           "url": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/",
           "extras": {
             "data_origin": "AWS AI News"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Wealthfolio",
-          "body": "Local-first personal finance with optional broker sync",
-          "timestamp": "2026-09-10T13:30:02",
-          "url": "https://www.producthunt.com/products/wealthfolio",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Typewise Nova",
-          "body": "AI customer experience that builds and improves itself",
-          "timestamp": "2026-09-10T13:30:02",
-          "url": "https://www.producthunt.com/products/typewise",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AI Observability by OpenObserve",
-          "body": "OpenTelemetry-native observability for agents and LLMs.",
-          "timestamp": "2026-09-10T13:30:02",
-          "url": "https://www.producthunt.com/products/openobserve",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Viso Now",
-          "body": "Build computer vision applications with AI",
-          "timestamp": "2026-09-10T13:30:02",
-          "url": "https://www.producthunt.com/products/viso-now",
-          "extras": {
-            "data_origin": "Product Hunt"
           }
         },
         {
@@ -208,6 +226,42 @@
           "body": "Use saved presets to quickly get a branded device video",
           "timestamp": "2026-09-10T13:30:02",
           "url": "https://www.producthunt.com/products/mockmagic",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Viso Now",
+          "body": "Build computer vision applications with AI",
+          "timestamp": "2026-09-10T13:30:02",
+          "url": "https://www.producthunt.com/products/viso-now",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AI Observability by OpenObserve",
+          "body": "OpenTelemetry-native observability for agents and LLMs.",
+          "timestamp": "2026-09-10T13:30:02",
+          "url": "https://www.producthunt.com/products/openobserve",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Typewise Nova",
+          "body": "AI customer experience that builds and improves itself",
+          "timestamp": "2026-09-10T13:30:02",
+          "url": "https://www.producthunt.com/products/typewise",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Wealthfolio",
+          "body": "Local-first personal finance with optional broker sync",
+          "timestamp": "2026-09-10T13:30:02",
+          "url": "https://www.producthunt.com/products/wealthfolio",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -287,5 +341,5 @@
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight, followed by a trend:\n\n**Key Developments:**\n\n* **Product Hunt Launches:** 15 new AI-related products were launched on Product Hunt, including Juggler, OzBrain, Naoma AI Demo Agent V2, LLMagnet, Hello Inbox, Neopress, Visiby, Perplexity Hybrid Compute, LinkFlick, Work Life Panda, Captain Kill Switch, Jackalope, Spaces, easyspecs.ai, TIM PG, Cadenya, Wealthfolio, Typewise Nova, AI Observability by OpenObserve, Viso Now, Athenic AI, Mock Magic Presets, and Harden.\n* **AWS AI News:** Two articles were published on AWS AI News, discussing how AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore and how Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore.\n* **AI Observability:** OpenObserve launched a product on Product Hunt that provides OpenTelemetry-native observability for agents and LLMs.\n* **AI-powered Finance:** Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore, making institutional-style workflows accessible to retail investors.\n* **AI-powered Customer Experience:** Typewise Nova launched a product on Product Hunt that provides AI customer experience that builds and improves itself.\n* **AI-powered Computer Vision:** Viso Now launched a product on Product Hunt that enables building computer vision applications with AI.\n\n**Trend:**\n\n* **Increased Adoption of AI in Various Industries:** The trend observed is the increasing adoption of AI in various industries, including finance, customer experience, and computer vision. This is evident from the launch of new products on Product Hunt and the articles published on AWS AI News, which highlight the growing interest in AI-powered solutions."
+  "summary": "Here are 4-6 bullet points and 1 trend summarizing the key developments:\n\n**Bullet Points:**\n\n* **AI-powered productivity tools**: Several new products were launched on Product Hunt, including AI-powered productivity tools like Muse, Work Life Panda, and Grimo AI, which aim to streamline tasks, calendar management, and note-taking.\n* **AI for business decision-making**: Siift, a new product on Product Hunt, aims to turn AI noise into better business decisions, while Naoma AI Demo Agent V2 turns website traffic into booked, qualified meetings.\n* **AI for customer experience**: Typewise Nova and WorkID.ai are two new products that focus on AI-powered customer experience, with Typewise Nova building and improving itself to provide better customer service.\n* **AI for finance and investment**: Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore, while Athenic AI uses 90+ datasets and AI for analysis to beat the market.\n* **AI for security and compliance**: Harden is a new security layer for AI coding agents, while TIM PG anonymizes sensitive data before pasting into AI tools.\n\n**Trend:** The trend is towards **increased adoption of AI in various industries**, with a focus on **productivity**, **customer experience**, and **business decision-making**. This is reflected in the launch of new products on Product Hunt, which aim to leverage AI to improve workflows, provide better customer service, and drive business insights."
 }
