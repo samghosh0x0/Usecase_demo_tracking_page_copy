@@ -1,10 +1,46 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-18T07:10:12.800Z",
+  "timestamp": "2026-09-19T07:07:40.985Z",
   "categories": {
     "news": {
-      "count": 30,
+      "count": 29,
       "items": [
+        {
+          "subject": "Product Hunt Launch: NM Signals",
+          "body": "Make your website work better for people and AI",
+          "timestamp": "2026-09-18T13:30:01",
+          "url": "https://www.producthunt.com/products/nyman-media-signals",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ApplySeed",
+          "body": "Raise your seed from accelerators",
+          "timestamp": "2026-09-18T13:30:01",
+          "url": "https://www.producthunt.com/products/applyseed-one-app-all-accelerators",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Open Analytics 0.7.0",
+          "body": "Google Analytics, minus the cookies, plus AI",
+          "timestamp": "2026-09-18T13:30:01",
+          "url": "https://www.producthunt.com/products/open-analytics-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AI Class by Kanary",
+          "body": "Knight or Ninja? Your Codex & Claude logs decide",
+          "timestamp": "2026-09-18T13:30:01",
+          "url": "https://www.producthunt.com/products/ai-class-by-kanary",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Die With Me",
           "body": "AIM buddy list for your friends Claude Code and Codex usage",
@@ -78,6 +114,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Voiskey",
+          "body": "AI voice typing that sounds right in every app",
+          "timestamp": "2026-09-15T13:30:02",
+          "url": "https://www.producthunt.com/products/voiskey",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: siift",
           "body": "Turn AI noise into better business decisions",
           "timestamp": "2026-09-15T13:30:02",
@@ -91,15 +136,6 @@
           "body": "Earn while you work with AI in any IDE or browser.",
           "timestamp": "2026-09-15T13:30:02",
           "url": "https://www.producthunt.com/products/idlen",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Voiskey",
-          "body": "AI voice typing that sounds right in every app",
-          "timestamp": "2026-09-15T13:30:02",
-          "url": "https://www.producthunt.com/products/voiskey",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -204,6 +240,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Captain Kill Switch",
+          "body": "Close all your open apps in one click",
+          "timestamp": "2026-09-12T13:30:01",
+          "url": "https://www.producthunt.com/products/captain-kill-switch",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: LinkFlick",
           "body": "Stop re-pairing your Magic Keyboard between Macs",
           "timestamp": "2026-09-12T13:30:01",
@@ -220,63 +265,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Captain Kill Switch",
-          "body": "Close all your open apps in one click",
-          "timestamp": "2026-09-12T13:30:01",
-          "url": "https://www.producthunt.com/products/captain-kill-switch",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Jackalope",
-          "body": "Codex, Claude Code, Grok, + OpenCode in one shared workspace.",
-          "timestamp": "2026-09-11T13:30:02",
-          "url": "https://www.producthunt.com/products/jackalope",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Spaces",
-          "body": "One shared space where your team and AI agents work",
-          "timestamp": "2026-09-11T13:30:02",
-          "url": "https://www.producthunt.com/products/spaces-21",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: easyspecs.ai",
-          "body": "The spec review platform",
-          "timestamp": "2026-09-11T13:30:02",
-          "url": "https://www.producthunt.com/products/easyspecs-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: TIM PG",
-          "body": "Anonymize sensitive data before pasting into AI tools",
-          "timestamp": "2026-09-11T13:30:02",
-          "url": "https://www.producthunt.com/products/tim-pg",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Cadenya",
-          "body": "A hosted agentic loop to bring agentic possibilities to life",
-          "timestamp": "2026-09-11T13:30:02",
-          "url": "https://www.producthunt.com/products/cadenya-the-agent-runtime",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 key developments with insight, along with 1 trend:\n\n**Key Developments:**\n\n* **AI-powered productivity tools are on the rise**: Several new products have been launched on Product Hunt, including AskDeck, Convo, and Idlen, which offer AI-powered solutions for tasks such as creating PowerPoint presentations, generating meeting notes, and automating work processes.\n* **AI-powered collaboration tools are gaining traction**: Products like Spaces and OzBrain are designed to facilitate collaboration between humans and AI agents, enabling teams to work more efficiently and effectively.\n* **AI-powered marketing and sales tools are emerging**: New products like Naoma AI Demo Agent V2 and Hello Inbox are being launched to help businesses generate leads and convert them into customers.\n* **AI-powered security and compliance tools are becoming more important**: With the increasing use of AI in businesses, there is a growing need for tools that can anonymize sensitive data and ensure compliance with regulations.\n* **AI-powered creative tools are being developed**: Products like Grimo AI and LinkFlick are being launched to help creatives work more efficiently and effectively, using AI to automate tasks and provide insights.\n\n**Trend:**\n\n* **The increasing importance of AI-human collaboration**: As AI becomes more prevalent in businesses, there is a growing need for tools that can facilitate collaboration between humans and AI agents. This trend is reflected in the launch of products like Spaces, OzBrain, and AskDeck, which are designed to enable humans and AI agents to work together more effectively."
+  "summary": "Here are the key developments in AI with insight:\n\n**Summary of recent AI product launches:**\n\n* **Productivity Tools:** Several new tools emerged to enhance productivity, including AskDeck (generates PowerPoint presentations and narrated videos), Juggler (visual AI coding harness), and Convo (AI copilot for sales professionals).\n* **AI Adoption:** The Product Hunt platform has seen a surge in AI-based tools, with 29 new launches in a single day.\n\n**Trend: AI-Enabling Infrastructure**\n\nA notable trend is the emergence of infrastructure products that enable developers and businesses to integrate AI into their workflows, such as:\n* LLMagnet (makes a WordPress site visible to AI)\n* Tiun (auth, billing, and payments for AI builders)\n* CRCM 2.0 (build with AI and grow with CREEM)\n* OzBrain (shares knowledge with every AI agent and teammate)\n\n**Other Notable Developments:**\n\n* Text Agent Store: a marketplace for AI agents that can be communicated with via text\n* Opens Analytics 0.7.0: a Google Analytics alternative with AI capabilities, minus cookies\n\n**Additional Insights:**\n\n* The launches indicate a growing interest in AI-based productivity and collaboration tools\n* Many of the products launched are focused on making AI more accessible and user-friendly for non-technical users\n* The trend of infrastructure products suggests that the focus is shifting from building AI tools to integrating them into existing workflows."
 }
