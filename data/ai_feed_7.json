@@ -1,9 +1,9 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-19T07:07:40.985Z",
+  "timestamp": "2026-09-20T07:33:19.020Z",
   "categories": {
     "news": {
-      "count": 29,
+      "count": 26,
       "items": [
         {
           "subject": "Product Hunt Launch: NM Signals",
@@ -114,15 +114,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Voiskey",
-          "body": "AI voice typing that sounds right in every app",
-          "timestamp": "2026-09-15T13:30:02",
-          "url": "https://www.producthunt.com/products/voiskey",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: siift",
           "body": "Turn AI noise into better business decisions",
           "timestamp": "2026-09-15T13:30:02",
@@ -136,6 +127,15 @@
           "body": "Earn while you work with AI in any IDE or browser.",
           "timestamp": "2026-09-15T13:30:02",
           "url": "https://www.producthunt.com/products/idlen",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Voiskey",
+          "body": "AI voice typing that sounds right in every app",
+          "timestamp": "2026-09-15T13:30:02",
+          "url": "https://www.producthunt.com/products/voiskey",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -213,6 +213,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Perplexity Hybrid Compute",
+          "body": "Splitting AI tasks: Cloud for research, Mac for privacy",
+          "timestamp": "2026-09-13T13:30:01",
+          "url": "https://www.producthunt.com/products/perplexity-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Neopress",
           "body": "Build and grow your website by chatting with AI",
           "timestamp": "2026-09-13T13:30:01",
@@ -229,45 +238,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Perplexity Hybrid Compute",
-          "body": "Splitting AI tasks: Cloud for research, Mac for privacy",
-          "timestamp": "2026-09-13T13:30:01",
-          "url": "https://www.producthunt.com/products/perplexity-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Captain Kill Switch",
-          "body": "Close all your open apps in one click",
-          "timestamp": "2026-09-12T13:30:01",
-          "url": "https://www.producthunt.com/products/captain-kill-switch",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: LinkFlick",
-          "body": "Stop re-pairing your Magic Keyboard between Macs",
-          "timestamp": "2026-09-12T13:30:01",
-          "url": "https://www.producthunt.com/products/linkflick",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Work Life Panda",
-          "body": "Every task, every calendar, one app. Private on-device AI",
-          "timestamp": "2026-09-12T13:30:01",
-          "url": "https://www.producthunt.com/products/work-life-panda",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments in AI with insight:\n\n**Summary of recent AI product launches:**\n\n* **Productivity Tools:** Several new tools emerged to enhance productivity, including AskDeck (generates PowerPoint presentations and narrated videos), Juggler (visual AI coding harness), and Convo (AI copilot for sales professionals).\n* **AI Adoption:** The Product Hunt platform has seen a surge in AI-based tools, with 29 new launches in a single day.\n\n**Trend: AI-Enabling Infrastructure**\n\nA notable trend is the emergence of infrastructure products that enable developers and businesses to integrate AI into their workflows, such as:\n* LLMagnet (makes a WordPress site visible to AI)\n* Tiun (auth, billing, and payments for AI builders)\n* CRCM 2.0 (build with AI and grow with CREEM)\n* OzBrain (shares knowledge with every AI agent and teammate)\n\n**Other Notable Developments:**\n\n* Text Agent Store: a marketplace for AI agents that can be communicated with via text\n* Opens Analytics 0.7.0: a Google Analytics alternative with AI capabilities, minus cookies\n\n**Additional Insights:**\n\n* The launches indicate a growing interest in AI-based productivity and collaboration tools\n* Many of the products launched are focused on making AI more accessible and user-friendly for non-technical users\n* The trend of infrastructure products suggests that the focus is shifting from building AI tools to integrating them into existing workflows."
+  "summary": "Here are four key developments with insight, six bullet points, and one trend:\n\n**Trend: AI-powered tools for entrepreneurs and small businesses are gaining traction**\n\nHere are the key developments:\n\n* **Product Hunt Launch: NM Signals**: A website optimization tool that uses AI to improve website performance and user experience.\n* **Product Hunt Launch: AskDeck**: An AI-powered tool that turns PowerPoint presentations into narrated videos with a single call.\n* **Product Hunt Launch: Grimo AI**: A task management tool that uses AI to organize tasks, calendar, and notes from a single voice command.\n* **Product Hunt Launch: is.team**: An AI-powered tool that enables seamless collaboration between humans and AI agents.\n\nKey developments:\n\n* **Increased focus on AI-powered productivity tools**: Several new tools have been launched that aim to improve productivity and automate routine tasks using AI.\n* **Expansion of AI-powered collaboration tools**: Tools like is.team and OzBrain enable seamless collaboration between humans and AI agents.\n* **Growing importance of AI in marketing**: Products like Hello Inbox and Visiby aim to improve marketing efforts through AI-powered tools.\n* **Increased emphasis on AI-powered innovation**: Products like Perplexity Hybrid Compute and Juggler showcase the growing importance of innovation in the AI space.\n\nThe trend highlights the growing demand for AI-powered tools that cater to entrepreneurs and small businesses. As AI technology continues to advance, we can expect to see more tools that leverage AI to improve productivity, collaboration, and innovation in the future."
 }
