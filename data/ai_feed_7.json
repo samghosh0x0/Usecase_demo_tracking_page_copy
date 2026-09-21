@@ -1,9 +1,9 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-20T07:33:19.020Z",
+  "timestamp": "2026-09-21T07:44:24.714Z",
   "categories": {
     "news": {
-      "count": 26,
+      "count": 23,
       "items": [
         {
           "subject": "Product Hunt Launch: NM Signals",
@@ -78,6 +78,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: PeakHour 6",
+          "body": "Real-time network monitor for Mac w/ detailed WiFi insights",
+          "timestamp": "2026-09-16T13:30:02",
+          "url": "https://www.producthunt.com/products/peak-hour",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Thread",
           "body": "AI journal that connects your thoughts into something bigger",
           "timestamp": "2026-09-16T13:30:02",
@@ -100,15 +109,6 @@
           "body": "AI meeting notes that turn into tracked tasks",
           "timestamp": "2026-09-16T13:30:02",
           "url": "https://www.producthunt.com/products/jottoo",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: PeakHour 6",
-          "body": "Real-time network monitor for Mac w/ detailed WiFi insights",
-          "timestamp": "2026-09-16T13:30:02",
-          "url": "https://www.producthunt.com/products/peak-hour",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -168,6 +168,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Hello Inbox",
+          "body": "Get more marketing emails into the inbox",
+          "timestamp": "2026-09-14T13:36:02",
+          "url": "https://www.producthunt.com/products/helloinbox",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Juggler",
           "body": "A visual AI coding harness",
           "timestamp": "2026-09-14T13:36:02",
@@ -202,45 +211,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Hello Inbox",
-          "body": "Get more marketing emails into the inbox",
-          "timestamp": "2026-09-14T13:36:02",
-          "url": "https://www.producthunt.com/products/helloinbox",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Perplexity Hybrid Compute",
-          "body": "Splitting AI tasks: Cloud for research, Mac for privacy",
-          "timestamp": "2026-09-13T13:30:01",
-          "url": "https://www.producthunt.com/products/perplexity-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Neopress",
-          "body": "Build and grow your website by chatting with AI",
-          "timestamp": "2026-09-13T13:30:01",
-          "url": "https://www.producthunt.com/products/neopress",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Visiby",
-          "body": "Track and grow your visibility across AI search",
-          "timestamp": "2026-09-13T13:30:01",
-          "url": "https://www.producthunt.com/products/visiby",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are four key developments with insight, six bullet points, and one trend:\n\n**Trend: AI-powered tools for entrepreneurs and small businesses are gaining traction**\n\nHere are the key developments:\n\n* **Product Hunt Launch: NM Signals**: A website optimization tool that uses AI to improve website performance and user experience.\n* **Product Hunt Launch: AskDeck**: An AI-powered tool that turns PowerPoint presentations into narrated videos with a single call.\n* **Product Hunt Launch: Grimo AI**: A task management tool that uses AI to organize tasks, calendar, and notes from a single voice command.\n* **Product Hunt Launch: is.team**: An AI-powered tool that enables seamless collaboration between humans and AI agents.\n\nKey developments:\n\n* **Increased focus on AI-powered productivity tools**: Several new tools have been launched that aim to improve productivity and automate routine tasks using AI.\n* **Expansion of AI-powered collaboration tools**: Tools like is.team and OzBrain enable seamless collaboration between humans and AI agents.\n* **Growing importance of AI in marketing**: Products like Hello Inbox and Visiby aim to improve marketing efforts through AI-powered tools.\n* **Increased emphasis on AI-powered innovation**: Products like Perplexity Hybrid Compute and Juggler showcase the growing importance of innovation in the AI space.\n\nThe trend highlights the growing demand for AI-powered tools that cater to entrepreneurs and small businesses. As AI technology continues to advance, we can expect to see more tools that leverage AI to improve productivity, collaboration, and innovation in the future."
+  "summary": "**Key Developments and Insights:**\n\n* **Rise of Product Hunt Launches:** There has been an increase in product launches on Product Hunt in various categories, including AI-related tools and services.\n* **Emergence of AI-Powered Startups:** Startups like NM Signals, AI Class by Kanary, and Convo are using AI to offer solutions for website optimization, AI agent integration, and sales automation.\n* **Focus on User Experience:** Products like Thread, a journaling AI, and Grimo AI, which helps automate task management, indicate a growing focus on user experience and productivity.\n* **Increased Competition in AI Marketplaces:** Marketplaces like Text Agent Store, which offers a platform for buying and selling AI agents, are emerging to cater to the growing demand for AI-based solutions.\n* **Integration of AI with Traditional Tools:** Products like LLMagnet, which makes WordPress sites visible to AI, and Convo, which integrates with existing sales tools, suggest a trend towards integrating AI with traditional tools.\n\n**Trend:** **Rise of AI-Powered Productivity Tools:** The recent product launches on Product Hunt indicate a growing trend of AI-powered productivity tools that aim to enhance user experience and efficiency."
 }
