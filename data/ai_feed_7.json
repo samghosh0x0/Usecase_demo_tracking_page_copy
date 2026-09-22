@@ -1,10 +1,37 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-21T07:44:24.714Z",
+  "timestamp": "2026-09-22T07:27:16.100Z",
   "categories": {
     "news": {
-      "count": 23,
+      "count": 21,
       "items": [
+        {
+          "subject": "Product Hunt Launch: AI Creative Insights by Decode",
+          "body": "Predict which ad wins before you spend on media",
+          "timestamp": "2026-09-21T13:31:02",
+          "url": "https://www.producthunt.com/products/decode-by-entropik",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Arcjet",
+          "body": "Secure the AI agents you're building at runtime",
+          "timestamp": "2026-09-21T13:31:02",
+          "url": "https://www.producthunt.com/products/arcjet",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Hyrax AI",
+          "body": "The AI architect for your entire codebase",
+          "timestamp": "2026-09-21T13:31:02",
+          "url": "https://www.producthunt.com/products/tristan-benozer",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: NM Signals",
           "body": "Make your website work better for people and AI",
@@ -42,6 +69,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: AskDeck",
+          "body": "Call an AI to get a PowerPoint and a narrated video back",
+          "timestamp": "2026-09-17T07:49:02",
+          "url": "https://www.producthunt.com/products/askdeck",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Die With Me",
           "body": "AIM buddy list for your friends Claude Code and Codex usage",
           "timestamp": "2026-09-17T07:49:02",
@@ -69,24 +105,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: AskDeck",
-          "body": "Call an AI to get a PowerPoint and a narrated video back",
-          "timestamp": "2026-09-17T07:49:02",
-          "url": "https://www.producthunt.com/products/askdeck",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: PeakHour 6",
-          "body": "Real-time network monitor for Mac w/ detailed WiFi insights",
-          "timestamp": "2026-09-16T13:30:02",
-          "url": "https://www.producthunt.com/products/peak-hour",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Thread",
           "body": "AI journal that connects your thoughts into something bigger",
           "timestamp": "2026-09-16T13:30:02",
@@ -109,6 +127,24 @@
           "body": "AI meeting notes that turn into tracked tasks",
           "timestamp": "2026-09-16T13:30:02",
           "url": "https://www.producthunt.com/products/jottoo",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: PeakHour 6",
+          "body": "Real-time network monitor for Mac w/ detailed WiFi insights",
+          "timestamp": "2026-09-16T13:30:02",
+          "url": "https://www.producthunt.com/products/peak-hour",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: is.team",
+          "body": "Your AI agent joins the board like a teammate",
+          "timestamp": "2026-09-15T13:30:02",
+          "url": "https://www.producthunt.com/products/is-team",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -157,63 +193,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: is.team",
-          "body": "Your AI agent joins the board like a teammate",
-          "timestamp": "2026-09-15T13:30:02",
-          "url": "https://www.producthunt.com/products/is-team",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Hello Inbox",
-          "body": "Get more marketing emails into the inbox",
-          "timestamp": "2026-09-14T13:36:02",
-          "url": "https://www.producthunt.com/products/helloinbox",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Juggler",
-          "body": "A visual AI coding harness",
-          "timestamp": "2026-09-14T13:36:02",
-          "url": "https://www.producthunt.com/products/juggler",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: OzBrain",
-          "body": "Your knowledge shared with every AI agent & any teammate",
-          "timestamp": "2026-09-14T13:36:02",
-          "url": "https://www.producthunt.com/products/ozbrain",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Naoma AI Demo Agent V2",
-          "body": "Turns website traffic into booked, qualified meetings",
-          "timestamp": "2026-09-14T13:36:02",
-          "url": "https://www.producthunt.com/products/naoma",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: LLMagnet",
-          "body": "Make your WordPress site visible to AI",
-          "timestamp": "2026-09-14T13:36:02",
-          "url": "https://www.producthunt.com/products/llmagnet",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Key Developments and Insights:**\n\n* **Rise of Product Hunt Launches:** There has been an increase in product launches on Product Hunt in various categories, including AI-related tools and services.\n* **Emergence of AI-Powered Startups:** Startups like NM Signals, AI Class by Kanary, and Convo are using AI to offer solutions for website optimization, AI agent integration, and sales automation.\n* **Focus on User Experience:** Products like Thread, a journaling AI, and Grimo AI, which helps automate task management, indicate a growing focus on user experience and productivity.\n* **Increased Competition in AI Marketplaces:** Marketplaces like Text Agent Store, which offers a platform for buying and selling AI agents, are emerging to cater to the growing demand for AI-based solutions.\n* **Integration of AI with Traditional Tools:** Products like LLMagnet, which makes WordPress sites visible to AI, and Convo, which integrates with existing sales tools, suggest a trend towards integrating AI with traditional tools.\n\n**Trend:** **Rise of AI-Powered Productivity Tools:** The recent product launches on Product Hunt indicate a growing trend of AI-powered productivity tools that aim to enhance user experience and efficiency."
+  "summary": "**Summary of key developments with insight:**\n\n* **AI-powered product launches continue to emerge**: The past 5 days have seen a surge in new AI-related product launches, with 21 new products announced on Product Hunt, a platform for discovering and sharing new products and technologies.\n* **Focusing on productivity and efficiency**: Many of the new product launches focus on using AI to improve productivity and efficiency, such as AI-driven meeting notes (Jottoo), task management (Idlen), and AI-powered tools for sales teams (Convo).\n* **AI-powered marketing and analytics tools**: Some products, such as AI Creative Insights by Decode, aim to help users make data-driven decisions in marketing, while others like Open Analytics offer an alternative to traditional Google Analytics.\n* **New tools for AI development and deployment**: Products like Arcjet and siift provide new tools for building and deploying AI models, while tiun offers authentication, billing, and payment solutions for AI builders.\n* **Advancements in AI accessibility**: The launch of Voiskey, an AI-powered voice typing tool, suggests a continued effort to make AI more accessible to users.\n\n**Trend:**\n\n* **Increasing focus on practical applications of AI**: The past five days have seen a strong emphasis on using AI to solve real-world problems and improve business operations, rather than solely focusing on research or abstract concepts."
 }
