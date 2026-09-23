@@ -1,10 +1,73 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-22T07:27:16.100Z",
+  "timestamp": "2026-09-23T07:29:46.108Z",
   "categories": {
     "news": {
-      "count": 21,
+      "count": 22,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Edyt",
+          "body": "AI for text you can't even select. Any app on Mac & Windows",
+          "timestamp": "2026-09-22T09:47:02",
+          "url": "https://www.producthunt.com/products/edyt",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Contextberg",
+          "body": "Turn your work into private memory for AI agents",
+          "timestamp": "2026-09-22T09:47:02",
+          "url": "https://www.producthunt.com/products/contextberg",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: WeWeb MCP",
+          "body": "Your AI agent builds the app. You stay in control",
+          "timestamp": "2026-09-22T09:47:02",
+          "url": "https://www.producthunt.com/products/weweb-io",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Jev Wrapped",
+          "body": "See how much of a Telegram channel is ads and clickbait",
+          "timestamp": "2026-09-22T09:47:02",
+          "url": "https://www.producthunt.com/products/jev-wrapped",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Reeno",
+          "body": "AI calls you randomly to practice speaking a new language",
+          "timestamp": "2026-09-22T09:47:02",
+          "url": "https://www.producthunt.com/products/reeno",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: VideoFlow Studio",
+          "body": "Type your startup URL and get a premium video trailer",
+          "timestamp": "2026-09-22T09:47:02",
+          "url": "https://www.producthunt.com/products/videoflow-studio",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Prowler Cloud",
+          "body": "Where your AI agent becomes a cloud security defender",
+          "timestamp": "2026-09-22T09:47:02",
+          "url": "https://www.producthunt.com/products/prowler",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: AI Creative Insights by Decode",
           "body": "Predict which ad wins before you spend on media",
@@ -69,15 +132,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: AskDeck",
-          "body": "Call an AI to get a PowerPoint and a narrated video back",
-          "timestamp": "2026-09-17T07:49:02",
-          "url": "https://www.producthunt.com/products/askdeck",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Die With Me",
           "body": "AIM buddy list for your friends Claude Code and Codex usage",
           "timestamp": "2026-09-17T07:49:02",
@@ -100,6 +154,24 @@
           "body": "Build with AI. Sell and Grow with CREEM.",
           "timestamp": "2026-09-17T07:49:02",
           "url": "https://www.producthunt.com/products/creem",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AskDeck",
+          "body": "Call an AI to get a PowerPoint and a narrated video back",
+          "timestamp": "2026-09-17T07:49:02",
+          "url": "https://www.producthunt.com/products/askdeck",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: PeakHour 6",
+          "body": "Real-time network monitor for Mac w/ detailed WiFi insights",
+          "timestamp": "2026-09-16T13:30:02",
+          "url": "https://www.producthunt.com/products/peak-hour",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -130,72 +202,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: PeakHour 6",
-          "body": "Real-time network monitor for Mac w/ detailed WiFi insights",
-          "timestamp": "2026-09-16T13:30:02",
-          "url": "https://www.producthunt.com/products/peak-hour",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: is.team",
-          "body": "Your AI agent joins the board like a teammate",
-          "timestamp": "2026-09-15T13:30:02",
-          "url": "https://www.producthunt.com/products/is-team",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: siift",
-          "body": "Turn AI noise into better business decisions",
-          "timestamp": "2026-09-15T13:30:02",
-          "url": "https://www.producthunt.com/products/siift",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Idlen",
-          "body": "Earn while you work with AI in any IDE or browser.",
-          "timestamp": "2026-09-15T13:30:02",
-          "url": "https://www.producthunt.com/products/idlen",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Voiskey",
-          "body": "AI voice typing that sounds right in every app",
-          "timestamp": "2026-09-15T13:30:02",
-          "url": "https://www.producthunt.com/products/voiskey",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: tiun.",
-          "body": "Auth, billing, and payments for AI builders",
-          "timestamp": "2026-09-15T13:30:02",
-          "url": "https://www.producthunt.com/products/tiun-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Grimo AI",
-          "body": "Say it once and all tasks, calendar and notes are sorted",
-          "timestamp": "2026-09-15T13:30:02",
-          "url": "https://www.producthunt.com/products/grimo-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Summary of key developments with insight:**\n\n* **AI-powered product launches continue to emerge**: The past 5 days have seen a surge in new AI-related product launches, with 21 new products announced on Product Hunt, a platform for discovering and sharing new products and technologies.\n* **Focusing on productivity and efficiency**: Many of the new product launches focus on using AI to improve productivity and efficiency, such as AI-driven meeting notes (Jottoo), task management (Idlen), and AI-powered tools for sales teams (Convo).\n* **AI-powered marketing and analytics tools**: Some products, such as AI Creative Insights by Decode, aim to help users make data-driven decisions in marketing, while others like Open Analytics offer an alternative to traditional Google Analytics.\n* **New tools for AI development and deployment**: Products like Arcjet and siift provide new tools for building and deploying AI models, while tiun offers authentication, billing, and payment solutions for AI builders.\n* **Advancements in AI accessibility**: The launch of Voiskey, an AI-powered voice typing tool, suggests a continued effort to make AI more accessible to users.\n\n**Trend:**\n\n* **Increasing focus on practical applications of AI**: The past five days have seen a strong emphasis on using AI to solve real-world problems and improve business operations, rather than solely focusing on research or abstract concepts."
+  "summary": "Here are 4-6 bullet points and 1 trend based on the provided data:\n\n**Key Developments:**\n\n* **AI-powered productivity tools**: Several new products were launched on Product Hunt, focusing on AI-powered productivity tools, such as Edyt, Contextberg, and WeWeb MCP, which aim to enhance user productivity through AI-driven features.\n* **AI-powered content creation**: Products like VideoFlow Studio, AI Creative Insights by Decode, and Thread are leveraging AI to help users create high-quality content, such as videos and ads, with ease.\n* **AI-powered security**: Arcjet and Prowler Cloud are AI-powered security solutions that aim to protect users' AI agents and data from potential threats.\n* **AI-powered learning and education**: Products like AI Class by Kanary and Die With Me are focused on providing AI-powered learning experiences, helping users improve their skills and knowledge.\n* **AI-powered marketplace**: Text Agent Store is an AI-powered marketplace that allows users to discover and purchase AI agents for various tasks.\n\n**Trend:**\n\n* **Rise of AI-powered productivity and content creation tools**: The recent launch of several AI-powered productivity and content creation tools on Product Hunt suggests that there is a growing demand for solutions that leverage AI to enhance user productivity and content quality. This trend is likely to continue, as more users seek to automate tasks and create high-quality content with ease."
 }
