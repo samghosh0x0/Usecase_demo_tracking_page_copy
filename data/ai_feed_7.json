@@ -1,10 +1,91 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-23T07:29:46.108Z",
+  "timestamp": "2026-09-24T07:22:40.263Z",
   "categories": {
     "news": {
-      "count": 22,
+      "count": 26,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Koreshield",
+          "body": "Security and evidence for AI support agents",
+          "timestamp": "2026-09-23T08:37:02",
+          "url": "https://www.producthunt.com/products/koreshield",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ToneBird",
+          "body": "AI reply assistant that remembers your relationships",
+          "timestamp": "2026-09-23T08:37:02",
+          "url": "https://www.producthunt.com/products/tonebird",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Linguo Translate",
+          "body": "Offline & AI Translation for macOS",
+          "timestamp": "2026-09-23T08:37:02",
+          "url": "https://www.producthunt.com/products/linguo-translate-for-macos",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: GBrain",
+          "body": "Plug your own memory, tools, and skills into any AI",
+          "timestamp": "2026-09-23T08:37:02",
+          "url": "https://www.producthunt.com/products/gbrain",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AgentScore",
+          "body": "Daily score to see if your agent gets better",
+          "timestamp": "2026-09-23T08:37:02",
+          "url": "https://www.producthunt.com/products/latitude-4",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Naise AI",
+          "body": "Autonomous marketing agents that actually execute",
+          "timestamp": "2026-09-23T08:37:02",
+          "url": "https://www.producthunt.com/products/naise-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: RankControl",
+          "body": "Get Cited by ChatGPT & Ranked on Google",
+          "timestamp": "2026-09-23T08:37:02",
+          "url": "https://www.producthunt.com/products/rankcontrol",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Pactto",
+          "body": "The room where creative teams align and AI takes action",
+          "timestamp": "2026-09-23T08:37:02",
+          "url": "https://www.producthunt.com/products/pactto-replay",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Reeno",
+          "body": "AI calls you randomly to practice speaking a new language",
+          "timestamp": "2026-09-22T09:47:02",
+          "url": "https://www.producthunt.com/products/reeno",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Edyt",
           "body": "AI for text you can't even select. Any app on Mac & Windows",
@@ -37,15 +118,6 @@
           "body": "See how much of a Telegram channel is ads and clickbait",
           "timestamp": "2026-09-22T09:47:02",
           "url": "https://www.producthunt.com/products/jev-wrapped",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Reeno",
-          "body": "AI calls you randomly to practice speaking a new language",
-          "timestamp": "2026-09-22T09:47:02",
-          "url": "https://www.producthunt.com/products/reeno",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -132,6 +204,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: AskDeck",
+          "body": "Call an AI to get a PowerPoint and a narrated video back",
+          "timestamp": "2026-09-17T07:49:02",
+          "url": "https://www.producthunt.com/products/askdeck",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Die With Me",
           "body": "AIM buddy list for your friends Claude Code and Codex usage",
           "timestamp": "2026-09-17T07:49:02",
@@ -157,54 +238,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: AskDeck",
-          "body": "Call an AI to get a PowerPoint and a narrated video back",
-          "timestamp": "2026-09-17T07:49:02",
-          "url": "https://www.producthunt.com/products/askdeck",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: PeakHour 6",
-          "body": "Real-time network monitor for Mac w/ detailed WiFi insights",
-          "timestamp": "2026-09-16T13:30:02",
-          "url": "https://www.producthunt.com/products/peak-hour",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Thread",
-          "body": "AI journal that connects your thoughts into something bigger",
-          "timestamp": "2026-09-16T13:30:02",
-          "url": "https://www.producthunt.com/products/thread-ai-journal-memory",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Convo",
-          "body": "The AI copilot for people who sell",
-          "timestamp": "2026-09-16T13:30:02",
-          "url": "https://www.producthunt.com/products/convo-7",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Jottoo",
-          "body": "AI meeting notes that turn into tracked tasks",
-          "timestamp": "2026-09-16T13:30:02",
-          "url": "https://www.producthunt.com/products/jottoo",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 bullet points and 1 trend based on the provided data:\n\n**Key Developments:**\n\n* **AI-powered productivity tools**: Several new products were launched on Product Hunt, focusing on AI-powered productivity tools, such as Edyt, Contextberg, and WeWeb MCP, which aim to enhance user productivity through AI-driven features.\n* **AI-powered content creation**: Products like VideoFlow Studio, AI Creative Insights by Decode, and Thread are leveraging AI to help users create high-quality content, such as videos and ads, with ease.\n* **AI-powered security**: Arcjet and Prowler Cloud are AI-powered security solutions that aim to protect users' AI agents and data from potential threats.\n* **AI-powered learning and education**: Products like AI Class by Kanary and Die With Me are focused on providing AI-powered learning experiences, helping users improve their skills and knowledge.\n* **AI-powered marketplace**: Text Agent Store is an AI-powered marketplace that allows users to discover and purchase AI agents for various tasks.\n\n**Trend:**\n\n* **Rise of AI-powered productivity and content creation tools**: The recent launch of several AI-powered productivity and content creation tools on Product Hunt suggests that there is a growing demand for solutions that leverage AI to enhance user productivity and content quality. This trend is likely to continue, as more users seek to automate tasks and create high-quality content with ease."
+  "summary": "Here are the key developments with insight:\n\n**Product Launches:**\n\n* **Koreshield**: A security and evidence solution for AI support agents\n* **ToneBird**: An AI reply assistant that remembers user relationships\n* **Linguo Translate**: An offline translation tool for macOS\n* **GBrain**: A tool that allows users to plug their own memory, tools, and skills into any AI\n\n**Trends:**\n\n* **Increasing Focus on AI Security**: Several products (Koreshield, Prowler, Arcjet) are focused on AI security, indicating a growing need for protecting AI systems and agents from potential threats.\n\n**Other Notable Products:**\n\n* **Naise AI**: Autonomous marketing agents that execute on customer preferences\n* **RankControl**: A tool that helps users get cited by ChatGPT and ranked on Google\n* **Pactto**: A platform where creative teams align and AI takes action"
 }
