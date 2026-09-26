@@ -1,10 +1,55 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-25T07:17:14.772Z",
+  "timestamp": "2026-09-26T07:12:48.275Z",
   "categories": {
     "news": {
-      "count": 26,
+      "count": 27,
       "items": [
+        {
+          "subject": "Product Hunt Launch: shadow-planner",
+          "body": "AI-assisted gantt project planning that runs on your machine",
+          "timestamp": "2026-09-25T13:30:02",
+          "url": "https://www.producthunt.com/products/shadow-planner",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: FinalFrame",
+          "body": "AI photo critique: what to fix next and when to stop editing...",
+          "timestamp": "2026-09-25T13:30:02",
+          "url": "https://www.producthunt.com/products/finalframe",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: GitHub statistics · Velocity Radar",
+          "body": "Real GitHub momentum, including private repos & AI agents",
+          "timestamp": "2026-09-25T13:30:02",
+          "url": "https://www.producthunt.com/products/github-statistics-velocity-radar",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Evvery",
+          "body": "Everyday AI meant for everyone.",
+          "timestamp": "2026-09-25T13:30:02",
+          "url": "https://www.producthunt.com/products/evvery",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: LaterOn v2: The agentic email plaftform",
+          "body": "Describe an email job once. Get sh*t done.",
+          "timestamp": "2026-09-25T13:30:02",
+          "url": "https://www.producthunt.com/products/lateron-email",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: NOAN",
           "body": "The fact layer for your AI agents",
@@ -42,6 +87,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: AgentScore",
+          "body": "Daily score to see if your agent gets better",
+          "timestamp": "2026-09-23T08:37:02",
+          "url": "https://www.producthunt.com/products/latitude-4",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Koreshield",
           "body": "Security and evidence for AI support agents",
           "timestamp": "2026-09-23T08:37:02",
@@ -73,15 +127,6 @@
           "body": "Plug your own memory, tools, and skills into any AI",
           "timestamp": "2026-09-23T08:37:02",
           "url": "https://www.producthunt.com/products/gbrain",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AgentScore",
-          "body": "Daily score to see if your agent gets better",
-          "timestamp": "2026-09-23T08:37:02",
-          "url": "https://www.producthunt.com/products/latitude-4",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -177,6 +222,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Hyrax AI",
+          "body": "The AI architect for your entire codebase",
+          "timestamp": "2026-09-21T13:31:02",
+          "url": "https://www.producthunt.com/products/tristan-benozer",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: AI Creative Insights by Decode",
           "body": "Predict which ad wins before you spend on media",
           "timestamp": "2026-09-21T13:31:02",
@@ -193,54 +247,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Hyrax AI",
-          "body": "The AI architect for your entire codebase",
-          "timestamp": "2026-09-21T13:31:02",
-          "url": "https://www.producthunt.com/products/tristan-benozer",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AI Class by Kanary",
-          "body": "Knight or Ninja? Your Codex & Claude logs decide",
-          "timestamp": "2026-09-18T13:30:01",
-          "url": "https://www.producthunt.com/products/ai-class-by-kanary",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: NM Signals",
-          "body": "Make your website work better for people and AI",
-          "timestamp": "2026-09-18T13:30:01",
-          "url": "https://www.producthunt.com/products/nyman-media-signals",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ApplySeed",
-          "body": "Raise your seed from accelerators",
-          "timestamp": "2026-09-18T13:30:01",
-          "url": "https://www.producthunt.com/products/applyseed-one-app-all-accelerators",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Open Analytics 0.7.0",
-          "body": "Google Analytics, minus the cookies, plus AI",
-          "timestamp": "2026-09-18T13:30:01",
-          "url": "https://www.producthunt.com/products/open-analytics-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Trend: Increased Focus on AI Development Tools and Applications**\n\nThe past few days have seen a surge in product launches on Product Hunt related to AI development tools and applications. The 26 products launched since September 18th include:\n\n* **AI architecture and development platforms** (e.g. WeWeb MCP, Hyrax AI): providing tools for building and managing AI agents\n* **AI-powered assistants and agents** (e.g. Minimi 2.0, Edyt): offering advanced features and capabilities for AI-based customer support and automation\n* **AI memory and knowledge management** (e.g. NOAN, Maximem Synap): enabling AI agents to learn and retain knowledge more effectively\n* **AI security and compliance** (e.g. Prowler Cloud, Arcjet): ensuring the security and integrity of AI systems\n* **AI analytics and insights** (e.g. AI Class by Kanary, NM Signals): providing data-driven insights to improve AI performance and decision-making\n\n**Key Developments:**\n\n* **Increased focus on AI development tools**: The launch of 26 new AI-related products on Product Hunt suggests a growing interest and investment in the development of AI tools and applications.\n* **Advancements in AI memory and knowledge management**: Products like NOAN and Maximem Synap demonstrate improvements in AI's ability to learn and retain knowledge.\n* **Growing emphasis on AI security and compliance**: Launches like Prowler Cloud and Arcjet highlight the importance of securing and ensuring the integrity of AI systems.\n* **Rise of AI-powered assistants and agents**: Products like Minimi 2.0 and Edyt showcase the evolving capabilities of AI-based customer support and automation.\n* **Expansion of AI analytics and insights**: Launches like AI Class by Kanary and NM Signals offer data-driven insights to improve AI performance and decision-making."
+  "summary": "**Recent Developments in AI:**\n\nHere are 6 key developments observed in the recent AI landscape, along with a trend:\n\n**Key Developments:**\n\n1. **Product Hunt Launches**: Several AI-powered products have been launched on Product Hunt, including Shadow-Planner (AI-assisted Gantt project planning), FinalFrame (AI photo critique), and Evvery (everyday AI for everyone).\n2. **Increased Focus on AI Agents**: Many new products have emerged, aiming to enhance or complement AI agents, such as AgentScore, Koreshield, and Noan.\n3. **Advancements in Memory and Data Management**: Products like GBrain, Maximem Synap, and Contextberg aim to improve memory and data management for AI agents, ensuring more efficient processing and decision-making.\n4. **Rise of AI-assisted Creative Tools**: Tools like Edyt, AI Creative Insights by Decode, and VideoFlow Studio are leveraging AI to facilitate creative tasks, such as text selection, ad prediction, and video trailer generation.\n5. **Growing Importance of AI Security**: With the increasing reliance on AI agents, products like Arcjet and Prowler Cloud focus on securing AI agents at runtime and providing cloud security defense.\n6. **Expansion of AI's Reach into Everyday Life**: Products like Reeno (language practice) and LaterOn v2 (email management) demonstrate AI's growing presence in everyday life, making it more accessible and user-friendly.\n\n**Trend:**\nThe trend is clear - AI is becoming increasingly integral to our daily lives, with a focus on enhancing productivity, creativity, and security. As AI continues to advance, we can expect to see more innovative applications of AI, making our lives easier, faster, and more efficient."
 }
