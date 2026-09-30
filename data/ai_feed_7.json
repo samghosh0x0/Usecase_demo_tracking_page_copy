@@ -1,10 +1,37 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-09-29T08:01:33.379Z",
+  "timestamp": "2026-09-30T08:09:25.434Z",
   "categories": {
     "news": {
-      "count": 32,
+      "count": 28,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Arsaze",
+          "body": "Let Claude, ChatGPT or Gemini edit your real timeline",
+          "timestamp": "2026-09-29T08:38:02",
+          "url": "https://www.producthunt.com/products/arsaze-ai-native-video-editor",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ooon.ai",
+          "body": "AI employee that answers, books, and reminds clients",
+          "timestamp": "2026-09-29T08:38:02",
+          "url": "https://www.producthunt.com/products/ooon-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: OpenScience",
+          "body": "The open-source AI workbench for scientific research",
+          "timestamp": "2026-09-29T04:00:02",
+          "url": "https://www.producthunt.com/products/openscience",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: vantage.ai",
           "body": "See and control what your coding agent does.",
@@ -78,6 +105,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: GitHub statistics · Velocity Radar",
+          "body": "Real GitHub momentum, including private repos & AI agents",
+          "timestamp": "2026-09-25T13:30:02",
+          "url": "https://www.producthunt.com/products/github-statistics-velocity-radar",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: shadow-planner",
           "body": "AI-assisted gantt project planning that runs on your machine",
           "timestamp": "2026-09-25T13:30:02",
@@ -91,15 +127,6 @@
           "body": "AI photo critique: what to fix next and when to stop editing...",
           "timestamp": "2026-09-25T13:30:02",
           "url": "https://www.producthunt.com/products/finalframe",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: GitHub statistics · Velocity Radar",
-          "body": "Real GitHub momentum, including private repos & AI agents",
-          "timestamp": "2026-09-25T13:30:02",
-          "url": "https://www.producthunt.com/products/github-statistics-velocity-radar",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -123,15 +150,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: minimi 2.0",
-          "body": "AI cat that closes your open loops",
-          "timestamp": "2026-09-24T13:30:02",
-          "url": "https://www.producthunt.com/products/shram",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: NOAN",
           "body": "The fact layer for your AI agents",
           "timestamp": "2026-09-24T13:30:02",
@@ -150,10 +168,28 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: minimi 2.0",
+          "body": "AI cat that closes your open loops",
+          "timestamp": "2026-09-24T13:30:02",
+          "url": "https://www.producthunt.com/products/shram",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Harness Manager",
           "body": "Your AI coding stack manager, all in one place",
           "timestamp": "2026-09-24T13:30:02",
           "url": "https://www.producthunt.com/products/harness-manager",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Pactto",
+          "body": "The room where creative teams align and AI takes action",
+          "timestamp": "2026-09-23T08:37:02",
+          "url": "https://www.producthunt.com/products/pactto-replay",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -220,81 +256,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Pactto",
-          "body": "The room where creative teams align and AI takes action",
-          "timestamp": "2026-09-23T08:37:02",
-          "url": "https://www.producthunt.com/products/pactto-replay",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Prowler Cloud",
-          "body": "Where your AI agent becomes a cloud security defender",
-          "timestamp": "2026-09-22T09:47:02",
-          "url": "https://www.producthunt.com/products/prowler",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Edyt",
-          "body": "AI for text you can't even select. Any app on Mac & Windows",
-          "timestamp": "2026-09-22T09:47:02",
-          "url": "https://www.producthunt.com/products/edyt",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Contextberg",
-          "body": "Turn your work into private memory for AI agents",
-          "timestamp": "2026-09-22T09:47:02",
-          "url": "https://www.producthunt.com/products/contextberg",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: WeWeb MCP",
-          "body": "Your AI agent builds the app. You stay in control",
-          "timestamp": "2026-09-22T09:47:02",
-          "url": "https://www.producthunt.com/products/weweb-io",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Jev Wrapped",
-          "body": "See how much of a Telegram channel is ads and clickbait",
-          "timestamp": "2026-09-22T09:47:02",
-          "url": "https://www.producthunt.com/products/jev-wrapped",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Reeno",
-          "body": "AI calls you randomly to practice speaking a new language",
-          "timestamp": "2026-09-22T09:47:02",
-          "url": "https://www.producthunt.com/products/reeno",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: VideoFlow Studio",
-          "body": "Type your startup URL and get a premium video trailer",
-          "timestamp": "2026-09-22T09:47:02",
-          "url": "https://www.producthunt.com/products/videoflow-studio",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n* **AI Productivity Tools**: Several new AI productivity tools have been launched on Product Hunt, including Vantage.ai, Microsoft Copilot, and Okara, which aim to enhance productivity and efficiency in various tasks.\n* **AI-powered Analytics**: The launch of Statable Analytics and Velocity Radar on Product Hunt highlights the growing demand for AI-powered analytics tools that can provide insights and context to explain performance and action.\n* **AI-powered Email Management**: LaterOn v2 and minimi 2.0 are AI-powered email management platforms that aim to simplify email management and close open loops.\n* **AI-powered Security**: Koreshield and Prowler Cloud are AI-powered security tools that aim to provide security and evidence for AI support agents and cloud security defenders, respectively.\n* **AI-powered Translation**: Linguo Translate is an offline and AI-powered translation tool for macOS that aims to simplify translation and language learning.\n* **AI-powered Collaboration**: Pactto and WeWeb MCP are AI-powered collaboration tools that aim to simplify team alignment and app development, respectively.\n\nTrend: **AI-powered Productivity and Efficiency**: The trend suggests that there is a growing demand for AI-powered tools that can enhance productivity and efficiency in various tasks, including email management, analytics, security, and translation."
+  "summary": "**Key Developments:**\n\n* **AI Native Video Editor**: Arsaze, a new product, allows users to edit their real-time video feeds using AI assistants like Claude, ChatGPT, or Gemini.\n* **Next-Gen AI Employee**: ooon.ai has launched, which claims to be an AI employee that answers, books, and reminds clients.\n* **Open-Source AI Workbench**: OpenScience, the open-source AI workbench for scientific research, has been launched.\n* **AI Coding and Productivity Tools**: Several AI-related tools have been launched, including Vantage.ai, Microsoft Copilot, Hemory (searchable memory for AI agents), and GoodSocials (AI social media manager for LinkedIn).\n* **Data Analytics and AI Integration**: Products like Statable Analytics and MachBrooks are focusing on providing AI agents with context to explain performance and act.\n\n**Trend:**\nThe accelerated development and launch of various AI-related tools and platforms is a clear indication of the growing demand for AI-powered solutions. Many of these products focus on enhancing AI productivity, efficiency, and user experience, showcasing the increasing mainstream adoption of AI technology in various industries."
 }
