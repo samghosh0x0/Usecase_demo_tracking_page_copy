@@ -1,10 +1,46 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-01T08:29:39.088Z",
+  "timestamp": "2026-10-02T08:05:16.291Z",
   "categories": {
     "news": {
       "count": 28,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Helo",
+          "body": "An independent email API from former Postmark folks",
+          "timestamp": "2026-10-01T13:30:02",
+          "url": "https://www.producthunt.com/products/helo-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: UTTER IN",
+          "body": "Say it once and your AI assistant plans the rest",
+          "timestamp": "2026-10-01T13:30:02",
+          "url": "https://www.producthunt.com/products/utter-in",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Semitexa",
+          "body": "The PHP framework your AI agent can actually inspect",
+          "timestamp": "2026-10-01T13:30:02",
+          "url": "https://www.producthunt.com/products/semitexa",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ChainSnip",
+          "body": "Accountant's Proof of the Wallet's Balance",
+          "timestamp": "2026-10-01T13:30:02",
+          "url": "https://www.producthunt.com/products/chainsnip",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Styx",
           "body": "An agentic development environment (ADE) for Mac",
@@ -78,15 +114,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Arsaze",
-          "body": "Let Claude, ChatGPT or Gemini edit your real timeline",
-          "timestamp": "2026-09-29T08:38:02",
-          "url": "https://www.producthunt.com/products/arsaze-ai-native-video-editor",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: ooon.ai",
           "body": "AI employee that answers, books, and reminds clients",
           "timestamp": "2026-09-29T08:38:02",
@@ -96,19 +123,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: OpenScience",
-          "body": "The open-source AI workbench for scientific research",
-          "timestamp": "2026-09-29T04:00:02",
-          "url": "https://www.producthunt.com/products/openscience",
+          "subject": "Product Hunt Launch: Arsaze",
+          "body": "Let Claude, ChatGPT or Gemini edit your real timeline",
+          "timestamp": "2026-09-29T08:38:02",
+          "url": "https://www.producthunt.com/products/arsaze-ai-native-video-editor",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Okara",
-          "body": "The world's first AI CMO",
-          "timestamp": "2026-09-28T13:30:02",
-          "url": "https://www.producthunt.com/products/okara-2",
+          "subject": "Product Hunt Launch: OpenScience",
+          "body": "The open-source AI workbench for scientific research",
+          "timestamp": "2026-09-29T04:00:02",
+          "url": "https://www.producthunt.com/products/openscience",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -127,6 +154,15 @@
           "body": "The Al built for work",
           "timestamp": "2026-09-28T13:30:02",
           "url": "https://www.producthunt.com/products/microsoft-copilot-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Okara",
+          "body": "The world's first AI CMO",
+          "timestamp": "2026-09-28T13:30:02",
+          "url": "https://www.producthunt.com/products/okara-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -177,6 +213,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: LaterOn v2: The agentic email plaftform",
+          "body": "Describe an email job once. Get sh*t done.",
+          "timestamp": "2026-09-25T13:30:02",
+          "url": "https://www.producthunt.com/products/lateron-email",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: shadow-planner",
           "body": "AI-assisted gantt project planning that runs on your machine",
           "timestamp": "2026-09-25T13:30:02",
@@ -211,54 +256,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: LaterOn v2: The agentic email plaftform",
-          "body": "Describe an email job once. Get sh*t done.",
-          "timestamp": "2026-09-25T13:30:02",
-          "url": "https://www.producthunt.com/products/lateron-email",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Harness Manager",
-          "body": "Your AI coding stack manager, all in one place",
-          "timestamp": "2026-09-24T13:30:02",
-          "url": "https://www.producthunt.com/products/harness-manager",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: NOAN",
-          "body": "The fact layer for your AI agents",
-          "timestamp": "2026-09-24T13:30:02",
-          "url": "https://www.producthunt.com/products/noan-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Maximem Synap",
-          "body": "The fastest, most accurate memory layer for AI agents",
-          "timestamp": "2026-09-24T13:30:02",
-          "url": "https://www.producthunt.com/products/maximem-synap",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: minimi 2.0",
-          "body": "AI cat that closes your open loops",
-          "timestamp": "2026-09-24T13:30:02",
-          "url": "https://www.producthunt.com/products/shram",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **Agentic Development Environments (ADEs) are gaining traction**: Products like Styx, Rinkata, and Ace from Automat Workforce are launching, showcasing the growing interest in ADEs that can assist with coding, research, and other tasks.\n* **AI-powered project planning and management**: Tools like shadow-planner and LaterOn v2 are emerging, utilizing AI to streamline project planning, email management, and other tasks.\n* **AI-assisted analytics and reporting**: Products like Statable Analytics and Velocity Radar are being launched, providing insights into GitHub momentum and AI agent performance.\n* **AI-powered content creation and critique**: FinalFrame and Macaly Cloud are launching, offering AI-assisted photo critique and content creation tools.\n* **AI employee and team management**: Ooon.ai and Overpath AI are being introduced, aiming to assist with client management, reminders, and other tasks.\n* **Open-source AI workbench for scientific research**: OpenScience is launching, providing an open-source AI workbench for scientific research.\n\n**Trend:**\n\n* **The increasing focus on AI-assisted productivity and workflow optimization**: Many of the launched products are focused on streamlining tasks, improving productivity, and enhancing workflow efficiency through AI-powered tools and assistants. This trend suggests that businesses and developers are looking to leverage AI to automate repetitive tasks, reduce manual labor, and enhance overall efficiency."
+  "summary": "**Recent Product Launches in AI and Analytics**\n\nHere are 4-6 key points, followed by a trend:\n\n**Key Points:**\n\n* **AI-powered email tools:**\n\t+ Helo: An independent email API from former Postmark folks (launch date: October 1, 2026)\n\t+ LaterOn v2: The agentic email platform that allows users to describe an email job once and get it done (launch date: September 25, 2026)\n**Agentic tools and platforms:**\n\t+ Rinkata: A platform that provides one source of truth for teams and their AI agents (launch date: September 30, 2026)\n\t+ Styx: An agentic development environment (ADE) for Mac (launch date: September 30, 2026)\n**AI in various industries:**\n\t+ GoodSocials: An AI social media manager for LinkedIn that only publishes authentic content (launch date: September 26, 2026)\n\t+ vantage.ai: A tool that allows users to see and control what their coding agent does (launch date: September 28, 2026)\n**Other new tools:**\n\t+ WhisperBrain: An AI tool designed as a second brain for meetings (launch date: September 30, 2026)\n\t+ Hemory: A searchable memory for AI agents (launch date: September 26, 2026)\n\n**Trend: Increased focus on AI and Augmentation**\n\nMany of the product launches mentioned in the news feed are focused on AI and augmentation, suggesting a growing trend of companies developing tools that utilize artificial intelligence to streamline tasks and processes. This trend is not only limited to email tools and agentic platforms but also extends to various industries, such as social media management and project planning."
 }
