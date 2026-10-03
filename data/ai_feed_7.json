@@ -1,10 +1,82 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-02T08:05:16.291Z",
+  "timestamp": "2026-10-03T07:45:05.048Z",
   "categories": {
     "news": {
-      "count": 28,
+      "count": 30,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Mintlify Desktop",
+          "body": "An AI-native app for writing documentation and knowledge",
+          "timestamp": "2026-10-02T13:30:02",
+          "url": "https://www.producthunt.com/products/mintlify",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Audryo",
+          "body": "Customer email your agent can operate.",
+          "timestamp": "2026-10-02T13:30:02",
+          "url": "https://www.producthunt.com/products/audryo",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Gauth Unlimited Digital Canvas",
+          "body": "An AI tutor on an infinite whiteboard, not a chat thread.",
+          "timestamp": "2026-10-02T13:30:02",
+          "url": "https://www.producthunt.com/products/gauth-ai-course",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: WMail",
+          "body": "Beautifully native iPhone app for Fastmail",
+          "timestamp": "2026-10-02T13:30:02",
+          "url": "https://www.producthunt.com/products/wmail-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Veltrix AI for E-commerce",
+          "body": "Find how your e-commerce business could earn more",
+          "timestamp": "2026-10-02T13:30:02",
+          "url": "https://www.producthunt.com/products/veltrix-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Syllaby AI Avatar 2.0",
+          "body": "Create Your Own Avatar In Seconds",
+          "timestamp": "2026-10-02T13:30:02",
+          "url": "https://www.producthunt.com/products/syllaby-ai-avatar-2-0",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Teachoo",
+          "body": "AI that helps you learn anything and everything.",
+          "timestamp": "2026-10-02T13:30:02",
+          "url": "https://www.producthunt.com/products/teachoo-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Vorker",
+          "body": "AI Coworker Running Your Small Business",
+          "timestamp": "2026-10-02T05:12:02",
+          "url": "https://www.producthunt.com/products/vorker-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Helo",
           "body": "An independent email API from former Postmark folks",
@@ -42,6 +114,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Ace from Automat Workforce",
+          "body": "Meet Ace, an agentic teammate for work",
+          "timestamp": "2026-09-30T13:30:02",
+          "url": "https://www.producthunt.com/products/ace-from-automat-workforce",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Styx",
           "body": "An agentic development environment (ADE) for Mac",
           "timestamp": "2026-09-30T13:30:02",
@@ -55,15 +136,6 @@
           "body": "One source of truth for your team and its AI agents.",
           "timestamp": "2026-09-30T13:30:02",
           "url": "https://www.producthunt.com/products/rinkata",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ace from Automat Workforce",
-          "body": "Meet Ace, an agentic teammate for work",
-          "timestamp": "2026-09-30T13:30:02",
-          "url": "https://www.producthunt.com/products/ace-from-automat-workforce",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -114,19 +186,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: ooon.ai",
-          "body": "AI employee that answers, books, and reminds clients",
+          "subject": "Product Hunt Launch: Arsaze",
+          "body": "Let Claude, ChatGPT or Gemini edit your real timeline",
           "timestamp": "2026-09-29T08:38:02",
-          "url": "https://www.producthunt.com/products/ooon-ai",
+          "url": "https://www.producthunt.com/products/arsaze-ai-native-video-editor",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Arsaze",
-          "body": "Let Claude, ChatGPT or Gemini edit your real timeline",
+          "subject": "Product Hunt Launch: ooon.ai",
+          "body": "AI employee that answers, books, and reminds clients",
           "timestamp": "2026-09-29T08:38:02",
-          "url": "https://www.producthunt.com/products/arsaze-ai-native-video-editor",
+          "url": "https://www.producthunt.com/products/ooon-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -186,15 +258,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: GoodSocials",
-          "body": "AI social media manager for LinkedIn. Only authentic content",
-          "timestamp": "2026-09-26T13:30:02",
-          "url": "https://www.producthunt.com/products/goodsocials",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Hemory",
           "body": "Keep listening. Searchable memory for your AI agents.",
           "timestamp": "2026-09-26T13:30:02",
@@ -204,55 +267,10 @@
           }
         },
         {
-          "subject": "AWS: How Datacor built self-service rental analytics with Amazon Quick Sight",
-          "body": "This post was written with contributions from Datacor’s Track: About engineering and product...",
-          "timestamp": "2026-09-26T04:00:02",
-          "url": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/",
-          "extras": {
-            "data_origin": "AWS AI News"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: LaterOn v2: The agentic email plaftform",
-          "body": "Describe an email job once. Get sh*t done.",
-          "timestamp": "2026-09-25T13:30:02",
-          "url": "https://www.producthunt.com/products/lateron-email",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: shadow-planner",
-          "body": "AI-assisted gantt project planning that runs on your machine",
-          "timestamp": "2026-09-25T13:30:02",
-          "url": "https://www.producthunt.com/products/shadow-planner",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FinalFrame",
-          "body": "AI photo critique: what to fix next and when to stop editing...",
-          "timestamp": "2026-09-25T13:30:02",
-          "url": "https://www.producthunt.com/products/finalframe",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: GitHub statistics · Velocity Radar",
-          "body": "Real GitHub momentum, including private repos & AI agents",
-          "timestamp": "2026-09-25T13:30:02",
-          "url": "https://www.producthunt.com/products/github-statistics-velocity-radar",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Evvery",
-          "body": "Everyday AI meant for everyone.",
-          "timestamp": "2026-09-25T13:30:02",
-          "url": "https://www.producthunt.com/products/evvery",
+          "subject": "Product Hunt Launch: GoodSocials",
+          "body": "AI social media manager for LinkedIn. Only authentic content",
+          "timestamp": "2026-09-26T13:30:02",
+          "url": "https://www.producthunt.com/products/goodsocials",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -260,5 +278,5 @@
       ]
     }
   },
-  "summary": "**Recent Product Launches in AI and Analytics**\n\nHere are 4-6 key points, followed by a trend:\n\n**Key Points:**\n\n* **AI-powered email tools:**\n\t+ Helo: An independent email API from former Postmark folks (launch date: October 1, 2026)\n\t+ LaterOn v2: The agentic email platform that allows users to describe an email job once and get it done (launch date: September 25, 2026)\n**Agentic tools and platforms:**\n\t+ Rinkata: A platform that provides one source of truth for teams and their AI agents (launch date: September 30, 2026)\n\t+ Styx: An agentic development environment (ADE) for Mac (launch date: September 30, 2026)\n**AI in various industries:**\n\t+ GoodSocials: An AI social media manager for LinkedIn that only publishes authentic content (launch date: September 26, 2026)\n\t+ vantage.ai: A tool that allows users to see and control what their coding agent does (launch date: September 28, 2026)\n**Other new tools:**\n\t+ WhisperBrain: An AI tool designed as a second brain for meetings (launch date: September 30, 2026)\n\t+ Hemory: A searchable memory for AI agents (launch date: September 26, 2026)\n\n**Trend: Increased focus on AI and Augmentation**\n\nMany of the product launches mentioned in the news feed are focused on AI and augmentation, suggesting a growing trend of companies developing tools that utilize artificial intelligence to streamline tasks and processes. This trend is not only limited to email tools and agentic platforms but also extends to various industries, such as social media management and project planning."
+  "summary": "Here are 6 key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **AI-native apps are on the rise**: Several new AI-native apps have been launched on Product Hunt, including Mintlify Desktop, Audryo, and Teachoo, which focus on writing documentation, customer email, and learning, respectively.\n* **AI coworker and agent tools are gaining traction**: Vorker, a coworker AI, and Ace, an agentic teammate for work, have been launched, indicating a growing demand for AI-powered coworker and agent tools.\n* **AI for e-commerce and customer support is emerging**: Veltrix AI for E-commerce and Helo, an independent email API, have been launched, suggesting that AI is being applied to improve customer support and e-commerce experiences.\n* **AI for creative and knowledge work is expanding**: Gauth Unlimited Digital Canvas, an AI tutor on an infinite whiteboard, and Syllaby AI Avatar 2.0, which allows users to create their own avatars, have been launched, indicating a growing interest in AI-powered creative and knowledge work tools.\n* **AI for business operations and management is gaining momentum**: Overpath, an AI teammate for revenue execution, and Rinkata, a source of truth for teams and AI agents, have been launched, suggesting that AI is being applied to improve business operations and management.\n\n**Trend:**\n\n* **The increasing focus on AI-native apps and AI-powered coworker and agent tools**: As AI technology advances, we are seeing a growing focus on developing AI-native apps that can perform specific tasks and AI-powered coworker and agent tools that can assist humans in various aspects of work. This trend is likely to continue as AI becomes more integrated into our daily lives and work processes."
 }
