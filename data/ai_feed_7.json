@@ -1,10 +1,46 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-10T08:12:27.453Z",
+  "timestamp": "2026-10-11T08:26:01.860Z",
   "categories": {
     "news": {
-      "count": 27,
+      "count": 31,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Toolaby",
+          "body": "Get paid for your Chrome extension, in two lines of code.",
+          "timestamp": "2026-10-10T11:00:02",
+          "url": "https://www.producthunt.com/products/toolaby",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Onepin",
+          "body": "AI voiceover with every name, price and date said right",
+          "timestamp": "2026-10-10T11:00:02",
+          "url": "https://www.producthunt.com/products/onepin",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ReSO AI",
+          "body": "Get discovered & recommended when customers ask AI",
+          "timestamp": "2026-10-10T11:00:02",
+          "url": "https://www.producthunt.com/products/reso",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Ambiguous Workspace",
+          "body": "18 productivity apps built for AI agents and humans",
+          "timestamp": "2026-10-10T04:00:02",
+          "url": "https://www.producthunt.com/products/ambiguous-workspace",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: AgentSDR",
           "body": "Open-source AI SDR",
@@ -78,10 +114,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Temp Mail",
-          "body": "Disposable email + private forwarding to your real inbox",
+          "subject": "Product Hunt Launch: Velozity",
+          "body": "Multiplayer platform for your teams and AI Agents.",
           "timestamp": "2026-10-07T09:46:02",
-          "url": "https://www.producthunt.com/products/temp-mail-370",
+          "url": "https://www.producthunt.com/products/velozity-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -114,19 +150,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Velozity",
-          "body": "Multiplayer platform for your teams and AI Agents.",
+          "subject": "Product Hunt Launch: Databench by Alkera",
+          "body": "Open-source collaborative agentic workspace for data teams",
           "timestamp": "2026-10-07T09:46:02",
-          "url": "https://www.producthunt.com/products/velozity-2",
+          "url": "https://www.producthunt.com/products/alkera",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Databench by Alkera",
-          "body": "Open-source collaborative agentic workspace for data teams",
+          "subject": "Product Hunt Launch: Temp Mail",
+          "body": "Disposable email + private forwarding to your real inbox",
           "timestamp": "2026-10-07T09:46:02",
-          "url": "https://www.producthunt.com/products/alkera",
+          "url": "https://www.producthunt.com/products/temp-mail-370",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -251,5 +287,5 @@
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **Product Hunt Launches:** 27 new products were launched on Product Hunt, showcasing innovative AI-powered solutions across various categories, including AI SDR, AI search visibility, and AI-powered full-stack observability.\n* **AI-Powered Productivity Tools:** Several products, such as Cakie, Voicera, and Rool, offer AI-powered productivity tools that can transform screen recordings into prompts for AI agents, turn natural speech into polished text, and provide a private AI machine for files, ideas, and AI in one workspace.\n* **AI Search Visibility:** Proofsource and Siteprint launched products that focus on AI search visibility and website design measurement, respectively, highlighting the growing importance of AI in search engine optimization (SEO) and web design.\n* **AI-Powered Full-Stack Observability:** KloudMate 2.0, a product launched on Product Hunt, offers AI-powered full-stack observability and agentic SRE-Ops, demonstrating the increasing need for AI-driven monitoring and troubleshooting in software development and operations.\n* **Open-Source Collaborative Workspace:** Databench by Alkera, an open-source collaborative agentic workspace for data teams, was launched on Product Hunt, highlighting the growing demand for collaborative AI-powered workspaces in data-intensive industries.\n\n**Trend:**\n\n* **Growing Demand for AI-Powered Productivity Tools:** The recent Product Hunt launches demonstrate a growing trend towards developing AI-powered productivity tools that can streamline workflows, enhance creativity, and improve overall productivity. This trend is likely to continue as AI technology advances and more businesses seek to leverage its potential to drive innovation and growth."
+  "summary": "Here are 6 key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **Product Hunt Launches:** 31 new products were launched on Product Hunt, including tools for AI development, productivity, and more.\n* **AI-Powered Tools:** Many of the launched products are AI-powered, including tools for AI development, productivity, and automation.\n* **Chrome Extension:** Toolaby, a Chrome extension, allows users to get paid for their extensions in just two lines of code.\n* **AI Voiceover:** Onepin, an AI voiceover tool, can automatically say every name, price, and date in a text.\n* **AI-Powered Productivity:** Ambiguous Workspace, a productivity app, is built for both AI agents and humans.\n* **Open-Source AI SDR:** AgentSDR, an open-source AI SDR, was launched on Product Hunt.\n\n**Trend:**\n\n* **Rise of AI-Powered Tools:** The recent launches on Product Hunt indicate a growing trend of AI-powered tools and applications, which are becoming increasingly popular and useful for developers, productivity, and automation."
 }
