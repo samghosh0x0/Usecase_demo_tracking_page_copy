@@ -1,10 +1,64 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-12T08:47:17.894Z",
+  "timestamp": "2026-10-13T09:05:05.357Z",
   "categories": {
     "news": {
-      "count": 31,
+      "count": 26,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Hexis Cloud",
+          "body": "One company brain for all your AI agents",
+          "timestamp": "2026-10-12T08:29:02",
+          "url": "https://www.producthunt.com/products/bevel-software",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Invited - AI Reminder Scanner",
+          "body": "AI reminder scanner for bills, invites & documents",
+          "timestamp": "2026-10-12T08:29:02",
+          "url": "https://www.producthunt.com/products/invited-ai-reminder-scanner",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: SquadRoom",
+          "body": "AI employees that work 24/7",
+          "timestamp": "2026-10-12T08:29:02",
+          "url": "https://www.producthunt.com/products/squadroom",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Strawberry",
+          "body": "The AI browser where teams and agents work together",
+          "timestamp": "2026-10-12T08:29:02",
+          "url": "https://www.producthunt.com/products/strawberry",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ngram 2.0",
+          "body": "Create explainers, screencasts, and AI avatar videos",
+          "timestamp": "2026-10-12T08:29:02",
+          "url": "https://www.producthunt.com/products/ngram",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Bearconnect 2.0",
+          "body": "AI-Powered LinkedIn Platform for Content and Outreach",
+          "timestamp": "2026-10-12T08:29:02",
+          "url": "https://www.producthunt.com/products/early-access-bearconnect-io",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Toolaby",
           "body": "Get paid for your Chrome extension, in two lines of code.",
@@ -42,6 +96,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Voicera",
+          "body": "Turn natural speech into polished text, perfected with AI",
+          "timestamp": "2026-10-09T08:26:02",
+          "url": "https://www.producthunt.com/products/voicera-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: AgentSDR",
           "body": "Open-source AI SDR",
           "timestamp": "2026-10-09T08:26:02",
@@ -55,15 +118,6 @@
           "body": "Turn screen recordings into prompts for AI agents",
           "timestamp": "2026-10-09T08:26:02",
           "url": "https://www.producthunt.com/products/cakie-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Voicera",
-          "body": "Turn natural speech into polished text, perfected with AI",
-          "timestamp": "2026-10-09T08:26:02",
-          "url": "https://www.producthunt.com/products/voicera-3",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -114,10 +168,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Velozity",
-          "body": "Multiplayer platform for your teams and AI Agents.",
+          "subject": "Product Hunt Launch: Proofsource",
+          "body": "AI search visibility, with agents that fix the gaps",
           "timestamp": "2026-10-07T09:46:02",
-          "url": "https://www.producthunt.com/products/velozity-2",
+          "url": "https://www.producthunt.com/products/proofsource",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -150,6 +204,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Velozity",
+          "body": "Multiplayer platform for your teams and AI Agents.",
+          "timestamp": "2026-10-07T09:46:02",
+          "url": "https://www.producthunt.com/products/velozity-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Databench by Alkera",
           "body": "Open-source collaborative agentic workspace for data teams",
           "timestamp": "2026-10-07T09:46:02",
@@ -175,117 +238,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Proofsource",
-          "body": "AI search visibility, with agents that fix the gaps",
-          "timestamp": "2026-10-07T09:46:02",
-          "url": "https://www.producthunt.com/products/proofsource",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Pheebs",
-          "body": "Measure how engineers and teams actually work with AI",
-          "timestamp": "2026-10-06T08:48:02",
-          "url": "https://www.producthunt.com/products/pheebs",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: OpenBot",
-          "body": "Grok Bot alternative: free, local, open-source, multiplayer",
-          "timestamp": "2026-10-06T08:48:02",
-          "url": "https://www.producthunt.com/products/openbot-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Incredible",
-          "body": "The AI that does the clicking and typing for you",
-          "timestamp": "2026-10-06T08:48:02",
-          "url": "https://www.producthunt.com/products/incredible",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: NoteWorthy",
-          "body": "Notes supercharged with AI, all on-device",
-          "timestamp": "2026-10-06T08:48:02",
-          "url": "https://www.producthunt.com/products/noteworthy",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ari Helper 7",
-          "body": "Private AI assistant, now with photo and film studios",
-          "timestamp": "2026-10-06T08:48:02",
-          "url": "https://www.producthunt.com/products/ari-helper",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Opengeni",
-          "body": "Ship AI agents within minutes. Infrastructure for Agents",
-          "timestamp": "2026-10-05T13:30:02",
-          "url": "https://www.producthunt.com/products/opengeni",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Unscary AI",
-          "body": "Short lessons help you stop feeling behind on AI.",
-          "timestamp": "2026-10-05T13:30:02",
-          "url": "https://www.producthunt.com/products/unscary-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Siteprint",
-          "body": "Measure any website's design, then hand it to your AI",
-          "timestamp": "2026-10-05T13:30:02",
-          "url": "https://www.producthunt.com/products/siteprint",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Oogwai Beacon",
-          "body": "Answer Engine Optimization Audit",
-          "timestamp": "2026-10-05T13:30:02",
-          "url": "https://www.producthunt.com/products/oogwai-beacon",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FastRouter.ai",
-          "body": "Route requests to the right LLM for cost, latency & quality",
-          "timestamp": "2026-10-05T13:30:02",
-          "url": "https://www.producthunt.com/products/fastrouter-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: DailyHelm",
-          "body": "Turn analytics into daily revenue-boosting fixes",
-          "timestamp": "2026-10-05T13:30:02",
-          "url": "https://www.producthunt.com/products/dailyhelm",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 bullet points summarizing key developments with insight:\n\n* **Rise of AI-powered productivity tools**: The past week has seen a surge in Product Hunt launches focused on AI-powered productivity tools, such as Toolaby, Onepin, and Ambiguous Workspace, which aim to streamline tasks and enhance collaboration.\n* **Growing interest in AI-powered assistants**: The launch of Ari Helper 7 and Rool highlights the increasing demand for private AI assistants that can manage tasks, files, and ideas in a single workspace.\n* **Advancements in AI-powered search and visibility**: Proofsource and Siteprint demonstrate the growing interest in AI-powered search and visibility tools, which can help optimize website design and improve search engine rankings.\n* **Expansion of AI-powered demo agents**: Supademo AI Demo Agent and Unscary AI showcase the increasing use of AI-powered demo agents, which can simulate sales conversations and provide training for sales teams.\n* **Emergence of AI-powered analytics and optimization tools**: DailyHelm and FastRouter.ai highlight the growing demand for AI-powered analytics and optimization tools, which can help businesses boost revenue and improve efficiency.\n* **Growing focus on AI-powered collaboration and infrastructure**: OpenBot and Opengeni demonstrate the increasing focus on AI-powered collaboration and infrastructure, which can help teams and organizations work more effectively together.\n\nTrend: **The increasing focus on AI-powered productivity and collaboration tools**: The past week's Product Hunt launches suggest a growing trend towards AI-powered productivity and collaboration tools, which aim to streamline tasks, enhance collaboration, and improve efficiency."
+  "summary": "Based on the provided dataset, here are 6 key developments with insights, as well as a trend:\n\n**Developments:**\n\n* **Unified AI Platforms**: Hexis Cloud, Ambiguous Workspace, and others represent emerging efforts to create unified platforms for managing multiple AI agents, enabling users to coordinate their actions and streamline workflow.\n* **AI-Powered Productivity Apps**: Tools like Strawberry, Cakie, and Udon showcase the increasing focus on using AI to enhance productivity, with applications that automate tasks and simplify workflows.\n* **AI Search and Visibility**: Proofsource, Invited, and Bearconnect 2.0 highlight the growing importance of AI-powered search and visibility features, which help users discover and manage relevant information.\n* **AI Collaboration Tools**: Rool, Velozity, and KloudMate 2.0 demonstrate the trend towards developing tools that facilitate collaboration between humans and AI agents, enabling seamless communication and teamwork.\n* **AI Training and Education**: Pegasus 1.6, Databench, and others indicate a growing need for AI training and education initiatives, which can help users develop the skills required to effectively utilize AI agents.\n* **AI-Powered Security and Data Protection**: Busabase, Temp Mail, and Supademo AI Demo Agent suggest that businesses are becoming increasingly interested in AI-powered security and data protection solutions, which can help safeguard sensitive information.\n\n**Trend:** The increasing emphasis on developing unified platforms, AI-powered productivity tools, and AI collaboration software suggests a broader shift towards creating more integrated and harmonious human-AI ecosystems."
 }
