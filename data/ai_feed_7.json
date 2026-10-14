@@ -1,10 +1,46 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-13T09:05:05.357Z",
+  "timestamp": "2026-10-14T07:14:52.013Z",
   "categories": {
     "news": {
-      "count": 26,
+      "count": 30,
       "items": [
+        {
+          "subject": "Product Hunt Launch: MentionBird",
+          "body": "Ahrefs for AI Search",
+          "timestamp": "2026-10-13T08:40:02",
+          "url": "https://www.producthunt.com/products/mentionbird",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Kai",
+          "body": "Autonomous assistant designed to handle meetings and email",
+          "timestamp": "2026-10-13T08:40:02",
+          "url": "https://www.producthunt.com/products/hirekai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: PostNitro for Agents",
+          "body": "Let your AI agent design and publish social posts",
+          "timestamp": "2026-10-13T08:40:02",
+          "url": "https://www.producthunt.com/products/postnitro",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: GotEmail",
+          "body": "Native Mac mail with one-click sign-in codes and AI",
+          "timestamp": "2026-10-13T08:40:02",
+          "url": "https://www.producthunt.com/products/gotemail",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Hexis Cloud",
           "body": "One company brain for all your AI agents",
@@ -96,15 +132,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Voicera",
-          "body": "Turn natural speech into polished text, perfected with AI",
-          "timestamp": "2026-10-09T08:26:02",
-          "url": "https://www.producthunt.com/products/voicera-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: AgentSDR",
           "body": "Open-source AI SDR",
           "timestamp": "2026-10-09T08:26:02",
@@ -118,6 +145,15 @@
           "body": "Turn screen recordings into prompts for AI agents",
           "timestamp": "2026-10-09T08:26:02",
           "url": "https://www.producthunt.com/products/cakie-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Voicera",
+          "body": "Turn natural speech into polished text, perfected with AI",
+          "timestamp": "2026-10-09T08:26:02",
+          "url": "https://www.producthunt.com/products/voicera-3",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -242,5 +278,5 @@
       ]
     }
   },
-  "summary": "Based on the provided dataset, here are 6 key developments with insights, as well as a trend:\n\n**Developments:**\n\n* **Unified AI Platforms**: Hexis Cloud, Ambiguous Workspace, and others represent emerging efforts to create unified platforms for managing multiple AI agents, enabling users to coordinate their actions and streamline workflow.\n* **AI-Powered Productivity Apps**: Tools like Strawberry, Cakie, and Udon showcase the increasing focus on using AI to enhance productivity, with applications that automate tasks and simplify workflows.\n* **AI Search and Visibility**: Proofsource, Invited, and Bearconnect 2.0 highlight the growing importance of AI-powered search and visibility features, which help users discover and manage relevant information.\n* **AI Collaboration Tools**: Rool, Velozity, and KloudMate 2.0 demonstrate the trend towards developing tools that facilitate collaboration between humans and AI agents, enabling seamless communication and teamwork.\n* **AI Training and Education**: Pegasus 1.6, Databench, and others indicate a growing need for AI training and education initiatives, which can help users develop the skills required to effectively utilize AI agents.\n* **AI-Powered Security and Data Protection**: Busabase, Temp Mail, and Supademo AI Demo Agent suggest that businesses are becoming increasingly interested in AI-powered security and data protection solutions, which can help safeguard sensitive information.\n\n**Trend:** The increasing emphasis on developing unified platforms, AI-powered productivity tools, and AI collaboration software suggests a broader shift towards creating more integrated and harmonious human-AI ecosystems."
+  "summary": "Here are the key developments with insight:\n\n**Trend: AI-powered productivity and automation**\n\n* Several new product launches focus on leveraging AI to automate tasks and improve productivity, such as **Hexis Cloud**, which is a \"one company brain for all your AI agents\", **SquadRoom**, which are \"AI employees that work 24/7\", and **AgentSDR**, an open-source AI SDR platform.\n* **PostNitro for Agents** allows users to let their AI agents design and publish social posts, while **Cakie** turns screen recordings into prompts for AI agents.\n* **KloudMate 2.0** is an AI-powered Full-Stack Observability & Agentic SRE-Ops platform.\n* **Affiliate Foundry's Bevel** note-taking app allows users to record audio notes which is then can be converted into text with perfect accuracy.\n* **Prodigy** is a productivity app that helps users prioritize their tasks based on their goals and focus.\n* **Cameraone** is a smart camera that can automatically take photos of your shelves for inventory when they become too filled."
 }
