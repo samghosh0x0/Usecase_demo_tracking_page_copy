@@ -1,10 +1,73 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-14T07:14:52.013Z",
+  "timestamp": "2026-10-15T07:06:29.917Z",
   "categories": {
     "news": {
-      "count": 30,
+      "count": 29,
       "items": [
+        {
+          "subject": "Product Hunt Launch: FamRelay",
+          "body": "Share facts between AI assistants — only what you approve",
+          "timestamp": "2026-10-14T08:31:02",
+          "url": "https://www.producthunt.com/products/famrelay",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Spinachi AI",
+          "body": "Your family's personal health manager on WhatsApp",
+          "timestamp": "2026-10-14T08:31:02",
+          "url": "https://www.producthunt.com/products/spinachi-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Inferock",
+          "body": "Serverless inference, with credits back for failed calls.",
+          "timestamp": "2026-10-14T08:31:02",
+          "url": "https://www.producthunt.com/products/inferock",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: CSuite",
+          "body": "All-in-one suite for AI content creation, fully private.",
+          "timestamp": "2026-10-14T08:31:02",
+          "url": "https://www.producthunt.com/products/csuite",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Revix AI",
+          "body": "AI code reviews that learn your engineering standards",
+          "timestamp": "2026-10-14T08:31:02",
+          "url": "https://www.producthunt.com/products/revix-ai-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Make0 Brain",
+          "body": "A memory store that works across all of your AI agents.",
+          "timestamp": "2026-10-14T08:31:02",
+          "url": "https://www.producthunt.com/products/make0-brain",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: FutureMail",
+          "body": "Email on your domain, built for people and their AI agents.",
+          "timestamp": "2026-10-14T08:31:02",
+          "url": "https://www.producthunt.com/products/futuremail-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: MentionBird",
           "body": "Ahrefs for AI Search",
@@ -42,6 +105,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Strawberry",
+          "body": "The AI browser where teams and agents work together",
+          "timestamp": "2026-10-12T08:29:02",
+          "url": "https://www.producthunt.com/products/strawberry",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Hexis Cloud",
           "body": "One company brain for all your AI agents",
           "timestamp": "2026-10-12T08:29:02",
@@ -64,15 +136,6 @@
           "body": "AI employees that work 24/7",
           "timestamp": "2026-10-12T08:29:02",
           "url": "https://www.producthunt.com/products/squadroom",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Strawberry",
-          "body": "The AI browser where teams and agents work together",
-          "timestamp": "2026-10-12T08:29:02",
-          "url": "https://www.producthunt.com/products/strawberry",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -168,6 +231,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: KloudMate 2.0",
+          "body": "AI-powered Full-Stack Observability & Agentic SRE-Ops",
+          "timestamp": "2026-10-08T08:50:02",
+          "url": "https://www.producthunt.com/products/kloudmate",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Udon",
           "body": "Control deck for your Mac home server with AI sysadmin",
           "timestamp": "2026-10-08T08:50:02",
@@ -193,90 +265,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: KloudMate 2.0",
-          "body": "AI-powered Full-Stack Observability & Agentic SRE-Ops",
-          "timestamp": "2026-10-08T08:50:02",
-          "url": "https://www.producthunt.com/products/kloudmate",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Proofsource",
-          "body": "AI search visibility, with agents that fix the gaps",
-          "timestamp": "2026-10-07T09:46:02",
-          "url": "https://www.producthunt.com/products/proofsource",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ImageFlow",
-          "body": "Free Photoshop-grade image editor with AI features",
-          "timestamp": "2026-10-07T09:46:02",
-          "url": "https://www.producthunt.com/products/imageflow-6",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Pegasus 1.6 by TwelveLabs",
-          "body": "Transforms egocentric video into robot training data",
-          "timestamp": "2026-10-07T09:46:02",
-          "url": "https://www.producthunt.com/products/twelvelabs",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Rool",
-          "body": "Your private AI machine. Files, ideas, AI in one workspace",
-          "timestamp": "2026-10-07T09:46:02",
-          "url": "https://www.producthunt.com/products/rool",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Velozity",
-          "body": "Multiplayer platform for your teams and AI Agents.",
-          "timestamp": "2026-10-07T09:46:02",
-          "url": "https://www.producthunt.com/products/velozity-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Databench by Alkera",
-          "body": "Open-source collaborative agentic workspace for data teams",
-          "timestamp": "2026-10-07T09:46:02",
-          "url": "https://www.producthunt.com/products/alkera",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Temp Mail",
-          "body": "Disposable email + private forwarding to your real inbox",
-          "timestamp": "2026-10-07T09:46:02",
-          "url": "https://www.producthunt.com/products/temp-mail-370",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Supademo AI Demo Agent",
-          "body": "Agentic demos like your best salesperson, without the salary",
-          "timestamp": "2026-10-07T09:46:02",
-          "url": "https://www.producthunt.com/products/supademo",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n**Trend: AI-powered productivity and automation**\n\n* Several new product launches focus on leveraging AI to automate tasks and improve productivity, such as **Hexis Cloud**, which is a \"one company brain for all your AI agents\", **SquadRoom**, which are \"AI employees that work 24/7\", and **AgentSDR**, an open-source AI SDR platform.\n* **PostNitro for Agents** allows users to let their AI agents design and publish social posts, while **Cakie** turns screen recordings into prompts for AI agents.\n* **KloudMate 2.0** is an AI-powered Full-Stack Observability & Agentic SRE-Ops platform.\n* **Affiliate Foundry's Bevel** note-taking app allows users to record audio notes which is then can be converted into text with perfect accuracy.\n* **Prodigy** is a productivity app that helps users prioritize their tasks based on their goals and focus.\n* **Cameraone** is a smart camera that can automatically take photos of your shelves for inventory when they become too filled."
+  "summary": "Here are 4-6 bullet points summarizing key developments with insight:\n\n* **Product Hunt Launches**: 29 new products were launched on Product Hunt, a platform for discovering and sharing new products. These products include AI-powered tools for various industries such as content creation, email management, and AI assistant design.\n* **AI-Powered Tools**: Many of the launched products are AI-powered, indicating a growing trend of using AI to automate tasks and improve productivity. These tools can help users with tasks such as email management, content creation, and even designing and publishing social posts.\n* **AI Assistant Design**: Several products focus on AI assistant design, such as FamRelay, Spinachi AI, and Kai. These products aim to improve the way AI assistants interact with humans, making them more efficient and effective.\n* **Serverless Inference**: Inferock, a product launched on Product Hunt, offers serverless inference with credits back for failed calls. This indicates a growing trend of using serverless computing for AI inference tasks.\n* **Content Creation**: CSuite, a product launched on Product Hunt, is an all-in-one suite for AI content creation, fully private. This indicates a growing trend of using AI for content creation and a desire for privacy in content creation tools.\n* **AI Code Reviews**: Revix AI, a product launched on Product Hunt, offers AI code reviews that learn the user's engineering standards. This indicates a growing trend of using AI for code reviews and improving the efficiency of the development process.\n\nTrend: **AI-Powered Productivity Tools**: The launched products on Product Hunt indicate a growing trend of using AI to improve productivity and automate tasks. As AI technology advances, we can expect to see more AI-powered tools that help users with tasks such as email management, content creation, and even designing and publishing social posts."
 }
