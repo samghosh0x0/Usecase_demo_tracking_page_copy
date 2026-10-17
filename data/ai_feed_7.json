@@ -1,10 +1,19 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-16T06:49:26.396Z",
+  "timestamp": "2026-10-17T06:42:37.078Z",
   "categories": {
     "news": {
-      "count": 32,
+      "count": 28,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Fish Audio Drama 3",
+          "body": "AI voice acting you can direct, not just generate",
+          "timestamp": "2026-10-16T08:07:02",
+          "url": "https://www.producthunt.com/products/fish-speech",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: GLM-Legal",
           "body": "Z.ai’s legal AI model for contract review and compliance",
@@ -69,6 +78,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Make0 Brain",
+          "body": "A memory store that works across all of your AI agents.",
+          "timestamp": "2026-10-14T08:31:02",
+          "url": "https://www.producthunt.com/products/make0-brain",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: FamRelay",
           "body": "Share facts between AI assistants — only what you approve",
           "timestamp": "2026-10-14T08:31:02",
@@ -114,15 +132,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Make0 Brain",
-          "body": "A memory store that works across all of your AI agents.",
-          "timestamp": "2026-10-14T08:31:02",
-          "url": "https://www.producthunt.com/products/make0-brain",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: FutureMail",
           "body": "Email on your domain, built for people and their AI agents.",
           "timestamp": "2026-10-14T08:31:02",
@@ -132,19 +141,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Kai",
-          "body": "Autonomous assistant designed to handle meetings and email",
+          "subject": "Product Hunt Launch: MentionBird",
+          "body": "Ahrefs for AI Search",
           "timestamp": "2026-10-13T08:40:02",
-          "url": "https://www.producthunt.com/products/hirekai",
+          "url": "https://www.producthunt.com/products/mentionbird",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: MentionBird",
-          "body": "Ahrefs for AI Search",
+          "subject": "Product Hunt Launch: Kai",
+          "body": "Autonomous assistant designed to handle meetings and email",
           "timestamp": "2026-10-13T08:40:02",
-          "url": "https://www.producthunt.com/products/mentionbird",
+          "url": "https://www.producthunt.com/products/hirekai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -222,6 +231,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: ReSO AI",
+          "body": "Get discovered & recommended when customers ask AI",
+          "timestamp": "2026-10-10T11:00:02",
+          "url": "https://www.producthunt.com/products/reso",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Toolaby",
           "body": "Get paid for your Chrome extension, in two lines of code.",
           "timestamp": "2026-10-10T11:00:02",
@@ -238,63 +256,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: ReSO AI",
-          "body": "Get discovered & recommended when customers ask AI",
-          "timestamp": "2026-10-10T11:00:02",
-          "url": "https://www.producthunt.com/products/reso",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ambiguous Workspace",
-          "body": "18 productivity apps built for AI agents and humans",
-          "timestamp": "2026-10-10T04:00:02",
-          "url": "https://www.producthunt.com/products/ambiguous-workspace",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Busabase",
-          "body": "The general system of record for AI agents",
-          "timestamp": "2026-10-09T08:26:02",
-          "url": "https://www.producthunt.com/products/busabase",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AgentSDR",
-          "body": "Open-source AI SDR",
-          "timestamp": "2026-10-09T08:26:02",
-          "url": "https://www.producthunt.com/products/agentsdr",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Cakie",
-          "body": "Turn screen recordings into prompts for AI agents",
-          "timestamp": "2026-10-09T08:26:02",
-          "url": "https://www.producthunt.com/products/cakie-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Voicera",
-          "body": "Turn natural speech into polished text, perfected with AI",
-          "timestamp": "2026-10-09T08:26:02",
-          "url": "https://www.producthunt.com/products/voicera-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n**Developments:**\n\n• **AI-powered contract review and compliance:** Z.ai launched GLM-Legal, a legal AI model for contract review and compliance.\n• **AI runtime backend QA engineer:** Kerno 1.0, an AI runtime backend QA engineer, was launched on Product Hunt.\n• **AI code reviews:** CodeCrab and Revix AI launched products that provide AI code reviews with deep analysis and multi-tool integrations.\n• **AI-powered email and messaging:** Several products, including Talanoa, Kai, and FutureMail, launched AI-powered email and messaging solutions.\n• **AI browser and productivity apps:** Strawberry, Hexis Cloud, and Ambiguous Workspace launched AI-powered browsers and productivity apps that integrate with AI agents.\n• **AI-powered reminders and document management:** Invited - AI Reminder Scanner and Busabase launched products for AI-powered reminders and document management.\n\n**Trend:** The trend is a growing emphasis on developing AI-powered tools and platforms that integrate with AI agents, aiming to enhance productivity, compliance, and communication."
+  "summary": "**Key Developments:**\n\n* **Advancements in AI Voice Acting:** Fish Audio Drama 3 was launched on Product Hunt, allowing users to direct AI voice acting, not just generate it. This could revolutionize the way AI voiceovers are used in content creation.\n* **AI-Powered Contract Review and Compliance:** GLM-Legal, a legal AI model for contract review and compliance, was also launched on Product Hunt. This demonstrates the expanding use of AI in the legal industry.\n* **Enhanced AI Code Reviews:** Several new AI-powered code review tools were launched, including CodeCrab and Revix AI, which use deep analysis and multi-tool integrations to improve code quality.\n* **AI-Powered Content Creation and Private Communication Tools:** CSuite, a suite for AI content creation, and SaidTrace, a private voice memo tool with AI capabilities, were launched. These demonstrate the growing interest in AI-powered content creation and private communication.\n* **AI-Powered Search and Discovery Tools:** MentionBird, an Ahrefs for AI Search, was launched. This highlights the increasing need for effective search and discovery tools in the AI space.\n\n**Trend:** **Increased Focus on Seamless Integration and Interoperability**\n\nThe recent launches on Product Hunt show a growing focus on creating seamless experiences between different AI tools and platforms. Examples include FamRelay, which shares facts between AI assistants, and Hexis Cloud, a single brain for all AI agents. This trend suggests that developers and users are recognizing the need for more cohesive and user-friendly AI ecosystems."
 }
