@@ -1,10 +1,64 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-17T06:42:37.078Z",
+  "timestamp": "2026-10-18T07:02:42.381Z",
   "categories": {
     "news": {
-      "count": 28,
+      "count": 31,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Train with Pasta",
+          "body": "A personal trainer powered by Apple Intelligence",
+          "timestamp": "2026-10-17T10:15:02",
+          "url": "https://www.producthunt.com/products/train-with-pasta",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Ultracite v8",
+          "body": "The linter and formatter for agentic development",
+          "timestamp": "2026-10-17T10:15:02",
+          "url": "https://www.producthunt.com/products/ultracite",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Atelier",
+          "body": "The studio your AI coding agents work in",
+          "timestamp": "2026-10-17T04:00:01",
+          "url": "https://www.producthunt.com/products/atelier-9",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Scalebrowser",
+          "body": "Human browser capabilities. Now for AI agents.",
+          "timestamp": "2026-10-17T04:00:01",
+          "url": "https://www.producthunt.com/products/scalebrowser",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Grablo Spot",
+          "body": "Free AI NVR that finds any person or vehicle in seconds Discussion...",
+          "timestamp": "2026-10-17T04:00:01",
+          "url": "https://www.producthunt.com/products/grablo-spot",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Neophyte",
+          "body": "Watch an AI agent sign up and onboard to any product Discussion...",
+          "timestamp": "2026-10-17T04:00:01",
+          "url": "https://www.producthunt.com/products/neophyte",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Fish Audio Drama 3",
           "body": "AI voice acting you can direct, not just generate",
@@ -78,10 +132,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Make0 Brain",
-          "body": "A memory store that works across all of your AI agents.",
+          "subject": "Product Hunt Launch: Spinachi AI",
+          "body": "Your family's personal health manager on WhatsApp",
           "timestamp": "2026-10-14T08:31:02",
-          "url": "https://www.producthunt.com/products/make0-brain",
+          "url": "https://www.producthunt.com/products/spinachi-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -91,15 +145,6 @@
           "body": "Share facts between AI assistants — only what you approve",
           "timestamp": "2026-10-14T08:31:02",
           "url": "https://www.producthunt.com/products/famrelay",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Spinachi AI",
-          "body": "Your family's personal health manager on WhatsApp",
-          "timestamp": "2026-10-14T08:31:02",
-          "url": "https://www.producthunt.com/products/spinachi-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -127,6 +172,15 @@
           "body": "AI code reviews that learn your engineering standards",
           "timestamp": "2026-10-14T08:31:02",
           "url": "https://www.producthunt.com/products/revix-ai-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Make0 Brain",
+          "body": "A memory store that works across all of your AI agents.",
+          "timestamp": "2026-10-14T08:31:02",
+          "url": "https://www.producthunt.com/products/make0-brain",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -177,6 +231,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Bearconnect 2.0",
+          "body": "AI-Powered LinkedIn Platform for Content and Outreach",
+          "timestamp": "2026-10-12T08:29:02",
+          "url": "https://www.producthunt.com/products/early-access-bearconnect-io",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Hexis Cloud",
           "body": "One company brain for all your AI agents",
           "timestamp": "2026-10-12T08:29:02",
@@ -220,45 +283,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Bearconnect 2.0",
-          "body": "AI-Powered LinkedIn Platform for Content and Outreach",
-          "timestamp": "2026-10-12T08:29:02",
-          "url": "https://www.producthunt.com/products/early-access-bearconnect-io",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ReSO AI",
-          "body": "Get discovered & recommended when customers ask AI",
-          "timestamp": "2026-10-10T11:00:02",
-          "url": "https://www.producthunt.com/products/reso",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Toolaby",
-          "body": "Get paid for your Chrome extension, in two lines of code.",
-          "timestamp": "2026-10-10T11:00:02",
-          "url": "https://www.producthunt.com/products/toolaby",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Onepin",
-          "body": "AI voiceover with every name, price and date said right",
-          "timestamp": "2026-10-10T11:00:02",
-          "url": "https://www.producthunt.com/products/onepin",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **Advancements in AI Voice Acting:** Fish Audio Drama 3 was launched on Product Hunt, allowing users to direct AI voice acting, not just generate it. This could revolutionize the way AI voiceovers are used in content creation.\n* **AI-Powered Contract Review and Compliance:** GLM-Legal, a legal AI model for contract review and compliance, was also launched on Product Hunt. This demonstrates the expanding use of AI in the legal industry.\n* **Enhanced AI Code Reviews:** Several new AI-powered code review tools were launched, including CodeCrab and Revix AI, which use deep analysis and multi-tool integrations to improve code quality.\n* **AI-Powered Content Creation and Private Communication Tools:** CSuite, a suite for AI content creation, and SaidTrace, a private voice memo tool with AI capabilities, were launched. These demonstrate the growing interest in AI-powered content creation and private communication.\n* **AI-Powered Search and Discovery Tools:** MentionBird, an Ahrefs for AI Search, was launched. This highlights the increasing need for effective search and discovery tools in the AI space.\n\n**Trend:** **Increased Focus on Seamless Integration and Interoperability**\n\nThe recent launches on Product Hunt show a growing focus on creating seamless experiences between different AI tools and platforms. Examples include FamRelay, which shares facts between AI assistants, and Hexis Cloud, a single brain for all AI agents. This trend suggests that developers and users are recognizing the need for more cohesive and user-friendly AI ecosystems."
+  "summary": "Here are 6 key developments with insight and 1 trend:\n\n**Key Developments:**\n\n* **Product Hunt Launches 31 New AI-Related Products**: Product Hunt, a platform for discovering new products, has launched 31 new AI-related products, showcasing the growing interest in AI and its applications.\n* **AI-Powered Personal Trainers and Assistants**: Several products, such as Train with Pasta, Atelier, and Audimate, offer AI-powered personal trainers and assistants that can help with tasks, fitness, and productivity.\n* **AI Runtime Backend and QA Engineer**: Kerno 1.0 is an AI Runtime Backend QA Engineer that can help with backend development and testing.\n* **AI-Powered Content Creation and Review**: CSuite and Revix AI are two products that offer AI-powered content creation and review, helping with tasks such as writing, editing, and proofreading.\n* **AI-Powered Email and Communication**: FutureMail and GotEmail are two products that offer AI-powered email and communication tools, helping with tasks such as email management, scheduling, and reminders.\n* **AI-Powered Browser and Collaboration**: Strawberry and Hexis Cloud are two products that offer AI-powered browser and collaboration tools, helping teams and agents work together more efficiently.\n\n**Trend:**\n\n* **Growing Interest in AI and Its Applications**: The 31 new AI-related products launched on Product Hunt demonstrate the growing interest in AI and its applications, with a focus on productivity, content creation, and collaboration. This trend suggests that AI is becoming increasingly important in our daily lives, and companies are investing in developing AI-powered tools to help with various tasks and activities."
 }
