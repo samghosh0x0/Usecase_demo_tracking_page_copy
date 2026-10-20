@@ -1,10 +1,55 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-19T07:26:26.396Z",
+  "timestamp": "2026-10-20T07:16:43.591Z",
   "categories": {
     "news": {
-      "count": 31,
+      "count": 30,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Framefields",
+          "body": "Open-source code-first video for AGI era",
+          "timestamp": "2026-10-19T11:33:01",
+          "url": "https://www.producthunt.com/products/framefields",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tori",
+          "body": "The smartest AI support agent for customer success",
+          "timestamp": "2026-10-19T11:33:01",
+          "url": "https://www.producthunt.com/products/tori-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Kai Resolve by Gleap",
+          "body": "Support that does the digging for you.",
+          "timestamp": "2026-10-19T11:33:01",
+          "url": "https://www.producthunt.com/products/gleap",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: CrawlForge MCP",
+          "body": "Give your AI agent 31 web tools in one MCP server.",
+          "timestamp": "2026-10-19T11:33:01",
+          "url": "https://www.producthunt.com/products/crawlforge-mcp",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Beam",
+          "body": "Highly efficient agentic 501B parameter open model",
+          "timestamp": "2026-10-19T11:33:01",
+          "url": "https://www.producthunt.com/products/beam-13",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Train with Pasta",
           "body": "A personal trainer powered by Apple Intelligence",
@@ -69,6 +114,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Audimate",
+          "body": "AI assistant that works right in the apps you already use.",
+          "timestamp": "2026-10-15T08:13:02",
+          "url": "https://www.producthunt.com/products/audimate",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: GLM-Legal",
           "body": "Z.ai’s legal AI model for contract review and compliance",
           "timestamp": "2026-10-15T08:13:02",
@@ -82,15 +136,6 @@
           "body": "The AI Runtime Backend QA Engineer",
           "timestamp": "2026-10-15T08:13:02",
           "url": "https://www.producthunt.com/products/kerno",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Audimate",
-          "body": "AI assistant that works right in the apps you already use.",
-          "timestamp": "2026-10-15T08:13:02",
-          "url": "https://www.producthunt.com/products/audimate",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -132,19 +177,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Spinachi AI",
-          "body": "Your family's personal health manager on WhatsApp",
+          "subject": "Product Hunt Launch: FamRelay",
+          "body": "Share facts between AI assistants — only what you approve",
           "timestamp": "2026-10-14T08:31:02",
-          "url": "https://www.producthunt.com/products/spinachi-ai",
+          "url": "https://www.producthunt.com/products/famrelay",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: FamRelay",
-          "body": "Share facts between AI assistants — only what you approve",
+          "subject": "Product Hunt Launch: Spinachi AI",
+          "body": "Your family's personal health manager on WhatsApp",
           "timestamp": "2026-10-14T08:31:02",
-          "url": "https://www.producthunt.com/products/famrelay",
+          "url": "https://www.producthunt.com/products/spinachi-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -195,6 +240,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: GotEmail",
+          "body": "Native Mac mail with one-click sign-in codes and AI",
+          "timestamp": "2026-10-13T08:40:02",
+          "url": "https://www.producthunt.com/products/gotemail",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: MentionBird",
           "body": "Ahrefs for AI Search",
           "timestamp": "2026-10-13T08:40:02",
@@ -220,72 +274,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: GotEmail",
-          "body": "Native Mac mail with one-click sign-in codes and AI",
-          "timestamp": "2026-10-13T08:40:02",
-          "url": "https://www.producthunt.com/products/gotemail",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Bearconnect 2.0",
-          "body": "AI-Powered LinkedIn Platform for Content and Outreach",
-          "timestamp": "2026-10-12T08:29:02",
-          "url": "https://www.producthunt.com/products/early-access-bearconnect-io",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Hexis Cloud",
-          "body": "One company brain for all your AI agents",
-          "timestamp": "2026-10-12T08:29:02",
-          "url": "https://www.producthunt.com/products/bevel-software",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Invited - AI Reminder Scanner",
-          "body": "AI reminder scanner for bills, invites & documents",
-          "timestamp": "2026-10-12T08:29:02",
-          "url": "https://www.producthunt.com/products/invited-ai-reminder-scanner",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SquadRoom",
-          "body": "AI employees that work 24/7",
-          "timestamp": "2026-10-12T08:29:02",
-          "url": "https://www.producthunt.com/products/squadroom",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Strawberry",
-          "body": "The AI browser where teams and agents work together",
-          "timestamp": "2026-10-12T08:29:02",
-          "url": "https://www.producthunt.com/products/strawberry",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ngram 2.0",
-          "body": "Create explainers, screencasts, and AI avatar videos",
-          "timestamp": "2026-10-12T08:29:02",
-          "url": "https://www.producthunt.com/products/ngram",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments with insight:\n\n**Recent activity summary:**\n\n* 31 new product launches were announced on Product Hunt, a platform for discovering and sharing new tech products.\n* These launches spanned various categories, including AI-powered tools for productivity, content creation, and more.\n\n**Key product launches:**\n\n* Train with Pasta: A personal trainer powered by Apple Intelligence for fitness and wellness.\n* Ultracite v8: A linter and formatter for automated software development.\n* Atelier: A studio for AI coding agents to work in.\n* Scalebrowser: A human-like browser capabilities for AI agents.\n* Revix AI: AI code reviews that learn engineering standards.\n* Bearconnect 2.0: An AI-powered LinkedIn platform for content and outreach.\n\n**Notable trends:**\n\n* **Growing emphasis on AI-powered productivity and automation**: Many of the launched products are focused on leveraging AI to streamline tasks, improve productivity, and reduce manual labor. This trend is likely driven by the increasing adoption of AI in the industry.\n\n**Other highlights:**\n\n* Many launches focused on AI-powered communication and collaboration tools, such as SquadRoom and Strawberry.\n* There was also a range of launches in the creative AI space, including music, video, and content generation tools.\n* Some launches demonstrated the expanding use of AI in the enterprise and professional services sectors, such as those seen in Bearconnect 2.0 and Revix AI."
+  "summary": "Here are 6 key developments with insight and 1 trend:\n\n**Key Developments:**\n\n* **Framefields**: An open-source code-first video platform for the AGI era has been launched on Product Hunt.\n* **Tori**: A smart AI support agent for customer success has been launched on Product Hunt.\n* **Kai Resolve by Gleap**: A support tool that does the digging for you has been launched on Product Hunt.\n* **Beam**: A highly efficient agentic 501B parameter open model has been launched on Product Hunt.\n* **Train with Pasta**: A personal trainer powered by Apple Intelligence has been launched on Product Hunt.\n* **Atelier**: A studio for AI coding agents has been launched on Product Hunt.\n\n**Trend:**\n\n* **AI Assistants and Agents**: There is a growing trend of AI-powered assistants and agents being developed and launched on Product Hunt, with a focus on improving customer success, support, and experience. This trend highlights the increasing importance of AI in various industries and the need for more efficient and effective AI solutions.\n\nThese developments and trend suggest that the AI industry is rapidly evolving, with a focus on improving customer success, support, and experience through AI-powered assistants and agents."
 }
