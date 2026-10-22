@@ -1,10 +1,64 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-21T07:13:50.105Z",
+  "timestamp": "2026-10-22T07:15:57.942Z",
   "categories": {
     "news": {
-      "count": 32,
+      "count": 31,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Lea by LeanAIOS",
+          "body": "Autonomous AI team for construction management & pre-con",
+          "timestamp": "2026-10-21T08:18:01",
+          "url": "https://www.producthunt.com/products/lea-by-leanaios",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Yarite",
+          "body": "A daily list of who to call. Nothing leaves your phone.",
+          "timestamp": "2026-10-21T08:18:01",
+          "url": "https://www.producthunt.com/products/yarite",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Hotly",
+          "body": "Get paid to answer your DMs. Open source.",
+          "timestamp": "2026-10-21T08:18:01",
+          "url": "https://www.producthunt.com/products/hotly",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AskDoozy",
+          "body": "An AI coworker in Slack that does your real work",
+          "timestamp": "2026-10-21T08:18:01",
+          "url": "https://www.producthunt.com/products/askdoozy",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: The Brains",
+          "body": "Founders and investors as MCP servers, every answer cited",
+          "timestamp": "2026-10-21T08:18:01",
+          "url": "https://www.producthunt.com/products/the-brains",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "AWS: Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore",
+          "body": "This post is co-written with Zhili Cheng, Principal Product Manager, George Earle...",
+          "timestamp": "2026-10-21T04:00:02",
+          "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/",
+          "extras": {
+            "data_origin": "AWS AI News"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Stella",
           "body": "Your emotional wellness AI. A friend to figure it out with.",
@@ -60,6 +114,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: CrawlForge MCP",
+          "body": "Give your AI agent 31 web tools in one MCP server.",
+          "timestamp": "2026-10-19T11:33:01",
+          "url": "https://www.producthunt.com/products/crawlforge-mcp",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Framefields",
           "body": "Open-source code-first video for AGI era",
           "timestamp": "2026-10-19T11:33:01",
@@ -82,15 +145,6 @@
           "body": "Support that does the digging for you.",
           "timestamp": "2026-10-19T11:33:01",
           "url": "https://www.producthunt.com/products/gleap",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: CrawlForge MCP",
-          "body": "Give your AI agent 31 web tools in one MCP server.",
-          "timestamp": "2026-10-19T11:33:01",
-          "url": "https://www.producthunt.com/products/crawlforge-mcp",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -123,15 +177,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Grablo Spot",
-          "body": "Free AI NVR that finds any person or vehicle in seconds Discussion...",
-          "timestamp": "2026-10-17T04:00:01",
-          "url": "https://www.producthunt.com/products/grablo-spot",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Atelier",
           "body": "The studio your AI coding agents work in",
           "timestamp": "2026-10-17T04:00:01",
@@ -150,6 +195,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Grablo Spot",
+          "body": "Free AI NVR that finds any person or vehicle in seconds Discussion...",
+          "timestamp": "2026-10-17T04:00:01",
+          "url": "https://www.producthunt.com/products/grablo-spot",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Neophyte",
           "body": "Watch an AI agent sign up and onboard to any product Discussion...",
           "timestamp": "2026-10-17T04:00:01",
@@ -163,6 +217,15 @@
           "body": "AI voice acting you can direct, not just generate",
           "timestamp": "2026-10-16T08:07:02",
           "url": "https://www.producthunt.com/products/fish-speech",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: CodeCrab",
+          "body": "AI code reviews with deep analysis & multi-tool integrations",
+          "timestamp": "2026-10-15T08:13:02",
+          "url": "https://www.producthunt.com/products/codecrab",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -220,81 +283,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: CodeCrab",
-          "body": "AI code reviews with deep analysis & multi-tool integrations",
-          "timestamp": "2026-10-15T08:13:02",
-          "url": "https://www.producthunt.com/products/codecrab",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FutureMail",
-          "body": "Email on your domain, built for people and their AI agents.",
-          "timestamp": "2026-10-14T08:31:02",
-          "url": "https://www.producthunt.com/products/futuremail-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FamRelay",
-          "body": "Share facts between AI assistants — only what you approve",
-          "timestamp": "2026-10-14T08:31:02",
-          "url": "https://www.producthunt.com/products/famrelay",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Spinachi AI",
-          "body": "Your family's personal health manager on WhatsApp",
-          "timestamp": "2026-10-14T08:31:02",
-          "url": "https://www.producthunt.com/products/spinachi-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Inferock",
-          "body": "Serverless inference, with credits back for failed calls.",
-          "timestamp": "2026-10-14T08:31:02",
-          "url": "https://www.producthunt.com/products/inferock",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: CSuite",
-          "body": "All-in-one suite for AI content creation, fully private.",
-          "timestamp": "2026-10-14T08:31:02",
-          "url": "https://www.producthunt.com/products/csuite",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Revix AI",
-          "body": "AI code reviews that learn your engineering standards",
-          "timestamp": "2026-10-14T08:31:02",
-          "url": "https://www.producthunt.com/products/revix-ai-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Make0 Brain",
-          "body": "A memory store that works across all of your AI agents.",
-          "timestamp": "2026-10-14T08:31:02",
-          "url": "https://www.producthunt.com/products/make0-brain",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight, along with 1 trend:\n\n**Key Developments:**\n\n* **Stella**: An emotional wellness AI that provides a friend to figure out emotions with, launched on Product Hunt.\n* **ToDo.is**: A to-do list AI that writes tasks and completes them, launched on Product Hunt.\n* **yggy**: An AI knowledge graph that builds itself, launched on Product Hunt.\n* **Composio Instant**: A tool that allows AI agents to pay for their own tools, launched on Product Hunt.\n* **Framefields**: An open-source code-first video for AGI era, launched on Product Hunt.\n* **Beam**: A highly efficient agent with 501B parameters, launched on Product Hunt.\n\n**Insight:**\n\n* These launches indicate a growing interest in AI development, with a focus on emotional wellness, productivity, and knowledge graph building.\n* Many of these tools aim to make AI development more accessible and user-friendly, such as the no-code app builder for ChatGPT & Claude.\n* There is a trend towards AI-powered tools that assist with various tasks, such as code reviews, email management, and content creation.\n\n**Trend:**\n\n* **Increased focus on AI development and accessibility**: As AI continues to evolve, we can expect to see more tools and platforms that make AI development more accessible and user-friendly, with a focus on productivity, knowledge graph building, and emotional wellness."
+  "summary": "Here are 6 key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **AI for Construction Management**: Lea by LeanAIOS, a product launched on Product Hunt, aims to provide an autonomous AI team for construction management and pre-construction tasks.\n* **Daily Task List**: Yarite, another product launched on Product Hunt, offers a daily list of tasks to be completed, with AI assistance.\n* **AI-Powered Productivity Tools**: Jotform App Builder for ChatGPT & Claude, a product launched on Product Hunt, allows users to build and edit no-code apps inside ChatGPT & Claude.\n* **AI Knowledge Graph**: yggy, a product launched on Product Hunt, is an AI knowledge graph that builds itself.\n* **AI Support Agent**: Tori, a product launched on Product Hunt, is a smart AI support agent for customer success.\n* **AI-Powered Code Reviews**: CodeCrab, a product launched on Product Hunt, offers AI code reviews with deep analysis and multi-tool integrations.\n\n**Trend:**\n\n* **Increased Focus on AI Productivity and Efficiency**: The trend in AI development is shifting towards creating tools that enhance productivity and efficiency, with a focus on automating tasks and providing AI assistance for various industries, including construction, customer success, and code reviews."
 }
