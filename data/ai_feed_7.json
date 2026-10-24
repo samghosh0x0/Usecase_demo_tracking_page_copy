@@ -1,10 +1,109 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-23T07:07:57.090Z",
+  "timestamp": "2026-10-24T06:58:09.672Z",
   "categories": {
     "news": {
-      "count": 33,
+      "count": 39,
       "items": [
+        {
+          "subject": "Product Hunt Launch: MOVO AI",
+          "body": "The world's first long-form video agent for mobile",
+          "timestamp": "2026-10-23T08:14:01",
+          "url": "https://www.producthunt.com/products/movo-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Dots Phone",
+          "body": "A phone-calling plugin for OpenAI Dots",
+          "timestamp": "2026-10-23T08:14:01",
+          "url": "https://www.producthunt.com/products/dots-phone",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: FLUX 3 Max",
+          "body": "fals FLUX 3 Max: 10-second AI video in about 12 seconds",
+          "timestamp": "2026-10-23T08:14:01",
+          "url": "https://www.producthunt.com/products/fal-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Agent Hunt",
+          "body": "Live rankings of the tools AI agents use most",
+          "timestamp": "2026-10-23T08:14:01",
+          "url": "https://www.producthunt.com/products/monid",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Monish",
+          "body": "Your AI agents, live on your iPhone lock screen",
+          "timestamp": "2026-10-23T08:14:01",
+          "url": "https://www.producthunt.com/products/monish",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Gerty",
+          "body": "Private ChatGPT alternative that sets itself up on your Mac",
+          "timestamp": "2026-10-23T08:14:01",
+          "url": "https://www.producthunt.com/products/gerty",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Cloudflare Clairic",
+          "body": "Cloudflare's AI model for fast, cheap data extraction",
+          "timestamp": "2026-10-23T08:14:01",
+          "url": "https://www.producthunt.com/products/cloudflare",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Kalender Sync",
+          "body": "Sync your calendars & connect them to ChatGPT, Claude & Co.",
+          "timestamp": "2026-10-23T04:00:02",
+          "url": "https://www.producthunt.com/products/kalender-sync",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Concierge by Juniors AI",
+          "body": "Omni-channel AI-first customer support (6 months free)",
+          "timestamp": "2026-10-23T04:00:02",
+          "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Agentic CleanSlop",
+          "body": "Authenticate, scan and fix your app from your agent",
+          "timestamp": "2026-10-23T04:00:02",
+          "url": "https://www.producthunt.com/products/cleanslop",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Loom Record for agents",
+          "body": "Hit record and hand off to AI, now in the new Loom...",
+          "timestamp": "2026-10-23T04:00:02",
+          "url": "https://www.producthunt.com/products/loom",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Dadan",
           "body": "One AI video workspace for recordings, meetings and guides",
@@ -69,19 +168,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: SuperCMO AI",
-          "body": "Open-source skills that turn your Claude into an AI CMO",
+          "subject": "Product Hunt Launch: Searchtok",
+          "body": "Make TikTok and Instagram searchable for your AI agent",
           "timestamp": "2026-10-22T04:00:02",
-          "url": "https://www.producthunt.com/products/supercmo-ai",
+          "url": "https://www.producthunt.com/products/searchtok",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Searchtok",
-          "body": "Make TikTok and Instagram searchable for your AI agent",
+          "subject": "Product Hunt Launch: SuperCMO AI",
+          "body": "Open-source skills that turn your Claude into an AI CMO",
           "timestamp": "2026-10-22T04:00:02",
-          "url": "https://www.producthunt.com/products/searchtok",
+          "url": "https://www.producthunt.com/products/supercmo-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -141,24 +240,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: ToDo.is",
-          "body": "Write a to-do and your AI agent gets it done",
-          "timestamp": "2026-10-20T08:12:02",
-          "url": "https://www.producthunt.com/products/todo-is",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Stella",
-          "body": "Your emotional wellness AI. A friend to figure it out with.",
-          "timestamp": "2026-10-20T08:12:02",
-          "url": "https://www.producthunt.com/products/stella-5",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: yggy",
           "body": "The AI knowledge graph that builds itself",
           "timestamp": "2026-10-20T08:12:02",
@@ -168,10 +249,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Jotform App Builder for ChatGPT & Claude",
-          "body": "Build and edit no-code apps inside ChatGPT & Claude",
+          "subject": "Product Hunt Launch: ESP-Mosaico",
+          "body": "A modular development board built for agents",
           "timestamp": "2026-10-20T08:12:02",
-          "url": "https://www.producthunt.com/products/jotform",
+          "url": "https://www.producthunt.com/products/esp-mosaico",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -186,10 +267,28 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: ESP-Mosaico",
-          "body": "A modular development board built for agents",
+          "subject": "Product Hunt Launch: Jotform App Builder for ChatGPT & Claude",
+          "body": "Build and edit no-code apps inside ChatGPT & Claude",
           "timestamp": "2026-10-20T08:12:02",
-          "url": "https://www.producthunt.com/products/esp-mosaico",
+          "url": "https://www.producthunt.com/products/jotform",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ToDo.is",
+          "body": "Write a to-do and your AI agent gets it done",
+          "timestamp": "2026-10-20T08:12:02",
+          "url": "https://www.producthunt.com/products/todo-is",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Stella",
+          "body": "Your emotional wellness AI. A friend to figure it out with.",
+          "timestamp": "2026-10-20T08:12:02",
+          "url": "https://www.producthunt.com/products/stella-5",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -240,15 +339,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Train with Pasta",
-          "body": "A personal trainer powered by Apple Intelligence",
-          "timestamp": "2026-10-17T10:15:02",
-          "url": "https://www.producthunt.com/products/train-with-pasta",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Ultracite v8",
           "body": "The linter and formatter for agentic development",
           "timestamp": "2026-10-17T10:15:02",
@@ -258,46 +348,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Atelier",
-          "body": "The studio your AI coding agents work in",
-          "timestamp": "2026-10-17T04:00:01",
-          "url": "https://www.producthunt.com/products/atelier-9",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Scalebrowser",
-          "body": "Human browser capabilities. Now for AI agents.",
-          "timestamp": "2026-10-17T04:00:01",
-          "url": "https://www.producthunt.com/products/scalebrowser",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Grablo Spot",
-          "body": "Free AI NVR that finds any person or vehicle in seconds Discussion...",
-          "timestamp": "2026-10-17T04:00:01",
-          "url": "https://www.producthunt.com/products/grablo-spot",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Neophyte",
-          "body": "Watch an AI agent sign up and onboard to any product Discussion...",
-          "timestamp": "2026-10-17T04:00:01",
-          "url": "https://www.producthunt.com/products/neophyte",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Fish Audio Drama 3",
-          "body": "AI voice acting you can direct, not just generate",
-          "timestamp": "2026-10-16T08:07:02",
-          "url": "https://www.producthunt.com/products/fish-speech",
+          "subject": "Product Hunt Launch: Train with Pasta",
+          "body": "A personal trainer powered by Apple Intelligence",
+          "timestamp": "2026-10-17T10:15:02",
+          "url": "https://www.producthunt.com/products/train-with-pasta",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -305,5 +359,5 @@
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight:\n\n• **AI Video Workspaces**: Dadan, a new AI video workspace, allows users to record, meet, and create guides in one platform. This development highlights the growing demand for AI-powered video collaboration tools.\n\n• **AI Research and MCP**: Causo, a product launched on Product Hunt, enables users to find leads beyond database filters using AI research and MCP (Mashup of Conversational Partners). This innovation showcases the increasing use of AI in sales and marketing.\n\n• **AI Advertising**: Fastlane 2.0, a new AI advertising platform, helps users create, launch, and scale winning ads with AI. This development underscores the importance of AI in the advertising industry.\n\n• **AI Email and Calendar**: Claire Mail, a fast app, integrates email, calendar, and reminders in one platform, utilizing AI to streamline user workflows.\n\n• **AI Marketing Teams**: Playad, an AI marketing team, allows users to hire their own AI marketing team, leveraging AI to manage marketing efforts.\n\n• **AI Video Agents**: CutBay, an AI video agent, enables users to turn anything into videos via chat, using AI to create content quickly and efficiently.\n\nTrend: **AI-Driven Productivity and Collaboration**: The recent launches on Product Hunt demonstrate a growing trend of using AI to enhance productivity and collaboration in various industries, including video workspaces, AI research, advertising, email, and marketing."
+  "summary": "Here are the key developments with insight, along with one trend:\n\n**Key Developments:**\n\n* **MOVO AI**: The world's first long-form video agent for mobile has been launched on Product Hunt.\n* **Dots Phone**: An AI-powered phone-calling plugin for OpenAI's Dots has been released.\n* **FLUX 3 Max**: A tool for creating 10-second AI videos in about 12 seconds has been launched.\n* **Agent Hunt**: A live ranking system for AI agents has been introduced, providing insights on the most widely used tools.\n* **Cloudflare Clairic**: Cloudflare has developed an AI model for fast, cheap data extraction.\n* **Kalender Sync**: A tool for syncing calendars and connecting them to ChatGPT, Claude, and other AI agents has been launched.\n\n**Trend:** **Increasing focus on AI-agentic tools**: The latest Product Hunt launches suggest that there is a growing interest in developing and utilizing AI-agentic tools. These tools aim to streamline processes, enhance productivity, and improve workflows by leveraging artificial intelligence. This trend indicates a shift towards more automation and AI-driven solutions in various industries."
 }
