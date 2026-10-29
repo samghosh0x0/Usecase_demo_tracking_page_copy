@@ -1,33 +1,51 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-28T08:00:24.163Z",
+  "timestamp": "2026-10-29T08:10:32.392Z",
   "categories": {
     "news": {
-      "count": 40,
+      "count": 38,
       "items": [
         {
-          "subject": "Product Hunt Launch: Off Grid AI",
-          "body": "Private AI on your phone and computer.",
-          "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/off-grid-ai",
+          "subject": "Product Hunt Launch: OpenLLM",
+          "body": "Take your AI tokens anywhere",
+          "timestamp": "2026-10-28T09:07:02",
+          "url": "https://www.producthunt.com/products/openllm",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Notra",
-          "body": "Notra is a GEO tool that helps you rank in AI Search...",
-          "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/notra-3",
+          "subject": "Product Hunt Launch: Dedica",
+          "body": "Check if AI agents can use your website",
+          "timestamp": "2026-10-28T09:07:02",
+          "url": "https://www.producthunt.com/products/dedica",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Spacesheep",
-          "body": "Documents of the future, made by AI, read by your team.",
-          "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/spacesheep",
+          "subject": "Product Hunt Launch: Boltbar",
+          "body": "Spotlight-style AI chat for your Mac",
+          "timestamp": "2026-10-28T09:07:02",
+          "url": "https://www.producthunt.com/products/boltbar",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Zest",
+          "body": "Hold Space, flick, and an AI agent does the dev chore.",
+          "timestamp": "2026-10-28T09:07:02",
+          "url": "https://www.producthunt.com/products/zest-6",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ContextGem 1.0",
+          "body": "Decision models join LLMs to extract data from documents",
+          "timestamp": "2026-10-28T04:00:02",
+          "url": "https://www.producthunt.com/products/contextgem",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -42,10 +60,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: TheySaid 4.0",
-          "body": "See how users will react, right where you build.",
+          "subject": "Product Hunt Launch: NINX",
+          "body": "On-device AI, connected tools, and creative workflows",
           "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/theysaid",
+          "url": "https://www.producthunt.com/products/ninx-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -60,10 +78,55 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: NINX",
-          "body": "On-device AI, connected tools, and creative workflows",
+          "subject": "Product Hunt Launch: TheySaid 4.0",
+          "body": "See how users will react, right where you build.",
           "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/ninx-2",
+          "url": "https://www.producthunt.com/products/theysaid",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Spacesheep",
+          "body": "Documents of the future, made by AI, read by your team.",
+          "timestamp": "2026-10-27T08:41:02",
+          "url": "https://www.producthunt.com/products/spacesheep",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Notra",
+          "body": "Notra is a GEO tool that helps you rank in AI Search...",
+          "timestamp": "2026-10-27T08:41:02",
+          "url": "https://www.producthunt.com/products/notra-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Off Grid AI",
+          "body": "Private AI on your phone and computer.",
+          "timestamp": "2026-10-27T08:41:02",
+          "url": "https://www.producthunt.com/products/off-grid-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AI Bridge",
+          "body": "Every AI coding agent on your Mac, in its place",
+          "timestamp": "2026-10-26T13:10:02",
+          "url": "https://www.producthunt.com/products/ai-bridge",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: SurgePix",
+          "body": "AI visuals. Edit every layer.",
+          "timestamp": "2026-10-26T13:10:02",
+          "url": "https://www.producthunt.com/products/surgepix",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -87,19 +150,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: SurgePix",
-          "body": "AI visuals. Edit every layer.",
-          "timestamp": "2026-10-26T13:10:02",
-          "url": "https://www.producthunt.com/products/surgepix",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AI Bridge",
-          "body": "Every AI coding agent on your Mac, in its place",
-          "timestamp": "2026-10-26T13:10:02",
-          "url": "https://www.producthunt.com/products/ai-bridge",
+          "subject": "Product Hunt Launch: zCAD AI",
+          "body": "AI 3D that creates real parts, not just shapes",
+          "timestamp": "2026-10-24T10:15:02",
+          "url": "https://www.producthunt.com/products/zcad-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -123,28 +177,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: zCAD AI",
-          "body": "AI 3D that creates real parts, not just shapes",
-          "timestamp": "2026-10-24T10:15:02",
-          "url": "https://www.producthunt.com/products/zcad-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: LinkIntel",
           "body": "Post insights delivered direct to your AI",
           "timestamp": "2026-10-24T10:15:02",
           "url": "https://www.producthunt.com/products/linkintel",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Monish",
-          "body": "Your AI agents, live on your iPhone lock screen",
-          "timestamp": "2026-10-23T08:14:01",
-          "url": "https://www.producthunt.com/products/monish",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -186,6 +222,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Monish",
+          "body": "Your AI agents, live on your iPhone lock screen",
+          "timestamp": "2026-10-23T08:14:01",
+          "url": "https://www.producthunt.com/products/monish",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Gerty",
           "body": "Private ChatGPT alternative that sets itself up on your Mac",
           "timestamp": "2026-10-23T08:14:01",
@@ -213,10 +258,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Agentic CleanSlop",
-          "body": "Authenticate, scan and fix your app from your agent",
+          "subject": "Product Hunt Launch: Concierge by Juniors AI",
+          "body": "Omni-channel AI-first customer support (6 months free)",
           "timestamp": "2026-10-23T04:00:02",
-          "url": "https://www.producthunt.com/products/cleanslop",
+          "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -231,19 +276,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Concierge by Juniors AI",
-          "body": "Omni-channel AI-first customer support (6 months free)",
+          "subject": "Product Hunt Launch: Agentic CleanSlop",
+          "body": "Authenticate, scan and fix your app from your agent",
           "timestamp": "2026-10-23T04:00:02",
-          "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Claire Mail",
-          "body": "Email, calendar and reminders, in one fast app",
-          "timestamp": "2026-10-22T08:18:01",
-          "url": "https://www.producthunt.com/products/claire-mail",
+          "url": "https://www.producthunt.com/products/cleanslop",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -258,28 +294,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: CutBay",
-          "body": "AI Video Agent: Turn Anything into Videos via Chat",
+          "subject": "Product Hunt Launch: Dadan",
+          "body": "One AI video workspace for recordings, meetings and guides",
           "timestamp": "2026-10-22T08:18:01",
-          "url": "https://www.producthunt.com/products/cutbay",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Playad",
-          "body": "Hire your AI Marketing Team",
-          "timestamp": "2026-10-22T08:18:01",
-          "url": "https://www.producthunt.com/products/playad",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Fastlane 2.0",
-          "body": "Create, launch and scale winning ads with AI",
-          "timestamp": "2026-10-22T08:18:01",
-          "url": "https://www.producthunt.com/products/fastlane-3",
+          "url": "https://www.producthunt.com/products/dadan",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -294,73 +312,37 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Dadan",
-          "body": "One AI video workspace for recordings, meetings and guides",
+          "subject": "Product Hunt Launch: Fastlane 2.0",
+          "body": "Create, launch and scale winning ads with AI",
           "timestamp": "2026-10-22T08:18:01",
-          "url": "https://www.producthunt.com/products/dadan",
+          "url": "https://www.producthunt.com/products/fastlane-3",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: SuperCMO AI",
-          "body": "Open-source skills that turn your Claude into an AI CMO",
-          "timestamp": "2026-10-22T04:00:02",
-          "url": "https://www.producthunt.com/products/supercmo-ai",
+          "subject": "Product Hunt Launch: Claire Mail",
+          "body": "Email, calendar and reminders, in one fast app",
+          "timestamp": "2026-10-22T08:18:01",
+          "url": "https://www.producthunt.com/products/claire-mail",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Searchtok",
-          "body": "Make TikTok and Instagram searchable for your AI agent",
-          "timestamp": "2026-10-22T04:00:02",
-          "url": "https://www.producthunt.com/products/searchtok",
+          "subject": "Product Hunt Launch: Playad",
+          "body": "Hire your AI Marketing Team",
+          "timestamp": "2026-10-22T08:18:01",
+          "url": "https://www.producthunt.com/products/playad",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: The Brains",
-          "body": "Founders and investors as MCP servers, every answer cited",
-          "timestamp": "2026-10-21T08:18:01",
-          "url": "https://www.producthunt.com/products/the-brains",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Lea by LeanAIOS",
-          "body": "Autonomous AI team for construction management & pre-con",
-          "timestamp": "2026-10-21T08:18:01",
-          "url": "https://www.producthunt.com/products/lea-by-leanaios",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Yarite",
-          "body": "A daily list of who to call. Nothing leaves your phone.",
-          "timestamp": "2026-10-21T08:18:01",
-          "url": "https://www.producthunt.com/products/yarite",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Hotly",
-          "body": "Get paid to answer your DMs. Open source.",
-          "timestamp": "2026-10-21T08:18:01",
-          "url": "https://www.producthunt.com/products/hotly",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AskDoozy",
-          "body": "An AI coworker in Slack that does your real work",
-          "timestamp": "2026-10-21T08:18:01",
-          "url": "https://www.producthunt.com/products/askdoozy",
+          "subject": "Product Hunt Launch: CutBay",
+          "body": "AI Video Agent: Turn Anything into Videos via Chat",
+          "timestamp": "2026-10-22T08:18:01",
+          "url": "https://www.producthunt.com/products/cutbay",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -368,5 +350,5 @@
       ]
     }
   },
-  "summary": "Here are 4-6 bullet points and 1 trend summarizing the key developments in the product launches on Product Hunt:\n\n**Bullet Points:**\n\n* **AI on the go**: Several products, such as Off Grid AI, Notra, and Spacesheep, enable users to access AI capabilities on their phones and computers, making AI more portable and accessible.\n* **AI for productivity**: Products like Strawberry, N8N Chat UI, and Loom Record for agents aim to boost productivity by automating tasks, generating insights, and streamlining workflows.\n* **AI for creativity**: Launches like SurgePix, FLUX 3 Max, and CutBay leverage AI to enhance creative processes, such as visual editing, video creation, and content generation.\n* **AI for customer support**: Concierge by Juniors AI, Claire Mail, and other products aim to provide AI-powered customer support, making it easier for businesses to interact with customers.\n* **AI for marketing**: Fastlane 2.0, Playad, and other products utilize AI to create, launch, and scale winning ads, making marketing more efficient and effective.\n\n**Trend:**\n\n* **Decentralization of AI**: The trend is towards decentralizing AI capabilities, making them more accessible and portable, rather than relying on centralized AI services like ChatGPT. This is reflected in the rise of mobile AI agents, on-device AI, and AI-powered productivity tools.\n\nThese developments and the trend of decentralization of AI capabilities suggest that AI is becoming more ubiquitous and accessible, enabling users to tap into its capabilities across various platforms and applications."
+  "summary": "**Key Developments:**\n\n* **AI-powered product launches:** Several AI-powered products were launched on Product Hunt, including OpenLLM, Dedica, and Boltbar, indicating increasing interest in AI innovation.\n* **AI integration:** Many of the launched products integrate AI agents or models, showcasing the growing trend of AI-powered automation and assistant technology.\n* **Cross-platform support:** A few products, such as Off-Grid AI, offer private AI on both phones and computers, highlighting the importance of cross-platform compatibility in the AI space.\n* **Improved efficiency:** Tools like Strawberry 1.0 and 1Password for Agents aim to streamline tasks and improve productivity, demonstrating how AI is being used to enhance work efficiency.\n* **ChatGPT alternatives:** Gerty, a private ChatGPT alternative, was launched, showcasing the demand for alternative LLM-based AI assistants.\n* **AI-powered customer support:** Concierge by Juniors AI offers omnichannel AI-first customer support, underscoring the growing need for AI-driven customer service solutions.\n\n**Trend:**\n**Increasing adoption of AI-powered productivity tools:** The emergence of AI-powered tools aimed at improving productivity, efficiency, and customer support highlights the trend of increasing adoption of AI in the industry."
 }
