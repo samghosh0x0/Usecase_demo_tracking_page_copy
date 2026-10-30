@@ -1,9 +1,9 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-29T08:10:32.392Z",
+  "timestamp": "2026-10-30T08:14:31.712Z",
   "categories": {
     "news": {
-      "count": 38,
+      "count": 20,
       "items": [
         {
           "subject": "Product Hunt Launch: OpenLLM",
@@ -51,33 +51,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: NuPlay",
-          "body": "AI transformation, run on one self-improving platform",
-          "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/nuplay",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: NINX",
-          "body": "On-device AI, connected tools, and creative workflows",
-          "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/ninx-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SavorApp_AI",
-          "body": "Capture what matters and move your intentions forward",
-          "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/savor-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: TheySaid 4.0",
           "body": "See how users will react, right where you build.",
           "timestamp": "2026-10-27T08:41:02",
@@ -87,10 +60,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Spacesheep",
-          "body": "Documents of the future, made by AI, read by your team.",
+          "subject": "Product Hunt Launch: Off Grid AI",
+          "body": "Private AI on your phone and computer.",
           "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/spacesheep",
+          "url": "https://www.producthunt.com/products/off-grid-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -105,10 +78,37 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Off Grid AI",
-          "body": "Private AI on your phone and computer.",
+          "subject": "Product Hunt Launch: Spacesheep",
+          "body": "Documents of the future, made by AI, read by your team.",
           "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/off-grid-ai",
+          "url": "https://www.producthunt.com/products/spacesheep",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: NuPlay",
+          "body": "AI transformation, run on one self-improving platform",
+          "timestamp": "2026-10-27T08:41:02",
+          "url": "https://www.producthunt.com/products/nuplay",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: SavorApp_AI",
+          "body": "Capture what matters and move your intentions forward",
+          "timestamp": "2026-10-27T08:41:02",
+          "url": "https://www.producthunt.com/products/savor-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: NINX",
+          "body": "On-device AI, connected tools, and creative workflows",
+          "timestamp": "2026-10-27T08:41:02",
+          "url": "https://www.producthunt.com/products/ninx-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -150,10 +150,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: zCAD AI",
-          "body": "AI 3D that creates real parts, not just shapes",
+          "subject": "Product Hunt Launch: LinkIntel",
+          "body": "Post insights delivered direct to your AI",
           "timestamp": "2026-10-24T10:15:02",
-          "url": "https://www.producthunt.com/products/zcad-ai",
+          "url": "https://www.producthunt.com/products/linkintel",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -177,172 +177,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: LinkIntel",
-          "body": "Post insights delivered direct to your AI",
+          "subject": "Product Hunt Launch: zCAD AI",
+          "body": "AI 3D that creates real parts, not just shapes",
           "timestamp": "2026-10-24T10:15:02",
-          "url": "https://www.producthunt.com/products/linkintel",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: MOVO AI",
-          "body": "The world's first long-form video agent for mobile",
-          "timestamp": "2026-10-23T08:14:01",
-          "url": "https://www.producthunt.com/products/movo-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Dots Phone",
-          "body": "A phone-calling plugin for OpenAI Dots",
-          "timestamp": "2026-10-23T08:14:01",
-          "url": "https://www.producthunt.com/products/dots-phone",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: FLUX 3 Max",
-          "body": "fals FLUX 3 Max: 10-second AI video in about 12 seconds",
-          "timestamp": "2026-10-23T08:14:01",
-          "url": "https://www.producthunt.com/products/fal-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Agent Hunt",
-          "body": "Live rankings of the tools AI agents use most",
-          "timestamp": "2026-10-23T08:14:01",
-          "url": "https://www.producthunt.com/products/monid",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Monish",
-          "body": "Your AI agents, live on your iPhone lock screen",
-          "timestamp": "2026-10-23T08:14:01",
-          "url": "https://www.producthunt.com/products/monish",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Gerty",
-          "body": "Private ChatGPT alternative that sets itself up on your Mac",
-          "timestamp": "2026-10-23T08:14:01",
-          "url": "https://www.producthunt.com/products/gerty",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Cloudflare Clairic",
-          "body": "Cloudflare's AI model for fast, cheap data extraction",
-          "timestamp": "2026-10-23T08:14:01",
-          "url": "https://www.producthunt.com/products/cloudflare",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Loom Record for agents",
-          "body": "Hit record and hand off to AI, now in the new Loom...",
-          "timestamp": "2026-10-23T04:00:02",
-          "url": "https://www.producthunt.com/products/loom",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Concierge by Juniors AI",
-          "body": "Omni-channel AI-first customer support (6 months free)",
-          "timestamp": "2026-10-23T04:00:02",
-          "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Kalender Sync",
-          "body": "Sync your calendars & connect them to ChatGPT, Claude & Co.",
-          "timestamp": "2026-10-23T04:00:02",
-          "url": "https://www.producthunt.com/products/kalender-sync",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Agentic CleanSlop",
-          "body": "Authenticate, scan and fix your app from your agent",
-          "timestamp": "2026-10-23T04:00:02",
-          "url": "https://www.producthunt.com/products/cleanslop",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Doneas",
-          "body": "A daily accountability call with other entrepreneurs.",
-          "timestamp": "2026-10-22T08:18:01",
-          "url": "https://www.producthunt.com/products/doneas",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Dadan",
-          "body": "One AI video workspace for recordings, meetings and guides",
-          "timestamp": "2026-10-22T08:18:01",
-          "url": "https://www.producthunt.com/products/dadan",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Causo",
-          "body": "Find leads beyond database filters with AI research & MCP",
-          "timestamp": "2026-10-22T08:18:01",
-          "url": "https://www.producthunt.com/products/causo",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Fastlane 2.0",
-          "body": "Create, launch and scale winning ads with AI",
-          "timestamp": "2026-10-22T08:18:01",
-          "url": "https://www.producthunt.com/products/fastlane-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Claire Mail",
-          "body": "Email, calendar and reminders, in one fast app",
-          "timestamp": "2026-10-22T08:18:01",
-          "url": "https://www.producthunt.com/products/claire-mail",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Playad",
-          "body": "Hire your AI Marketing Team",
-          "timestamp": "2026-10-22T08:18:01",
-          "url": "https://www.producthunt.com/products/playad",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: CutBay",
-          "body": "AI Video Agent: Turn Anything into Videos via Chat",
-          "timestamp": "2026-10-22T08:18:01",
-          "url": "https://www.producthunt.com/products/cutbay",
+          "url": "https://www.producthunt.com/products/zcad-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -350,5 +188,5 @@
       ]
     }
   },
-  "summary": "**Key Developments:**\n\n* **AI-powered product launches:** Several AI-powered products were launched on Product Hunt, including OpenLLM, Dedica, and Boltbar, indicating increasing interest in AI innovation.\n* **AI integration:** Many of the launched products integrate AI agents or models, showcasing the growing trend of AI-powered automation and assistant technology.\n* **Cross-platform support:** A few products, such as Off-Grid AI, offer private AI on both phones and computers, highlighting the importance of cross-platform compatibility in the AI space.\n* **Improved efficiency:** Tools like Strawberry 1.0 and 1Password for Agents aim to streamline tasks and improve productivity, demonstrating how AI is being used to enhance work efficiency.\n* **ChatGPT alternatives:** Gerty, a private ChatGPT alternative, was launched, showcasing the demand for alternative LLM-based AI assistants.\n* **AI-powered customer support:** Concierge by Juniors AI offers omnichannel AI-first customer support, underscoring the growing need for AI-driven customer service solutions.\n\n**Trend:**\n**Increasing adoption of AI-powered productivity tools:** The emergence of AI-powered tools aimed at improving productivity, efficiency, and customer support highlights the trend of increasing adoption of AI in the industry."
+  "summary": "Here are 6 key developments with insight, along with 1 trend:\n\n**Key Developments:**\n\n* **OpenLLM**: A new AI tool that allows users to take their AI tokens anywhere, making it easier to integrate AI into various applications.\n* **Dedica**: A product that enables AI agents to use websites, potentially revolutionizing the way we interact with digital content.\n* **Boltbar**: A spotlight-style AI chat for Mac users, providing a more intuitive and user-friendly interface for AI-powered conversations.\n* **Zest**: A tool that automates development chores, freeing up time for more creative and strategic tasks.\n* **ContextGem 1.0**: A decision model that joins Large Language Models (LLMs) to extract data from documents, enhancing the capabilities of AI-powered data analysis.\n* **Off Grid AI**: A private AI platform that allows users to run AI on their phone and computer, providing a secure and portable AI solution.\n\n**Trend:**\n\n* **Increased focus on AI portability and accessibility**: Many of the recent product launches, such as OpenLLM, Boltbar, and Off Grid AI, emphasize the importance of making AI more portable, accessible, and user-friendly. This trend suggests that AI is becoming increasingly integral to various aspects of our lives, and developers are working to make it more convenient and seamless to integrate AI into our daily routines."
 }
