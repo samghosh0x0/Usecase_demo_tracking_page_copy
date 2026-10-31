@@ -1,10 +1,55 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-10-30T08:14:31.712Z",
+  "timestamp": "2026-10-31T08:06:50.960Z",
   "categories": {
     "news": {
-      "count": 20,
+      "count": 25,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Vaani Developer Platform",
+          "body": "The only voice AI harness that you'll ever need",
+          "timestamp": "2026-10-30T08:26:02",
+          "url": "https://www.producthunt.com/products/vaani-developer-platfrom",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: SparkBots AI (Powered by Jev)",
+          "body": "Instantly extract key details and analyze any webpage or PDF",
+          "timestamp": "2026-10-30T08:26:02",
+          "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Knocket AI",
+          "body": "Chat with visitors from your website or link",
+          "timestamp": "2026-10-30T08:26:02",
+          "url": "https://www.producthunt.com/products/knocket-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: MCP Server by XWiki",
+          "body": "Give your AI your wiki's knowledge while keeping the control",
+          "timestamp": "2026-10-30T08:26:02",
+          "url": "https://www.producthunt.com/products/xwiki",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: TopAgent",
+          "body": "Drive B2B event attendance with an AI agent",
+          "timestamp": "2026-10-30T04:00:02",
+          "url": "https://www.producthunt.com/products/topmessage",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: OpenLLM",
           "body": "Take your AI tokens anywhere",
@@ -51,10 +96,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: TheySaid 4.0",
-          "body": "See how users will react, right where you build.",
+          "subject": "Product Hunt Launch: Spacesheep",
+          "body": "Documents of the future, made by AI, read by your team.",
           "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/theysaid",
+          "url": "https://www.producthunt.com/products/spacesheep",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -78,19 +123,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Spacesheep",
-          "body": "Documents of the future, made by AI, read by your team.",
+          "subject": "Product Hunt Launch: NuPlay",
+          "body": "AI transformation, run on one self-improving platform",
           "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/spacesheep",
+          "url": "https://www.producthunt.com/products/nuplay",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: NuPlay",
-          "body": "AI transformation, run on one self-improving platform",
+          "subject": "Product Hunt Launch: TheySaid 4.0",
+          "body": "See how users will react, right where you build.",
           "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/nuplay",
+          "url": "https://www.producthunt.com/products/theysaid",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -188,5 +233,5 @@
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight, along with 1 trend:\n\n**Key Developments:**\n\n* **OpenLLM**: A new AI tool that allows users to take their AI tokens anywhere, making it easier to integrate AI into various applications.\n* **Dedica**: A product that enables AI agents to use websites, potentially revolutionizing the way we interact with digital content.\n* **Boltbar**: A spotlight-style AI chat for Mac users, providing a more intuitive and user-friendly interface for AI-powered conversations.\n* **Zest**: A tool that automates development chores, freeing up time for more creative and strategic tasks.\n* **ContextGem 1.0**: A decision model that joins Large Language Models (LLMs) to extract data from documents, enhancing the capabilities of AI-powered data analysis.\n* **Off Grid AI**: A private AI platform that allows users to run AI on their phone and computer, providing a secure and portable AI solution.\n\n**Trend:**\n\n* **Increased focus on AI portability and accessibility**: Many of the recent product launches, such as OpenLLM, Boltbar, and Off Grid AI, emphasize the importance of making AI more portable, accessible, and user-friendly. This trend suggests that AI is becoming increasingly integral to various aspects of our lives, and developers are working to make it more convenient and seamless to integrate AI into our daily routines."
+  "summary": "Here are 6 key developments with insight and 1 trend:\n\n**Key Developments:**\n\n* **Voice AI Harness**: Vaani Developer Platform was launched on Product Hunt, which is described as the \"only voice AI harness that you'll ever need\".\n* **AI Analysis**: SparkBots AI was launched, which can instantly extract key details and analyze any webpage or PDF.\n* **AI Chat**: Knocket AI was launched, which allows users to chat with visitors from their website or link.\n* **AI Server**: MCP Server by XWiki was launched, which gives users control while keeping the AI's knowledge.\n* **AI Agent**: TopAgent was launched, which drives B2B event attendance with an AI agent.\n* **AI Token**: OpenLLM was launched, which allows users to take their AI tokens anywhere.\n\n**Trend:**\n\n* **Rise of AI-powered Tools**: The recent launches on Product Hunt suggest a growing trend of AI-powered tools that can help users with various tasks, such as analysis, chat, server management, and more. These tools are becoming increasingly popular, and their adoption is expected to continue in the coming years.\n\nInsight: The rapid growth of AI-powered tools is transforming the way businesses operate, making them more efficient and effective. As these tools become more widespread, they will likely have a significant impact on various industries, including marketing, customer service, and data analysis."
 }
