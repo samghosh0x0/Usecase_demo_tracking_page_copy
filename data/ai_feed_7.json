@@ -1,10 +1,91 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-11-02T08:59:50.912Z",
+  "timestamp": "2026-11-03T09:08:15.098Z",
   "categories": {
     "news": {
-      "count": 27,
+      "count": 24,
       "items": [
+        {
+          "subject": "Product Hunt Launch: diff-tour",
+          "body": "AI writes the code. Learn to read it like a senior engineer...",
+          "timestamp": "2026-11-02T10:53:01",
+          "url": "https://www.producthunt.com/products/diff-tour",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Hera",
+          "body": "AI Creative Canvas",
+          "timestamp": "2026-11-02T10:53:01",
+          "url": "https://www.producthunt.com/products/hera-6",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Cedric AI for Meetings",
+          "body": "The first AI agent to present your slides and attend for you...",
+          "timestamp": "2026-11-02T10:53:01",
+          "url": "https://www.producthunt.com/products/cedric",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: beacon.sh",
+          "body": "Open-source self-improving memory for AI coding agents",
+          "timestamp": "2026-11-02T10:53:01",
+          "url": "https://www.producthunt.com/products/asymptotelabs",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Looper",
+          "body": "If Grok Bot drove business metrics up and was Open Source.",
+          "timestamp": "2026-11-02T10:53:01",
+          "url": "https://www.producthunt.com/products/looper-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: UnleashX",
+          "body": "The AI workforce that turns conversations into outcomes.",
+          "timestamp": "2026-11-02T10:53:01",
+          "url": "https://www.producthunt.com/products/unleashx",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: CuriousLM",
+          "body": "Private AI that runs on your device. No account.",
+          "timestamp": "2026-11-02T10:53:01",
+          "url": "https://www.producthunt.com/products/curiouslm",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Linkly AI Clipper",
+          "body": "Save web as an Agent-friendly Markdown browser extension",
+          "timestamp": "2026-11-02T10:53:01",
+          "url": "https://www.producthunt.com/products/linkly-ai-clipper",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: telemetry.dev",
+          "body": "LLM observability for AI agents",
+          "timestamp": "2026-10-31T10:22:02",
+          "url": "https://www.producthunt.com/products/telemetry-dev",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: Backenly",
           "body": "The autonomous backend for AI coding agents",
@@ -28,15 +109,6 @@
           "body": "GitHub's AI coding agent that picks and combines models",
           "timestamp": "2026-10-31T10:22:02",
           "url": "https://www.producthunt.com/products/github-copilot-fusion",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: telemetry.dev",
-          "body": "LLM observability for AI agents",
-          "timestamp": "2026-10-31T10:22:02",
-          "url": "https://www.producthunt.com/products/telemetry-dev",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -105,15 +177,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Boltbar",
-          "body": "Spotlight-style AI chat for your Mac",
-          "timestamp": "2026-10-28T09:07:02",
-          "url": "https://www.producthunt.com/products/boltbar",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: OpenLLM",
           "body": "Take your AI tokens anywhere",
           "timestamp": "2026-10-28T09:07:02",
@@ -127,6 +190,15 @@
           "body": "Check if AI agents can use your website",
           "timestamp": "2026-10-28T09:07:02",
           "url": "https://www.producthunt.com/products/dedica",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Boltbar",
+          "body": "Spotlight-style AI chat for your Mac",
+          "timestamp": "2026-10-28T09:07:02",
+          "url": "https://www.producthunt.com/products/boltbar",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -148,108 +220,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Off Grid AI",
-          "body": "Private AI on your phone and computer.",
-          "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/off-grid-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Notra",
-          "body": "Notra is a GEO tool that helps you rank in AI Search...",
-          "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/notra-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Spacesheep",
-          "body": "Documents of the future, made by AI, read by your team.",
-          "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/spacesheep",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: NuPlay",
-          "body": "AI transformation, run on one self-improving platform",
-          "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/nuplay",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: TheySaid 4.0",
-          "body": "See how users will react, right where you build.",
-          "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/theysaid",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SavorApp_AI",
-          "body": "Capture what matters and move your intentions forward",
-          "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/savor-3",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: NINX",
-          "body": "On-device AI, connected tools, and creative workflows",
-          "timestamp": "2026-10-27T08:41:02",
-          "url": "https://www.producthunt.com/products/ninx-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: N8N Chat UI",
-          "body": "Beautiful, no-code, on-brand AI chat widgets for n8n",
-          "timestamp": "2026-10-26T13:10:02",
-          "url": "https://www.producthunt.com/products/n8n-chat-ui-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AI Bridge",
-          "body": "Every AI coding agent on your Mac, in its place",
-          "timestamp": "2026-10-26T13:10:02",
-          "url": "https://www.producthunt.com/products/ai-bridge",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: SurgePix",
-          "body": "AI visuals. Edit every layer.",
-          "timestamp": "2026-10-26T13:10:02",
-          "url": "https://www.producthunt.com/products/surgepix",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Strawberry 1.0",
-          "body": "AI Browser that saves your team >100h/week",
-          "timestamp": "2026-10-26T13:10:02",
-          "url": "https://www.producthunt.com/products/strawberry",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight, along with 1 trend:\n\n**Key Developments:**\n\n* **Autonomous Backend for AI Coding Agents**: Backenly, a product launched on Product Hunt, offers an autonomous backend for AI coding agents, enabling developers to focus on high-level tasks.\n* **AI-Powered Workspace**: BaseTab AI, another product launched on Product Hunt, allows users to turn their new tab into an AI-powered workspace, enhancing productivity.\n* **GitHub's AI Coding Agent**: GitHub Copilot Fusion, a product launched on Product Hunt, is an AI coding agent that picks and combines models, providing developers with a powerful tool for coding.\n* **LLM Observability**: Telemetry.dev, a product launched on Product Hunt, offers LLM observability for AI agents, enabling developers to monitor and optimize their AI models.\n* **AI Chat for Mac**: Boltbar, a product launched on Product Hunt, provides a Spotlight-style AI chat for Mac, making it easy for users to interact with AI.\n* **On-Device AI**: NINX, a product launched on Product Hunt, offers on-device AI, connected tools, and creative workflows, allowing users to work more efficiently.\n\n**Trend:**\n\n* **Increased Focus on AI Productivity Tools**: The recent launch of multiple AI-powered productivity tools, such as Backenly, BaseTab AI, and Telemetry.dev, indicates a growing trend towards developing AI tools that enhance productivity and efficiency. As AI continues to evolve, we can expect to see more innovative solutions that leverage AI to streamline tasks and improve outcomes."
+  "summary": "Here are the key developments and insights:\n\n**Key Developments:**\n\n* **AI-Driven Productivity Tools**: Several new products and tools have been launched on Product Hunt, focusing on AI-driven productivity, such as diff-tour, Hera, and Cedric AI for Meetings, which aim to increase efficiency and accuracy in coding, presentations, and meetings.\n* **AI Coding Agents**: GitHub Copilot Fusion, Backenly, and other products showcase the growing interest in AI coding agents, enabling developers to leverage AI-assisted coding, such as auto-code suggestions and UI creation.\n* **Increased Focus on Research and Analysis**: Telemetry.dev and ContextGem 1.0 highlight the importance of research and analysis tools, helping developers and businesses understand and improve AI performance, precision, and decision-making capabilities.\n* **Privacy and Security**: CuriousLM, the self-improving memory for AI coding agents, and Dedica emphasize the importance of AI management and deployment security to prevent data breaches and potential mishaps.\n\n**Trend:**\n* **Rising Interest in AI Development**: The large number of product launches (24 in total) on Product Hunt indicates a growing interest in developing AI tools, highlighting the ongoing trend of innovative AI application across various industries and use cases.\n\nThese products demonstrate the ongoing evolution of AI and its applications, showcasing innovative solutions and products that are revolutionizing various sectors, from productivity and coding to research and analysis."
 }
