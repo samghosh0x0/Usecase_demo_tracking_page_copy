@@ -1,10 +1,100 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-11-03T09:08:15.098Z",
+  "timestamp": "2026-11-04T08:45:04.198Z",
   "categories": {
     "news": {
-      "count": 24,
+      "count": 32,
       "items": [
+        {
+          "subject": "Product Hunt Launch: Testifly",
+          "body": "Autonomous AI QA. Zero prompting.",
+          "timestamp": "2026-11-03T08:52:02",
+          "url": "https://www.producthunt.com/products/testifly-launch",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: IQ",
+          "body": "The dashboard for your team's AI use",
+          "timestamp": "2026-11-03T08:52:02",
+          "url": "https://www.producthunt.com/products/iq-code",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Videco",
+          "body": "Turn every video into a content campaign with AI",
+          "timestamp": "2026-11-03T08:52:02",
+          "url": "https://www.producthunt.com/products/videco",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: MagicaLCore",
+          "body": "Six kinds of machine learning models, trained on your iPad.",
+          "timestamp": "2026-11-03T08:52:02",
+          "url": "https://www.producthunt.com/products/magical-core-image-classifier",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Synter Canvas",
+          "body": "Your AI agent runs ads across 30+ ad platforms",
+          "timestamp": "2026-11-03T08:52:02",
+          "url": "https://www.producthunt.com/products/synter-canvas",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: EaseIn Health",
+          "body": "Track GLP-1 doses, symptoms and daily habits in one app",
+          "timestamp": "2026-11-03T08:52:02",
+          "url": "https://www.producthunt.com/products/easein-health",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Teamily AI",
+          "body": "Your personal agent, agent teams & people in one messenger",
+          "timestamp": "2026-11-03T08:52:02",
+          "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Peji",
+          "body": "An AI chat with a real browser you control",
+          "timestamp": "2026-11-03T08:52:02",
+          "url": "https://www.producthunt.com/products/peji",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Beamfy",
+          "body": "AI vision assistant for blind people, live in 74 languages",
+          "timestamp": "2026-11-03T08:52:02",
+          "url": "https://www.producthunt.com/products/beamfy",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: CuriousLM",
+          "body": "Private AI that runs on your device. No account.",
+          "timestamp": "2026-11-02T10:53:01",
+          "url": "https://www.producthunt.com/products/curiouslm",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: diff-tour",
           "body": "AI writes the code. Learn to read it like a senior engineer...",
@@ -60,28 +150,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: CuriousLM",
-          "body": "Private AI that runs on your device. No account.",
-          "timestamp": "2026-11-02T10:53:01",
-          "url": "https://www.producthunt.com/products/curiouslm",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Linkly AI Clipper",
           "body": "Save web as an Agent-friendly Markdown browser extension",
           "timestamp": "2026-11-02T10:53:01",
           "url": "https://www.producthunt.com/products/linkly-ai-clipper",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: telemetry.dev",
-          "body": "LLM observability for AI agents",
-          "timestamp": "2026-10-31T10:22:02",
-          "url": "https://www.producthunt.com/products/telemetry-dev",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -109,6 +181,15 @@
           "body": "GitHub's AI coding agent that picks and combines models",
           "timestamp": "2026-10-31T10:22:02",
           "url": "https://www.producthunt.com/products/github-copilot-fusion",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: telemetry.dev",
+          "body": "LLM observability for AI agents",
+          "timestamp": "2026-10-31T10:22:02",
+          "url": "https://www.producthunt.com/products/telemetry-dev",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -177,6 +258,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Zest",
+          "body": "Hold Space, flick, and an AI agent does the dev chore.",
+          "timestamp": "2026-10-28T09:07:02",
+          "url": "https://www.producthunt.com/products/zest-6",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: OpenLLM",
           "body": "Take your AI tokens anywhere",
           "timestamp": "2026-10-28T09:07:02",
@@ -202,27 +292,9 @@
           "extras": {
             "data_origin": "Product Hunt"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Zest",
-          "body": "Hold Space, flick, and an AI agent does the dev chore.",
-          "timestamp": "2026-10-28T09:07:02",
-          "url": "https://www.producthunt.com/products/zest-6",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: ContextGem 1.0",
-          "body": "Decision models join LLMs to extract data from documents",
-          "timestamp": "2026-10-28T04:00:02",
-          "url": "https://www.producthunt.com/products/contextgem",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are the key developments and insights:\n\n**Key Developments:**\n\n* **AI-Driven Productivity Tools**: Several new products and tools have been launched on Product Hunt, focusing on AI-driven productivity, such as diff-tour, Hera, and Cedric AI for Meetings, which aim to increase efficiency and accuracy in coding, presentations, and meetings.\n* **AI Coding Agents**: GitHub Copilot Fusion, Backenly, and other products showcase the growing interest in AI coding agents, enabling developers to leverage AI-assisted coding, such as auto-code suggestions and UI creation.\n* **Increased Focus on Research and Analysis**: Telemetry.dev and ContextGem 1.0 highlight the importance of research and analysis tools, helping developers and businesses understand and improve AI performance, precision, and decision-making capabilities.\n* **Privacy and Security**: CuriousLM, the self-improving memory for AI coding agents, and Dedica emphasize the importance of AI management and deployment security to prevent data breaches and potential mishaps.\n\n**Trend:**\n* **Rising Interest in AI Development**: The large number of product launches (24 in total) on Product Hunt indicates a growing interest in developing AI tools, highlighting the ongoing trend of innovative AI application across various industries and use cases.\n\nThese products demonstrate the ongoing evolution of AI and its applications, showcasing innovative solutions and products that are revolutionizing various sectors, from productivity and coding to research and analysis."
+  "summary": "Here are the key developments with insight:\n\n* **Autonomous AI QA**: Testifly, a new product on Product Hunt, claims to be an autonomous AI QA tool that requires zero prompting.\n* **AI Creative Canvas**: Hera, another product on Product Hunt, is an AI creative canvas that allows users to generate content with AI.\n* **AI-powered workspace**: BaseTab AI, a product on Product Hunt, turns a new tab into an AI-powered workspace, suggesting a shift towards AI-driven productivity tools.\n* **AI workforce**: UnleashX, a product on Product Hunt, claims to be an AI workforce that turns conversations into outcomes, indicating a growing interest in AI-powered tools for customer service and support.\n* **LLM observability**: Telemetry.dev, a product on Product Hunt, offers LLM observability for AI agents, suggesting a growing need for tools that help developers understand and optimize their AI models.\n* **AI-powered event attendance**: TopAgent, a product on Product Hunt, uses AI to drive B2B event attendance, indicating a growing interest in AI-powered tools for event marketing and lead generation.\n\n**Trend:** The trend in this dataset is the increasing interest in **AI-powered productivity tools** and **AI-powered customer service tools**. Many of the products on Product Hunt are focused on making AI more accessible and user-friendly, with a focus on productivity, creativity, and customer service."
 }
