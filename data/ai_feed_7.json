@@ -1,10 +1,37 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-11-08T08:42:14.060Z",
+  "timestamp": "2026-11-09T09:21:04.133Z",
   "categories": {
     "news": {
-      "count": 41,
+      "count": 44,
       "items": [
+        {
+          "subject": "Product Hunt Launch: AXL",
+          "body": "GTM copilot for AI product founders: 1,200+ actions via MCP",
+          "timestamp": "2026-11-08T10:07:02",
+          "url": "https://www.producthunt.com/products/axl-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: NoMac",
+          "body": "Your AI agent's own Mac, billed per minute. No subscription",
+          "timestamp": "2026-11-08T10:07:02",
+          "url": "https://www.producthunt.com/products/nomac",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Memorias",
+          "body": "An AI biographer that turns your stories into a book",
+          "timestamp": "2026-11-08T10:07:02",
+          "url": "https://www.producthunt.com/products/memorias-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
         {
           "subject": "Product Hunt Launch: ClarifierAI for Chrome",
           "body": "Use AI for writing & translating in your Chrome",
@@ -51,10 +78,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Translucent AI",
-          "body": "Test infrastructure for hardware teams",
+          "subject": "Product Hunt Launch: DALI AI by SupplyzPro",
+          "body": "The ERP you never need to open",
           "timestamp": "2026-11-06T09:00:02",
-          "url": "https://www.producthunt.com/products/translucent-ai",
+          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -69,19 +96,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Turnstone",
-          "body": "Grok Bot alternative that runs on your AI, completely free",
+          "subject": "Product Hunt Launch: Translucent AI",
+          "body": "Test infrastructure for hardware teams",
           "timestamp": "2026-11-06T09:00:02",
-          "url": "https://www.producthunt.com/products/turnstone",
+          "url": "https://www.producthunt.com/products/translucent-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: DALI AI by SupplyzPro",
-          "body": "The ERP you never need to open",
+          "subject": "Product Hunt Launch: Turnstone",
+          "body": "Grok Bot alternative that runs on your AI, completely free",
           "timestamp": "2026-11-06T09:00:02",
-          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "url": "https://www.producthunt.com/products/turnstone",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -168,15 +195,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Prelulu",
-          "body": "Be the main character: chat & video roleplay any story",
-          "timestamp": "2026-11-04T08:30:02",
-          "url": "https://www.producthunt.com/products/prelulu",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: kosa8",
           "body": "Air-gapped microVM sandboxes for enterprise AI agents.",
           "timestamp": "2026-11-04T08:30:02",
@@ -190,6 +208,15 @@
           "body": "An AI team that runs your ecommerce brand",
           "timestamp": "2026-11-04T08:30:02",
           "url": "https://www.producthunt.com/products/krev",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Prelulu",
+          "body": "Be the main character: chat & video roleplay any story",
+          "timestamp": "2026-11-04T08:30:02",
+          "url": "https://www.producthunt.com/products/prelulu",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -222,10 +249,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Teamily AI",
-          "body": "Your personal agent, agent teams & people in one messenger",
+          "subject": "Product Hunt Launch: EaseIn Health",
+          "body": "Track GLP-1 doses, symptoms and daily habits in one app",
           "timestamp": "2026-11-03T08:52:02",
-          "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
+          "url": "https://www.producthunt.com/products/easein-health",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -249,10 +276,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: EaseIn Health",
-          "body": "Track GLP-1 doses, symptoms and daily habits in one app",
+          "subject": "Product Hunt Launch: Teamily AI",
+          "body": "Your personal agent, agent teams & people in one messenger",
           "timestamp": "2026-11-03T08:52:02",
-          "url": "https://www.producthunt.com/products/easein-health",
+          "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -377,5 +404,5 @@
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **Product Hunt Launches:** 31 new AI-powered products were launched on Product Hunt, a platform for discovering and sharing new products. These products include AI-powered writing and translation tools, AI assistants for personal and business use, AI-powered video editing, and more.\n* **AI Adoption Grows:** The number of AI-powered products launched on Product Hunt suggests that businesses and individuals are increasingly adopting AI technology to improve productivity, efficiency, and innovation.\n* **Diversification of AI Applications:** The products launched on Product Hunt demonstrate a diversification of AI applications across various industries, including writing, translation, video editing, and more.\n* **Increased Focus on AI Accessibility:** Some products, such as Beamfy, aim to make AI technology more accessible to people with disabilities, such as the blind.\n* **Growing Interest in AI-Powered Tools:** The launch of products like ClarifierAI for Chrome and Instagram Edits for Desktop suggests a growing interest in AI-powered tools for writing, editing, and content creation.\n* **Expansion of AI Use Cases:** The launch of products like Testifly and Linkly AI Clipper suggests an expansion of AI use cases beyond traditional applications, such as quality assurance and web clipping.\n\n**Trend:**\n\n* **Rapid Growth of AI-Powered Products:** The number of AI-powered products launched on Product Hunt in a single week suggests a rapid growth of AI-powered products across various industries. This trend is likely to continue as more businesses and individuals adopt AI technology to improve productivity, efficiency, and innovation."
+  "summary": "Here are 6 key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **AI Productivity Tools Galore**: The past week has seen a surge in the launch of AI-powered productivity tools, including AXL (a GTM copilot for AI product founders), ClarifierAI for Chrome (an AI writing and translating tool), and Quest (a personal AI advisor for a more intentional life).\n* **Maritime and OpenMail**: Two new products, Maritime (cloud computers for any AI agent) and OpenMail (email identity for AI agents), have been launched, showcasing the growing need for secure and reliable AI infrastructure.\n* **AI-powered Content Creation**: The week has also seen the launch of AI-powered content creation tools, such as Videco (turning every video into a content campaign with AI) and MagicaLCore (six kinds of machine learning models, trained on an iPad).\n* **AI for Accessibility**: Beamfy (an AI vision assistant for blind people) and EaseIn Health (an app for tracking GLP-1 doses, symptoms, and daily habits) are two examples of AI-powered tools aimed at improving accessibility and health outcomes.\n* **AI-powered QA**: Testifly (autonomous AI QA with zero prompting) and Looper (an open-source AI workforce) are two new products that demonstrate the growing importance of AI-powered quality assurance and workforce management.\n* **AI-powered Learning**: Prelulu (a roleplay any story tool) and Synter Canvas (an AI agent that runs ads across 30+ ad platforms) are two examples of AI-powered learning tools that are changing the way we interact with and learn from AI.\n\n**Trend:**\n\n* **The Rise of AI-powered Productivity and Creativity Tools**: The past week's launches demonstrate a growing trend towards AI-powered productivity and creativity tools that can help individuals and businesses achieve more with less effort. As AI becomes increasingly integrated into our lives, we can expect to see more innovative applications of AI in various industries and domains."
 }
