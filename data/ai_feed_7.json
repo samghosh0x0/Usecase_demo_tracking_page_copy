@@ -1,96 +1,96 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-11-13T09:13:41.520Z",
+  "timestamp": "2026-11-14T08:43:09.033Z",
   "categories": {
     "news": {
-      "count": 55,
+      "count": 63,
       "items": [
         {
-          "subject": "Product Hunt Launch: Stiro",
-          "body": "AI onboarding and customer success agent for SaaS",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/stiro",
+          "subject": "Product Hunt Launch: Aven App Agent",
+          "body": "AI that guides users through your app",
+          "timestamp": "2026-11-13T09:15:02",
+          "url": "https://www.producthunt.com/products/aven-app-agent",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires",
-          "body": "Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His starting point for employers: run every benefits contract through AI and ask where you’re getting ripped off.\nMark joins a16z General Partner Julie Yoo and Erik Torenberg to discuss what he’s learned building Cost Plus Drugs, why trust is its core product, and how greater transparency could put pressure on healthcare costs.\nThey also explore where AI can help, what personalized medicine could look like, how the role of doctors may change, and why Mark believes founders should use AI to learn, not as an excuse to stop thinking.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe",
-          "extras": {
-            "data_origin": "a16z"
-          }
-        },
-        {
-          "subject": "What Makes a Consumer AI Product Stick? | Josh Elman",
-          "body": "a16z Partner Josh Elman joins Ollie Forsyth on New Economies to discuss the next wave of consumer AI and what separates a product people try once from one that becomes part of their everyday lives.\nJosh argues that getting attention has actually become easier, but getting consumers to stick is harder than ever. He explains what he looks for in consumer products, why the best ones start with a narrow wedge and earn the right to do more, and why trust becomes increasingly important as AI agents gain access to more of our personal lives.\nThey also explore personal AI agents, the future of shopping and entertainment, why we haven’t seen another major social network emerge, and how AI could make technology more social rather than less, including agents that help people spend more time together in the real world.\nThis conversation originally appeared on the New Economies podcast.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://a16z.simplecast.com/episodes/what-makes-a-consumer-ai-product-stick-josh-elman-xHQUEG_W",
-          "extras": {
-            "data_origin": "a16z"
-          }
-        },
-        {
-          "subject": "Inside Cursor: The Anatomy of a Generational Startup",
-          "body": "a16z General Partners Martin Casado, Sarah Wang, and Matt Bornstein unpack the story of Cursor: how a small, product-obsessed team entered one of the most competitive markets in technology, took on incumbents with seemingly unbeatable advantages, and repeatedly made decisions that ran against conventional startup wisdom.\nThey revisit the early bet that the interface between humans and AI would matter more than building a coding-specific foundation model, why Cursor built its own product rather than a VS Code plugin, and how the founders' ability to say \"no\" became one of the company's defining strengths. They also discuss Cursor's rapid evolution from IDE to agent and model platform, and why the team was willing to cannibalize its own products as AI capabilities improved.\nThe conversation gets into what founders can learn from Cursor's approach to competition, hiring, enterprise sales, M&A, and company culture, including why the team remained unfazed by competitors from Microsoft to Anthropic and how its obsessive focus on product ultimately extended into every part of building the company.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://a16z.simplecast.com/episodes/inside-cursor-the-anatomy-of-a-generational-startup-eVZ_egyp",
-          "extras": {
-            "data_origin": "a16z"
-          }
-        },
-        {
-          "subject": "Stripe’s AI Strategy: Build More, Not Less",
-          "body": "a16z General Partner David George is joined by Will Gaybrick, President of Product & Business at Stripe, to discuss how AI is changing the way Stripe builds products, organizes teams, and thinks about the future of internet commerce. Stripe has evolved from a payments company into a multi-product financial infrastructure platform, while a new generation of AI companies is growing and monetizing faster than previous software cohorts.\nWill explains why Stripe sees AI productivity as an opportunity to build more rather than simply cut costs, including how its internal coding agents now generate thousands of pull requests each week. They discuss creating founder-like agency inside large companies, building smaller and flatter teams, and why Stripe believes dramatically more software will be created as the cost of building continues to fall.\nThey also look ahead to agentic commerce, why checkout pages could disappear, the potential return of micropayments, stablecoins as infrastructure for a global economy, and a future where AI agents increasingly buy software and services from other machines.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://a16z.simplecast.com/episodes/stripes-ai-strategy-build-more-not-less-0w7FfhZZ",
-          "extras": {
-            "data_origin": "a16z"
-          }
-        },
-        {
-          "subject": "The Self-Improving Company | Kavak's AI Playbook",
-          "body": "Angela Strange and Gabriel Vasquez are joined by Alejandro Maza Ayala, Chief Product & AI Officer at Kavak, to unpack how the Latin American used-car marketplace rebuilt itself around AI agents, with 96% of customer interactions and 95% of transactions now handled by agents.\nAlejandro explains why Kavak decided that simply giving employees AI tools wasn't enough, and instead redesigned the company's systems, teams, and customer experience around agents. They discuss why Kavak spends as much engineering effort on evals as it does building agents, how its AI sellers outperform its human teams, and an experiment where an AI \"CEO\" increased profits in one city by 50% in its first month.\nThe conversation also explores what happens to organizational structure when agents do most of the work, why Kavak trains everyone from executives to mechanics to build with AI, and Alejandro's argument that companies looking for incremental AI adoption may be missing the larger opportunity: redesigning the organization itself.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://a16z.simplecast.com/episodes/how-kavak-rebuilt-itself-around-ai-agents-alejandro-maza-ayala-lp7LuwGh",
-          "extras": {
-            "data_origin": "a16z"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Spacefast by Automattic",
-          "body": "Give your AI agents a place to build, run, and ship",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/spacefast-by-automattic",
+          "subject": "Product Hunt Launch: Trainn MCP",
+          "body": "Create product videos and courses from any AI chat",
+          "timestamp": "2026-11-13T09:15:02",
+          "url": "https://www.producthunt.com/products/trainn",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Omnigraph",
-          "body": "Open source graph database for your AI agents",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/omnigraph",
+          "subject": "Product Hunt Launch: Kairos",
+          "body": "Personal analytics engine across health, finances, & social",
+          "timestamp": "2026-11-13T09:15:02",
+          "url": "https://www.producthunt.com/products/kairos-18",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: three.dev",
-          "body": "Find out how your AI agent fails. Before your users do.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/three-dev",
+          "subject": "Product Hunt Launch: GAtrends",
+          "body": "Spike alerts for your keywords in Telegram, Claude, ChatGPT",
+          "timestamp": "2026-11-13T09:15:02",
+          "url": "https://www.producthunt.com/products/gatrends",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Insight7 Voice AI Agents",
-          "body": "AI voice agents that call your customers for you",
+          "subject": "Product Hunt Launch: Gemini 4 Hydrogen",
+          "body": "Fast agentic development for coders",
+          "timestamp": "2026-11-13T09:15:02",
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Templify AI",
+          "body": "Powerful content editor for people who aren’t editors",
+          "timestamp": "2026-11-13T09:15:02",
+          "url": "https://www.producthunt.com/products/templify",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Muse Ember by Meta",
+          "body": "Meta's low-cost AI model for high-volume agent tasks",
+          "timestamp": "2026-11-13T04:00:02",
+          "url": "https://www.producthunt.com/products/meta-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Relay",
+          "body": "DocSend for AI agents: send and receive docs with context.",
+          "timestamp": "2026-11-13T04:00:02",
+          "url": "https://www.producthunt.com/products/relaytoai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Sendr V4: Lovable for GTM",
+          "body": "Your AI GTM engineer to build signal based go-to-market",
           "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/insight7",
+          "url": "https://www.producthunt.com/products/sendr",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Foxpit",
+          "body": "Run Claude Code, Codex & OpenCode as one AI team.",
+          "timestamp": "2026-11-12T11:09:02",
+          "url": "https://www.producthunt.com/products/foxpit",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -105,12 +105,84 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Sendr V4: Lovable for GTM",
-          "body": "Your AI GTM engineer to build signal based go-to-market",
+          "subject": "Product Hunt Launch: Insight7 Voice AI Agents",
+          "body": "AI voice agents that call your customers for you",
           "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/sendr",
+          "url": "https://www.producthunt.com/products/insight7",
           "extras": {
             "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: three.dev",
+          "body": "Find out how your AI agent fails. Before your users do.",
+          "timestamp": "2026-11-12T11:09:02",
+          "url": "https://www.producthunt.com/products/three-dev",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Omnigraph",
+          "body": "Open source graph database for your AI agents",
+          "timestamp": "2026-11-12T11:09:02",
+          "url": "https://www.producthunt.com/products/omnigraph",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Spacefast by Automattic",
+          "body": "Give your AI agents a place to build, run, and ship",
+          "timestamp": "2026-11-12T11:09:02",
+          "url": "https://www.producthunt.com/products/spacefast-by-automattic",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "The Self-Improving Company | Kavak's AI Playbook",
+          "body": "Angela Strange and Gabriel Vasquez are joined by Alejandro Maza Ayala, Chief Product & AI Officer at Kavak, to unpack how the Latin American used-car marketplace rebuilt itself around AI agents, with 96% of customer interactions and 95% of transactions now handled by agents.\nAlejandro explains why Kavak decided that simply giving employees AI tools wasn't enough, and instead redesigned the company's systems, teams, and customer experience around agents. They discuss why Kavak spends as much engineering effort on evals as it does building agents, how its AI sellers outperform its human teams, and an experiment where an AI \"CEO\" increased profits in one city by 50% in its first month.\nThe conversation also explores what happens to organizational structure when agents do most of the work, why Kavak trains everyone from executives to mechanics to build with AI, and Alejandro's argument that companies looking for incremental AI adoption may be missing the larger opportunity: redesigning the organization itself.",
+          "timestamp": "2026-11-12T11:09:02",
+          "url": "https://a16z.simplecast.com/episodes/how-kavak-rebuilt-itself-around-ai-agents-alejandro-maza-ayala-lp7LuwGh",
+          "extras": {
+            "data_origin": "a16z"
+          }
+        },
+        {
+          "subject": "Stripe’s AI Strategy: Build More, Not Less",
+          "body": "a16z General Partner David George is joined by Will Gaybrick, President of Product & Business at Stripe, to discuss how AI is changing the way Stripe builds products, organizes teams, and thinks about the future of internet commerce. Stripe has evolved from a payments company into a multi-product financial infrastructure platform, while a new generation of AI companies is growing and monetizing faster than previous software cohorts.\nWill explains why Stripe sees AI productivity as an opportunity to build more rather than simply cut costs, including how its internal coding agents now generate thousands of pull requests each week. They discuss creating founder-like agency inside large companies, building smaller and flatter teams, and why Stripe believes dramatically more software will be created as the cost of building continues to fall.\nThey also look ahead to agentic commerce, why checkout pages could disappear, the potential return of micropayments, stablecoins as infrastructure for a global economy, and a future where AI agents increasingly buy software and services from other machines.",
+          "timestamp": "2026-11-12T11:09:02",
+          "url": "https://a16z.simplecast.com/episodes/stripes-ai-strategy-build-more-not-less-0w7FfhZZ",
+          "extras": {
+            "data_origin": "a16z"
+          }
+        },
+        {
+          "subject": "Inside Cursor: The Anatomy of a Generational Startup",
+          "body": "a16z General Partners Martin Casado, Sarah Wang, and Matt Bornstein unpack the story of Cursor: how a small, product-obsessed team entered one of the most competitive markets in technology, took on incumbents with seemingly unbeatable advantages, and repeatedly made decisions that ran against conventional startup wisdom.\nThey revisit the early bet that the interface between humans and AI would matter more than building a coding-specific foundation model, why Cursor built its own product rather than a VS Code plugin, and how the founders' ability to say \"no\" became one of the company's defining strengths. They also discuss Cursor's rapid evolution from IDE to agent and model platform, and why the team was willing to cannibalize its own products as AI capabilities improved.\nThe conversation gets into what founders can learn from Cursor's approach to competition, hiring, enterprise sales, M&A, and company culture, including why the team remained unfazed by competitors from Microsoft to Anthropic and how its obsessive focus on product ultimately extended into every part of building the company.",
+          "timestamp": "2026-11-12T11:09:02",
+          "url": "https://a16z.simplecast.com/episodes/inside-cursor-the-anatomy-of-a-generational-startup-eVZ_egyp",
+          "extras": {
+            "data_origin": "a16z"
+          }
+        },
+        {
+          "subject": "What Makes a Consumer AI Product Stick? | Josh Elman",
+          "body": "a16z Partner Josh Elman joins Ollie Forsyth on New Economies to discuss the next wave of consumer AI and what separates a product people try once from one that becomes part of their everyday lives.\nJosh argues that getting attention has actually become easier, but getting consumers to stick is harder than ever. He explains what he looks for in consumer products, why the best ones start with a narrow wedge and earn the right to do more, and why trust becomes increasingly important as AI agents gain access to more of our personal lives.\nThey also explore personal AI agents, the future of shopping and entertainment, why we haven’t seen another major social network emerge, and how AI could make technology more social rather than less, including agents that help people spend more time together in the real world.\nThis conversation originally appeared on the New Economies podcast.",
+          "timestamp": "2026-11-12T11:09:02",
+          "url": "https://a16z.simplecast.com/episodes/what-makes-a-consumer-ai-product-stick-josh-elman-xHQUEG_W",
+          "extras": {
+            "data_origin": "a16z"
+          }
+        },
+        {
+          "subject": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires",
+          "body": "Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His starting point for employers: run every benefits contract through AI and ask where you’re getting ripped off.\nMark joins a16z General Partner Julie Yoo and Erik Torenberg to discuss what he’s learned building Cost Plus Drugs, why trust is its core product, and how greater transparency could put pressure on healthcare costs.\nThey also explore where AI can help, what personalized medicine could look like, how the role of doctors may change, and why Mark believes founders should use AI to learn, not as an excuse to stop thinking.",
+          "timestamp": "2026-11-12T11:09:02",
+          "url": "https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe",
+          "extras": {
+            "data_origin": "a16z"
           }
         },
         {
@@ -136,15 +208,6 @@
           "body": "The agentic conversational storefront for consumer brands",
           "timestamp": "2026-11-12T11:09:02",
           "url": "https://www.producthunt.com/products/neura-4",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Foxpit",
-          "body": "Run Claude Code, Codex & OpenCode as one AI team.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/foxpit",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -204,19 +267,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Padrail",
-          "body": "Turn your MacBook trackpad edges into controls.",
-          "timestamp": "2026-11-11T08:54:02",
-          "url": "https://www.producthunt.com/products/padrail",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: CALL-E",
-          "body": "The phone line for AI agents",
-          "timestamp": "2026-11-11T08:54:02",
-          "url": "https://www.producthunt.com/products/call-e",
+          "subject": "Product Hunt Launch: Stiro",
+          "body": "AI onboarding and customer success agent for SaaS",
+          "timestamp": "2026-11-12T11:09:02",
+          "url": "https://www.producthunt.com/products/stiro",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -226,6 +280,15 @@
           "body": "AI ad fraud detection that protects your marketing budget",
           "timestamp": "2026-11-11T08:54:02",
           "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: CALL-E",
+          "body": "The phone line for AI agents",
+          "timestamp": "2026-11-11T08:54:02",
+          "url": "https://www.producthunt.com/products/call-e",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -258,6 +321,15 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Padrail",
+          "body": "Turn your MacBook trackpad edges into controls.",
+          "timestamp": "2026-11-11T08:54:02",
+          "url": "https://www.producthunt.com/products/padrail",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Subscriptrack",
           "body": "Connect your email, see every subscription you pay for",
           "timestamp": "2026-11-11T08:54:02",
@@ -285,55 +357,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: ForAgent",
-          "body": "Private phone numbers so AI agents can call each other",
+          "subject": "Product Hunt Launch: Operum",
+          "body": "Your AI product team, with expert workflows built in",
           "timestamp": "2026-11-10T08:57:02",
-          "url": "https://www.producthunt.com/products/foragent",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Gesso",
-          "body": "Ask ChatGPT or Claude to design, then edit every layer",
-          "timestamp": "2026-11-10T08:57:02",
-          "url": "https://www.producthunt.com/products/gesso-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: TOWeb 15",
-          "body": "Rewritten as a native Mac & Windows app, with AI and MCP...",
-          "timestamp": "2026-11-10T08:57:02",
-          "url": "https://www.producthunt.com/products/toweb",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Latch.ai",
-          "body": "Automate complex accounting work without a single prompt",
-          "timestamp": "2026-11-10T08:57:02",
-          "url": "https://www.producthunt.com/products/latch-ai-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Maxma",
-          "body": "The 24/7 AI teammate that scales your paid ad performance",
-          "timestamp": "2026-11-10T08:57:02",
-          "url": "https://www.producthunt.com/products/maxma-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Alsona",
-          "body": "AI agents that turn buying signals into booked sales calls",
-          "timestamp": "2026-11-10T08:57:02",
-          "url": "https://www.producthunt.com/products/alsona",
+          "url": "https://www.producthunt.com/products/operum",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -348,19 +375,64 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Operum",
-          "body": "Your AI product team, with expert workflows built in",
+          "subject": "Product Hunt Launch: Alsona",
+          "body": "AI agents that turn buying signals into booked sales calls",
           "timestamp": "2026-11-10T08:57:02",
-          "url": "https://www.producthunt.com/products/operum",
+          "url": "https://www.producthunt.com/products/alsona",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Dageno AI 2.0",
-          "body": "See why AI recommends your competitors instead of you",
+          "subject": "Product Hunt Launch: Maxma",
+          "body": "The 24/7 AI teammate that scales your paid ad performance",
+          "timestamp": "2026-11-10T08:57:02",
+          "url": "https://www.producthunt.com/products/maxma-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: TOWeb 15",
+          "body": "Rewritten as a native Mac & Windows app, with AI and MCP...",
+          "timestamp": "2026-11-10T08:57:02",
+          "url": "https://www.producthunt.com/products/toweb",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Gesso",
+          "body": "Ask ChatGPT or Claude to design, then edit every layer",
+          "timestamp": "2026-11-10T08:57:02",
+          "url": "https://www.producthunt.com/products/gesso-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: ForAgent",
+          "body": "Private phone numbers so AI agents can call each other",
+          "timestamp": "2026-11-10T08:57:02",
+          "url": "https://www.producthunt.com/products/foragent",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Latch.ai",
+          "body": "Automate complex accounting work without a single prompt",
+          "timestamp": "2026-11-10T08:57:02",
+          "url": "https://www.producthunt.com/products/latch-ai-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Databox CLI",
+          "body": "Your agentic analytics platform in the terminal",
           "timestamp": "2026-11-09T10:24:02",
-          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "url": "https://www.producthunt.com/products/databox",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -379,15 +451,6 @@
           "body": "✴️ An agentic file browser to navigate your work context",
           "timestamp": "2026-11-09T10:24:02",
           "url": "https://www.producthunt.com/products/vygr",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Databox CLI",
-          "body": "Your agentic analytics platform in the terminal",
-          "timestamp": "2026-11-09T10:24:02",
-          "url": "https://www.producthunt.com/products/databox",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -415,6 +478,15 @@
           "body": "Sound engineered for dogs, not humans",
           "timestamp": "2026-11-09T10:24:02",
           "url": "https://www.producthunt.com/products/pawse-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Dageno AI 2.0",
+          "body": "See why AI recommends your competitors instead of you",
+          "timestamp": "2026-11-09T10:24:02",
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -503,5 +575,5 @@
       ]
     }
   },
-  "summary": "Here are 6 key developments with insight, 4 bullet points, and 1 trend:\n\n**Key Developments with Insight:**\n\n1. **AI onboarding and customer success agent**: Stiro, a new product, offers AI onboarding and customer success agent for SaaS, indicating a growing need for AI-powered customer support.\n2. **Mark Cuban's AI plan**: Mark Cuban believes AI can transform healthcare, but it won't fix opaque prices and broken incentives on its own. He suggests using AI to learn, not as an excuse to stop thinking.\n3. **Stripe's AI strategy**: Stripe sees AI productivity as an opportunity to build more rather than simply cut costs. Its internal coding agents now generate thousands of pull requests each week.\n4. **Kavak's AI playbook**: Kavak, a Latin American used-car marketplace, rebuilt itself around AI agents, with 96% of customer interactions and 95% of transactions now handled by agents.\n\n**Bullet Points:**\n\n* **AI-powered customer support**: Stiro offers AI onboarding and customer success agent for SaaS, indicating a growing need for AI-powered customer support.\n* **AI in healthcare**: Mark Cuban believes AI can transform healthcare, but it won't fix opaque prices and broken incentives on its own.\n* **AI productivity**: Stripe sees AI productivity as an opportunity to build more rather than simply cut costs.\n* **AI in customer interactions**: Kavak's AI agents handle 96% of customer interactions and 95% of transactions.\n\n**Trend:**\n\n* **AI adoption in various industries**: The recent launches on Product Hunt, such as Stiro, Stripe's AI strategy, and Kavak's AI playbook, indicate a growing trend of AI adoption in various industries, including customer support, healthcare, and finance."
+  "summary": "Here are 4-6 key developments with insight, along with a trend:\n\n**Key Developments:**\n\n* **Aven App Agent**: A new AI-powered app that guides users through their app, making it easier to navigate and use.\n* **Trainn MCP**: A product that creates product videos and courses from any AI chat, allowing users to easily create content.\n* **Kairos**: A personal analytics engine that provides insights across health, finances, and social aspects of a user's life.\n* **GAtrends**: A spike alert system for keywords in Telegram, Claude, and ChatGPT, allowing users to stay on top of trends.\n* **Gemini 4 Hydrogen**: A fast agentic development platform for coders, making it easier to build and deploy AI-powered apps.\n* **Templify AI**: A powerful content editor for people who aren't editors, allowing users to easily create and edit content.\n\n**Trend:**\n\n* **Increased Focus on AI Agents**: The trend in the latest product launches is a focus on AI agents and their ability to assist and automate tasks. Many of the new products and features are centered around AI agents, highlighting the growing importance of AI in various industries and applications.\n\n**Insight:**\n\n* The increasing focus on AI agents is a reflection of the growing recognition of AI's potential to automate tasks, improve productivity, and enhance user experiences.\n* The development of more advanced AI agents and their applications is driving innovation in various industries, from healthcare to finance to education.\n* As AI agents become more prevalent, we can expect to see more products and services that integrate AI capabilities, making it easier for users to interact with and benefit from AI."
 }
