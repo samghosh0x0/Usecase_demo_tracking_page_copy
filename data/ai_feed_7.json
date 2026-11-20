@@ -1,96 +1,141 @@
 {
   "cutoff": 7,
-  "timestamp": "2026-11-19T09:58:51.898Z",
+  "timestamp": "2026-11-20T09:47:42.214Z",
   "categories": {
     "news": {
-      "count": 102,
+      "count": 86,
       "items": [
         {
-          "subject": "Product Hunt Launch: Pitch Avatar HR Suite",
-          "body": "Onboarding, training & comms with conversational AI avatars",
-          "timestamp": "2026-11-18T09:25:02",
-          "url": "https://www.producthunt.com/products/pitchavatar",
+          "subject": "Product Hunt Launch: Wispr Flow Notetaker for iPhone",
+          "body": "Free AI meeting notes, wherever work takes you",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/wisprflow",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: KaDeep AI",
-          "body": "AI QA, localization and accessibility to know when to ship",
-          "timestamp": "2026-11-18T09:25:02",
-          "url": "https://www.producthunt.com/products/kadeep-ai",
+          "subject": "Product Hunt Launch: Fieldwork Code",
+          "body": "AI coding on your laptop or in the cloud, from your phone",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/fieldwork-code",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: AI Canvas",
-          "body": "A design system for AI agents to design badass interfaces",
-          "timestamp": "2026-11-18T09:25:02",
-          "url": "https://www.producthunt.com/products/ai-canvas-2",
+          "subject": "Product Hunt Launch: Rezora IO",
+          "body": "Shopify for AI voice agents: live in 10 minutes",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Mermaid Flow",
-          "body": "The visual builder for agentic workflows",
-          "timestamp": "2026-11-18T09:25:02",
-          "url": "https://www.producthunt.com/products/mermaid-chart",
+          "subject": "Product Hunt Launch: Tecla",
+          "body": "A proactive AI agent whose interface is a TODO list",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/tecla-3",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Waldo by Wherobots",
-          "body": "The AI agent that accelerates engineering with spatial data",
-          "timestamp": "2026-11-18T09:25:02",
-          "url": "https://www.producthunt.com/products/waldo-by-wherobots",
+          "subject": "Product Hunt Launch: ExtraOrbital",
+          "body": "✦ Open bar databases, storage buckets & AI keys for agents",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/extraorbital",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: GPT-6.2 Astra and Sol",
-          "body": "Two new OpenAI models: frontier Astra and efficient Sol",
-          "timestamp": "2026-11-18T09:25:02",
-          "url": "https://www.producthunt.com/products/openai",
+          "subject": "Product Hunt Launch: Ableten Hybrid AI Travel Planner",
+          "body": "Get your group on the same map.",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/ableten-source-library",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: AssemblyAI-STT-3.7",
-          "body": "Speech-to-Text for live calls, voice agents, and recordings",
-          "timestamp": "2026-11-18T09:25:02",
-          "url": "https://www.producthunt.com/products/assemblyai",
+          "subject": "Product Hunt Launch: Stripo Email Widgets",
+          "body": "Put a game, quiz or survey in your next email. No coding",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/stripo-email",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: dusk bot",
-          "body": "free open source Grok bot alternative",
-          "timestamp": "2026-11-18T09:25:02",
-          "url": "https://www.producthunt.com/products/dusk-bot",
+          "subject": "Product Hunt Launch: Room AI",
+          "body": "Talk to it like a designer. Your room, one change at a time",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/room-ai-2",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Ody Ai Business Phone",
-          "body": "Shared workspace + manageable AI agents",
-          "timestamp": "2026-11-18T09:25:02",
-          "url": "https://www.producthunt.com/products/ody-ai-business-phone",
+          "subject": "Product Hunt Launch: Enrichable by Context.dev",
+          "body": "Open-source AI spreadsheet for data enrichment",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/context-dev",
           "extras": {
             "data_origin": "Product Hunt"
           }
         },
         {
-          "subject": "Product Hunt Launch: Beacon",
-          "body": "Give your AI agent the browser you're already signed into",
+          "subject": "Product Hunt Launch: HeyGen Avatar 6",
+          "body": "AI Avatar Model That Looks Like You",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/heygen",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Teaflask",
+          "body": "Self-improving AI copilot for your app. No backend changes.",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/teaflask",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: OfinTech Desk",
+          "body": "Finance AI where every figure traces to its source",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/ofintech-desk",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Polylane for Azure",
+          "body": "An AI on-call engineer for your Azure apps",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/polylane",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Adside",
+          "body": "A team of specialized AI agents that manage paid ads for you",
+          "timestamp": "2026-11-19T08:42:02",
+          "url": "https://www.producthunt.com/products/adside",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: canfit",
+          "body": "The top command for people running local LLMs and apps",
           "timestamp": "2026-11-18T09:25:02",
-          "url": "https://www.producthunt.com/products/beacon-26",
+          "url": "https://www.producthunt.com/products/canfit",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -105,10 +150,100 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: canfit",
-          "body": "The top command for people running local LLMs and apps",
+          "subject": "Product Hunt Launch: Beacon",
+          "body": "Give your AI agent the browser you're already signed into",
           "timestamp": "2026-11-18T09:25:02",
-          "url": "https://www.producthunt.com/products/canfit",
+          "url": "https://www.producthunt.com/products/beacon-26",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Ody Ai Business Phone",
+          "body": "Shared workspace + manageable AI agents",
+          "timestamp": "2026-11-18T09:25:02",
+          "url": "https://www.producthunt.com/products/ody-ai-business-phone",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: dusk bot",
+          "body": "free open source Grok bot alternative",
+          "timestamp": "2026-11-18T09:25:02",
+          "url": "https://www.producthunt.com/products/dusk-bot",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AssemblyAI-STT-3.7",
+          "body": "Speech-to-Text for live calls, voice agents, and recordings",
+          "timestamp": "2026-11-18T09:25:02",
+          "url": "https://www.producthunt.com/products/assemblyai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: GPT-6.2 Astra and Sol",
+          "body": "Two new OpenAI models: frontier Astra and efficient Sol",
+          "timestamp": "2026-11-18T09:25:02",
+          "url": "https://www.producthunt.com/products/openai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Waldo by Wherobots",
+          "body": "The AI agent that accelerates engineering with spatial data",
+          "timestamp": "2026-11-18T09:25:02",
+          "url": "https://www.producthunt.com/products/waldo-by-wherobots",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Mermaid Flow",
+          "body": "The visual builder for agentic workflows",
+          "timestamp": "2026-11-18T09:25:02",
+          "url": "https://www.producthunt.com/products/mermaid-chart",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AI Canvas",
+          "body": "A design system for AI agents to design badass interfaces",
+          "timestamp": "2026-11-18T09:25:02",
+          "url": "https://www.producthunt.com/products/ai-canvas-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: KaDeep AI",
+          "body": "AI QA, localization and accessibility to know when to ship",
+          "timestamp": "2026-11-18T09:25:02",
+          "url": "https://www.producthunt.com/products/kadeep-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Pitch Avatar HR Suite",
+          "body": "Onboarding, training & comms with conversational AI avatars",
+          "timestamp": "2026-11-18T09:25:02",
+          "url": "https://www.producthunt.com/products/pitchavatar",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Microsoft IQ",
+          "body": "Give AI agents a shared understanding of your business",
+          "timestamp": "2026-11-18T09:25:02",
+          "url": "https://www.producthunt.com/products/microsoft-365",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -154,15 +289,6 @@
           "body": "Your team and everyone's AI agents, in one workspace",
           "timestamp": "2026-11-18T09:25:02",
           "url": "https://www.producthunt.com/products/s-space",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Microsoft IQ",
-          "body": "Give AI agents a shared understanding of your business",
-          "timestamp": "2026-11-18T09:25:02",
-          "url": "https://www.producthunt.com/products/microsoft-365",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -217,6 +343,60 @@
           "body": "Encrypted messages between AI agents, across vendors",
           "timestamp": "2026-11-18T09:25:02",
           "url": "https://www.producthunt.com/products/worldinmotion",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: RankSpot",
+          "body": "Pay-as-you-go SEO and AI Search execution layer for agents",
+          "timestamp": "2026-11-17T08:40:02",
+          "url": "https://www.producthunt.com/products/rankspot",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Ridian",
+          "body": "The AI-first scheduling suite for everything around meetings",
+          "timestamp": "2026-11-17T08:40:02",
+          "url": "https://www.producthunt.com/products/ridian",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: pushr",
+          "body": "iPhone push alerts from any script, server or AI agent",
+          "timestamp": "2026-11-17T08:40:02",
+          "url": "https://www.producthunt.com/products/pushr",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Appxiom",
+          "body": "Context layer for AI coding agents to detect & fix bugs",
+          "timestamp": "2026-11-17T08:40:02",
+          "url": "https://www.producthunt.com/products/appxiom",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: polyroom",
+          "body": "Where AI agents work together and your team decides",
+          "timestamp": "2026-11-17T08:40:02",
+          "url": "https://www.producthunt.com/products/polyroom",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Lasso",
+          "body": "Draw on your Mac screen, then let AI agents see it",
+          "timestamp": "2026-11-17T08:40:02",
+          "url": "https://www.producthunt.com/products/lasso-11",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -294,64 +474,19 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Lasso",
-          "body": "Draw on your Mac screen, then let AI agents see it",
-          "timestamp": "2026-11-17T08:40:02",
-          "url": "https://www.producthunt.com/products/lasso-11",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: RankSpot",
-          "body": "Pay-as-you-go SEO and AI Search execution layer for agents",
-          "timestamp": "2026-11-17T08:40:02",
-          "url": "https://www.producthunt.com/products/rankspot",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: polyroom",
-          "body": "Where AI agents work together and your team decides",
-          "timestamp": "2026-11-17T08:40:02",
-          "url": "https://www.producthunt.com/products/polyroom",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Appxiom",
-          "body": "Context layer for AI coding agents to detect & fix bugs",
-          "timestamp": "2026-11-17T08:40:02",
-          "url": "https://www.producthunt.com/products/appxiom",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: pushr",
-          "body": "iPhone push alerts from any script, server or AI agent",
-          "timestamp": "2026-11-17T08:40:02",
-          "url": "https://www.producthunt.com/products/pushr",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Ridian",
-          "body": "The AI-first scheduling suite for everything around meetings",
-          "timestamp": "2026-11-17T08:40:02",
-          "url": "https://www.producthunt.com/products/ridian",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: UI SDK by Vercel",
           "body": "Give AI agents the building blocks to create UI",
           "timestamp": "2026-11-17T04:00:02",
           "url": "https://www.producthunt.com/products/ui-sdk",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: AgentWatch",
+          "body": "Monitor AI shopping agent sales and visibility on Shopify",
+          "timestamp": "2026-11-16T08:37:01",
+          "url": "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -393,15 +528,6 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: AgentWatch",
-          "body": "Monitor AI shopping agent sales and visibility on Shopify",
-          "timestamp": "2026-11-16T08:37:01",
-          "url": "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
           "subject": "Product Hunt Launch: Intelligent Eyewear",
           "body": "Samsung and Google bring Gemini AI to smart eyewear",
           "timestamp": "2026-11-16T08:37:01",
@@ -424,15 +550,6 @@
           "body": "Let ChatGPT agents buy things without seeing your card",
           "timestamp": "2026-11-16T08:37:01",
           "url": "https://www.producthunt.com/products/chatgpt",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Degla AI",
-          "body": "Your intent. Onboard Autonomous Execution.",
-          "timestamp": "2026-11-16T08:37:01",
-          "url": "https://www.producthunt.com/products/degla-ai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -492,6 +609,24 @@
           }
         },
         {
+          "subject": "Product Hunt Launch: Degla AI",
+          "body": "Your intent. Onboard Autonomous Execution.",
+          "timestamp": "2026-11-16T08:37:01",
+          "url": "https://www.producthunt.com/products/degla-ai",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Rakazo",
+          "body": "The open source Grok Bot alternative you actually own",
+          "timestamp": "2026-11-15T10:23:02",
+          "url": "https://www.producthunt.com/products/rakazo",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
           "subject": "Product Hunt Launch: Frevana Multiplayer",
           "body": "AI that grows your business alongside your team",
           "timestamp": "2026-11-15T10:23:02",
@@ -514,15 +649,6 @@
           "body": "AI note taker for meetings & lectures. No bot on your calls.",
           "timestamp": "2026-11-15T10:23:02",
           "url": "https://www.producthunt.com/products/spiik",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Rakazo",
-          "body": "The open source Grok Bot alternative you actually own",
-          "timestamp": "2026-11-15T10:23:02",
-          "url": "https://www.producthunt.com/products/rakazo",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -564,64 +690,10 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Tabletop by Google Labs",
-          "body": "Build interactive group experiences with AI.",
+          "subject": "Product Hunt Launch: Businesses in ChatGPT",
+          "body": "Help customers discover your business through ChatGPT",
           "timestamp": "2026-11-14T11:20:02",
-          "url": "https://www.producthunt.com/products/google-labs",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: HiringNow",
-          "body": "AI job agent that finds & apply for jobs before anyone else.",
-          "timestamp": "2026-11-14T11:20:02",
-          "url": "https://www.producthunt.com/products/hiringnow",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Kokonut UI",
-          "body": "Open-source UI components for your AI agent",
-          "timestamp": "2026-11-14T11:20:02",
-          "url": "https://www.producthunt.com/products/kokonutui",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: CodeMesh",
-          "body": "Cut AI coding costs by 90%",
-          "timestamp": "2026-11-14T11:20:02",
-          "url": "https://www.producthunt.com/products/codemesh-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Aboard Sign",
-          "body": "Email a contract, CC sign@aboard.com and collect signatures",
-          "timestamp": "2026-11-14T11:20:02",
-          "url": "https://www.producthunt.com/products/aboard-sign",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Antelog",
-          "body": "Stops AI coding agents from leaking or destroying your data",
-          "timestamp": "2026-11-14T11:20:02",
-          "url": "https://www.producthunt.com/products/antelog",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Thunder",
-          "body": "A blazing-fast, persistent, key-value AI workload database",
-          "timestamp": "2026-11-14T11:20:02",
-          "url": "https://www.producthunt.com/products/thunder-3",
+          "url": "https://www.producthunt.com/products/openai",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -636,10 +708,64 @@
           }
         },
         {
-          "subject": "Product Hunt Launch: Businesses in ChatGPT",
-          "body": "Help customers discover your business through ChatGPT",
+          "subject": "Product Hunt Launch: Thunder",
+          "body": "A blazing-fast, persistent, key-value AI workload database",
           "timestamp": "2026-11-14T11:20:02",
-          "url": "https://www.producthunt.com/products/openai",
+          "url": "https://www.producthunt.com/products/thunder-3",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Antelog",
+          "body": "Stops AI coding agents from leaking or destroying your data",
+          "timestamp": "2026-11-14T11:20:02",
+          "url": "https://www.producthunt.com/products/antelog",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Aboard Sign",
+          "body": "Email a contract, CC sign@aboard.com and collect signatures",
+          "timestamp": "2026-11-14T11:20:02",
+          "url": "https://www.producthunt.com/products/aboard-sign",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: CodeMesh",
+          "body": "Cut AI coding costs by 90%",
+          "timestamp": "2026-11-14T11:20:02",
+          "url": "https://www.producthunt.com/products/codemesh-2",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Kokonut UI",
+          "body": "Open-source UI components for your AI agent",
+          "timestamp": "2026-11-14T11:20:02",
+          "url": "https://www.producthunt.com/products/kokonutui",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: HiringNow",
+          "body": "AI job agent that finds & apply for jobs before anyone else.",
+          "timestamp": "2026-11-14T11:20:02",
+          "url": "https://www.producthunt.com/products/hiringnow",
+          "extras": {
+            "data_origin": "Product Hunt"
+          }
+        },
+        {
+          "subject": "Product Hunt Launch: Tabletop by Google Labs",
+          "body": "Build interactive group experiences with AI.",
+          "timestamp": "2026-11-14T11:20:02",
+          "url": "https://www.producthunt.com/products/google-labs",
           "extras": {
             "data_origin": "Product Hunt"
           }
@@ -652,279 +778,9 @@
           "extras": {
             "data_origin": "AWS AI News"
           }
-        },
-        {
-          "subject": "Product Hunt Launch: Templify AI",
-          "body": "Powerful content editor for people who aren’t editors",
-          "timestamp": "2026-11-13T09:15:02",
-          "url": "https://www.producthunt.com/products/templify",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Gemini 4 Hydrogen",
-          "body": "Fast agentic development for coders",
-          "timestamp": "2026-11-13T09:15:02",
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: GAtrends",
-          "body": "Spike alerts for your keywords in Telegram, Claude, ChatGPT",
-          "timestamp": "2026-11-13T09:15:02",
-          "url": "https://www.producthunt.com/products/gatrends",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Kairos",
-          "body": "Personal analytics engine across health, finances, & social",
-          "timestamp": "2026-11-13T09:15:02",
-          "url": "https://www.producthunt.com/products/kairos-18",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Trainn MCP",
-          "body": "Create product videos and courses from any AI chat",
-          "timestamp": "2026-11-13T09:15:02",
-          "url": "https://www.producthunt.com/products/trainn",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Aven App Agent",
-          "body": "AI that guides users through your app",
-          "timestamp": "2026-11-13T09:15:02",
-          "url": "https://www.producthunt.com/products/aven-app-agent",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Relay",
-          "body": "DocSend for AI agents: send and receive docs with context.",
-          "timestamp": "2026-11-13T04:00:02",
-          "url": "https://www.producthunt.com/products/relaytoai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Muse Ember by Meta",
-          "body": "Meta's low-cost AI model for high-volume agent tasks",
-          "timestamp": "2026-11-13T04:00:02",
-          "url": "https://www.producthunt.com/products/meta-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires",
-          "body": "Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His starting point for employers: run every benefits contract through AI and ask where you’re getting ripped off.\nMark joins a16z General Partner Julie Yoo and Erik Torenberg to discuss what he’s learned building Cost Plus Drugs, why trust is its core product, and how greater transparency could put pressure on healthcare costs.\nThey also explore where AI can help, what personalized medicine could look like, how the role of doctors may change, and why Mark believes founders should use AI to learn, not as an excuse to stop thinking.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe",
-          "extras": {
-            "data_origin": "a16z"
-          }
-        },
-        {
-          "subject": "What Makes a Consumer AI Product Stick? | Josh Elman",
-          "body": "a16z Partner Josh Elman joins Ollie Forsyth on New Economies to discuss the next wave of consumer AI and what separates a product people try once from one that becomes part of their everyday lives.\nJosh argues that getting attention has actually become easier, but getting consumers to stick is harder than ever. He explains what he looks for in consumer products, why the best ones start with a narrow wedge and earn the right to do more, and why trust becomes increasingly important as AI agents gain access to more of our personal lives.\nThey also explore personal AI agents, the future of shopping and entertainment, why we haven’t seen another major social network emerge, and how AI could make technology more social rather than less, including agents that help people spend more time together in the real world.\nThis conversation originally appeared on the New Economies podcast.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://a16z.simplecast.com/episodes/what-makes-a-consumer-ai-product-stick-josh-elman-xHQUEG_W",
-          "extras": {
-            "data_origin": "a16z"
-          }
-        },
-        {
-          "subject": "Inside Cursor: The Anatomy of a Generational Startup",
-          "body": "a16z General Partners Martin Casado, Sarah Wang, and Matt Bornstein unpack the story of Cursor: how a small, product-obsessed team entered one of the most competitive markets in technology, took on incumbents with seemingly unbeatable advantages, and repeatedly made decisions that ran against conventional startup wisdom.\nThey revisit the early bet that the interface between humans and AI would matter more than building a coding-specific foundation model, why Cursor built its own product rather than a VS Code plugin, and how the founders' ability to say \"no\" became one of the company's defining strengths. They also discuss Cursor's rapid evolution from IDE to agent and model platform, and why the team was willing to cannibalize its own products as AI capabilities improved.\nThe conversation gets into what founders can learn from Cursor's approach to competition, hiring, enterprise sales, M&A, and company culture, including why the team remained unfazed by competitors from Microsoft to Anthropic and how its obsessive focus on product ultimately extended into every part of building the company.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://a16z.simplecast.com/episodes/inside-cursor-the-anatomy-of-a-generational-startup-eVZ_egyp",
-          "extras": {
-            "data_origin": "a16z"
-          }
-        },
-        {
-          "subject": "Stripe’s AI Strategy: Build More, Not Less",
-          "body": "a16z General Partner David George is joined by Will Gaybrick, President of Product & Business at Stripe, to discuss how AI is changing the way Stripe builds products, organizes teams, and thinks about the future of internet commerce. Stripe has evolved from a payments company into a multi-product financial infrastructure platform, while a new generation of AI companies is growing and monetizing faster than previous software cohorts.\nWill explains why Stripe sees AI productivity as an opportunity to build more rather than simply cut costs, including how its internal coding agents now generate thousands of pull requests each week. They discuss creating founder-like agency inside large companies, building smaller and flatter teams, and why Stripe believes dramatically more software will be created as the cost of building continues to fall.\nThey also look ahead to agentic commerce, why checkout pages could disappear, the potential return of micropayments, stablecoins as infrastructure for a global economy, and a future where AI agents increasingly buy software and services from other machines.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://a16z.simplecast.com/episodes/stripes-ai-strategy-build-more-not-less-0w7FfhZZ",
-          "extras": {
-            "data_origin": "a16z"
-          }
-        },
-        {
-          "subject": "The Self-Improving Company | Kavak's AI Playbook",
-          "body": "Angela Strange and Gabriel Vasquez are joined by Alejandro Maza Ayala, Chief Product & AI Officer at Kavak, to unpack how the Latin American used-car marketplace rebuilt itself around AI agents, with 96% of customer interactions and 95% of transactions now handled by agents.\nAlejandro explains why Kavak decided that simply giving employees AI tools wasn't enough, and instead redesigned the company's systems, teams, and customer experience around agents. They discuss why Kavak spends as much engineering effort on evals as it does building agents, how its AI sellers outperform its human teams, and an experiment where an AI \"CEO\" increased profits in one city by 50% in its first month.\nThe conversation also explores what happens to organizational structure when agents do most of the work, why Kavak trains everyone from executives to mechanics to build with AI, and Alejandro's argument that companies looking for incremental AI adoption may be missing the larger opportunity: redesigning the organization itself.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://a16z.simplecast.com/episodes/how-kavak-rebuilt-itself-around-ai-agents-alejandro-maza-ayala-lp7LuwGh",
-          "extras": {
-            "data_origin": "a16z"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Spacefast by Automattic",
-          "body": "Give your AI agents a place to build, run, and ship",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/spacefast-by-automattic",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Omnigraph",
-          "body": "Open source graph database for your AI agents",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/omnigraph",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: three.dev",
-          "body": "Find out how your AI agent fails. Before your users do.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/three-dev",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Insight7 Voice AI Agents",
-          "body": "AI voice agents that call your customers for you",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/insight7",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Hoy for Mac",
-          "body": "Walkie-talkie meets AirDrop meets Messages.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/hoy-for-mac",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Sendr V4: Lovable for GTM",
-          "body": "Your AI GTM engineer to build signal based go-to-market",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/sendr",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: CanyonOS",
-          "body": "The One Platform for Scaling your Agentic Apps",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/canyon-code",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Adobe AI Assistant",
-          "body": "Create and edit faster with AI across Adobe apps",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Neura HQ",
-          "body": "The agentic conversational storefront for consumer brands",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/neura-4",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Foxpit",
-          "body": "Run Claude Code, Codex & OpenCode as one AI team.",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/foxpit",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Plurai Simulation",
-          "body": "A simulated world that makes your agent improve on every run",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/plurai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Grok Bot 1.0",
-          "body": "Bots work together alongside your team",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/grok",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: AirWave",
-          "body": "Internet radio, at home on every Apple device",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/airwave-2",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Oxagen",
-          "body": "Mission control for agents to share + maintain context",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/oxagen",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Offstage Cloud",
-          "body": "On-demand macOS sandboxes for AI agents",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/offstage-cloud",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Kippy AI",
-          "body": "Learn languages while having fun!",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/kippy-ai",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
-        },
-        {
-          "subject": "Product Hunt Launch: Stiro",
-          "body": "AI onboarding and customer success agent for SaaS",
-          "timestamp": "2026-11-12T11:09:02",
-          "url": "https://www.producthunt.com/products/stiro",
-          "extras": {
-            "data_origin": "Product Hunt"
-          }
         }
       ]
     }
   },
-  "summary": "Here are 4-6 key developments with insight and 1 trend:\n\n**Key Developments:**\n\n* **Launch of AI-powered tools and platforms**: Many new AI-powered tools and platforms have been launched, including Pitch Avatar HR Suite, KaDeep AI, AI Canvas, Mermaid Flow, and others. These tools aim to streamline various tasks such as onboarding, training, and communication, and provide AI-powered solutions for businesses and individuals.\n* **Advancements in AI models and technologies**: OpenAI has launched two new models, GPT-6.2 Astra and Sol, which are designed to improve the efficiency and accuracy of AI-powered agents. Additionally, AssemblyAI-STT-3.7 has been launched, which provides speech-to-text capabilities for live calls, voice agents, and recordings.\n* **Increased focus on AI agents and conversational interfaces**: Many new products and platforms have been launched that focus on AI agents and conversational interfaces, such as Incredible Agents, Beacon, and Ody Ai Business Phone. These products aim to provide more human-like interactions and improve customer experience.\n* **Growing importance of AI in business and commerce**: The conversation around AI in business and commerce continues to grow, with discussions around the use of AI in healthcare, finance, and other industries. Mark Cuban and other experts have highlighted the potential for AI to transform healthcare and other industries, but also emphasized the need for transparency and accountability.\n* **Rise of agentic commerce**: The concept of agentic commerce, where AI agents buy software and services from other machines, is gaining traction. Stripe's Will Gaybrick has discussed the potential for agentic commerce to revolutionize the way businesses operate.\n\n**Trend:**\n\n* **Rise of AI-powered tools and platforms**: The trend is clear: AI-powered tools and platforms are becoming increasingly popular, with many new products and services being launched to streamline various tasks and improve customer experience. This trend is likely to continue, with more businesses and individuals adopting AI-powered solutions to stay competitive and efficient.\n\n**Insight:**\n\n* The increasing focus on AI agents and conversational interfaces suggests that businesses are recognizing the importance of providing more human-like interactions and improving customer experience. This trend is likely to continue, with AI-powered tools and platforms becoming more prevalent in various industries.\n* The growing importance of AI in business and commerce highlights the need for transparency and accountability in the use of AI. As AI becomes more pervasive, it is essential to ensure that it is used in a responsible and ethical manner.\n* The rise of agentic commerce has the potential to revolutionize the way businesses operate, but it also raises questions around the role of humans in the economy and the impact on employment."
+  "summary": "Here are 6 key developments with insight:\n\n* **AI Agents are Getting Smarter**: Many new AI agents have been launched, such as Wispr Flow Notetaker, Fieldwork Code, and Tecla, which can perform tasks like taking notes, coding, and managing workflows.\n* **Increased Focus on Accessibility**: AI agents like Stripo Email Widgets, Room AI, and Incredible Agents are designed to assist people with disabilities, making them more accessible and user-friendly.\n* **Growing Use of AI in Business**: Companies are incorporating AI agents into their operations, such as Microsoft IQ and Versine, to improve productivity and decision-making.\n* **Advancements in AI Design**: New AI design tools, like AI Canvas and Agentic Canvas, are being developed to help designers create more effective and user-friendly AI interfaces.\n* **Expansion of AI in Creative Industries**: AI agents like Arcade, a video generator for marketing teams, and Pine Drama Studio, an open-source Cursor for AI filmmaking, are being used in creative industries to enhance productivity and creativity.\n* **Growing Concerns about AI Security**: With the increasing use of AI agents, concerns about data security and AI agent leakage are on the rise, as seen in the launch of Antelog, which aims to prevent AI agents from leaking or destroying data.\n\nTrend: **The Rise of AI Agents as Co-Workers**: Many new AI agents are being designed to work alongside humans, rather than simply as tools. This trend is driven by the increasing need for productivity and efficiency in business and creative industries."
 }
